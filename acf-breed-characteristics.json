@@ -1,0 +1,531 @@
+[
+    {
+        "key": "group_razze_caratteristiche_complete",
+        "title": "Caratteristiche Razza (Sistema Zampette)",
+        "fields": [
+            {
+                "key": "field_tab_temperamento",
+                "label": "Temperamento",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "left",
+                "endpoint": 0
+            },
+            {
+                "key": "field_energia_e_livelli_di_attivita",
+                "label": "Livello Energia",
+                "name": "energia_e_livelli_di_attivita",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Molto basso (es. Bulldog) | 5 = Molto alto (es. Border Collie)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_affettuosita",
+                "label": "Affettuosità",
+                "name": "affettuosita",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Indipendente | 5 = Molto affettuoso (es. Golden Retriever)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_vocalita_e_predisposizione_ad_abbaiare",
+                "label": "Vocalità \/ Tendenza ad Abbaiare",
+                "name": "vocalita_e_predisposizione_ad_abbaiare",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Molto silenzioso (es. Basenji) | 5 = Abbaia molto (es. Beagle)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_socievolezza_cani",
+                "label": "Socievolezza con Altri Cani",
+                "name": "socievolezza_cani",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Preferisce essere unico | 5 = Ama altri cani",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_tab_adattabilita",
+                "label": "Adattabilità",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "left",
+                "endpoint": 0
+            },
+            {
+                "key": "field_adattabilita_appartamento",
+                "label": "Adattabilità Appartamento",
+                "name": "adattabilita_appartamento",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Necessita spazio esterno | 5 = Perfetto per appartamento",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_adattabilita_clima_caldo",
+                "label": "Tolleranza al Caldo",
+                "name": "adattabilita_clima_caldo",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Soffre molto il caldo (es. Husky) | 5 = Tollera bene",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_adattabilita_clima_freddo",
+                "label": "Tolleranza al Freddo",
+                "name": "adattabilita_clima_freddo",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Soffre il freddo (es. Chihuahua) | 5 = Ama il freddo (es. Malamute)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_tolleranza_alla_solitudine",
+                "label": "Tolleranza alla Solitudine",
+                "name": "tolleranza_alla_solitudine",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Soffre molto se lasciato solo | 5 = Molto indipendente",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_tab_famiglia",
+                "label": "Famiglia & Socialità",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "left",
+                "endpoint": 0
+            },
+            {
+                "key": "field_compatibilita_con_i_bambini",
+                "label": "Compatibilità con Bambini",
+                "name": "compatibilita_con_i_bambini",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Non adatto | 5 = Eccellente con bambini (es. Labrador)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_tolleranza_estranei",
+                "label": "Tolleranza verso Estranei",
+                "name": "tolleranza_estranei",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Diffidente\/protettivo | 5 = Amichevole con tutti",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_compatibilita_con_altri_animali_domestici",
+                "label": "Compatibilità Altri Animali",
+                "name": "compatibilita_con_altri_animali_domestici",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Difficile con gatti\/piccoli animali | 5 = Va d'accordo con tutti",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_tab_addestramento",
+                "label": "Addestramento & Cura",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "left",
+                "endpoint": 0
+            },
+            {
+                "key": "field_facilita_di_addestramento",
+                "label": "Facilità Addestramento",
+                "name": "facilita_di_addestramento",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Testardo\/difficile | 5 = Facile da addestrare (es. Border Collie)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_intelligenza",
+                "label": "Intelligenza \/ Problem Solving",
+                "name": "intelligenza",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Segue più l'istinto | 5 = Molto intelligente",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_esigenze_di_esercizio",
+                "label": "Bisogno di Esercizio Fisico",
+                "name": "esigenze_di_esercizio",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Poche passeggiate brevi | 5 = Necessita sport intenso quotidiano",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_facilita_toelettatura",
+                "label": "Facilità Toelettatura",
+                "name": "facilita_toelettatura",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Richiede toelettatura professionale frequente | 5 = Manutenzione minima",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_cura_e_perdita_pelo",
+                "label": "Perdita Pelo",
+                "name": "cura_e_perdita_pelo_",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Minima (es. Barboncino) | 5 = Perde molto pelo (es. Husky)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_predisposizioni_per_la_salute",
+                "label": "Robustezza Salute",
+                "name": "predisposizioni_per_la_salute",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Razza con molte patologie note | 5 = Generalmente sana e resistente",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_tab_esperienza",
+                "label": "Esperienza & Altri",
+                "name": "",
+                "aria-label": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "left",
+                "endpoint": 0
+            },
+            {
+                "key": "field_livello_esperienza_richiesto",
+                "label": "Livello Esperienza Richiesto",
+                "name": "livello_esperienza_richiesto",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Perfetto per principianti | 5 = Solo padroni esperti (es. Akita)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_costo_mantenimento",
+                "label": "Costo Mantenimento",
+                "name": "costo_mantenimento",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Economico | 5 = Costoso (cibo, cure, toelettatura)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            },
+            {
+                "key": "field_istinti_di_caccia",
+                "label": "Istinti di Caccia",
+                "name": "istinti_di_caccia",
+                "aria-label": "",
+                "type": "range",
+                "instructions": "1 = Molto basso | 5 = Molto alto (es. Terrier, segugi)",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 3,
+                "min": 1,
+                "max": 5,
+                "step": "0.5",
+                "prepend": "",
+                "append": "\/5"
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "razze_di_cani"
+                }
+            ]
+        ],
+        "menu_order": 5,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "left",
+        "instruction_placement": "field",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "Sistema di valutazione caratteristiche razze con visualizzazione zampette 🐾",
+        "show_in_rest": 0
+    }
+]
