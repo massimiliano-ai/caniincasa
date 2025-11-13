@@ -448,3 +448,205 @@ function caniincasa_custom_comment( $comment, $args, $depth ) {
         </article>
     <?php
 }
+
+/**
+ * Get Rating Paws HTML
+ * Displays paws (🐾) instead of stars for dog-specific ratings
+ *
+ * @param float $rating Rating value (1-5, can be decimal like 3.5)
+ * @param bool $show_value Show numeric value
+ * @param string $label Optional label text
+ * @return string HTML output
+ */
+function caniincasa_get_rating_paws( $rating = 0, $show_value = true, $label = '' ) {
+    // Ensure rating is between 0 and 5
+    $rating = max( 0, min( 5, floatval( $rating ) ) );
+    $rounded = round( $rating * 2 ) / 2; // Round to nearest 0.5
+
+    $output = '<div class="rating-paws">';
+
+    if ( $label ) {
+        $output .= '<span class="rating-label">' . esc_html( $label ) . '</span>';
+    }
+
+    $output .= '<span class="paws-container" data-rating="' . esc_attr( $rating ) . '">';
+
+    for ( $i = 1; $i <= 5; $i++ ) {
+        if ( $i <= $rounded ) {
+            // Full paw
+            $output .= '<span class="paw filled" aria-label="' . esc_attr__( 'Pieno', 'caniincasa' ) . '">🐾</span>';
+        } else {
+            // Empty paw
+            $output .= '<span class="paw empty" aria-label="' . esc_attr__( 'Vuoto', 'caniincasa' ) . '">🐾</span>';
+        }
+    }
+
+    $output .= '</span>';
+
+    if ( $show_value ) {
+        $output .= ' <span class="rating-value">' . number_format_i18n( $rating, 1 ) . '/5</span>';
+    }
+
+    $output .= '</div>';
+
+    return $output;
+}
+
+/**
+ * Display Rating Paws
+ *
+ * @param float $rating Rating value (1-5)
+ * @param bool $show_value Show numeric value
+ * @param string $label Optional label text
+ */
+function caniincasa_rating_paws( $rating = 0, $show_value = true, $label = '' ) {
+    echo caniincasa_get_rating_paws( $rating, $show_value, $label );
+}
+
+/**
+ * Get Breed Characteristics HTML
+ * Displays all breed characteristics with paw ratings
+ *
+ * @param int $post_id Post ID
+ * @return string HTML output
+ */
+function caniincasa_get_breed_characteristics( $post_id = null ) {
+    if ( ! $post_id ) {
+        $post_id = get_the_ID();
+    }
+
+    // Check if ACF is available
+    if ( ! function_exists( 'get_field' ) ) {
+        return '';
+    }
+
+    // Define characteristic groups
+    $characteristics = array(
+        'temperamento' => array(
+            'title' => __( 'Temperamento & Comportamento', 'caniincasa' ),
+            'icon' => '💪',
+            'fields' => array(
+                'livello_energia' => __( 'Livello Energia', 'caniincasa' ),
+                'affettuosita' => __( 'Affettuosità', 'caniincasa' ),
+                'vocalita' => __( 'Vocalità / Abbaiare', 'caniincasa' ),
+                'socievolezza_cani' => __( 'Socievolezza con Altri Cani', 'caniincasa' ),
+            ),
+        ),
+        'adattabilita' => array(
+            'title' => __( 'Adattabilità', 'caniincasa' ),
+            'icon' => '🏡',
+            'fields' => array(
+                'adattabilita_appartamento' => __( 'Adattabilità Appartamento', 'caniincasa' ),
+                'tolleranza_caldo' => __( 'Tolleranza al Caldo', 'caniincasa' ),
+                'tolleranza_freddo' => __( 'Tolleranza al Freddo', 'caniincasa' ),
+            ),
+        ),
+        'famiglia' => array(
+            'title' => __( 'Famiglia & Socialità', 'caniincasa' ),
+            'icon' => '👨‍👩‍👧‍👦',
+            'fields' => array(
+                'compatibilita_bambini' => __( 'Compatibilità con Bambini', 'caniincasa' ),
+                'tolleranza_estranei' => __( 'Tolleranza verso Estranei', 'caniincasa' ),
+                'compatibilita_altri_animali' => __( 'Compatibilità Altri Animali', 'caniincasa' ),
+            ),
+        ),
+        'addestramento' => array(
+            'title' => __( 'Addestramento & Cura', 'caniincasa' ),
+            'icon' => '🎓',
+            'fields' => array(
+                'facilita_addestramento' => __( 'Facilità Addestramento', 'caniincasa' ),
+                'intelligenza' => __( 'Intelligenza', 'caniincasa' ),
+                'bisogno_esercizio' => __( 'Bisogno di Esercizio', 'caniincasa' ),
+                'facilita_toelettatura' => __( 'Facilità Toelettatura', 'caniincasa' ),
+                'perdita_pelo' => __( 'Perdita Pelo', 'caniincasa' ),
+            ),
+        ),
+        'esperienza' => array(
+            'title' => __( 'Esperienza & Costi', 'caniincasa' ),
+            'icon' => '💰',
+            'fields' => array(
+                'livello_esperienza_richiesto' => __( 'Livello Esperienza Richiesto', 'caniincasa' ),
+                'costo_mantenimento' => __( 'Costo Mantenimento', 'caniincasa' ),
+            ),
+        ),
+    );
+
+    $output = '<div class="breed-characteristics">';
+    $output .= '<h2 class="characteristics-title">' . esc_html__( 'Caratteristiche della Razza', 'caniincasa' ) . '</h2>';
+
+    // Quick summary cards (top characteristics)
+    $quick_cards = array(
+        'adattabilita_appartamento' => array( 'icon' => '🏠', 'label' => __( 'Appartamento', 'caniincasa' ) ),
+        'compatibilita_bambini' => array( 'icon' => '👶', 'label' => __( 'Con Bambini', 'caniincasa' ) ),
+        'livello_esperienza_richiesto' => array( 'icon' => '🎓', 'label' => __( 'Esperienza', 'caniincasa' ), 'invert' => true ),
+    );
+
+    $output .= '<div class="characteristics-quick-view">';
+    $output .= '<h3>' . esc_html__( 'Adatto a Te?', 'caniincasa' ) . '</h3>';
+    $output .= '<div class="quick-cards">';
+
+    foreach ( $quick_cards as $field => $data ) {
+        $value = get_field( $field, $post_id );
+        if ( $value ) {
+            // Invert scale for experience (lower is better)
+            $display_value = isset( $data['invert'] ) && $data['invert'] ? ( 6 - $value ) : $value;
+            $output .= '<div class="quick-card">';
+            $output .= '<span class="quick-icon">' . $data['icon'] . '</span>';
+            $output .= '<span class="quick-label">' . esc_html( $data['label'] ) . '</span>';
+            $output .= caniincasa_get_rating_paws( $display_value, false );
+            $output .= '</div>';
+        }
+    }
+
+    $output .= '</div>'; // .quick-cards
+    $output .= '</div>'; // .characteristics-quick-view
+
+    // Detailed characteristics
+    foreach ( $characteristics as $group_key => $group ) {
+        $output .= '<div class="characteristic-group" data-group="' . esc_attr( $group_key ) . '">';
+        $output .= '<h3 class="group-title">';
+        $output .= '<span class="group-icon">' . $group['icon'] . '</span> ';
+        $output .= esc_html( $group['title'] );
+        $output .= '</h3>';
+        $output .= '<div class="characteristic-list">';
+
+        foreach ( $group['fields'] as $field_name => $field_label ) {
+            $value = get_field( $field_name, $post_id );
+
+            if ( $value !== null && $value !== '' ) {
+                $output .= '<div class="characteristic-item" data-field="' . esc_attr( $field_name ) . '">';
+                $output .= '<span class="characteristic-name">' . esc_html( $field_label ) . '</span>';
+                $output .= caniincasa_get_rating_paws( $value, true );
+
+                // Add text label if available
+                $label_text = caniincasa_get_rating_label( $field_name, $value );
+                if ( $label_text ) {
+                    $output .= '<span class="characteristic-text">' . esc_html( $label_text ) . '</span>';
+                }
+
+                $output .= '</div>';
+            }
+        }
+
+        $output .= '</div>'; // .characteristic-list
+        $output .= '</div>'; // .characteristic-group
+    }
+
+    // Disclaimer
+    $output .= '<div class="characteristics-disclaimer">';
+    $output .= '<p><em>' . esc_html__( 'Le valutazioni rappresentano le caratteristiche tipiche della razza. Ogni cane è un individuo e può variare.', 'caniincasa' ) . '</em></p>';
+    $output .= '</div>';
+
+    $output .= '</div>'; // .breed-characteristics
+
+    return $output;
+}
+
+/**
+ * Display Breed Characteristics
+ *
+ * @param int $post_id Post ID
+ */
+function caniincasa_breed_characteristics( $post_id = null ) {
+    echo caniincasa_get_breed_characteristics( $post_id );
+}

@@ -38,42 +38,68 @@ get_header();
                             <?php the_content(); ?>
                         </div>
 
-                        <!-- Caratteristiche Caratteriali -->
+                        <!-- Caratteristiche della Razza con Sistema Zampette -->
                         <?php
-                        $caratteristiche_caratteriali = array(
-                            'livello_di_energia'                          => 'Livello di Energia',
-                            'livello_di_affettuosità'                     => 'Livello di Affettuosità',
-                            'socialità'                                   => 'Socialità',
-                            'intelligenza'                                => 'Intelligenza',
-                            'facilità_di_addestramento'                   => 'Facilità di Addestramento',
-                            'necessità_di_toelettatura'                   => 'Necessità di Toelettatura',
-                            'perdita_di_pelo'                             => 'Perdita di Pelo',
-                            'tendenza_ad_abbaiare'                        => 'Tendenza ad Abbaiare',
-                            'compatibilita_con_i_bambini'                 => 'Compatibilità con i Bambini',
-                            'compatibilita_con_altri_animali_domestici'   => 'Compatibilità con Altri Animali',
-                            'esigenze_di_esercizio'                       => 'Esigenze di Esercizio',
-                            'predisposizioni_per_la_salute'               => 'Predisposizioni per la Salute',
-                            'tolleranza_alla_solitudine'                  => 'Tolleranza alla Solitudine',
-                            'adattabilita_clima_freddo'                   => 'Adattabilità al Clima Freddo',
-                            'adattabilita_clima_caldo'                    => 'Adattabilità al Clima Caldo',
-                            'istinti_di_caccia'                           => 'Istinti di Caccia',
-                        );
+                        // Display new paw-based rating system
+                        if ( function_exists( 'caniincasa_breed_characteristics' ) ) {
+                            caniincasa_breed_characteristics();
+                        }
                         ?>
 
-                        <div class="characteristic-group">
-                            <h2 class="characteristic-group__title">Caratteristiche Caratteriali</h2>
-                            <div class="characteristic-list">
-                                <?php foreach ( $caratteristiche_caratteriali as $field => $label ) : ?>
-                                    <?php $value = get_post_meta( get_the_ID(), $field, true ); ?>
-                                    <?php if ( $value ) : ?>
-                                        <div class="rating-item">
-                                            <span class="rating-label"><?php echo esc_html( $label ); ?></span>
-                                            <?php caniincasa_rating_stars( absint( $value ) ); ?>
-                                        </div>
-                                    <?php endif; ?>
-                                <?php endforeach; ?>
+                        <!-- Backward compatibility: Old characteristics (if new fields not filled) -->
+                        <?php
+                        // Check if new fields exist
+                        $has_new_fields = function_exists( 'get_field' ) && get_field( 'livello_energia' );
+
+                        if ( ! $has_new_fields ) {
+                            // Show old characteristics format
+                            $caratteristiche_caratteriali = array(
+                                'livello_di_energia'                          => 'Livello di Energia',
+                                'livello_di_affettuosità'                     => 'Livello di Affettuosità',
+                                'socialità'                                   => 'Socialità',
+                                'intelligenza'                                => 'Intelligenza',
+                                'facilità_di_addestramento'                   => 'Facilità di Addestramento',
+                                'necessità_di_toelettatura'                   => 'Necessità di Toelettatura',
+                                'perdita_di_pelo'                             => 'Perdita di Pelo',
+                                'tendenza_ad_abbaiare'                        => 'Tendenza ad Abbaiare',
+                                'compatibilita_con_i_bambini'                 => 'Compatibilità con i Bambini',
+                                'compatibilita_con_altri_animali_domestici'   => 'Compatibilità con Altri Animali',
+                                'esigenze_di_esercizio'                       => 'Esigenze di Esercizio',
+                                'predisposizioni_per_la_salute'               => 'Predisposizioni per la Salute',
+                                'tolleranza_alla_solitudine'                  => 'Tolleranza alla Solitudine',
+                                'adattabilita_clima_freddo'                   => 'Adattabilità al Clima Freddo',
+                                'adattabilita_clima_caldo'                    => 'Adattabilità al Clima Caldo',
+                                'istinti_di_caccia'                           => 'Istinti di Caccia',
+                            );
+
+                            $has_old_data = false;
+                            foreach ( $caratteristiche_caratteriali as $field => $label ) {
+                                if ( get_post_meta( get_the_ID(), $field, true ) ) {
+                                    $has_old_data = true;
+                                    break;
+                                }
+                            }
+
+                            if ( $has_old_data ) :
+                        ?>
+                            <div class="characteristic-group">
+                                <h2 class="characteristic-group__title">Caratteristiche Caratteriali</h2>
+                                <div class="characteristic-list">
+                                    <?php foreach ( $caratteristiche_caratteriali as $field => $label ) : ?>
+                                        <?php $value = get_post_meta( get_the_ID(), $field, true ); ?>
+                                        <?php if ( $value ) : ?>
+                                            <div class="rating-item">
+                                                <span class="rating-label"><?php echo esc_html( $label ); ?></span>
+                                                <?php caniincasa_rating_stars( absint( $value ) ); ?>
+                                            </div>
+                                        <?php endif; ?>
+                                    <?php endforeach; ?>
+                                </div>
                             </div>
-                        </div>
+                        <?php
+                            endif;
+                        }
+                        ?>
 
                     </div><!-- .razza-single__content -->
 
