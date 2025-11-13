@@ -1,0 +1,482 @@
+[
+  {
+    "post_title": "Segugio finlandese",
+    "post_excerpt": "Potente segugio finlandese, specializzato nella caccia alla lepre e alla volpe sulla neve. Tricolore, energico e vocale, è un cacciatore instancabile con un carattere amichevole. Richiede climi freddi, molto esercizio e un proprietario attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-finlandese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio finlandese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-finlandese.jpg",
+      "filename": "Segugio-finlandese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Finlandia",
+      "colorazioni": "Tricolore (Nero, focature intense, macchie bianche su testa, petto, arti e punta della coda)",
+      "temperamento_breve": "Energico, Tenace, Vocale, Amichevole",
+      "descrizione_generale": "<p>Il Segugio Finlandese (Suomenajokoira) è la razza da caccia più popolare in Finlandia, un cane da seguita robusto e appassionato. È stato selezionato per un compito specifico: la caccia alla lepre e alla volpe in condizioni climatiche estreme, su terreni innevati e difficili. È un cane che combina un'incredibile resistenza con un carattere amichevole e calmo in famiglia (se sfogato).</p><p>È un cacciatore \"vocale\", che usa il suo abbaio sonoro per segnalare la traccia al cacciatore. Sebbene sia un lavoratore instancabile, non è un cane da appartamento; il suo bisogno di correre e il suo forte istinto venatorio richiedono un ambiente rurale e un proprietario attivo.</p>",
+      "origini_storia": "<p>Lo sviluppo del Segugio Finlandese iniziò nel tardo XIX secolo, quando la caccia divenne uno sport popolare in Finlandia. I cacciatori avevano bisogno di un cane che potesse lavorare sulla neve. Il programma di allevamento fu avviato da allevatori come F.W. Schwela e A.E. Sandelin.</p><p>La razza fu creata incrociando una varietà di segugi europei (inglesi, tedeschi, svizzeri e russi, come il Segugio Russo e il Foxhound) con i cani da caccia locali finlandesi. L'obiettivo era fissare il colore tricolore e l'abilità sul terreno. Il Finnish Kennel Club fu fondato nel 1889 e il primo standard per il Suomenajokoira fu scritto nel 1932.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, robusto e tricolore. L'altezza al garrese è 55–61 cm per i maschi e 52–58 cm per le femmine. Il corpo è rettangolare e forte. Il mantello è doppio: un sottopelo corto e denso e un pelo di copertura ruvido e fitto, eccellente per la protezione dal freddo.</p><p>Il colore è sempre tricolore. Il mantello è nero sul dorso (sella), con focature (tan) di un marrone intenso su testa, petto, spalle e arti. Il bianco è presente (spesso a fiamma) sul muso, collo, petto, ventre, parte inferiore degli arti e punta della coda.</p>",
+      "carattere_temperamento": "<p>Sul campo, è un cacciatore energico, tenace e indipendente, con un abbaio sonoro. In casa, è calmo, amichevole e si lega molto alla famiglia, mostrando pazienza con i bambini. Non è un cane da guardia, essendo generalmente fiducioso verso le persone.</p><p>Tuttavia, il suo istinto venatorio è dominante. Non è un cane da lasciare libero in aree non sicure. È socievole con altri cani, essendo abituato a lavorare in muta. Richiede una socializzazione precoce per gestire il suo forte istinto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza molto robusta. La principale preoccupazione genetica è una malattia neurologica rara ma grave chiamata Atassia Cerebellare Ereditaria (CA), per cui esistono test genetici. Come tutti i segugi, le orecchie pendenti richiedono pulizia per prevenire otiti.</p><p>Il mantello doppio richiede una spazzolatura settimanale, più intensa durante le abbondanti mute stagionali. Non è un cane adatto ai climi caldi.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane da caccia e ha bisogno di correre per ore. Non è adatto alla vita in città o in appartamento. L'ideale è un proprietario cacciatore o qualcuno che pratichi lunghe escursioni in campagna.</p><p>L'addestramento all'obbedienza non è il suo forte. È intelligente ma testardo e motivato dalla caccia, non dal compiacere. L'addestramento deve essere focalizzato sul richiamo (per quanto possibile) e sulla gestione al guinzaglio. Risponde bene a un approccio paziente.</p>",
+      "ideale_per": "<p>Questo cane è ideale esclusivamente per cacciatori (specialmente di lepre) che vivono in climi freddi o temperati. È adatto a famiglie attive che vivono in campagna, hanno un grande terreno recintato e comprendono la natura di un segugio vocale e indipendente.</p><p>È da evitare assolutamente per chi vive in appartamento, per persone sedentarie, per chi vive in climi caldi o per chi è infastidito dall'abbaio. Il suo istinto predatorio lo rende inadatto a case con piccoli animali.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio italiano",
+    "post_excerpt": "Antico segugio italiano, disponibile in due varietà (pelo raso e pelo forte). È un cacciatore di lepri instancabile, veloce e resistente. Devoto al proprietario ma con un carattere fiero e indipendente. Non è un cane da appartamento.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-italiano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio italiano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-italiano.jpg",
+      "filename": "Segugio-italiano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia",
+      "colorazioni": "Fulvo (in tutte le gradazioni, dal rosso al carbonato), Nero focato",
+      "temperamento_breve": "Tenace, Veloce, Indipendente, Leale (al padrone)",
+      "descrizione_generale": "<p>Il Segugio Italiano è una delle razze da caccia più antiche d'Italia, un cane da seguita che incarna velocità, resistenza e passione venatoria. La razza esiste in due varietà distinte, che condividono lo stesso standard tranne che per il mantello: il Segugio a Pelo Raso e il Segugio a Pelo Forte.</p><p>Creato e perfezionato per la caccia alla lepre, il Segugio Italiano è un atleta straordinario. Non è un cane da compagnia nel senso tradizionale; è un ausiliare del cacciatore, a cui è devoto, ma dal carattere fiero, indipendente e talvolta testardo. Richiede un proprietario esperto e uno stile di vita rurale.</p>",
+      "origini_storia": "<p>Le origini di questo cane sono antichissime. Si ritiene che discenda direttamente dai segugi da corsa dell'Antico Egitto (come il Cane di Tesem), portati in Italia dai mercanti fenici. Cani molto simili sono raffigurati in statue e bassorilievi di epoca romana (es. la \"Diana Cacciatrice\" di Napoli).</p><p>Per secoli, questi cani sono stati allevati in tutta la penisola, selezionati per la loro abilità nella caccia. Durante il Rinascimento, erano molto apprezzati dalla nobiltà. Le due varietà di pelo (raso e forte) si sono sviluppate in base alle diverse esigenze climatiche e di terreno. L'ENCI (Ente Nazionale Cinofilia Italiana) ha riconosciuto ufficialmente le due varietà separate nel 1948.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, asciutto e muscoloso, con un'ossatura leggera ma forte. L'altezza al garrese per i maschi è 52–58 cm, per le femmine 48–56 cm. Il peso varia dai 18 ai 28 kg. La sua struttura è nel quadrato, costruita per la velocità e la resistenza.</p><p>Le due varietà si distinguono per il pelo: <ul> <li><b>Pelo Raso:</b> Pelo corto, denso, lucido e aderente su tutto il corpo.</li> <li><b>Pelo Forte:</b> Pelo ruvido, duro e lungo (non oltre 5 cm), con una leggera barba sul muso.</li> </ul> I colori ammessi per entrambi sono il fulvo unicolore (in tutte le sue gradazioni) e il nero focato. Il bianco è tollerato solo sul petto (stella).</p>",
+      "carattere_temperamento": "<p>Il Segugio Italiano è un cane da caccia puro. È tenace, appassionato e incredibilmente resistente. È noto per la sua \"voce\" melodiosa e squillante, che usa per segnalare la selvaggina. È molto legato al suo proprietario-cacciatore, ma non è un cane servile. È intelligente ma indipendente.</p><p>In famiglia può essere dolce e riservato, ma non è un cane da appartamento. Ha un bisogno vitale di correre. Il suo istinto predatorio è altissimo. È generalmente socievole con altri cani da muta, ma non è affidabile con piccoli animali.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza rustica, selezionata da secoli per la salute e il lavoro. Non ha particolari predisposizioni genetiche gravi. La varietà a pelo forte richiede qualche spazzolata in più per rimuovere lo sporco dopo la caccia.</p><p>Le orecchie lunghe e pendenti sono il suo punto debole e devono essere controllate e pulite regolarmente per prevenire infezioni, specialmente dopo aver lavorato nel sottobosco.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme (livello 5). Questo cane deve correre. L'ideale è la caccia. Se non utilizzato per scopi venatori, richiede proprietari che pratichino canicross, escursionismo intenso o che abbiano accesso a ettari di terreno recintato.</p><p>L'addestramento è difficile se si cerca l'obbedienza da \"compagnia\". È un cane che segue il suo naso. L'addestramento deve essere focalizzato sulla gestione al guinzaglio e sul richiamo (che sarà sempre subordinato a una traccia interessante).</p>",
+      "ideale_per": "<p>Il Segugio Italiano è un cane per cacciatori, in particolare di lepre. È adatto a chi vive in campagna e cerca un atleta instancabile. Non è un cane da compagnia per persone sedentarie, per la vita in città o per proprietari inesperti.</p><p>La sua vocalità e il suo bisogno di spazio e movimento lo rendono totalmente inadatto alla vita in appartamento. Chi lo sceglie deve essere consapevole di prendere un cane da lavoro puro.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio maremmano",
+    "post_excerpt": "Robusto segugio italiano specializzato nella caccia al cinghiale. Disponibile a pelo raso o forte, è un cane da lavoro tenace, vocale e coraggioso. Non è un cane da compagnia, ma un ausiliare venatorio per cacciatori esperti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-maremmano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio maremmano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-maremmano.jpg",
+      "filename": "Segugio-maremmano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Maremma toscana)",
+      "colorazioni": "Fulvo (dal chiaro al carbonato), Nero focato, Tigrato",
+      "temperamento_breve": "Tenace, Coraggioso, Vocale, Rustico",
+      "descrizione_generale": "<p>Il Segugio Maremmano è una razza italiana da seguita, originaria della Maremma (tra Toscana e Lazio), selezionata specificamente per la caccia al cinghiale. È un cane rustico, di taglia media, estremamente resistente e adatto ai terreni più impervi e alla macchia mediterranea. Esiste in due varietà: a pelo raso e a pelo forte.</p><p>È un cane da lavoro puro, apprezzato dai \"cinghialai\" per il suo coraggio, la sua voce potente (usata per segnalare il selvatico) e la sua tenacia. Non è un cane da compagnia o da appartamento; è un ausiliare venatorio che ha bisogno di vivere e lavorare all'aperto.</p>",
+      "origini_storia": "<p>Questa razza si è formata e selezionata nel corso di decenni, se non secoli, nella Maremma. I cacciatori locali (i \"canai\") hanno selezionato i cani più adatti al difficile compito di stanare e seguire i cinghiali nella fitta macchia. La selezione è stata puramente funzionale, basata sulla resistenza, il coraggio e la voce.</p><p>La razza è stata \"scoperta\" e standardizzata solo in tempi recenti. Per anni è stata considerata una semplice variante locale del Segugio Italiano. Grazie all'impegno di appassionati e dell'ENCI, è stata riconosciuta come razza a sé stante nel 2003.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, asciutto ma robusto. L'altezza al garrese per i maschi è 48-54 cm, per le femmine 46-52 cm. Il peso varia dai 13 ai 23 kg. La struttura è solida e resistente.</p><p>Il mantello può essere raso o forte (ruvido, 3-4 cm). I colori ammessi sono il fulvo (in varie tonalità, fino al carbonato), il nero focato e il tigrato. Il bianco è ammesso, ma non deve predominare. La testa è espressiva, con orecchie pendenti.</p>",
+      "carattere_temperamento": "<p>Il Maremmano è un cacciatore nato. È coraggioso, a volte quasi sfacciato nell'affrontare il cinghiale. È estremamente vocale (\"abbaiatore a fermo\") e tenace. Lavora bene in muta, mostrando una buona socialità con gli altri cani, ma è molto competitivo sul lavoro.</p><p>Non è un cane da appartamento. È diffidente verso gli estranei (un tratto da guardiano della proprietà) e ha un istinto predatorio molto elevato. È un cane che ha bisogno di un capo branco chiaro e di una vita attiva all'aperto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza eccezionalmente rustica e sana, selezionata per la sopravvivenza e il lavoro. Non ha patologie genetiche note. L'unico aspetto da curare sono le orecchie (per le otiti) e il controllo di eventuali ferite o parassiti dopo la caccia, specialmente nella varietà a pelo forte.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve lavorare. L'unica attività adatta è la caccia al cinghiale. Se non utilizzato per questo scopo, è quasi impossibile da gestire in un contesto urbano o familiare. Ha bisogno di ettari di terreno per sfogarsi.</p><p>L'addestramento è specifico per la caccia. Non è un cane da obbedienza, è un cane che ragiona in modo indipendente per seguire la traccia e bloccare il selvatico.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per i cacciatori di cinghiale (\"cinghialai\") che lavorano con la muta. È ideale per chi vive in un ambiente rurale, ha grandi canili e necessita di un cane da lavoro instancabile, coraggioso e vocale.</p><p>È totalmente inadatto a qualsiasi altro scopo. Non è un cane da compagnia, non è un cane da città, non è un cane per famiglie. È uno specialista venatorio puro.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 4.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 5.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio polacco",
+    "post_excerpt": "L'Ogar Polski, o Segugio Polacco, è un cane da caccia di taglia grande, pesante e dalla voce profonda. Specializzato nella caccia grossa, è calmo e leale in famiglia. Da non confondere con il più leggero Gończy Polski.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-polacco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio polacco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-polacco.jpg",
+      "filename": "Segugio-polacco.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Polonia",
+      "colorazioni": "Nero focato (corpo nero o grigio scuro, focature marrone-rossiccio)",
+      "temperamento_breve": "Calmo, Leale, Tenace, Vocale (voce profonda)",
+      "descrizione_generale": "<p>Il Segugio Polacco, o Ogar Polski (FCI 52), è un cane da caccia di taglia grande, robusto e dall'ossatura pesante. È noto per la sua voce profonda e melodiosa e per la sua caccia metodica. È un cane che unisce una grande resistenza a un temperamento calmo e stabile, che lo rende un buon cane di famiglia (se le sue esigenze sono soddisfatte).</p><p>È importante non confonderlo con l'altra razza polacca, il Gończy Polski (Segugio da Caccia Polacco, FCI 354), che è più piccolo, leggero e veloce. L'Ogar Polski è il cane da caccia \"nobile\" della tradizione polacca.</p>",
+      "origini_storia": "<p>L'Ogar Polski è una razza antica, descritta già nel XIV secolo. È il risultato di incroci tra i segugi polacchi indigeni e segugi importati, in particolare il Bloodhound (Cane di Sant'Uberto), da cui ha ereditato la struttura pesante, le orecchie lunghe e il fiuto potente. Era il cane preferito dalla nobiltà polacca per la caccia grossa (cervi, cinghiali).</p><p>Dopo la Seconda Guerra Mondiale, la razza era quasi estinta. Fu il colonnello Piotr Kartawik che, negli anni '50, iniziò il recupero della razza, importando cani dalla Lituania e dalla Bielorussia. Il suo lavoro portò al riconoscimento ufficiale da parte della FCI nel 1966.</p>",
+      "aspetto_fisico": "<p>È un segugio grande e massiccio. L'altezza al garrese per i maschi è 56–65 cm, per le femmine 55–60 cm. Il peso varia dai 25 ai 32 kg. La struttura è pesante, rettangolare e dà un'impressione di forza e resistenza, non di velocità.</p><p>Il mantello è doppio, con un sottopelo molto denso e un pelo di copertura di media lunghezza, più lungo sul dorso e sulla coda. Il colore è caratteristico: il corpo è nero o grigio scuro (sella), mentre la testa, gli arti e il petto sono di un colore focato (tan) marrone-rossiccio. Piccole macchie bianche sono ammesse.</p>",
+      "carattere_temperamento": "<p>Il temperamento dell'Ogar è calmo, equilibrato e stabile. È un cane da caccia metodico e tenace, non un corridore esplosivo. In famiglia è molto leale, affettuoso e paziente, spesso buono con i bambini. È un eccellente cane da guardia, diffidente con gli estranei e con un abbaio profondo.</p><p>È intelligente ma, come segugio, ha una sua indipendenza. Richiede una socializzazione precoce per gestire la sua diffidenza. Ha un forte istinto venatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto robusta. La displasia dell'anca è da monitorare, data la stazza. Le orecchie lunghe e pesanti sono il suo punto debole e richiedono una pulizia costante e attenta per prevenire otiti croniche.</p><p>Il mantello doppio perde pelo e richiede spazzolate regolari, specialmente durante la muta.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono elevate, ma basate sulla resistenza, non sulla velocità. Ha bisogno di lunghe, lunghissime passeggiate quotidiane (anche di ore) in campagna, dove possa usare il suo fiuto. Non è adatto alla vita in città.</p><p>L'addestramento richiede pazienza. Non è un cane da obbedienza rapida. Risponde a un proprietario calmo e coerente. L'addestramento al richiamo è molto difficile.</p>",
+      "ideale_per": "<p>È un cane ideale per cacciatori di grossa selvaggina o per famiglie molto attive che vivono in campagna, con un grande terreno. È adatto a chi cerca un cane da guardia \"naturale\", leale e dal temperamento calmo, e che ama le lunghe camminate.</p><p>Non è adatto a proprietari principianti, alla vita in appartamento o a persone sedentarie. Il suo bisogno di spazio, la sua vocalità e il suo istinto venatorio devono essere gestiti.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio posavatz",
+    "post_excerpt": "Robusto segugio croato, originario della valle della Sava (Posavina). Di colore fulvo-rossiccio, è un cacciatore tenace (lepre, cinghiale) e un eccellente cane da allerta. Ha una voce acuta e richiede un proprietario cacciatore.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-posavatz",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio posavatz"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-posavatz.jpg",
+      "filename": "Segugio-posavatz.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Croazia (Valle della Sava - Posavina)",
+      "colorazioni": "Fulvo-rossiccio (in varie tonalità), con macchie bianche su testa, collo, petto, arti e punta della coda.",
+      "temperamento_breve": "Tenace, Vocale (voce acuta), Robusto, Leale",
+      "descrizione_generale": "<p>Il Segugio Posavatz, o Posavski gonič, è un'antica razza da seguita croata, che prende il nome dalla sua regione d'origine, la Posavina (la valle del fiume Sava). È un cane da caccia di taglia media, robusto e resistente, noto per il suo caratteristico mantello fulvo-rossiccio con vistose macchie bianche.</p><p>È un cacciatore tenace, specializzato nella caccia alla lepre ma utilizzato anche per il cinghiale. La sua caratteristica principale è la voce acuta e persistente, che usa per segnalare la traccia. È un cane da lavoro puro, devoto al suo proprietario ma non un cane da compagnia per la città.</p>",
+      "origini_storia": "<p>Le origini di questo segugio sono molto antiche e risalgono ai cani da caccia illirici. La sua presenza nella valle della Sava è documentata da secoli; affreschi del 1497 nella cappella di Beram (Istria) raffigurano cani molto simili. I cacciatori della Posavina hanno selezionato un cane resistente, adatto ai terreni spesso allagati e alle fitte foreste.</p><p>La razza fu presentata ufficialmente in una mostra canina a Zagabria nel 1924. Il primo standard fu scritto nel 1929. Il riconoscimento ufficiale della FCI arrivò nel 1955 (Standard N° 154), inizialmente con il nome di \"Segugio della valle della Sava\".</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, robusto e di buona ossatura. L'altezza al garrese è 46–58 cm. Il corpo è leggermente più lungo che alto. La testa è lunga e stretta, con orecchie pendenti piatte e sottili.</p><p>Il mantello è corto (2-3 cm), fitto e duro, con un buon sottopelo. Il colore è la sua firma: fulvo, grano-rossiccio o fulvo-ruggine, in qualsiasi tonalità. Sono presenti macchie bianche (collare, petto, ventre, piedi, punta della coda e fiamma sul muso) che non devono superare un terzo della superficie totale.</p>",
+      "carattere_temperamento": "<p>È un cacciatore appassionato, tenace e molto resistente. È famoso per la sua voce acuta, quasi musicale, e la sua grande \"passione\" per la traccia. Con il proprietario è leale e docile, ma sul campo è indipendente e determinato.</p><p>È un ottimo cane da allerta, diffidente con gli estranei e molto vocale. Come tutti i segugi, ha un istinto predatorio molto forte e non è adatto a vivere con piccoli animali. Richiede un proprietario esperto che ne gestisca l'energia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza estremamente rustica, selezionata per la salute e il lavoro. Non sono note malattie genetiche specifiche. Le orecchie pendenti richiedono la solita attenzione per prevenire otiti. Il mantello corto è facile da curare.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da caccia che deve lavorare. Non è adatto alla vita in appartamento. Ha bisogno di accesso quotidiano a grandi spazi aperti per correre e seguire piste. L'inattività lo rende frustrato e rumoroso.</p><p>L'addestramento è focalizzato sulla caccia. È un cane testardo, motivato solo dal suo istinto. Il richiamo è inaffidabile. Richiede un proprietario-cacciatore.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori di lepre o cinghiale che vivono in campagna. È adatto a chi cerca un cane da seguita robusto, vocale e instancabile. Richiede un proprietario esperto che ne comprenda la natura.</p><p>Totalmente inadatto alla vita urbana, a persone sedentarie o a proprietari inesperti. Non è un cane da compagnia nel senso classico del termine.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio tedesco",
+    "post_excerpt": "Elegante segugio tedesco, leggero e resistente, specializzato nella caccia in montagna (lepre, volpe). Tricolore con sella nera, è un cane da lavoro tenace e vocale. Richiede un proprietario cacciatore e molto spazio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-tedesco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio tedesco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-della-tedesco.jpg",
+      "filename": "Segugio-della-tedesco.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Westfalia)",
+      "colorazioni": "Tricolore (Rosso/Giallo con sella o macchie nere, e macchie bianche \"Bracken\")",
+      "temperamento_breve": "Tenace, Energico, Vocale, Intelligente",
+      "descrizione_generale": "<p>Il Segugio Tedesco (Deutsche Bracke) è un cane da caccia elegante, leggero ma resistente, originario della regione tedesca della Westfalia. È un cane da seguita specializzato nella caccia alla lepre, alla volpe e talvolta al cinghiale, su terreni difficili e montuosi. È noto per la sua tenacia e la sua voce sicura.</p><p>È l'unica razza \"Bracke\" (segugio) rimasta in Germania e combina una grande passione venatoria con un carattere relativamente docile in famiglia, anche se rimane prima di tutto un cane da lavoro. Non è adatto alla vita in città.</p>",
+      "origini_storia": "<p>I segugi \"Bracken\" esistono in Germania da secoli. Il Segugio Tedesco moderno è il risultato della fusione di diversi ceppi regionali, in particolare i Segugi della Westfalia e i \"Sauerländer Holzbracken\". Alla fine del XIX secolo, queste antiche razze rischiavano di scomparire.</p><p>Nel 1896, fu fondato il \"Deutscher Bracken-Club\" a Olpe (Westfalia) con lo scopo di unificare questi ceppi in un'unica razza. Lo standard fu fissato nel 1900, creando il Deutsche Bracke come lo conosciamo oggi. È riconosciuto dalla FCI (Standard N° 299).</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia medio-piccola, leggero ma robusto. L'altezza al garrese è di circa 40–53 cm. La struttura è elegante, leggermente allungata, con una testa fine e orecchie lunghe e pendenti.</p><p>Il mantello è corto (anche se esiste una varietà a pelo duro, oggi fusa nello standard), fitto e duro. Il colore è tricolore: fondo rosso o giallo-cervo, con una sella o macchie nere. Le macchie bianche tipiche dei segugi (\"Bracken marks\") sono richieste: fiamma sul muso, collare, petto, arti e punta della coda.</p>",
+      "carattere_temperamento": "<p>È un cacciatore appassionato, tenace e molto vocale sulla traccia. È intelligente e ha un eccellente senso dell'orientamento. Rispetto ad altri segugi, è considerato più facile da addestrare e più legato al proprietario, mostrando un buon desiderio di compiacere.</p><p>In famiglia è amichevole e tranquillo (se sfogato), ma mantiene un forte istinto predatorio e un alto livello di energia. È vigile e abbaia per allertare. Richiede un proprietario che ne gestisca l'istinto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza sana e rustica, senza particolari problemi genetici noti. Le orecchie pendenti richiedono la solita cura per le otiti. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da caccia che ha bisogno di lavorare. Lunghe passeggiate quotidiane (al guinzaglio) sono il minimo, ma ha bisogno di correre e usare il naso in un ambiente rurale. Non è un cane da appartamento.</p><p>È più addestrabile di altri segugi, ma rimane un cane da caccia. L'addestramento deve essere coerente e focalizzato sulla caccia e sulla gestione al guinzaglio. Il richiamo in presenza di selvaggina è inaffidabile.</p>",
+      "ideale_per": "<p>È un cane per cacciatori, guardie forestali o persone che vivono in campagna e praticano escursionismo intensivo. È adatto a chi cerca un segugio da lavoro che sia anche un discreto compagno in casa (purché le sue enormi esigenze di esercizio siano soddisfatte).</p><p>Non è adatto alla vita in città, a persone sedentarie o a proprietari inesperti. Il suo istinto predatorio e la sua vocalità lo rendono inadatto alla vita urbana.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio tirolese",
+    "post_excerpt": "Antico segugio austriaco, specializzato nella caccia in alta montagna (lepre, volpe). Robusto, tenace e con un fiuto eccellente, è un cane da lavoro puro, non adatto alla vita in città. Disponibile in nero focato o rosso.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-tirolese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio tirolese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/segugio-tirolese-scaled-1.jpg",
+      "filename": "segugio-tirolese-scaled-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Austria (Tirolo)",
+      "colorazioni": "Rosso (rosso cervo, rosso-bruno, giallo-rosso), Nero focato, Tricolore (rosso e nero focato con macchie bianche)",
+      "temperamento_breve": "Tenace, Indipendente, Robusto, Vocale",
+      "descrizione_generale": "<p>Il Segugio Tirolese (Tiroler Bracke) è una razza da caccia austriaca di taglia media, pura e antichissima, selezionata per la caccia nelle impervie montagne del Tirolo. È un cane da seguita robusto, con un fiuto eccezionale e una grande tenacia, specializzato nella caccia alla lepre e alla volpe, ma utilizzato anche per la traccia di sangue (recupero di ungulati feriti).</p><p>È un cane da lavoro appassionato, con una forte indipendenza e una grande resistenza. Non è un cane da compagnia, ma un ausiliare indispensabile per i cacciatori alpini. È noto per la sua voce potente e la sua abilità su terreni difficili.</p>",
+      "origini_storia": "<p>Le origini di questo segugio sono antichissime. Si ritiene che discenda dai segugi celtici, portati nella regione secoli fa. L'imperatore Massimiliano I d'Asburgo, intorno al 1500, utilizzava già questi cani (allora chiamati \"Bracken\") per la caccia nelle sue tenute tirolesi. Per secoli, la razza è stata allevata in purezza in Tirolo, selezionata solo per le sue capacità venatorie.</p><p>Lo standard ufficiale fu stabilito in Austria nel 1896, e la razza fu riconosciuta ufficialmente nel 1908. È un cane da lavoro che raramente si vede al di fuori del suo contesto alpino.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, asciutto, muscoloso e molto resistente. L'altezza al garrese è 42–50 cm. La struttura è forte e adatta al lavoro in montagna. Il mantello è doppio, con un pelo di copertura ruvido e un sottopelo denso.</p><p>I colori ammessi sono due: <ul> <li><b>Rosso:</b> In varie tonalità (rosso cervo, rosso-bruno, giallo-rosso).</li> <li><b>Nero focato:</b> Sella nera con focature rosse o gialle.</li> </ul> È ammessa anche una variante tricolore (con bianco), ma è meno comune. Le orecchie sono di media lunghezza e pendenti.</p>",
+      "carattere_temperamento": "<p>È un cacciatore indipendente e tenace. È intelligente, ma applica la sua intelligenza alla risoluzione dei problemi di caccia, non all'obbedienza. È molto legato al suo proprietario-cacciatore, ma diffidente con gli estranei. È un cane molto vocale sulla traccia.</p><p>Non è un cane da appartamento. Ha un bisogno vitale di lavorare e correre in montagna. Il suo istinto predatorio è altissimo. È un cane che vive per la caccia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza estremamente rustica e sana, forgiata dall'ambiente montano. Non ha patologie genetiche note. Come tutti i cani da lavoro, richiede controlli su orecchie e zampe dopo la caccia.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme e specifiche per l'ambiente montano. Deve poter cacciare. L'addestramento è solo venatorio. Non è un cane che risponde all'addestramento da compagnia. Richiede un proprietario cacciatore che ne capisca la natura.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori che operano in montagna. È ideale per chi cerca un cane da seguita specializzato, resistente e vocale. È totalmente inadatto a qualsiasi altro stile di vita. Non è un cane da compagnia, né da città, né per famiglie.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio tricolore jugoslavo",
+    "post_excerpt": "Robusto segugio serbo (ex-jugoslavo), noto per il suo mantello tricolore. È un cacciatore versatile (lepre, cinghiale), tenace e molto vocale. Un cane da lavoro rustico, non adatto alla città, per cacciatori esperti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-tricolore-jugoslavo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio tricolore jugoslavo"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-tricolore-jugoslavo.jpg",
+      "filename": "Segugio-tricolore-jugoslavo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Serbia (ex-Jugoslavia)",
+      "colorazioni": "Tricolore (Rosso/Fulvo con sella nera e macchie bianche)",
+      "temperamento_breve": "Tenace, Vivace, Vocale, Robusto",
+      "descrizione_generale": "<p>Il Segugio Tricolore Jugoslavo, ora ufficialmente Segugio Tricolore Serbo (Srpski Trobojni Gonič), è un cane da seguita molto diffuso nella sua regione d'origine. È un cane da caccia di taglia media, robusto e resistente, apprezzato per la sua versatilità nella caccia sia alla piccola selvaggina (lepre) che a quella più grande (cinghiale).</p><p>È un cane da lavoro puro, con un temperamento vivace, una voce potente e un grande attaccamento al suo conduttore. Come tutti i segugi balcanici, è un cane rustico che ha bisogno di spazio, esercizio e un proprietario cacciatore.</p>",
+      "origini_storia": "<p>Questa razza condivide le origini comuni di tutti i segugi balcanici, discendenti dai cani da caccia portati nell'area dai commercianti fenici e incrociati con ceppi locali. Per molto tempo, è stato considerato semplicemente una varietà di colore del Segugio Serbo (Srpski Gonič, che è bicolore).</p><p>La sua selezione come razza a sé stante è iniziata dopo la Seconda Guerra Mondiale. La Federazione Cinologica Jugoslava presentò il primo standard alla FCI nel 1950. La razza è stata riconosciuta ufficialmente dalla FCI nel 1961 (Standard N° 229), con il nome di Segugio Tricolore Jugoslavo. Dopo la dissoluzione della Jugoslavia, il patronato è passato alla Serbia.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, di solida costruzione. L'altezza al garrese è 45–55 cm per i maschi e 44–54 cm per le femmine. Il peso si aggira sui 20-25 kg. Il mantello è corto, fitto e lucido, con un buon sottopelo.</p><p>Il colore è tricolore: il colore di fondo è un rosso volpe intenso o fulvo, con una sella o macchie nere. Il bianco è sempre presente (fiamma sulla testa, collare, petto, ventre, piedi e punta della coda), ma non deve superare un terzo della superficie totale.</p>",
+      "carattere_temperamento": "<p>È un cacciatore tenace, vivace e molto energico. È noto per la sua voce acuta e la sua perseveranza sulla traccia. È molto leale al suo proprietario, ma indipendente sul lavoro. È un cane da allerta vigile, diffidente con gli estranei.</p><p>Ha un forte istinto predatorio e ha bisogno di un ambiente rurale. Non è un cane da appartamento. È generalmente socievole con gli altri cani della sua muta.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto rustica, selezionata per la salute sul campo. Non ha problemi genetici noti. Le orecchie pendenti richiedono pulizia per evitare otiti. Il pelo corto è di facile gestione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da lavoro che deve cacciare o, in alternativa, correre per ore in campagna. L'inattività lo rende frustrato e distruttivo. L'addestramento è specifico per la caccia e richiede un proprietario esperto.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori attivi, in particolare di lepre e cinghiale, che vivono in campagna. È adatto a chi cerca un cane da seguita robusto, vocale e instancabile. Non è un cane da compagnia per la città o per proprietari inesperti.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Segugio yugoslavo da montagna",
+    "post_excerpt": "Segugio nero focato originario del Montenegro (ex-Jugoslavia). È un cane da caccia tenace e agile, specializzato in terreni montuosi. Robusto e resistente, è un cane da lavoro per cacciatori, non un cane da compagnia.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "segugio-yugoslavo-da-montagna",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Segugio yugoslavo da montagna"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Segugio-jugoslavo-da-montagna.jpg",
+      "filename": "Segugio-jugoslavo-da-montagna.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Montenegro (ex-Jugoslavia)",
+      "colorazioni": "Nero focato (Nero con focature marroni)",
+      "temperamento_breve": "Tenace, Agile, Vocale, Resistente",
+      "descrizione_generale": "<p>Il Segugio Jugoslavo da Montagna, oggi Segugio Montenegrino (Crnogorski planinski gonič), è una razza da seguita originaria delle aspre montagne del Montenegro. È un cane nero focato di taglia media, molto simile nell'aspetto al Segugio Austriaco (Brandlbracke), ma più leggero e agile.</p><p>È un cane da caccia puro, selezionato per la sua agilità su terreni rocciosi e la sua tenacia nella caccia alla lepre, alla volpe e occasionalmente alla selvaggina più grande. È un cane da lavoro robusto, devoto al cacciatore ma non adatto alla vita urbana.</p>",
+      "origini_storia": "<p>Come tutti i segugi balcanici, discende da antichi cani da caccia diffusi nella regione. Per secoli, i cacciatori montenegrini hanno selezionato un cane agile, con un ottimo fiuto e resistente. Era noto in passato come \"Segugio Nero\".</p><p>La razza era già ben stabilita all'inizio del XX secolo. Il primo standard fu redatto nel 1924. Fu riconosciuto dalla FCI nel 1969 con il nome di \"Segugio Jugoslavo da Montagna\". Dopo la dissoluzione della Jugoslavia, il nome è stato ufficialmente cambiato in Segugio Montenegrino (Standard FCI N° 279).</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, asciutto ma forte. L'altezza al garrese è 46–56 cm. Il peso si aggira sui 20-25 kg. È un cane agile, con una buona ossatura, costruito per la resistenza in montagna.</p><p>Il mantello è corto, fitto e aderente, con un sottopelo. Il colore è invariabilmente nero focato: un mantello nero con focature (tan) di colore rosso chiaro, rosso-bruno o marrone intenso su muso (\"quattrocchi\"), petto e arti. Una piccola macchia bianca sul petto è tollerata.</p>",
+      "carattere_temperamento": "<p>È un cacciatore appassionato, noto per la sua agilità e la sua voce acuta. È molto resistente e capace di cacciare per ore su terreni difficili. È docile e leale con il suo proprietario, ma è un cane da lavoro, non un cane da grembo. È riservato con gli estranei e ha un forte istinto predatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza estremamente rustica e sana, selezionata per la funzionalità. Non ha patologie genetiche note. Le orecchie pendenti richiedono pulizia. Il pelo corto è di facile gestione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Deve cacciare. Non è adatto alla vita in appartamento. Ha bisogno di un ambiente montano o rurale dove poter lavorare e correre. L'addestramento è solo venatorio e richiede un proprietario-cacciatore.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori che operano in montagna. È ideale per chi cerca un cane da seguita agile, vocale e instancabile. È totalmente inadatto a qualsiasi altro stile di vita. Non è un cane da compagnia per la città o per proprietari inesperti.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Setter gordon",
+    "post_excerpt": "Il più grande e robusto dei setter, originario della Scozia. Nero focato, è un cane da ferma resistente ma metodico. In famiglia è un compagno leale e protettivo, ma richiede esercizio, socializzazione e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "setter-gordon",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Setter gordon"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Setter-gordon.jpg",
+      "filename": "Setter-gordon.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia)",
+      "colorazioni": "Esclusivamente Nero focato (Nero corvino con focature mogano)",
+      "temperamento_breve": "Leale, Protettivo, Energico (ma metodico), Intelligente",
+      "descrizione_generale": "<p>Il Setter Gordon è il più grande, pesante e robusto tra le razze setter. È un cane da ferma aristocratico, originario della Scozia, immediatamente riconoscibile per il suo magnifico mantello nero corvino con focature mogano brillanti. A differenza del cugino Irlandese, è un cacciatore più metodico e riflessivo, meno esplosivo ma con una resistenza incredibile.</p><p>In famiglia, è un compagno di una lealtà eccezionale, spesso descritto come un \"cane per un solo proprietario\". È protettivo, vigile e più riservato con gli estranei rispetto agli altri setter. È un cane che richiede esercizio, stimolazione mentale e un proprietario che sappia gestire il suo carattere forte e sensibile.</p>",
+      "origini_storia": "<p>Sebbene cani da caccia nero-focati esistessero in Scozia da secoli, la razza moderna fu definita e perfezionata da Alexander Gordon, il IV Duca di Gordon, nel suo castello di Gordon, nel Banffshire, all'inizio del XIX secolo. Il Duca selezionò un cane da ferma robusto, in grado di sopportare il clima rigido e i terreni difficili delle Highlands scozzesi.</p><p>Si ritiene che abbia utilizzato i setter locali scozzesi, incrociandoli forse con il Bloodhound (per il fiuto) e il Collie (per l'intelligenza). Inizialmente la razza era chiamata \"Black and Tan Setter\". Il Kennel Club inglese riconobbe la razza come \"Gordon Setter\" nel 1924, in onore del suo creatore.</p>",
+      "aspetto_fisico": "<p>È il setter più pesante. L'altezza al garrese per i maschi è 66 cm (peso 29,5 kg), per le femmine 62 cm (peso 25,5 kg). La struttura è solida, muscolosa e potente, più simile a un cavallo \"hunter\" che a un corridore.</p><p>Il mantello è setoso, dritto o leggermente ondulato, con lunghe frange su orecchie, petto, ventre, retro degli arti e coda. Il colore è rigorosamente nero corvino intenso, con focature (tan) di un ricco color mogano o castagna su muso (\"quattrocchi\"), gola, petto, arti e sotto la coda.</p>",
+      "carattere_temperamento": "<p>Il Gordon è un cane leale e devoto alla sua famiglia, ma tende a scegliere un solo membro come suo \"eletto\". È più riservato e diffidente con gli estranei rispetto agli altri setter, mostrando un forte istinto protettivo e da guardia (abbaia per allertare). È sensibile e non sopporta la solitudine.</p><p>Sul campo, è un cacciatore tenace, metodico e con grande fiuto. È più lento degli altri setter, ma più resistente. Mantiene un forte istinto venatorio. Richiede una socializzazione precoce per gestire la sua diffidenza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza robusta, ma soggetta a displasia dell'anca (molto comune) e torsione gastrica (gonfiore). La malattia oculare più frequente è l'atrofia progressiva della retina (PRA), per cui esistono test.</p><p>Il mantello setoso richiede spazzolature regolari (2-3 volte a settimana) per prevenire nodi, specialmente nelle frange. Le orecchie pendenti sono soggette a otiti e richiedono pulizia costante.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono elevate. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate quotidiane e della possibilità di correre in aree sicure. È un ottimo compagno per l'escursionismo. Ha una maturazione lenta e rimane \"cucciolo\" a lungo.</p><p>L'addestramento richiede pazienza e coerenza. È intelligente ma anche molto testardo e indipendente. È sensibile e si \"spegne\" se trattato con durezza. Il rinforzo positivo è fondamentale.</p>",
+      "ideale_per": "<p>È un cane ideale per cacciatori o famiglie attive che vivono in campagna o in una casa con un grande giardino. È adatto a proprietari con esperienza, che cercano un cane leale e protettivo e che sono disposti a dedicare molto tempo all'esercizio fisico e alla socializzazione.</p><p>Non è un cane per principianti, per persone sedentarie o per chi vive in un piccolo appartamento. La sua diffidenza verso gli estranei e la sua energia devono essere gestite con competenza.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

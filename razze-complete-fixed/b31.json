@@ -1,0 +1,482 @@
+[
+  {
+    "post_title": "Thai bangkaew dog",
+    "post_excerpt": "Il Thai Bangkaew Dog è un'antica razza tipo Spitz dalla Thailandia, noto per il suo doppio mantello e la lealtà. È un cane da guardia protettivo e vigile, diffidente con gli estranei. Richiede un proprietario esperto e socializzazione precoce.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "thai-bangkaew-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Thai bangkaew dog"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Thai-bangkaew-dog.jpg",
+      "filename": "Thai-bangkaew-dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Thailandia (Distretto di Bang Rakam, Provincia di Phitsanulok)",
+      "colorazioni": "Bianco con macchie (fulvo, rosso, grigio, marrone, nero)",
+      "temperamento_breve": "Leale, Protettivo, Vigile, Indipendente",
+      "descrizione_generale": "<p>Il Thai Bangkaew Dog è una razza canina di tipo Spitz originaria della Thailandia, apprezzata per il suo aspetto lupino e il suo carattere protettivo. È un cane di taglia media, robusto e ben proporzionato, con un caratteristico doppio mantello folto che forma una criniera intorno al collo e una coda piumata portata sulla schiena.</p><p>Nato come cane da guardia e da compagnia nel villaggio di Bangkaew, questo cane è noto per la sua devozione assoluta alla famiglia e la sua innata diffidenza verso gli estranei. È un cane intelligente ma indipendente, che richiede un proprietario esperto in grado di gestire il suo forte istinto territoriale e protettivo. È stato riconosciuto provvisoriamente dalla FCI nel 2011.</p>",
+      "origini_storia": "<p>Le origini del Thai Bangkaew Dog sono strettamente legate al villaggio di Bangkaew, nel distretto di Bang Rakam, provincia di Phitsanulok, nella Thailandia centrale. Si ritiene che la razza si sia sviluppata all'inizio del XX secolo. La leggenda locale narra che la razza discenda da un'unica cagna nera di proprietà di un abate del monastero di Wat Bangkaew.</p><p>Si pensa che questa cagna si sia accoppiata con uno sciacallo dorato (o un cane selvatico locale), dando origine a una cucciolata con caratteristiche uniche. Attraverso un'attenta selezione e l'isolamento geografico (dovuto alle inondazioni del fiume Yom), si è sviluppata la razza che conosciamo oggi. Il suo scopo primario è sempre stato quello di proteggere le abitazioni e le proprietà dai pericoli, inclusi serpenti e intrusi.</p>",
+      "aspetto_fisico": "<p>Il Thai Bangkaew Dog è un cane di taglia media, con un'altezza al garrese tra 46-55 cm per i maschi e 41-50 cm per le femmine. Il peso è proporzionato, solitamente tra 16 e 20 kg. La struttura è quadrata e robusta.</p><p>Il mantello è doppio e folto. Il pelo di copertura è dritto e ruvido, mentre il sottopelo è soffice e denso. Il pelo è più lungo sul collo (formando una criniera, specialmente nei maschi), sul retro delle zampe e sulla coda, che è portata alta e ricurva sulla schiena. Il colore predominante è il bianco, con pezzature ben definite di colori come fulvo, rosso, grigio, marrone o nero. La testa è a forma di cuneo, con orecchie erette e occhi a mandorla.</p>",
+      "carattere_temperamento": "<p>Il Bangkaew è un cane estremamente leale e protettivo nei confronti della sua famiglia e del suo territorio. È affettuoso e devoto ai suoi proprietari, ma mostra una forte diffidenza verso gli estranei. Non è un cane che accetta facilmente nuove persone e richiede un'introduzione attenta.</p><p>È un cane molto vigile, un eccellente cane da allerta e da guardia. È intelligente e indipendente, il che può renderlo testardo. La socializzazione precoce e costante è assolutamente fondamentale per questa razza, per insegnargli a distinguere le minacce reali dagli ospiti innocui. Può essere dominante e non sempre tollerante verso altri cani dello stesso sesso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di circa 12-15 anni. Essendo una razza sviluppatasi naturalmente, è generalmente robusta. Tuttavia, come molte razze di taglia media, può essere soggetta a displasia dell'anca. Alcune problematiche cutanee possono verificarsi a causa del folto doppio mantello se non curato adeguatamente in climi umidi.</p><p>Il suo mantello folto richiede una spazzolatura regolare, almeno 2-3 volte a settimana, per rimuovere il pelo morto e prevenire nodi. Durante i periodi di muta (due volte l'anno), la perdita di pelo è molto abbondante e la spazzolatura deve diventare quotidiana.</p>",
+      "attivita_addestramento": "<p>Questa razza non è per proprietari principianti. Ha bisogno di un addestramento precoce, coerente e basato sul rinforzo positivo. La sua intelligenza gli permette di imparare rapidamente, ma la sua indipendenza e il suo forte istinto protettivo richiedono un proprietario che sappia essere un leader calmo e deciso.</p><p>Le esigenze di esercizio sono moderate. Passeggiate quotidiane e sessioni di gioco in un giardino recintato sono solitamente sufficienti. Non è un cane iperattivo, ma ha bisogno di stimolazione mentale per evitare la noia. La socializzazione deve iniziare da cucciolo ed essere continua per tutta la vita.</p>",
+      "ideale_per": "<p>Il Thai Bangkaew Dog è ideale per proprietari esperti che vivono in una casa con un giardino ben recintato. È adatto a chi cerca un cane da guardia leale e incorruttibile e che ha il tempo di dedicarsi a una socializzazione e un addestramento seri. È un compagno devoto per la famiglia giusta.</p><p>Questa razza è da evitare per i neofiti, per chi vive in appartamento o per chi ha una vita sociale molto attiva con molte persone che entrano ed escono da casa. Non è la scelta migliore per famiglie con bambini piccoli, a meno che non ci sia una supervisione costante. Non è adatto a chi cerca un cane amichevole con tutti.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Thai ridgeback dog",
+    "post_excerpt": "Il Thai Ridgeback Dog è una razza primitiva thailandese, nota per la caratteristica cresta di pelo (ridge) sul dorso. È un cane da caccia e da guardia agile, indipendente e protettivo. Richiede socializzazione intensiva e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "thai-ridgeback-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Thai ridgeback dog"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Thai-ridgeback-dog.jpg",
+      "filename": "Thai-ridgeback-dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Thailandia",
+      "colorazioni": "Blu, Nero, Rosso, Fulvo (Isabella)",
+      "temperamento_breve": "Indipendente, Protettivo, Agile, Intelligente",
+      "descrizione_generale": "<p>Il Thai Ridgeback Dog è un'antica razza primitiva originaria della Thailandia, una delle uniche tre razze al mondo a possedere la caratteristica \"ridge\" (cresta) di pelo che cresce in direzione opposta sul dorso. È un cane di taglia media, muscoloso e incredibilmente agile, con un mantello corto e vellutato che lo rende adatto ai climi caldi.</p><p>Utilizzato per secoli nella Thailandia orientale per la caccia (cinghiali, cervi) e come cane da guardia per le proprietà e i carri, il Thai Ridgeback è un cane intelligente ma molto indipendente. È estremamente leale alla sua famiglia ma naturalmente riservato e diffidente verso gli estranei, mantenendo forti istinti protettivi.</p>",
+      "origini_storia": "<p>Questa razza si è sviluppata in isolamento nelle province orientali della Thailandia, il che l'ha resa una razza pura e primitiva per centinaia di anni. Antichi documenti thailandesi risalenti a oltre 350 anni fa descrivono cani con la cresta sul dorso. L'isolamento geografico e la scarsità di trasporti hanno impedito l'incrocio con altre razze.</p><p>Il suo utilizzo originale era vario: accompagnava i carri, proteggeva le abitazioni e partecipava alla caccia di piccola e media selvaggina. A differenza del Rhodesian Ridgeback, non è stato influenzato da razze europee fino a tempi molto recenti. La FCI ha concesso il riconoscimento ufficiale alla razza nel 1993 (Standard N° 338).</p>",
+      "aspetto_fisico": "<p>Il Thai Ridgeback è un cane di taglia media, atletico e muscoloso. L'altezza al garrese per i maschi è di 56-61 cm, per le femmine 51-56 cm. Il peso varia dai 16 ai 25 kg. La struttura è leggermente più lunga che alta.</p><p>La caratteristica distintiva è la cresta sul dorso, formata da pelo che cresce in direzione opposta. La cresta può avere varie forme (ago, piuma, freccia, sella) ma deve essere simmetrica. Il mantello è molto corto, fine e vellutato. I colori ammessi sono il rosso (preferibilmente con maschera nera), il nero, il blu (grigio-argento) e il fulvo molto chiaro (isabella). Le orecchie sono grandi, triangolari ed erette. La lingua può presentare macchie nere o essere completamente blu-nera.</p>",
+      "carattere_temperamento": "<p>Il Thai Ridgeback è un cane dal carattere complesso. È incredibilmente intelligente, ma anche indipendente e testardo, tipico delle razze primitive. Con la sua famiglia è leale, affettuoso e protettivo. Tuttavia, è molto riservato e diffidente nei confronti degli estranei, e il suo istinto da guardiano è molto sviluppato.</p><p>Possiede un forte istinto predatorio ed è un saltatore fenomenale, capace di superare recinzioni anche alte. Non è un cane che dà confidenza a tutti. La socializzazione deve essere la priorità assoluta fin da cucciolo, esponendolo in modo positivo a quante più persone, luoghi e situazioni possibili per evitare che la sua diffidenza diventi paura o reattività.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di circa 12-15 anni. È una razza molto robusta e sana, grazie alla sua origine \"naturale\". L'unica condizione genetica strettamente legata alla razza (e a tutte le razze con la cresta) è il Seno Dermoide, una malformazione cutanea congenita che può richiedere un intervento chirurgico. Gli allevatori responsabili controllano attentamente i cuccioli per questa condizione.</p><p>La cura del mantello è minima. Il pelo corto richiede solo una spazzolata occasionale per rimuovere il pelo morto. È un cane molto pulito. Soffre molto il freddo a causa del pelo raso e necessita di protezione (cappotti) nei climi rigidi.</p>",
+      "attivita_addestramento": "<p>Addestrare un Thai Ridgeback è una sfida che richiede esperienza. Non rispondono ai metodi coercitivi, che possono rompere il legame di fiducia. L'addestramento deve essere basato sul rinforzo positivo, sulla pazienza e sulla coerenza. Hanno bisogno di un motivo per obbedire e si annoiano facilmente con la ripetizione.</p><p>Hanno bisogno di un esercizio quotidiano moderato-alto, che includa non solo passeggiate ma anche corse in aree sicure e recintate (un giardino con recinzione alta è ideale) e stimolazione mentale. Eccellono in attività come il lure coursing o l'agility.</p>",
+      "ideale_per": "<p>Questa razza è adatta esclusivamente a proprietari esperti, preferibilmente con conoscenza delle razze primitive. È ideale per chi cerca un cane da guardia leale, vive in un clima temperato o caldo e ha una proprietà ben recintata. È un compagno meraviglioso per chi apprezza l'intelligenza indipendente e l'atletismo.</p><p>Non è assolutamente adatto ai principianti, a chi vive in appartamento (a meno di non essere estremamente attivi) o in climi molto freddi. Non è la scelta giusta per chi desidera un cane socievole e amichevole con tutti. La socializzazione è un impegno a tempo pieno nei primi anni di vita.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 4.5,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Tibetan mastiff",
+    "post_excerpt": "Il Mastino Tibetano è un'antica razza da guardia gigante, originaria dell'Himalaya. È un cane indipendente, leale e incredibilmente protettivo del suo territorio e della famiglia. Richiede un proprietario esperto e uno spazio adeguato. Non è un cane per tutti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "tibetan-mastiff",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Tibetan mastiff"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Tibetan-mastiff.jpg",
+      "filename": "Tibetan-mastiff.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Tibet (Regione dell'Himalaya)",
+      "colorazioni": "Nero, Nero focato, Blu, Blu focato, Rosso (varie tonalità), Sabbia (Fulvo)",
+      "temperamento_breve": "Protettivo, Indipendente, Leale, Ostinato",
+      "descrizione_generale": "<p>Il Tibetan Mastiff (Do-Khyi) è una delle razze canine più antiche e imponenti del mondo. Originario delle vette dell'Himalaya, è un cane da lavoro primitivo, allevato per secoli per proteggere le tende dei nomadi (i \"Drokpa\") e i monasteri tibetani da predatori come lupi e leopardi delle nevi. È una razza gigante, dalla struttura potente e dal mantello foltissimo.</p><p>Il suo temperamento è quello di un guardiano puro: indipendente, distaccato, incredibilmente territoriale e protettivo. È leale e devoto alla sua famiglia, ma è anche noto per la sua ostinazione e la sua tendenza a prendere decisioni in autonomia. Non è una razza per proprietari inesperti.</p>",
+      "origini_storia": "<p>La storia del Tibetan Mastiff si perde nella notte dei tempi. È considerato il progenitore di molte delle moderne razze molossoidi e da montagna. Per millenni, ha vissuto e lavorato in quasi totale isolamento nell'altopiano tibetano. Il suo compito principale era la guardia. A differenza dei cani da pastore, il suo lavoro non era condurre il gregge, ma proteggerlo, spesso lavorando di notte.</p><p>I cani venivano legati durante il giorno e lasciati liberi di notte per pattugliare il perimetro dell'accampamento o del monastero. Questa selezione ha forgiato il suo carattere notturno, vigile e la sua capacità decisionale. I primi esemplari arrivarono in Occidente nel XIX secolo, ma la razza rimase estremamente rara fino agli anni '70.</p>",
+      "aspetto_fisico": "<p>Il Mastino Tibetano è un cane di taglia gigante, potente e pesante. L'altezza minima al garrese per i maschi è di 66 cm, per le femmine 61 cm. Il peso può variare notevolmente, dai 45 kg fino a superare i 75 kg. L'aspetto deve essere imponente e solenne.</p><p>Possiede un doppio mantello eccezionale. Il pelo di copertura è lungo, dritto e duro, mentre il sottopelo in inverno diventa estremamente denso e lanoso (quasi impermeabile). I maschi hanno una criniera molto più pronunciata. I colori includono il nero intenso, il nero focato, il blu, il blu focato, e varie tonalità di rosso/oro o sabbia. Spesso è presente una stella bianca sul petto. La coda è folta e portata arricciata sulla schiena.</p>",
+      "carattere_temperamento": "<p>Il carattere del Mastino Tibetano è unico. È calmo e tranquillo durante il giorno, ma al crepuscolo si \"attiva\" e inizia il suo lavoro di guardiano. È estremamente protettivo del suo territorio, della sua casa e della sua famiglia. È riservato, distaccato e diffidente verso gli estranei, e non esiterà a intervenire se percepisce una minaccia.</p><p>È una razza altamente intelligente ma non obbediente in senso tradizionale. È ostinato e abituato a pensare da solo. Non è un cane che eseguirà comandi ciecamente. Con la sua famiglia è leale e paziente, spesso buono con i bambini del suo nucleo, ma non è un cane giocherellone. La socializzazione è vitale per gestire la sua diffidenza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di circa 10-14 anni, una buona longevità per una razza gigante. Sono generalmente cani robusti, ma possono soffrire di displasia dell'anca e del gomito. Altre problematiche includono l'ipotiroidismo e alcune patologie oculari.</p><p>Il folto mantello richiede una spazzolatura settimanale per gran parte dell'anno, che deve diventare quotidiana durante l'unica, massiccia muta annuale (in primavera), quando perdono quasi tutto il sottopelo. A dispetto della mole, è un cane che mangia relativamente poco. Le femmine hanno un solo ciclo estrale all'anno, in autunno, come i lupi.</p>",
+      "attivita_addestramento": "<p>L'addestramento del Tibetan Mastiff è più una questione di gestione e rispetto reciproco che di obbedienza formale. L'addestramento tradizionale basato sulla ripetizione fallisce. Richiede un proprietario calmo, paziente e incredibilmente coerente, che stabilisca regole chiare fin da cucciolo. Il rinforzo positivo è utile, ma il cane deciderà spesso se il comando \"ha senso\".</p><p>Le esigenze di esercizio sono sorprendentemente moderate. Non è un cane da corsa. Passeggiate quotidiane e, soprattutto, un ampio giardino recintato (con recinzioni alte e sicure) dove possa pattugliare sono sufficienti. Non è un cane da appartamento.</p>",
+      "ideale_per": "<p>Questa razza è adatta solo a proprietari molto esperti, che comprendono e rispettano la natura di un cane da guardia primitivo. È ideale per chi vive in una casa con un terreno ampio e ben recintato, in un contesto rurale o suburbano tranquillo. È per chi desidera un guardiano leale e non un cane da compagnia espansivo.</p><p>È assolutamente sconsigliato ai principianti, a chi vive in appartamento, a chi ha molti ospiti o a chi cerca un cane obbediente. La sua tendenza ad abbaiare di notte e la sua forza immensa richiedono un proprietario responsabile e consapevole.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Tibetan spaniel",
+    "post_excerpt": "Il Tibetan Spaniel è un piccolo cane da compagnia tibetano, allevato nei monasteri come cane da sentinella. Affettuoso con la famiglia ma riservato con gli estranei, è un cane intelligente, indipendente e vigile. Richiede poca toelettatura.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "tibetan-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Tibetan spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Tibetan-spaniel.jpg",
+      "filename": "Tibetan-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Tibet",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammessi",
+      "temperamento_breve": "Intelligente, Vigile, Affettuoso, Indipendente",
+      "descrizione_generale": "<p>Il Tibetan Spaniel, noto in Tibet come \"Simkhyi\", è un'antica razza da compagnia di piccola taglia. Non è uno \"spaniel\" nel senso tradizionale del termine (cioè un cane da caccia), ma un cane da compagnia la cui origine è legata ai monasteri tibetani. Il suo ruolo principale era quello di fare la guardia dall'alto delle mura del monastero, abbaiando per allertare i monaci e i Tibetan Mastiff sottostanti dell'avvicinarsi di estranei.</p><p>È un cane allegro, molto intelligente e affettuoso con la sua famiglia, ma conserva la natura vigile e riservata di un cane da sentinella. Ha un carattere fiero, a tratti \"felino\" nella sua indipendenza, e ama stare in posizioni elevate per osservare l'ambiente circostante.</p>",
+      "origini_storia": "<p>Le origini del Tibetan Spaniel si perdono nei monasteri dell'Himalaya, dove questi cani erano allevati e custoditi gelosamente dai monaci buddisti per secoli. Erano considerati sacri e spesso donati come pegno di stima, ma mai venduti. Oltre al loro ruolo di sentinelle, si dice che facessero girare le ruote di preghiera.</p><p>Condividono un'ascendenza comune con altre razze orientali come il Pechinese e lo Japanese Chin. I primi esemplari arrivarono in Inghilterra alla fine del XIX secolo, portati da missionari e funzionari, ma la razza ha iniziato a diffondersi in Occidente solo dopo la metà del XX secolo. La FCI ha riconosciuto la razza nel 1961 (Standard N° 231).</p>",
+      "aspetto_fisico": "<p>Il Tibetan Spaniel è un cane piccolo ma ben proporzionato, leggermente più lungo che alto. L'altezza al garrese è di circa 25 cm. Il peso ideale varia dai 4 ai 7 kg. L'aspetto generale è armonioso e fiero.</p><p>La testa è piccola rispetto al corpo, con un muso corto (ma non piatto come quello di un Pechinese) e un leggero prognatismo. Gli occhi sono scuri, ovali ed espressivi. Le orecchie sono pendenti e ben frangiate. Il mantello è doppio, con un pelo di copertura setoso di media lunghezza e un sottopelo fine e denso. Forma una criniera (scialle) sul collo e frange sul retro delle zampe e sulla coda, che è portata alta e arricciata sulla schiena. Tutti i colori e le combinazioni sono ammessi.</p>",
+      "carattere_temperamento": "<p>Il \"Tibbie\" è un cane dalla personalità spiccata. È molto intelligente, sensibile e devoto alla sua famiglia, con cui è giocoso e affettuoso. Tuttavia, non è un cane sottomesso. Mostra una notevole indipendenza e può essere testardo se ritiene che un comando non sia ragionevole.</p><p>Mantiene il suo istinto da sentinella: è vigile, attento e abbaierà per segnalare qualsiasi novità. È naturalmente riservato e diffidente verso gli estranei, impiegando tempo per dare confidenza. Ama i posti alti (divani, davanzali) per poter dominare la situazione. È noto per la sua pulizia, simile a quella di un gatto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, solitamente 13-16 anni. È una razza generalmente sana. Come molte razze piccole, può essere soggetto a problemi dentali, che richiedono un'igiene orale regolare. La lussazione della rotula è un'altra possibile problematica.</p><p>La patologia più nota (sebbene non comune) è l'atrofia progressiva della retina (PRA), per cui esistono test genetici. Il mantello, pur sembrando ricco, non richiede una toelettatura eccessiva. Una spazzolatura 2-3 volte a settimana è sufficiente per prevenire nodi, specialmente dietro le orecchie e sulla coda. Perde pelo moderatamente.</p>",
+      "attivita_addestramento": "<p>L'addestramento del Tibetan Spaniel richiede pazienza e intelligenza. Non risponde bene ai metodi duri, che lo porterebbero a chiudersi. Il rinforzo positivo, la coerenza e sessioni brevi e divertenti sono la chiave. Sono molto sensibili al tono della voce.</p><p>Le esigenze di esercizio sono moderate. Si adattano perfettamente alla vita in appartamento e si accontentano di passeggiate quotidiane e di sessioni di gioco in casa. Amano però anche le passeggiate più lunghe e le escursioni, essendo cani robusti nonostante la taglia.</p>",
+      "ideale_per": "<p>Il Tibetan Spaniel è un eccellente cane da compagnia per persone che vivono in appartamento, inclusi anziani e famiglie con bambini rispettosi. È ideale per chi cerca un cane da allerta piccolo ma robusto, affettuoso ma con un tocco di indipendenza \"felina\".</p><p>Non è adatto a chi cerca un cane da obbedienza cieca o a chi è infastidito dall'abbaio da allerta. Non ama essere lasciato solo per lunghi periodi e preferisce la compagnia costante della sua famiglia. La sua diffidenza iniziale richiede una buona socializzazione.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Tibetan terrier",
+    "post_excerpt": "Il Tibetan Terrier, il \"Santo Cane del Tibet\", è un cane da compagnia di taglia media, robusto e dal lungo mantello. Non è un vero terrier. È un compagno leale, intelligente e vivace, ma anche sensibile e vigile. Richiede toelettatura intensiva.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "tibetan-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Tibetan terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Tibetan-terrier.jpg",
+      "filename": "Tibetan-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Tibet",
+      "colorazioni": "Bianco, Dorato, Crema, Grigio, Fumo, Nero, Particolor, Tricolore (tutti tranne cioccolato/fegato)",
+      "temperamento_breve": "Vivace, Intelligente, Affettuoso, Sensibile",
+      "descrizione_generale": "<p>Il Tibetan Terrier è un'antica razza di taglia media originaria del Tibet. Nonostante il nome, non è un terrier da caccia; il nome gli fu dato dai viaggiatori europei per la sua somiglianza in taglia con i terrier. In Tibet era conosciuto come \"Tsang Apso\" ed era considerato un portafortuna, un cane da compagnia e, occasionalmente, un cane da pastore.</p><p>È un cane robusto, agile e quadrato, famoso per il suo splendido doppio mantello lungo e folto che lo proteggeva dai climi rigidi. È un cane estremamente intelligente, vivace e affettuoso con la famiglia, ma mantiene una naturale riservatezza da guardiano verso gli estranei. È noto per la sua agilità e la sua personalità carismatica.</p>",
+      "origini_storia": "<p>Allevato per oltre 2000 anni nei monasteri e nei villaggi tibetani, il Tibetan Terrier era conosciuto come il \"Santo Cane del Tibet\". Era molto apprezzato come compagno, ma anche come guardiano (abbaiava per allertare) e talvolta per radunare gli yak. Non venivano mai venduti, ma solo donati come segno di grande rispetto, poiché si credeva portassero fortuna.</p><p>La razza arrivò in Europa grazie alla dottoressa inglese Agnes Greig, che lavorava in India. Nel 1922, ricevette in dono una cucciola di nome \"Bunti\" come ringraziamento per aver operato una paziente tibetana. La dottoressa Greig iniziò un programma di allevamento in Inghilterra, e la razza fu riconosciuta dal Kennel Club indiano nel 1930 e da quello inglese nel 1937.</p>",
+      "aspetto_fisico": "<p>Il Tibetan Terrier è un cane di taglia media, robusto e quadrato. L'altezza al garrese varia dai 36 ai 41 cm, con le femmine leggermente più piccole. Il peso si aggira tra gli 8 e i 14 kg. La sua caratteristica più distintiva sono i grandi piedi piatti e rotondi, \"piedi da neve\", che gli permettevano di muoversi agilmente sulla neve.</p><p>Il mantello è doppio: il pelo di copertura è lungo, fine (ma non setoso o lanoso), e può essere dritto o ondulato. Il sottopelo è soffice e lanoso. Il pelo ricade coprendo gli occhi e il muso. Sono ammessi tutti i colori e le combinazioni, ad eccezione del cioccolato/fegato. La coda è piumata e portata alta arricciata sulla schiena.</p>",
+      "carattere_temperamento": "<p>Il Tibetan Terrier è un cane dalla grande personalità. È vivace, estroverso e giocherellone con la sua famiglia, a cui è profondamente devoto. È anche molto intelligente, sensibile e può essere testardo. Impara velocemente, ma ha bisogno di capire il \"perché\" di un comando.</p><p>Mantiene un forte istinto da cane da allerta, quindi è vigile e abbaierà per segnalare l'arrivo di estranei, verso cui è naturalmente riservato. Non è aggressivo, ma ha bisogno di tempo per socializzare. È un cane molto agile, che ama arrampicarsi e osservare dall'alto. Soffre la solitudine e ha bisogno di essere parte integrante della vita familiare.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, dai 12 ai 16 anni. È una razza robusta, ma è predisposta ad alcune patologie ereditarie. Le più comuni sono i problemi oculari, come l'atrofia progressiva della retina (PRA) e la lussazione del cristallino (PLL), per cui sono disponibili test genetici. È importante anche il controllo della displasia dell'anca.</p><p>La cura del mantello è l'impegno più grande. Il lungo doppio mantello richiede una spazzolatura approfondita e quotidiana (o quasi) per evitare la formazione di nodi e feltri, specialmente durante l'adolescenza. Non è un cane che perde molto pelo (rimane intrappolato nel mantello), ma richiede toelettatura professionale o un proprietario molto dedicato.</p>",
+      "attivita_addestramento": "<p>L'addestramento deve essere basato sulla coerenza e sul rinforzo positivo. Il Tibetan Terrier è sensibile e non risponde bene alla durezza. La sua intelligenza può portarlo a essere manipolativo se il proprietario non è un leader calmo e deciso. La socializzazione precoce è fondamentale per mitigare la sua riservatezza.</p><p>Ha un livello di energia moderato-alto. Necessita di passeggiate quotidiane e di sessioni di gioco. Eccelle in sport come l'agility, grazie alla sua agilità naturale, e nell'obedience. È un ottimo compagno per escursioni in montagna.</p>",
+      "ideale_per": "<p>Il Tibetan Terrier è ideale per famiglie attive, coppie o single che possono dedicare molto tempo alla toelettatura e all'interazione. Si adatta bene alla vita in appartamento, a patto che il suo bisogno di esercizio e stimolazione mentale sia soddisfatto. È un'ottima scelta per chi cerca un cane da compagnia intelligente e carismatico.</p><p>Non è adatto a persone sedentarie o a chi non ha tempo per la cura quotidiana del pelo. Non è la scelta migliore per chi cerca un cane facile e sottomesso. La sua tendenza ad abbaiare come sentinella deve essere gestita.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Tornjak",
+    "post_excerpt": "Il Tornjak è un grande cane da pastore guardiano, originario della Bosnia-Erzegovina e della Croazia. Calmo e leale con la famiglia, è un protettore devoto e diffidente con gli estranei. Richiede spazio, socializzazione e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "tornjak",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Tornjak"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Tornjak.jpg",
+      "filename": "Tornjak.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Bosnia ed Erzegovina, Croazia",
+      "colorazioni": "Particolor (fondo bianco con macchie nere, rosse, marroni o gialle)",
+      "temperamento_breve": "Calmo, Protettivo, Leale, Intelligente",
+      "descrizione_generale": "<p>Il Tornjak (pronunciato \"Tor-niak\") è un'antica razza di cane da pastore guardiano delle greggi (LGD), originaria delle montagne della Bosnia ed Erzegovina e della Croazia. È un cane di taglia grande, potente e dal folto mantello, selezionato per secoli per proteggere le greggi dai predatori (lupi e orsi) in condizioni climatiche estreme.</p><p>È un cane dal temperamento tipico del guardiano: calmo, stabile, incredibilmente devoto e protettivo verso la sua famiglia (che considera il suo \"gregge\"). È intelligente, ma anche indipendente e riservato con gli estranei. Non è un cane per tutti, ma un compagno leale per il proprietario giusto in un ambiente adatto.</p>",
+      "origini_storia": "<p>Le origini del Tornjak sono antichissime, si ritiene discenda dai molossi portati dai Romani nei Balcani e incrociati con i cani locali. La razza si è sviluppata e adattata per oltre un millennio nelle aree montuose intorno a Travnik (Bosnia) e nella regione della Lika (Croazia). Il suo nome deriva dalla parola \"tor\", che significa \"recinto per pecore\".</p><p>La razza rischiò l'estinzione verso la metà del XX secolo, a causa della diminuzione della pastorizia tradizionale. Un meticoloso programma di recupero iniziò in Croazia e Bosnia ed Erzegovina negli anni '70, utilizzando i pochi cani rimasti. La FCI ha concesso il riconoscimento provvisorio nel 2007 e quello definitivo nel 2017 (Standard N° 355), riconoscendo l'origine congiunta dei due paesi.</p>",
+      "aspetto_fisico": "<p>Il Tornjak è un cane di taglia grande, forte e ben proporzionato, ma anche agile. L'altezza al garrese per i maschi è 65-70 cm, per le femmine 60-65 cm. Il peso varia dai 35 ai 50 kg. La struttura è quasi quadrata.</p><p>Il mantello è lungo e folto, con un pelo di copertura dritto e ruvido e un sottopelo lanoso molto denso. È particolarmente abbondante sul collo (criniera), sulla coda (piumata) e sul retro delle zampe. Il colore è sempre particolor: il fondo deve essere bianco, con macchie di colore (nero, marrone, rosso, giallo) ben definite. Esistono anche soggetti quasi bianchi con piccole macchie o quasi colorati con bianco su collo, testa e zampe.</p>",
+      "carattere_temperamento": "<p>Il Tornjak ha un temperamento equilibrato e calmo. Con la sua famiglia è estremamente leale, affettuoso e paziente, spesso molto protettivo e gentile con i bambini del suo nucleo. È un cane intelligente e riflessivo, che valuta le situazioni prima di agire.</p><p>Come tutti i cani da guardiania, è indipendente e abituato a prendere decisioni. È naturalmente diffidente verso gli estranei e molto territoriale. Non è aggressivo inutilmente, ma difenderà la sua proprietà e la sua famiglia con coraggio e determinazione. La socializzazione precoce è fondamentale per insegnargli a gestire la sua diffidenza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di circa 10-12 anni, buona per un cane di questa taglia. È una razza rustica e generalmente sana. Come tutti i cani di taglia grande, la displasia dell'anca e del gomito sono le principali preoccupazioni; è fondamentale rivolgersi ad allevatori che testano i riproduttori.</p><p>Il mantello folto richiede una spazzolatura regolare (settimanale) per evitare nodi, che deve diventare quotidiana durante le abbondanti mute stagionali. È un cane che vive bene all'aperto, essendo molto resistente sia al freddo che al caldo (il pelo lo isola), purché abbia accesso a un riparo e acqua fresca.</p>",
+      "attivita_addestramento": "<p>L'addestramento di un Tornjak deve essere basato sul rispetto reciproco. Non è un cane che risponde bene all'obbedienza meccanica o ai metodi duri. È intelligente ma testardo. L'addestramento deve iniziare presto, essere coerente e focalizzato sull'insegnamento delle regole di convivenza e sulla socializzazione.</p><p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo. Ha bisogno di spazio per muoversi: l'ideale è un ampio giardino recintato dove possa svolgere il suo ruolo di guardiano. Lunghe passeggiate quotidiane sono comunque necessarie per il suo benessere fisico e mentale. Non è un cane da appartamento.</p>",
+      "ideale_per": "<p>Il Tornjak è ideale per proprietari esperti di cani da guardiania, che vivono in un ambiente rurale o suburbano con molto spazio e un giardino ben recintato. È un cane magnifico per una famiglia che cerca un protettore leale e un compagno calmo, e che è disposta a investire nella socializzazione.</p><p>È sconsigliato ai proprietari principianti, a chi vive in appartamento o in aree urbane densamente popolate. La sua tendenza ad abbaiare (soprattutto di notte) e la sua natura protettiva possono essere difficili da gestire in un contesto non idoneo.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 1.0
+    }
+  },
+  {
+    "post_title": "Tosa",
+    "post_excerpt": "Il Tosa Inu è un mastino giapponese di taglia gigante, allevato per i combattimenti (stile sumo). È un cane calmo, paziente e protettivo con la famiglia, ma dominante e reattivo con altri cani. Richiede un proprietario esperto e responsabile.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "tosa",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Tosa"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Tosa.jpg",
+      "filename": "Tosa.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Provincia di Tosa, Isola di Shikoku)",
+      "colorazioni": "Rosso, Fulvo, Albicocca, Nero, Tigrato (Brindle)",
+      "temperamento_breve": "Coraggioso, Paziente, Calmo, Protettivo",
+      "descrizione_generale": "<p>Il Tosa, spesso chiamato Tosa Inu, è un'imponente razza di tipo mastino originaria del Giappone. È un cane di taglia grande e gigante, noto per la sua incredibile forza, il suo coraggio e la sua natura stoica. È stato sviluppato specificamente per i combattimenti tra cani, una tradizione giapponese (simile al sumo) che premia la resistenza e il coraggio silenzioso, non l'aggressività.</p><p>Con la sua famiglia, il Tosa è un cane sorprendentemente calmo, paziente e protettivo, spesso molto delicato con i bambini. Tuttavia, la sua storia lo rende una razza impegnativa: è dominante, molto reattivo verso gli altri cani (specialmente dello stesso sesso) e richiede un proprietario esperto, responsabile e consapevole.</p>",
+      "origini_storia": "<p>La razza ha origine nella provincia di Tosa (oggi Prefettura di Kōchi) sull'isola di Shikoku, in Giappone, a metà del XIX secolo. Gli allevatori locali desideravano creare un cane da combattimento più grande e forte del cane autoctono (Shikoku Inu). Incrociarono quindi i loro cani con diverse razze occidentali importate dopo l'apertura del Giappone: Bulldog, Mastiff, Alano, Pointer Tedesco e San Bernardo.</p><p>Questo programma di allevamento mirato, tra il 1868 e il 1912, ha creato il Tosa che conosciamo oggi. La razza è considerata un \"Monumento Naturale\" in Giappone, dove i combattimenti (Tōken) sono ancora praticati con regole rigide che vietano ai cani di abbaiare o mordere per ferire. In molti paesi, la razza è soggetta a restrizioni legali.</p>",
+      "aspetto_fisico": "<p>Il Tosa è un cane massiccio e potente. Lo standard FCI (N° 260) richiede un'altezza minima al garrese di 60 cm per i maschi e 55 cm per le femmine, ma non pone un limite massimo. Il peso può variare notevolmente, dai 40 kg fino a superare gli 80-90 kg negli esemplari più grandi. La struttura è imponente e muscolosa.</p><p>La testa è grande e larga, con un muso quadrato e forti mascelle. La pelle forma rughe sulla fronte. Le orecchie sono piccole, sottili e pendenti. Il mantello è corto, duro e fitto. I colori preferiti sono il rosso intenso, il fulvo e l'albicocca. Sono ammessi anche il nero e il tigrato. Piccole macchie bianche sul petto e sui piedi sono permesse.</p>",
+      "carattere_temperamento": "<p>Il Tosa ha una doppia natura. In casa, è un cane calmo, quasi stoico, molto paziente e devoto alla sua famiglia. È un protettore silenzioso, vigile ma non inutilmente rumoroso. È spesso sorprendentemente dolce e tollerante con i bambini della sua famiglia.</p><p>All'esterno e con altri animali, emerge la sua natura da combattente. Ha un'altissima reattività e aggressività verso gli altri cani, specialmente dello stesso sesso. Questo istinto è profondamente radicato. È anche diffidente verso gli estranei e molto territoriale. La socializzazione precoce è fondamentale, ma non eliminerà mai la sua innata reattività verso altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di circa 9-12 anni. Come tutte le razze giganti, è soggetto a displasia dell'anca e del gomito, che richiede controlli attenti. È anche a rischio di torsione gastrica (gonfiore), una condizione potenzialmente letale che richiede un intervento veterinario immediato.</p><p>La cura del mantello corto è minima, richiede solo spazzolate occasionali. La gestione del peso è fondamentale per non sovraccaricare le articolazioni. Richiede un'alimentazione di alta qualità specifica per taglie giganti.</p>",
+      "attivita_addestramento": "<p>L'addestramento del Tosa è una questione di leadership e gestione. Non è un cane per principianti. Richiede un proprietario esperto, calmo, sicuro e coerente, che possa gestire la sua forza fisica e il suo carattere dominante senza ricorrere alla violenza (che sarebbe controproducente e pericolosa).</p><p>L'addestramento all'obbedienza di base e la socializzazione (con le persone) devono iniziare prestissimo. Le esigenze di esercizio sono moderate; lunghe passeggiate controllate al guinzaglio sono sufficienti. Non è un cane che può essere lasciato libero in aree pubbliche a causa della sua reattività verso altri cani.</p>",
+      "ideale_per": "<p>Il Tosa è adatto solo a proprietari estremamente esperti, responsabili e forti, sia fisicamente che mentalmente. È per chi vive in un ambiente sicuro, con un ampio giardino recintato, e non ha altri cani. È per chi comprende la natura della razza e può gestirla in sicurezza per tutta la sua vita.</p><p>Non è assolutamente adatto a proprietari principianti, a famiglie con bambini piccoli (nonostante la sua pazienza, la mole è un rischio), a chi vive in appartamento o a chi desidera un cane da portare al parco. In molti paesi, il possesso di questa razza è regolamentato o vietato.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 1.5,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Vastgotsaspets",
+    "post_excerpt": "Il Västgötaspets, o Vallhund Svedese, è un antico cane da pastore scandinavo, simile al Corgi. Energico, intelligente e vigile, è un eccellente cane da allerta e da compagnia. Richiede attività fisica e mentale e si adatta a vari sport cinofili.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "vastgotsaaspets",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Vastgotsaspets"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Vastgotsaaspets.jpg",
+      "filename": "Vastgotsaaspets.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia",
+      "colorazioni": "Grigio, Grigio-bruno, Grigio-giallo, Rosso-giallo, Rosso-bruno",
+      "temperamento_breve": "Energico, Intelligente, Vigile, Amichevole",
+      "descrizione_generale": "<p>Il Västgötaspets, meglio conosciuto come Vallhund Svedese, è un'antica razza svedese di tipo Spitz, utilizzata per secoli come cane da fattoria a tutto tondo, in particolare per la conduzione delle mandrie (vallhund significa \"cane da pastore\"). È un cane basso, lungo e robusto, che ricorda molto il Corgi gallese, con cui si ritiene condivida un'antica parentela (si discute se siano stati i Vichinghi a portarli in Galles o viceversa).</p><p>È un cane energico, intelligente, impavido e molto vocale. Nonostante la sua taglia, ha il cuore di un grande cane da lavoro. Oggi è un compagno di famiglia versatile, che eccelle in molti sport cinofili e mantiene un forte istinto da guardiano.</p>",
+      "origini_storia": "<p>La razza esiste in Svezia da oltre 1000 anni, discendendo dai cani da pastore dei Vichinghi. La sua culla d'origine è la contea di Västergötland. Per secoli ha lavorato nelle fattorie svedesi, radunando il bestiame mordendogli i garretti (come i Corgi) e proteggendo la proprietà dai roditori e dai piccoli predatori.</p><p>Negli anni '40, la razza era quasi estinta. Il conte Björn von Rosen e il signor K.G. Zettersten si dedicarono al suo salvataggio, trovando i pochi esemplari rimasti e avviando un programma di allevamento. Grazie ai loro sforzi, la razza fu riconosciuta dallo Swedish Kennel Club nel 1943 con il nome di Västgötaspets.</p>",
+      "aspetto_fisico": "<p>Il Vallhund Svedese è un cane robusto, basso sugli arti (acondroplasico). L'altezza al garrese è di 33-35 cm per i maschi e 31-33 cm per le femmine. Il peso si aggira tra i 9 e i 14 kg. La sua struttura è lunga, con un rapporto altezza/lunghezza di circa 2:3.</p><p>La testa è a forma di cuneo, con un'espressione sveglia da volpe. Le orecchie sono erette e appuntite. La coda può essere di due tipi: lunga e folta, oppure naturalmente corta (brachiuria) in varie lunghezze. Il mantello è doppio, di media lunghezza, con un pelo di copertura duro e un sottopelo soffice e denso. I colori tipici sono il grigio, grigio-bruno, grigio-giallo o rosso-bruno, con peli più scuri sul dorso e una maschera chiara sul muso.</p>",
+      "carattere_temperamento": "<p>Il Vallhund è un cane energico, vivace e pieno di personalità. È molto intelligente, desideroso di compiacere e impara velocemente. È un compagno di famiglia leale e affettuoso, che ama essere coinvolto in tutte le attività. Ha un grande senso dell'umorismo ma anche una vena testarda.</p><p>È un cane da allerta eccezionale e molto vocale; abbaierà a qualsiasi cosa ritenga fuori posto. Mantiene il suo istinto da pastore e può tentare di \"radunare\" bambini o altri animali mordicchiando i talloni. È generalmente amichevole con le persone se ben socializzato, ma può essere riservato inizialmente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 12-15 anni. È una razza molto robusta. La principale preoccupazione genetica è la retinopatia del Vallhund, una malattia oculare progressiva per cui è disponibile un test del DNA. Come altre razze acondroplasiche, è importante mantenere il cane in peso forma per non stressare la schiena.</p><p>Il mantello richiede una spazzolatura settimanale, più frequente durante i periodi di muta, che sono intensi. È un cane che perde una quantità significativa di pelo.</p>",
+      "attivita_addestramento": "<p>Il Vallhund Svedese è un cane da lavoro che ha bisogno di un \"lavoro\" da fare. L'addestramento è fondamentale per stimolare la sua mente brillante. Risponde molto bene al rinforzo positivo e all'addestramento basato sul gioco. Si annoia facilmente con la ripetizione.</p><p>Ha un livello di energia alto. Non si accontenta di brevi passeggiate. Ha bisogno di esercizio quotidiano vigoroso e di stimolazione mentale. Eccelle in quasi tutti gli sport cinofili: agility (è molto agile), obedience, rally-o, herding e nosework. Se annoiato, può diventare distruttivo e abbaiare eccessivamente.</p>",
+      "ideale_per": "<p>Questa razza è ideale per famiglie attive, coppie o single che hanno esperienza con cani da pastore. È perfetta per chi è interessato a praticare sport cinofili. Si adatta alla vita in appartamento solo se il proprietario è estremamente impegnato a fornirgli esercizio fisico e mentale quotidiano.</p><p>Non è adatto a persone sedentarie, a proprietari alla prima esperienza o a chi è infastidito da un cane vocale. Non è la scelta giusta per chi cerca un cane tranquillo da divano. L'istinto di mordicchiare i talloni deve essere gestito fin da cucciolo.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Volpino italiano",
+    "post_excerpt": "Il Volpino Italiano è un'antica razza italiana di tipo Spitz, noto per il suo mantello folto e la sua grande vivacità. È un eccellente cane da compagnia e un guardiano instancabile, molto legato alla famiglia ma diffidente con gli estranei.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "volpino-italiano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Volpino italiano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Volpino-italiano.jpg",
+      "filename": "Volpino-italiano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia",
+      "colorazioni": "Bianco, Rosso, Champagne (raro)",
+      "temperamento_breve": "Vivace, Intelligente, Affettuoso, Vigile",
+      "descrizione_generale": "<p>Il Volpino Italiano è un piccolo cane di tipo Spitz, una delle razze italiane più antiche. Discendente dai cani di tipo Spitz che esistevano in Europa fin dall'Età del Bronzo, è stato per secoli il cane prediletto sia dalla nobiltà italiana (come si vede in molti dipinti rinascimentali) sia dalla gente comune, dove era apprezzato come instancabile guardiano di carri e case.</p><p>È un cane vivace, intelligente, giocherellone e profondamente legato al suo proprietario. La sua caratteristica principale, oltre al magnifico mantello vaporoso, è la sua eccezionale vigilanza: è una vera e propria \"sentinella\" che abbaia al minimo rumore sospetto. È un cane robusto e longevo in un corpo piccolo.</p>",
+      "origini_storia": "<p>La presenza del Volpino in Italia è attestata da millenni. È uno dei discendenti degli Spitz europei. Fu particolarmente popolare durante il Rinascimento, dove appare in numerosi dipinti come cane da compagnia delle dame. Anche Michelangelo possedeva un Volpino. Allo stesso tempo, era il cane del \"popolo\", diffuso in Toscana e nel Lazio, dove viaggiava sui carri dei carrettieri, proteggendoli dai malintenzionati.</p><p>Nel XX secolo, la razza ha rischiato seriamente l'estinzione, soppiantata da razze straniere. Negli anni '60 c'erano pochissimi esemplari registrati. Un programma di recupero avviato dall'ENCI (Ente Nazionale della Cinofilia Italiana) negli anni '80 ha salvato la razza, che oggi, pur rimanendo non molto diffusa, è fuori pericolo.</p>",
+      "aspetto_fisico": "<p>Il Volpino è un cane piccolo e compatto, inscrivibile nel quadrato. L'altezza al garrese è di 27-30 cm per i maschi e 25-28 cm per le femmine. Il peso è solitamente tra i 4 e i 5 kg. La sua struttura è armonica, con un'espressione da volpe.</p><p>Il mantello è la sua gloria: è molto lungo, dritto, fitto e sollevato dal corpo, con un sottopelo denso. Forma un ricco collare intorno al collo. La coda è portata arricciata sulla schiena. I colori più comuni sono il bianco unicolore e il rosso unicolore. È ammesso anche il color champagne, sebbene molto raro. Il nero non è più previsto dallo standard FCI (N° 195).</p>",
+      "carattere_temperamento": "<p>Il Volpino è un concentrato di energia e intelligenza. È estremamente affettuoso e devoto alla sua famiglia, con cui crea un legame fortissimo. È allegro, giocherellone e sempre pronto a partecipare a qualsiasi attività. È un cane che ha bisogno di sentirsi parte del nucleo familiare.</p><p>La sua caratteristica dominante è la vigilanza. È un cane da guardia eccezionale, con un udito finissimo e una tendenza molto spiccata ad abbaiare per segnalare qualsiasi cosa: estranei, rumori, movimenti. È naturalmente diffidente e riservato con chi non conosce. Questa vocalità deve essere gestita fin da cucciolo per non diventare un problema.</p>",
+      "salute_cura": "<p>Il Volpino Italiano è una razza straordinariamente robusta e longeva, con un'aspettativa di vita che raggiunge facilmente i 14-16 anni, e non è raro che superi i 18. Non ha particolari predisposizioni genetiche gravi. Come molte razze piccole, può essere soggetto a lussazione della rotula e a problemi dentali (tartaro).</p><p>Il folto mantello, contrariamente a quanto si possa pensare, non richiede una toelettatura eccessiva. Essendo vitreo, lo sporco tende a scivolare via. Una spazzolatura approfondita 2-3 volte a settimana è sufficiente per evitare nodi. Perde pelo moderatamente, con picchi durante le mute.</p>",
+      "attivita_addestramento": "<p>L'addestramento del Volpino è divertente ma richiede coerenza. È molto intelligente e impara velocemente, ma è anche furbo e testardo. Risponde bene al rinforzo positivo e ai giochi. L'addestramento è fondamentale per due motivi: stimolare la sua mente attiva e gestire la sua tendenza ad abbaiare.</p><p>Ha un livello di energia alto per essere un cane piccolo. Si adatta all'appartamento, ma non è un cane da divano. Ha bisogno di passeggiate quotidiane, di giocare e di sentirsi utile. È sorprendentemente agile e può eccellere in sport come l'agility o la dog dance.</p>",
+      "ideale_per": "<p>Il Volpino è un eccellente cane da compagnia per persone attive, anche se vivono in appartamento. È ideale per chi cerca un piccolo cane da allerta, vivace e interattivo. È un compagno meraviglioso per gli anziani che sono ancora attivi e per le famiglie con bambini rispettosi.</p><p>Non è adatto a chi cerca un cane silenzioso e tranquillo. È sconsigliato a chi è fuori casa tutto il giorno, poiché soffre la solitudine e ha bisogno di interazione. La sua vocalità lo rende poco adatto a contesti condominiali molto sensibili al rumore, se non gestita con un addestramento attento.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Weimaraner",
+    "post_excerpt": "Il Weimaraner, o Bracco di Weimar, è un elegante cane da ferma tedesco, noto come il \"Fantasma Grigio\". È un cane da caccia versatile, ad alta energia, intelligente e molto legato alla famiglia. Richiede esercizio intenso e non tollera la solitudine.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "weimaraner",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Weimaraner"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Weimaraner.jpg",
+      "filename": "Weimaraner.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Weimar)",
+      "colorazioni": "Grigio argento, Grigio topo, Grigio fulvo (tutte le sfumature di grigio)",
+      "temperamento_breve": "Energico, Intelligente, Affettuoso, Protettivo",
+      "descrizione_generale": "<p>Il Weimaraner è un cane da ferma di taglia grande, originario della Germania, che cattura lo sguardo per il suo aspetto aristocratico, il mantello grigio-argenteo e gli ipnotici occhi ambra o grigio-blu. Soprannominato il \"Fantasma Grigio\" per il suo colore e il suo modo di muoversi silenzioso e veloce, è un cane da caccia estremamente versatile, capace di lavorare sia prima che dopo lo sparo.</p><p>È un cane che unisce un'intelligenza acuta e un'energia inesauribile a un bisogno quasi viscerale di contatto con il proprietario. È un \"cane velcro\" per eccellenza: affettuoso e protettivo, ma che soffre profondamente la solitudine. È una razza impegnativa, che richiede un proprietario molto attivo.</p>",
+      "origini_storia": "<p>Le origini esatte del Weimaraner sono avvolte nel mistero, ma la razza come la conosciamo oggi fu sviluppata all'inizio del XIX secolo presso la corte di Weimar, in Germania. Il Granduca Carlo Augusto di Sassonia-Weimar-Eisenach era un appassionato cacciatore e selezionò questi cani per la caccia alla grossa selvaggina (cervi, cinghiali, orsi).</p><p>Si ritiene che discenda da incroci tra antichi cani da caccia tedeschi, il Bloodhound (per il fiuto) e altri bracchi. Quando la grossa selvaggina diminuì, il Weimaraner fu adattato alla caccia di uccelli e piccola selvaggina, diventando un cane da ferma polivalente. La razza era custodita gelosamente dal club tedesco, che ne controllava la diffusione con regole severissime.</p>",
+      "aspetto_fisico": "<p>Il Weimaraner è un cane atletico, muscoloso e dalle linee armoniose. L'altezza al garrese per i maschi è di 59-70 cm, per le femmine 57-65 cm. Il peso varia dai 30 ai 40 kg per i maschi e dai 25 ai 35 kg per le femmine. La struttura è potente ma elegante.</p><p>Esistono due varietà di pelo: <ul> <li><b>Pelo corto:</b> La più comune. Il pelo è corto, fitto, liscio e lucido.</li> <li><b>Pelo lungo:</b> Meno diffusa. Il pelo è morbido, lungo (3-5 cm) e può essere liscio o leggermente ondulato, con frange su orecchie e coda.</li> </ul> Il colore è l'elemento distintivo: grigio argento, grigio fulvo o grigio topo, e tutte le sfumature intermedie. Gli occhi sono chiari, da ambra a grigio-blu, e scuri nei cuccioli.</p>",
+      "carattere_temperamento": "<p>Il Weimaraner è un cane ad altissima energia. È estremamente intelligente, coraggioso e con un forte istinto predatorio. È stato selezionato per lavorare a stretto contatto con il cacciatore, e questo ha sviluppato un attaccamento quasi morboso alla sua famiglia. Soffre di ansia da separazione se lasciato solo.</p><p>È un cane protettivo e un buon guardiano, diffidente verso gli estranei. Se non socializzato e addestrato correttamente, può diventare iperattivo, distruttivo e reattivo. È un cane che ha bisogno di un \"lavoro\" e di un proprietario che sia un leader chiaro e coerente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di circa 10-13 anni. È una razza robusta, ma è predisposta a due problemi principali: la torsione gastrica (gonfiore), un'emergenza veterinaria comune nei cani di taglia grande con torace profondo, e la displasia dell'anca.</p><p>Alcuni soggetti possono soffrire di problemi dermatologici (allergie). La cura del mantello corto è minima, mentre il pelo lungo richiede spazzolate regolari. È un cane che soffre il freddo intenso a causa del pelo corto senza sottopelo.</p>",
+      "attivita_addestramento": "<p>L'addestramento è una necessità assoluta. La loro intelligenza è un'arma a doppio taglio: imparano tutto velocemente, inclusi i cattivi comportamenti. Richiedono un addestramento precoce, costante e basato sul rinforzo positivo. Sono sensibili ma anche testardi; la durezza è controproducente.</p><p>Le esigenze di esercizio sono estreme. Questo non è un cane da passeggiata al guinzaglio. Ha bisogno di almeno 1-2 ore di esercizio vigoroso al giorno: corsa, nuoto, escursioni, attività cinofile. Se non sfoga la sua energia, diventa ingestibile. Eccelle in tutte le attività che richiedono fiuto e fisico, come il mantrailing, il canicross e la caccia.</p>",
+      "ideale_per": "<p>Il Weimaraner è ideale solo per persone o famiglie estremamente attive: sportivi, corridori, escursionisti o cacciatori. È adatto a chi ha esperienza, tempo da dedicare e uno stile di vita che permette al cane di essere parte integrante della famiglia (non lasciato solo).</p><p>È assolutamente sconsigliato ai proprietari principianti, alle persone sedentarie, a chi vive in appartamento (a meno di non essere un maratoneta) e a chi lavora tutto il giorno fuori casa. La sua energia e la sua ansia da separazione sono le principali cause di abbandono per questa razza.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

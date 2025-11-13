@@ -1,0 +1,481 @@
+[
+  {
+    "post_title": "Basset blue de gascogne",
+    "post_excerpt": "Antico segugio francese basso (\"basset\") dal mantello blu (moschettato). È un cacciatore di lepri metodico e molto vocale. Dal carattere dolce ma testardo, richiede un proprietario esperto, preferibilmente cacciatore, e non è adatto alla vita in appartamento.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "basset-blue-de-gascogne",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Basset blue de gascogne\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Basset-blue-de-gascogne.jpg",
+      "filename": "Basset-blue-de-gascogne.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Guascogna)",
+      "colorazioni": "Blu (moschettatura nera su fondo bianco), con o senza macchie nere e focature",
+      "temperamento_breve": "Tenace, Vocale, Socievole (con cani), Dolce",
+      "descrizione_generale": "<p>Il Basset Bleu de Gascogne è un segugio francese di taglia medio-piccola, caratterizzato da un corpo lungo, zampe corte (Basset) e un distintivo mantello \"blu\". Questo colore unico è dato da una fitta moschettatura (ticking) nera su un fondo bianco, che gli conferisce un aspetto ardesia. È il discendente diretto, in versione ridotta, del Grand Bleu de Gascogne.</p><p>Nato come cane da caccia in muta per selvaggina di piccola taglia, come la lepre e il coniglio, è un lavoratore instancabile, metodico e dotato di una voce profonda e melodiosa. Sebbene sia un cane da lavoro puro, è noto per il suo temperamento dolce e affettuoso, anche se, come tutti i segugi, è incredibilmente testardo e indipendente.</p>",
+      "origini_storia": "<p>Questa razza proviene dalla regione della Guascogna, nel sud-ovest della Francia, e discende dai grandi segugi (Grand Bleu de Gascogne) usati per la caccia al lupo e al cinghiale già nel Medioevo. La versione \"Basset\" (a zampe corte) fu sviluppata deliberatamente nel tardo XIX secolo, in un periodo in cui la caccia alla selvaggina minore (lepre) stava diventando più popolare.</p><p>I cacciatori avevano bisogno di un cane più lento, che potesse essere seguito a piedi, e capace di infilarsi nel sottobosco fitto. La razza fu salvata dall'estinzione all'inizio del XX secolo da un appassionato allevatore, Monsieur Alain Bourbon. La FCI (Fédération Cynologique Internationale) ha riconosciuto la razza nel 1963 (Standard N° 35).</p>",
+      "aspetto_fisico": "<p>È un cane basso sugli arti ma sorprendentemente pesante e robusto. L'altezza al garrese è tra i 34 e i 42 cm. Il peso si aggira tra i 16 e i 18 kg. Il corpo è lungo, con una struttura ossea solida. La testa è nobile, da segugio, con orecchie molto lunghe, sottili e arrotolate, attaccate basse.</p><p>Il mantello è corto, fitto e liscio. Il colore è il suo tratto distintivo: è completamente moschettato di nero su fondo bianco, dando un effetto blu ardesia. Può avere macchie nere più grandi e focature (tan) pallide sopra gli occhi e sulle guance.</p>",
+      "carattere_temperamento": "<p>Come tutti i cani da seguita, il Basset Bleu è un cacciatore nato. È tenace, determinato e ha un fiuto eccezionale. È un cane da muta, quindi è estremamente socievole con gli altri cani e generalmente non aggressivo. È anche molto vocale, con un ululato caratteristico che usa abbondantemente durante la caccia.</p><p>In famiglia, è noto per essere dolce, affettuoso e calmo, ma solo se le sue esigenze di esercizio sono soddisfatte. È incredibilmente testardo e indipendente. Se sente una pista, il suo istinto predatorio prende il sopravvento ed è impossibile da richiamare. È un maestro della fuga.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza generalmente robusta, ma la sua conformazione fisica (schiena lunga e zampe corte) la rende predisposta a problemi spinali, come l'ernia del disco (IVDD). È fondamentale evitare che ingrassi o che faccia salti eccessivi.</p><p>Le sue orecchie lunghe e pendenti sono il suo punto debole: richiedono una pulizia costante e attenta per prevenire otiti gravi. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. È un cane da lavoro che ha bisogno di correre e usare il naso per ore. Richiede un giardino ampio e recintato (a prova di scavo e di salto). L'attività ideale è la caccia o, in alternativa, lunghe escursioni in campagna.</p><p>L'addestramento all'obbedienza è molto difficile. È testardo e non motivato a compiacere, ma a seguire il suo naso. L'addestramento deve essere paziente, coerente e basato sul rinforzo positivo (cibo).</p>",
+      "ideale_per": "<p>Questo cane è ideale quasi esclusivamente per cacciatori che vivono in campagna e lavorano con una muta. È adatto a proprietari esperti di segugi che comprendono la sua natura testarda, il suo bisogno di esercizio e la sua vocalità.</p><p>È assolutamente sconsigliato ai proprietari principianti, a chi vive in città o in appartamento, o a chi cerca un cane obbediente da lasciare libero al parco. Il suo istinto predatorio lo rende inadatto alla convivenza con piccoli animali.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bassethound",
+    "post_excerpt": "Iconico segugio basso (\"basset\") e pesante, con orecchie lunghe e un'espressione malinconica. Nato per la caccia alla lepre, è un cane calmo, affettuoso e molto testardo. È un eccellente cane da famiglia ma è molto vocale e testardo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bassethound",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bassethound\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bassethound.jpg",
+      "filename": "Bassethound.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Sviluppato da cani francesi)",
+      "colorazioni": "Tricolore (Bianco, Nero, Focato), Bicolore (Bianco e Limone)",
+      "temperamento_breve": "Affettuoso, Testardo, Calmo, Socievole",
+      "descrizione_generale": "<p>Il Basset Hound è uno dei cani più riconoscibili al mondo, un segugio di taglia media caratterizzato da un corpo pesante, zampe molto corte (acondroplasia), orecchie lunghissime che sfiorano il terreno e un'espressione perennemente triste e malinconica, dovuta alla pelle lassa e agli occhi cadenti.</p><p>Nonostante l'aspetto pigro, è un cane da caccia vero, dotato di un fiuto secondo solo a quello del Bloodhound, selezionato per la caccia alla lepre e al coniglio. È un cane dal carattere eccezionale: calmo, affettuoso, ottimo con i bambini e altri cani. Tuttavia, è anche incredibilmente testardo, molto vocale (ululato potente) e richiede cure per la sua conformazione fisica.</p>",
+      "origini_storia": "<p>Le origini del Basset Hound sono francesi. Discende dai Basset d'Artois (antenati dell'Artesien Normand) e forse dai Basset Bleu de Gascogne. Questi segugi bassi erano usati in Francia per la caccia a piedi nel sottobosco fitto. La razza moderna, tuttavia, è stata sviluppata in Inghilterra.</p><p>Nel 1866, Lord Galway importò una coppia di Basset Artesien Normand. Pochi anni dopo, nel 1874, Sir John Everett Millais importò un maschio di nome \"Model\" da Parigi e iniziò a selezionare la razza in Inghilterra, probabilmente incrociandola con il Bloodhound per ottenere una testa più pesante e un fiuto migliore. La Regina Alexandra ne divenne un'appassionata allevatrice, contribuendo alla sua popolarità. Il Kennel Club inglese riconobbe la razza nel 1887.</p>",
+      "aspetto_fisico": "<p>È un cane basso ma molto pesante. L'altezza al garrese è 33–38 cm. Il peso è considerevole, tra i 20 e i 35 kg. Ha un'ossatura massiccia e zampe corte e potenti. La schiena è lunga. La pelle è lassa e forma pieghe (giogaia).</p><p>La testa è la sua caratteristica: orecchie vellutate, lunghissime (devono superare la punta del naso) e attaccate basse. Gli occhi sono a forma di diamante, scuri e con la palpebra inferiore cadente, che mostra la congiuntiva rossa. Il mantello è corto, liscio e fitto. I colori più comuni sono il tricolore (bianco, nero e focato) e il bicolore (bianco e limone/arancio).</p>",
+      "carattere_temperamento": "<p>Il Basset Hound è un cane da famiglia eccellente. È calmo, di buon carattere, molto affettuoso e paziente con i bambini. È un cane da muta, quindi è estremamente socievole con altri cani e animali domestici. Non è un cane da guardia, ama tutti.</p><p>Il suo più grande \"difetto\" è la testardaggine. È un segugio dominato dal naso: se sente una pista, diventa \"sordo\" a qualsiasi comando. È anche molto vocale, con un ululato profondo che usa quando è annoiato, solo o segue una traccia. È noto per essere un maestro della fuga e per la sua golosità.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. La sua conformazione estrema causa diversi problemi di salute. La schiena lunga lo rende molto incline a ernie del disco (IVDD). Le orecchie lunghissime sono un ricettacolo per sporco e infezioni (otiti), richiedendo una pulizia quotidiana.</p><p>Gli occhi cadenti sono soggetti a infezioni (ectropion, entropion). È molto incline all'obesità, che deve essere controllata rigorosamente per non gravare sulla schiena. Sbava. Il pelo è facile da curare, ma la pelle lassa richiede attenzione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un corridore, ma un camminatore resistente. Ha bisogno di lunghe passeggiate quotidiane (sempre al guinzaglio, per via del suo naso) per stimolare il suo fiuto e prevenire l'obesità. Si adatta all'appartamento, ma un giardino (a prova di fuga) è ideale.</p><p>L'addestramento è molto difficile. È testardo e motivato solo dal cibo e dal naso. L'addestramento alla pulizia è notoriamente lento. Richiede un proprietario paziente e con senso dell'umorismo.</p>",
+      "ideale_per": "<p>È un ottimo cane per famiglie, anche con bambini, e per persone che cercano un cane calmo e affettuoso. È per proprietari pazienti, che non si frustrano per la testardaggine e sono disposti a gestire le sue esigenze di pulizia (orecchie, bava).</p><p>Non è adatto a chi è ossessionato dalla pulizia o dal silenzio (ulula). Non è per chi cerca un cane obbediente. Richiede un proprietario attento a non fargli fare salti o scale per proteggere la schiena.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Basset artesien normand",
+    "post_excerpt": "Piccolo segugio francese basso (\"basset\"), antenato del Basset Hound. È un cane da caccia (lepre, coniglio) allegro, vocale e molto testardo. È un buon cane da compagnia per proprietari pazienti, ma rimane un cacciatore con un forte istinto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bassett-artesian-normand",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Basset artesien normand\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Basset-artesien-normand.jpg",
+      "filename": "Basset-artesien-normand.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Artois e Normandia)",
+      "colorazioni": "Tricolore (Fulvo, Nero, Bianco), Bicolore (Bianco e Arancio/Fulvo)",
+      "temperamento_breve": "Socievole, Testardo, Vocale, Allegro",
+      "descrizione_generale": "<p>Il Basset Artésien Normand è un cane da seguita francese, un \"basset\" (basso sugli arti) di taglia piccola, noto per essere il diretto antenato del Basset Hound. È un cane da caccia specializzato, selezionato per la caccia alla lepre e al coniglio in muta, in un modo che il cacciatore possa seguire a piedi.</p><p>È un cane dal carattere allegro, molto socievole con altri cani e persone. È un compagno di famiglia affettuoso, ma non bisogna dimenticare la sua natura: è incredibilmente testardo, dominato dal suo fiuto e molto vocale. È un cane che richiede un proprietario paziente e consapevole.</p>",
+      "origini_storia": "<p>Questa razza è il risultato della fusione di due antichi ceppi di Basset francesi: il Basset d'Artois (più pesante, tipo Basset Hound) e il Basset Normand (più leggero). Alla fine del XIX secolo, la popolarità di questi cani da caccia era alta. Due allevatori, Louis Lane e Léon Verrier, avevano visioni diverse.</p><p>Verrier selezionò la linea \"Artesiana\" (zampe dritte, più funzionale), mentre Lane selezionò la linea \"Normanna\" (zampe storte, più lenta e da esposizione). Nel 1924, fu deciso di unire le due varietà sotto il nome unico di Basset Artésien Normand, con lo standard che favoriva le caratteristiche della Normandia. È la razza da cui Sir Everett Millais sviluppò il Basset Hound in Inghilterra.</p>",
+      "aspetto_fisico": "<p>È un cane basso e lungo, ma più leggero e agile del Basset Hound. L'altezza al garrese è 30–36 cm. Il peso è 15–20 kg. La struttura è solida. La testa è nobile, con orecchie lunghe e pendenti, attaccate basse.</p><p>Il mantello è corto, fitto e liscio. I colori sono il tricolore (fondo bianco, macchie nere e focature) o il bicolore (bianco e fulvo/arancio). Le zampe anteriori sono tipicamente semi-storte (légèrement tors), un compromesso tra le due linee d'origine.</p>",
+      "carattere_temperamento": "<p>È un cane allegro, estroverso e molto socievole, sia con gli umani che con altri cani (è un cane da muta). È un compagno di famiglia piacevole, ma è anche un segugio testardo e indipendente. Il suo naso comanda.</p><p>È molto vocale (ulula) e ha un forte istinto predatorio. È un maestro della fuga. Richiede un addestramento paziente e un proprietario che capisca la sua mentalità da segugio. Non è un cane da obbedienza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza robusta. Come tutti i cani con la schiena lunga, è soggetto a problemi spinali (IVDD) e l'obesità deve essere evitata. Le orecchie lunghe richiedono pulizia costante per prevenire otiti. Il pelo corto è facile da curare.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono medio-alte. Non è un corridore, ma un camminatore resistente. Ha bisogno di lunghe passeggiate quotidiane (sempre al guinzaglio) per stimolare il suo fiuto. Si adatta all'appartamento, ma ha bisogno di sfogo e non tollera la solitudine (ulula).</p><p>L'addestramento è difficile. La sua testardaggine è leggendaria. L'addestramento alla pulizia è lento. Risponde solo al rinforzo positivo (cibo).</p>",
+      "ideale_per": "<p>È un buon cane per proprietari pazienti, anche alla prima esperienza, purché consapevoli della sua testardaggine e vocalità. È adatto a famiglie, ma non a chi vive in un condominio con vicini sensibili al rumore. È per chi cerca un cane affettuoso ma indipendente.</p><p>Non è adatto a chi cerca un cane obbediente da lasciare libero. Non è affidabile con piccoli animali. Richiede un giardino a prova di fuga.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Bassett fauve de bretagne",
+    "post_excerpt": "Piccolo segugio francese (\"basset\") a pelo duro e color fulvo. È un cacciatore di conigli vivace, tenace e molto energico. Un cane da lavoro rustico, con un carattere allegro ma testardo. Richiede un proprietario attivo e toelettatura (stripping).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bassett-fauve-de-bretagne",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bassett fauve de bretagne\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bassett-fauve-de-bretagne.jpg",
+      "filename": "Bassett-fauve-de-bretagne.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Bretagna)",
+      "colorazioni": "Fulvo (dal grano dorato al rosso mattone)",
+      "temperamento_breve": "Energico, Tenace, Allegro, Testardo",
+      "descrizione_generale": "<p>Il Basset Fauve de Bretagne è un cane da seguita di tipo Basset, originario della Bretagna, in Francia. È un cane da caccia piccolo ma incredibilmente robusto, noto per il suo caratteristico mantello \"fil di ferro\" (ruvido) di colore fulvo (fauve). È la versione a zampe corte del Griffon Fauve de Bretagne.</p><p>È un cacciatore specializzato nella caccia al coniglio, alla lepre e alla volpe, capace di lavorare nel sottobosco più fitto. È un cane estremamente energico, vivace e allegro, ma con un carattere da segugio molto testardo e un forte istinto predatorio. Richiede un proprietario attivo.</p>",
+      "origini_storia": "<p>La razza discende, come detto, dal Griffon Fauve de Bretagne, un segugio più grande. La selezione per gli arti corti iniziò nel XIX secolo in Bretagna, quando i cacciatori a piedi avevano bisogno di un cane più lento e capace di penetrare i rovi (il pelo duro lo proteggeva) per la caccia al coniglio.</p><p>La razza era molto popolare, ma rischiò l'estinzione dopo la Seconda Guerra Mondiale. Fu salvata negli anni '70 grazie agli sforzi di appassionati francesi, come il Club du Fauve de Bretagne (fondato nel 1949), incrociando i pochi sopravvissuti con Basset Griffon Vendéen e Bassotti a pelo duro. La FCI ha riconosciuto la razza nel 1963 (Standard N° 36).</p>",
+      "aspetto_fisico": "<p>È il più piccolo dei Basset francesi. L'altezza al garrese è 32–38 cm. È un cane basso e lungo, ma non pesante come il Basset Hound. La struttura è solida e muscolosa, con zampe anteriori quasi dritte.</p><p>Il mantello è la sua caratteristica: è molto duro, ruvido (\"fil di ferro\"), secco e non troppo lungo. Non deve essere lanoso. Il colore è unicolore fulvo, in tutte le sue sfumature, dal grano dorato al rosso mattone. Una piccola stella bianca sul petto è tollerata.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia con un'energia sorprendente. È vivace, allegro, coraggioso e molto tenace. È un cane da muta, quindi è generalmente socievole con altri cani. È amichevole con le persone, ma è un cane da allerta vocale.</p><p>È molto testardo e indipendente. Il suo istinto predatorio è altissimo e non è affidabile con piccoli animali. È un maestro della fuga e ama scavare. Richiede un proprietario paziente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 12-15 anni. È una razza molto rustica e sana. La sua schiena lunga lo rende suscettibile a problemi spinali (IVDD), anche se meno del Basset Hound. Le orecchie richiedono pulizia.</p><p>Il mantello \"fil di ferro\" richiede una toelettatura (stripping) 2-3 volte l'anno per rimuovere il pelo morto e mantenere la tessitura corretta. Non perde molto pelo se curato così.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Si adatta all'appartamento, ma solo se il proprietario è molto attivo. Ha bisogno di lunghe passeggiate quotidiane (al guinzaglio) e di sfogo mentale. È un ottimo cane da nosework e da pista.</p><p>L'addestramento è difficile a causa della sua testardaggine da segugio. Risponde solo al rinforzo positivo e al cibo. Il richiamo è inaffidabile.</p>",
+      "ideale_per": "<p>È ideale per cacciatori o per famiglie molto attive che vivono in campagna. È un buon compagno per chi fa escursionismo e apprezza un cane piccolo, robusto e pieno di carattere. Richiede un proprietario disposto a gestire la toelettatura (stripping).</p><p>Non è adatto a persone sedentarie, a proprietari principianti, o a chi cerca un cane obbediente. Non è affidabile con piccoli animali.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bassotti tedeschi",
+    "post_excerpt": "Cane da caccia tedesco, basso e lungo (\"salsiccia\"). Esiste in 3 taglie (Standard, Nano, Kaninchen) e 3 peli (Raso, Duro, Lungo). È un cane coraggioso, testardo e vocale. Nato per la caccia in tana (tasso). Richiede cure per la schiena.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bassotti-tedeschi",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bassotti tedeschi\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bassotti-tedeschi-3.jpg",
+      "filename": "Bassotti-tedeschi-3.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Pelo Raso/Lungo: Fulvo, Nero focato, Marrone focato. Pelo Duro: Cinghiale (più comune), Nero focato, Foglia secca.",
+      "temperamento_breve": "Testardo, Coraggioso, Vivace, Vocale",
+      "descrizione_generale": "<p>Il Bassotto Tedesco (Dachshund o Teckel) è una delle razze più riconoscibili al mondo, famoso per il suo corpo lungo e le zampe corte (\"cane salsiccia\"). È un cane da caccia, non un cane da compagnia, selezionato in Germania per stanare i tassi (Dachs = tasso) dalle loro tane. È un cane \"grande in un corpo piccolo", coraggioso, tenace, indipendente e molto vocale.</p><p>La razza è incredibilmente versatile, divisa in nove varietà basate su tre taglie (Standard, Nano, Kaninchen) e tre tipi di pelo (Raso, Duro, Lungo). Sebbene sia un compagno di famiglia affettuoso, la sua natura da cacciatore testardo e la sua vulnerabilità ai problemi della schiena richiedono un proprietario consapevole.</p>",       \"origini_storia\": \"<p>Le origini del Bassotto risalgono ai cani da seguita (Bracken) tedeschi del Medioevo. I cacciatori tedeschi iniziarono a selezionare esemplari con zampe corte (acondroplasia) per creare un cane che potesse non solo seguire la traccia, ma anche entrare nelle tane di tassi e volpi. Questo cane era il \"Dachshund\" (cane da tasso).</p><p>Inizialmente esisteva solo il pelo raso. Il Pelo Lungo fu sviluppato nel XVII secolo, probabilmente incrociando i Bassotti con gli Spaniel, per il lavoro in acqua. Il Pelo Duro fu creato alla fine del XIX secolo, incrociando il Pelo Raso con lo Schnauzer Nano, il Dandie Dinmont Terrier e forse lo Scottish Terrier, per creare un cane resistente ai rovi. Il Deutscher Teckelklub fu fondato nel 1888.</p>",
+      "aspetto_fisico": "<p>Tutti i Bassotti sono bassi, lunghi, muscolosi e con un petto profondo. La differenza è nella taglia (basata sulla circonferenza toracica) e nel pelo: <ul> <li><b>Taglie (circonferenza toracica):</b>     <ul>     <li><b>Standard:</b> Oltre 35 cm.</li>     <li><b>Nano (Zwerg):</b> Da 30 a 35 cm.</li>     <li><b>Kaninchen (da coniglio):</b> Fino a 30 cm.</li>     </ul> </li> <li><b>Pelo:</b>     <ul>     <li><b>Raso:</b> Corto, fitto, lucido.</li>     <li><b>Duro:</b> \"Fil di ferro", ruvido, con barba e sopracciglia.</li>
+    <li><b>Lungo:</b> Setoso, liscio, con frange su orecchie, arti e coda.</li>
+    </ul>
+</li>
+</ul>
+<p>I colori più comuni sono il fulvo, il nero focato e il cinghiale (solo pelo duro). Sono ammessi anche l'arlecchino (merle) e il tigrato.</p>",       \"carattere_temperamento\": \"<p>Il Bassotto è un cacciatore. È coraggioso, tenace, molto curioso e incredibilmente testardo. È un eccellente cane da allerta, molto territoriale e vocale (abbaia forte). È affettuoso con la sua famiglia, ma è un cane indipendente che non vive per compiacere.</p><p>Ha un forte istinto predatorio (non affidabile con roditori) e una passione per lo scavo. Può essere rissoso con altri cani, specialmente il pelo duro. L'addestramento alla pulizia è notoriamente difficile.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 12-16 anni. Il loro più grande problema di salute è la schiena. La loro conformazione (acondroplasia) li rende estremamente vulnerabili alla Malattia del Disco Intervertebrale (IVDD), ovvero l'ernia del disco, che può portare alla paralisi. È fondamentale impedire loro di saltare e di fare le scale, e mantenerli magri.</p><p>Sono inclini all'obesità. Il Pelo Duro richiede stripping, il Pelo Lungo spazzolate. I Bassotti arlecchino (doppio merle) sono soggetti a sordità e cecità.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adattano all'appartamento, ma hanno bisogno di passeggiate quotidiane (al guinzaglio) per sfogare la loro energia e il loro fiuto. L'attività deve essere controllata per proteggere la schiena.</p><p>L'addestramento è una sfida. Sono intelligenti ma testardi. Rispondono solo al rinforzo positivo (cibo) e a sessioni brevi. Non obbediranno se non ne vedono il motivo. Il richiamo è inaffidabile.</p>",
+      "ideale_per": "<p>È un cane per proprietari pazienti, che apprezzano un cane piccolo con un carattere enorme. È per chi è disposto a gestire la sua testardaggine e, soprattutto, a proteggere attivamente la sua schiena (vietato salire su divani e letti, evitare scale). È un ottimo cane da allerta.</p><p>Non è adatto a famiglie con bambini piccoli (che potrebbero ferirgli la schiena), a chi cerca un cane obbediente, o a chi vive in una casa con molte scale.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bayerischer gebirgsschweisshund",
+    "post_excerpt": "Cane da traccia (traccia di sangue) bavarese, specialista nel recupero della selvaggina ferita in montagna. È un cane da lavoro puro, calmo, tenace e con un fiuto eccezionale. È riservato esclusivamente ai cacciatori e alle guardie forestali.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bayerischer-gebirgsschweisshund",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bayerischer gebirgsschweisshund\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/bayerischer-gebirgsschweisshund-draussen.jpg",
+      "filename": "bayerischer-gebirgsschweisshund-draussen.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Baviera)",
+      "colorazioni": "Rosso cervo, Fulvo (in varie tonalità), Tigrato (con o senza maschera)",
+      "temperamento_breve": "Calmo, Tenace, Intelligente, Riservato",
+      "descrizione_generale": "<p>Il Bayerischer Gebirgsschweisshund, o Cane da Traccia Bavarese da Montagna, è un cane da caccia tedesco altamente specializzato. Come l'Hannoveriano, è uno \"Schweisshund", un cane da traccia di sangue. Il suo unico scopo è trovare la selvaggina di grossa taglia (cervi, camosci) ferita dopo lo sparo, in particolare sui terreni impervi delle Alpi Bavaresi.</p><p>È più leggero e agile del suo cugino di Hannover, ma ugualmente tenace. È un cane calmo, equilibrato e molto legato al suo conduttore, ma è un cane da lavoro puro, non un cane da compagnia. È riservato esclusivamente ai professionisti della caccia e del recupero.</p>",       \"origini_storia\": \"<p>La razza fu sviluppata in Baviera, alla fine del XIX secolo. I cacciatori di montagna avevano bisogno di un cane da traccia di sangue che fosse più leggero e agile del pesante Hannoverischer Schweisshund, per potersi muovere meglio sui terreni rocciosi e ripidi delle Alpi.</p><p>L'allevatore Barone Karg-Bebenburg di Reichenhall, intorno al 1870, incrociò i segugi da montagna locali (come il Segugio Tirolese) con l'Hannoverischer Schweisshund. Il risultato fu questo cane più agile, ma con lo stesso fiuto eccezionale. Il club di razza \"Klub für Bayerische Gebirgsschweisshunde\" fu fondato a Monaco nel 1912.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, leggero, muscoloso e leggermente allungato. L'altezza al garrese per i maschi è 47–52 cm, per le femmine 44–48 cm. Il peso è 20–25 kg. È un cane agile, con un posteriore forte per l'arrampicata.</p><p>Il mantello è corto, fitto e ruvido, con poco sottopelo. I colori sono quelli mimetici: rosso cervo, rosso-bruno, fulvo, giallo-sabbia, o tigrato (brindle), spesso con una maschera scura.</p>",
+      "carattere_temperamento": "<p>È un cane da lavoro puro. È calmo, sicuro di sé, molto intelligente e incredibilmente tenace sulla traccia. È molto legato al suo conduttore, con cui forma un team affiatato. È riservato e diffidente con gli estranei, ma non aggressivo.</p><p>È un cane da caccia specialistico, con un forte istinto. Non è un cane da compagnia e non è adatto alla vita in città.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza da lavoro molto sana e robusta. La displasia dell'anca è monitorata. Le orecchie pendenti richiedono pulizia. Il pelo corto è a manutenzione zero.</p>",
+      "attivita_addestramento": "<p>L'addestramento è esclusivamente per la traccia di sangue. È un cane che impara questo compito in modo eccellente. Le esigenze di esercizio sono legate al suo lavoro: lunghe ore di tracciamento in montagna.</p><p>Richiede un proprietario che sia un cacciatore specializzato nel recupero.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per cacciatori di ungulati, conduttori di cani da traccia abilitati e guardie forestali che lavorano in montagna. È un cane da lavoro specialistico e non è venduto come cane da compagnia.</p><p>Totalmente inadatto a qualsiasi altro stile di vita.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Beagle",
+    "post_excerpt": "Piccolo segugio inglese, allegro e socievole. Nato per la caccia alla lepre in muta. È un cane da famiglia eccellente, ottimo con bambini e altri cani. Tuttavia, è testardo, molto vocale (ulula) e governato dal suo naso.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "beagle",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Beagle\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Beagle.jpg",
+      "filename": "Beagle.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Tricolore (Nero, Focato, Bianco), Bicolore (Bianco e Limone, Bianco e Arancio/Rosso). Punta della coda sempre bianca.",
+      "temperamento_breve": "Allegro, Socievole, Testardo, Vocale",
+      "descrizione_generale": "<p>Il Beagle è uno dei cani da compagnia più popolari al mondo. È un piccolo segugio da muta, originario dell'Inghilterra, selezionato per la caccia alla lepre e al coniglio (\"Beagling\"), dove i cacciatori lo seguivano a piedi. È un cane compatto, robusto e dall'aspetto sempre allegro.</p><p>Il suo successo come cane da famiglia è dovuto al suo carattere eccezionale: è allegro, affettuoso, estroverso e incredibilmente socievole sia con le persone (bambini inclusi) che con altri cani. Tuttavia, la sua natura da segugio non va sottovalutata: è testardo, molto vocale (abbaia e ulula), un maestro della fuga e completamente governato dal suo fiuto e dal suo stomaco.</p>",
+      "origini_storia": "<p>Cani di tipo segugio di piccola taglia esistono in Inghilterra da secoli. Già nel XVI secolo, la Regina Elisabetta I era famosa per i suoi \"Pocket Beagles\" (Beagle tascabili), così piccoli da stare in una bisaccia. Il Beagle moderno, tuttavia, è stato sviluppato a metà del XIX secolo.</p><p>Il Reverendo Phillip Honeywood, nell'Essex, è considerato il padre della razza moderna. Egli selezionò una muta di cani non per l'aspetto, ma esclusivamente per l'abilità venatoria. Questi cani furono incrociati con altre razze, come l'Harrier, per migliorarne la struttura. Il Beagle Club fu fondato in Inghilterra nel 1890.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia piccola, robusto e compatto. L'altezza al garrese è 33–40 cm. Il peso è 10–15 kg. La struttura è solida, ma non grossolana. La testa è forte, con orecchie lunghe, pendenti e arrotondate.</p><p>Il mantello è corto, fitto e resistente alle intemperie. I colori più comuni sono il tricolore (bianco, nero e focato) e il bicolore (bianco e limone/arancio). Lo standard ammette \"qualsiasi colore da segugio\". La punta della coda deve essere sempre bianca, una caratteristica selezionata per renderlo visibile nell'erba alta.</p>",
+      "carattere_temperamento": "<p>Il Beagle è un cane da muta, quindi è estremamente socievole. Ama la compagnia (umana e canina) e soffre molto la solitudine, che esprime con ululati strazianti e distruttività. È allegro, affettuoso e molto paziente con i bambini.</p><p>È anche incredibilmente testardo. Il suo cervello è dominato da due cose: il naso e lo stomaco. Se sente una pista, è impossibile richiamarlo. È molto difficile da addestrare all'obbedienza perché non è motivato a compiacere, ma a seguire il suo istinto. È un maestro della fuga (scava e si arrampica).</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza generalmente sana, ma è estremamente incline all'obesità. La gestione del cibo è fondamentale. Può soffrire di epilessia, ipotiroidismo e problemi oculari (glaucoma, \"cherry eye\").</p><p>Le orecchie lunghe e pendenti richiedono una pulizia costante e attenta per prevenire otiti. Il mantello corto è facile da curare, ma perde pelo tutto l'anno.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. È un cane da caccia e ha bisogno di esercizio. Si adatta all'appartamento, ma richiede lunghe passeggiate quotidiane (sempre e solo al guinzaglio) e la possibilità di usare il naso. Un giardino deve essere a prova di fuga.</p><p>L'addestramento è una sfida. È testardo. L'addestramento alla pulizia è lento. Risponde solo al cibo, ma si distrae facilmente. È fondamentale non lasciarlo mai libero in aree non recintate, perché scapperà seguendo una traccia.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive, anche con bambini e altri animali, che cercano un cane allegro e socievole. È per proprietari pazienti, che non si frustrano per la testardaggine e sono disposti a gestirlo sempre al guinzaglio.</p><p>Non è adatto a chi vive in un condominio con vicini sensibili al rumore (ulula), a chi è ossessionato dalla pulizia (perde pelo), o a chi cerca un cane obbediente da lasciare libero. Non è un cane da guardia.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Beagle harrier",
+    "post_excerpt": "Raro segugio francese, taglia media tra Beagle e Harrier. È un cane da caccia alla lepre, energico, veloce e vocale. Cane da muta socievole, ma non è un cane da compagnia. Richiede un proprietario cacciatore e molto esercizio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "beagle-harrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Beagle harrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Beagle-harrier.jpg",
+      "filename": "Beagle-harrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia",
+      "colorazioni": "Tricolore (Bianco, Nero, Focato), a volte moschettato",
+      "temperamento_breve": "Energico, Veloce, Vocale, Socievole (con cani)",
+      "descrizione_generale": "<p>Il Beagle-Harrier è una razza di segugio francese di taglia media, creata incrociando, come suggerisce il nome, il Beagle e l'Harrier. L'obiettivo era creare un cane da caccia che avesse il fiuto e la tenacia del Beagle, ma la velocità e la taglia dell'Harrier, per la caccia alla lepre e alla volpe.</p><p>È un cane da lavoro puro, un atleta veloce, resistente e molto vocale. È un cane da muta, quindi è socievole con altri cani, ma non è un cane da compagnia per la città. È una razza molto rara, anche in Francia.</p>",
+      "origini_storia": "<p>La razza è stata sviluppata in Francia alla fine del XIX secolo. L'allevatore Barone Gérard Grandin de l'Eprevier è considerato il creatore della razza. Incrociò Beagle (per il fiuto e la passione) con Harrier (per la taglia e la velocità) per ottenere un cane da muta versatile.</p><p>La razza è sempre rimasta confinata nell'ambiente venatorio e non ha mai raggiunto la popolarità dei suoi due progenitori. È stata riconosciuta dalla FCI nel 1974 (Standard N° 290).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, che si colloca perfettamente tra i suoi antenati. L'altezza al garrese è 45–50 cm. È robusto, muscoloso e agile. Il mantello è corto, fitto e lucido. Il colore è quasi sempre tricolore (bianco, nero e focato), a volte con moschettature.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia. È energico, tenace, vocale e socievole con altri cani. È amichevole con le persone, ma non è un cane da famiglia. È un lavoratore con un istinto predatorio assoluto e un bisogno estremo di esercizio. È testardo e segue solo il suo naso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza da lavoro robusta. Le orecchie pendenti richiedono cura per le otiti. Il pelo corto è a manutenzione zero.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve cacciare in muta per ore. Non è adatto alla vita in appartamento. L'addestramento è esclusivamente venatorio. È totalmente inadatto a qualsiasi altro contesto.</p>",
+      "ideale_per": "<p>Esclusivamente per cacciatori di lepre e volpe che lavorano in muta e vivono in campagna. Non è un cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bearded collie",
+    "post_excerpt": "Antico cane da pastore scozzese (Highlands), noto per il suo lungo mantello \"arruffato\" (da cui \"Bearded", barbuto). È un cane da conduzione energico, intelligente ed esuberante. È un ottimo cane da famiglia, ma richiede toelettatura intensiva e molto esercizio.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "bearded-collie",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bearded collie\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bearded-collie.jpg",
+      "filename": "Bearded-collie.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia)",
+      "colorazioni": "Nero, Blu, Marrone, Fulvo (tutti con o senza macchie bianche). I cuccioli nascono scuri e si schiariscono.",
+      "temperamento_breve": "Esuberante, Intelligente, Affettuoso, Energico",
+      "descrizione_generale": "<p>Il Bearded Collie, o \"Beardie", è un antico cane da pastore scozzese, originario delle Highlands. È un cane da conduzione (herding), selezionato per radunare e guidare le pecore sui terreni impervi. È famoso per il suo lungo mantello "arruffato\" (shaggy) che gli copre il corpo e il muso, dandogli il nome \"Bearded\" (barbuto).</p><p>È un cane dalla personalità esuberante, un \"eterno cucciolo\" pieno di energia, intelligenza e buonumore. È un eccellente cane da famiglia, molto affettuoso e socievole. Tuttavia, il suo alto livello di energia richiede un proprietario attivo, e il suo magnifico mantello richiede un impegno di toelettatura quotidiano.</p>",
+      "origini_storia": "<p>Il Bearded Collie è una delle razze più antiche della Gran Bretagna. Si ritiene che i suoi antenati siano arrivati in Scozia nel XVI secolo, forse cani da pastore polacchi (come il PON) scambiati con pecore. Questi cani furono incrociati con i cani da pastore locali delle Highlands.</p><p>Per secoli è stato un cane da lavoro rustico. La razza moderna fu salvata da G.O. Willison, che nel 1944 acquistò una cucciola di nome \"Jeannie of Bothkennar", credendo fosse un Shetland. Scoprì che era una Bearded Collie e, non trovando un maschio, la fece accoppiare con un altro cane trovato per caso. Da quella cucciolata (e pochi altri) discende la razza moderna. Il Kennel Club inglese riconobbe la razza nel 1955.</p>",       \"aspetto_fisico\": \"<p>È un cane di taglia media-grande, snello e atletico sotto il pelo. L'altezza al garrese per i maschi è 53–56 cm, per le femmine 51–53 cm. Il peso è 18–27 kg. La struttura è agile e resistente.</p><p>Il mantello è doppio: un sottopelo soffice e un pelo di copertura lungo, piatto, ruvido e \"arruffato\" (shaggy). Il pelo forma barba, baffi e una frangia. I colori sono nero, blu, marrone o fulvo, con o senza macchie bianche (collare, petto, piedi, muso). I cuccioli nascono scuri e il colore \"sbiadisce\" con la crescita.</p>",
+      "carattere_temperamento": "<p>Il Beardie è un cane esuberante, giocherellone e molto intelligente. È un cane da pastore, quindi è energico, vocale e ha un istinto di conduzione (potrebbe \"radunare\" i bambini). È estremamente affettuoso e socievole con la famiglia, gli estranei e altri cani. Non è un cane da guardia.</p><p>È un cane sensibile che non risponde alla durezza. Soffre molto la solitudine e ha bisogno di essere parte della famiglia. Se annoiato, diventa distruttivo e abbaia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza generalmente sana, ma soggetta a displasia dell'anca. Può soffrire di malattie autoimmuni (come il Morbo di Addison) e di problemi oculari (PRA).</p><p>La cura del mantello è un impegno enorme. Non è un cane \"a bassa manutenzione\". Il pelo lungo deve essere spazzolato a fondo ogni giorno (o quasi) per prevenire la formazione di feltri dolorosi, che possono causare infezioni della pelle. Perde molto pelo stagionalmente.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento, a meno che il proprietario non sia molto attivo. Ha bisogno di lunghe passeggiate quotidiane, corse e, soprattutto, di stimolazione mentale.</p><p>È molto intelligente e addestrabile, ma è anche testardo e indipendente (un tratto da pastore). Si annoia facilmente. Risponde magnificamente al rinforzo positivo e al gioco. Eccelle in agility, herding e obedience.</p>",
+      "ideale_per": "<p>È ideale per famiglie attive, che vivono in una casa con giardino e cercano un cane socievole, intelligente e giocherellone. È perfetto per chi pratica sport cinofili. Richiede un proprietario disposto a dedicare tempo quotidiano alla toelettatura.</p><p>Non è adatto a persone sedentarie, a chi è ossessionato dalla pulizia (il pelo porta sporco e si perde), o a chi è fuori casa tutto il giorno.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Bedlington terrier",
+    "post_excerpt": "Terrier inglese dall'aspetto unico, simile a un agnello, ma con un cuore da leone. Nato a Bedlington per la caccia a tasso e volpe e per le corse. È un cane veloce, coraggioso e un compagno affettuoso. Richiede toelettatura (clipping).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bedlington-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bedlington terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bedlington-terrier.jpg",
+      "filename": "Bedlington-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra, Bedlington)",
+      "colorazioni": "Blu, Fegato (Liver), Sabbia (Sandy) - Con o senza focature (tan)",
+      "temperamento_breve": "Affettuoso, Vivace, Coraggioso, Intelligente",
+      "descrizione_generale": "<p>Il Bedlington Terrier è una delle razze più uniche, spesso descritta come un \"agnello\" nell'aspetto, ma un \"leone\" nel cuore. È un terrier di taglia media, originario della contea di Northumberland, in Inghilterra. È famoso per il suo mantello riccio e lanoso, la sua schiena arcuata e la sua testa a forma di pera.</p><p>Nonostante l'aspetto dolce, è un terrier da lavoro puro, allevato dai minatori di Bedlington per la caccia in tana (tassi, volpi) e per le corse (\"snap dog\"). È un cane veloce, coraggioso e tenace. In famiglia, è un compagno affettuoso e giocherellone, ma mantiene un forte istinto predatorio. Non perde pelo, ma richiede toelettatura professionale.</p>",
+      "origini_storia": "<p>La razza si è sviluppata all'inizio del XIX secolo nella città mineraria di Bedlington, nel Northumberland. Discende da terrier locali, in particolare il Rothbury Terrier. Si ritiene che per ottenere la sua forma unica, questi terrier siano stati incrociati con il Dandie Dinmont Terrier e, soprattutto, con il Whippet (da cui ha preso la schiena arcuata e l'incredibile velocità).</p><p>Era il cane dei minatori e dei bracconieri. Era un cacciatore versatile, capace di lavorare in tana, e un corridore velocissimo usato per le scommesse. Il primo cane chiamato Bedlington Terrier fu \"Piper", di proprietà di Joseph Ainsley nel 1825. Il Kennel Club inglese riconobbe la razza nel 1877.</p>",       \"aspetto_fisico\": \"<p>È un cane di taglia media, aggraziato ma muscoloso. L'altezza al garrese è di circa 41 cm. Il peso è 8–10 kg. La sua linea è unica: ha una schiena arcuata (\"roach back\") e una linea addominale retratta, simile a un levriero. La testa è a forma di pera, stretta, con un ciuffo setoso sulla sommità (top-knot).</p><p>Il mantello è la sua caratteristica: è un misto di peli duri e morbidi, molto fitto, lanoso e riccio, che si solleva dalla pelle. Non perde pelo (ipoallergenico). I colori sono blu, fegato (liver) o sabbia (sandy), con o senza focature (tan). I cuccioli nascono scuri e schiariscono.</p>",
+      "carattere_temperamento": "<p>Il Bedlington è un cane duale. In casa è calmo, affettuoso, gentile e un ottimo cane da compagnia. All'esterno, è un terrier energico, un corridore velocissimo e un cacciatore tenace. Ha un istinto predatorio molto forte (è pericoloso per gatti e roditori).</p><p>È un buon cane da allerta (abbaia), ma è generalmente amichevole con le persone se socializzato. Può essere molto rissoso con altri cani, un retaggio del suo passato da combattente. È intelligente ma testardo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. La razza è purtroppo afflitta da una grave malattia genetica ereditaria: la \"Tossicosi da Rame\" (Copper Toxicosis), una malattia metabolica che causa un accumulo letale di rame nel fegato. È fondamentale che gli allevatori testino i riproduttori per questa patologia.</p><p>Il mantello richiede una toelettatura (clipping) professionale ogni 6-8 settimane per mantenere il suo aspetto tipico. Richiede spazzolate regolari per evitare nodi.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto, ma esplosivo. Si adatta all'appartamento, ma ha bisogno di corse quotidiane ad alta velocità in un'area sicura e recintata (un giardino o un parco cani). Ama correre come un levriero.</p><p>L'addestramento richiede pazienza. È intelligente ma testardo. Risponde bene al rinforzo positivo. Il richiamo è inaffidabile a causa dell'istinto predatorio. Eccelle nell'agility e nel lure coursing.</p>",
+      "ideale_per": "<p>È ideale per proprietari attivi (anche in appartamento) che cercano un cane \"ipoallergenico\" e affettuoso, ma che sono consapevoli della sua natura da terrier. È per chi è disposto a impegnarsi nella toelettatura professionale e a gestire la sua potenziale reattività con altri cani.</p><p>Non è adatto a famiglie con piccoli animali domestici. Non è un cane per principianti. I proprietari devono essere consapevoli del rischio di Tossicosi da Rame e scegliere allevatori responsabili.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  }
+]

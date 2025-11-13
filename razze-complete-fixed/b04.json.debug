@@ -1,0 +1,474 @@
+[
+  {
+    "post_title": "Bichon a poil frise",
+    "post_excerpt": "Il Bichon à Poil Frisé è un piccolo cane da compagnia di origine franco-belga, noto per il suo mantello bianco, soffice e a forma di cavatappi. È un cane incredibilmente allegro, socievole e affettuoso, perfetto per la vita d'appartamento. Richiede una toelettatura quotidiana per evitare nodi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bichon-a-poil-frise",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bichon a poil frise\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bichon-a-poil-frise.jpg",
+      "filename": "Bichon-a-poil-frise.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia / Belgio",
+      "colorazioni": "Bianco puro",
+      "temperamento_breve": "Allegro, Affettuoso, Socievole, Vivace",
+      "descrizione_generale": "<p>Il Bichon à Poil Frisé, spesso chiamato semplicemente Bichon Frisé, è un piccolo cane da compagnia che incanta con il suo aspetto da \"batuffolo di cotone\" e il suo carattere gioioso. Il suo nome francese descrive perfettamente il suo mantello: \"à poil frisé\" significa \"a pelo riccio\", che si presenta a forma di cavatappi, soffice e voluminoso.</p><p>È un cane noto per la sua natura allegra, estroversa e incredibilmente affettuosa. Nato per essere un compagno, eccelle in questo ruolo, adattandosi magnificamente alla vita d'appartamento e cercando costantemente l'interazione umana. Nonostante l'aspetto delicato, è un cane robusto e vivace, che ama giocare e imparare.</p>",
+      "origini_storia": "<p>Le origini del Bichon Frisé risalgono ai cani da compagnia del Mediterraneo, in particolare ai piccoli cani d'acqua (Barbet) che hanno dato origine a tutta la famiglia dei \"Bichon\" (Maltese, Bolognese, Havanais). Si ritiene che la razza si sia sviluppata nelle Isole Canarie, in particolare a Tenerife, e sia stata importata in Europa da marinai italiani e francesi nel XIV secolo.</p><p>Divenne rapidamente il favorito delle corti reali francesi e italiane durante il Rinascimento. Dopo la Rivoluzione Francese, perse il suo status nobiliare e divenne un popolare cane da circo e da strada, apprezzato per la sua intelligenza e facilità di addestramento. La razza è stata formalmente standardizzata in Francia e Belgio negli anni '30 e ha ottenuto il riconoscimento FCI nel 1959.</p>",
+      "aspetto_fisico": "<p>Il Bichon Frisé è un cane piccolo e ben proporzionato. L'altezza al garrese non deve superare i 30 cm, con un peso che si aggira generalmente tra i 3 e i 6 kg. Ha occhi scuri molto espressivi e un tartufo nero lucido che spiccano sul mantello candido.</p><p>Il mantello è la sua caratteristica distintiva: è fine, setoso, molto soffice e forma riccioli a cavatappi (simili a quelli della capra della Mongolia). Non ha sottopelo e cresce continuamente, senza fare la muta. Il colore ammesso dallo standard è esclusivamente il **bianco puro**.</p>",
+      "carattere_temperamento": "<p>Il temperamento del Bichon è il suo punto forte. È un cane intrinsecamente allegro, estroverso, socievole e affettuoso. Ama essere al centro dell'attenzione e si lega profondamente alla sua famiglia, soffrendo se lasciato solo per lunghi periodi (può sviluppare ansia da separazione).</p><p>È molto intelligente e vivace, sempre pronto a giocare o a imparare nuovi comandi. È un ottimo cane da allarme, poiché abbaia per avvisare, ma non è un cane da guardia. È eccezionalmente socievole con estranei, bambini e altri animali domestici.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, attestandosi sui 12-15 anni. È una razza generalmente sana, ma è predisposta ad alcune patologie:</p>\n<ul>\n  <li><b>Allergie cutanee:</b> Molto comuni, spesso si manifestano con prurito e dermatiti.</li>\n  <li><b>Lussazione della rotula:</b> Un problema frequente nelle razze toy.</li>\n  <li><b>Problemi dentali:</b> A causa della piccola bocca, richiede un'igiene orale costante.</li>\n  <li><b>Calcoli vescicali.</b></li>\n</ul>\n<p>La toelettatura è l'impegno più grande: il mantello **non perde pelo** (è considerato ipoallergenico), ma deve essere **spazzolato quotidianamente** per evitare la formazione di nodi e feltri. Richiede una toelettatura professionale (taglio a forbice) ogni 4-6 settimane.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta perfettamente alla vita in appartamento, ma non è un cane sedentario. Ha bisogno di passeggiate quotidiane e di sessioni di gioco regolari per sfogare la sua energia vivace. È importante non viziarlo e trattarlo come un vero cane.</p><p>L'addestramento è relativamente facile grazie alla sua intelligenza e al suo desiderio di compiacere. Impara velocemente e risponde magnificamente al rinforzo positivo. Tuttavia, può essere un po' testardo nell'addestramento alla pulizia in casa (house-training).</p>",
+      "ideale_per": "<p>È il cane da compagnia ideale per quasi tutti: famiglie con bambini, anziani, single e chi vive in appartamento. È un'ottima scelta per chi soffre di allergie, data la sua natura ipoallergenica. È perfetto per chi cerca un cane affettuoso, allegro e sempre presente.</p><p>È **sconsigliato** a chi cerca un cane indipendente, a chi è fuori casa tutto il giorno e, soprattutto, a chi non è disposto a dedicare **almeno 15 minuti al giorno alla spazzolatura** del mantello.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Bichon havanais",
+    "post_excerpt": "Il Bichon Havanais, cane nazionale di Cuba, è un piccolo cane da compagnia noto per il suo lungo mantello setoso (in molti colori) e il suo carattere affettuoso. È un cane \"velcro", intelligente e vivace, ideale per la vita in appartamento. Soffre molto la solitudine e richiede cure al mantello.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "bichon-havanais",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bichon havanais\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bichon-havanais.jpg",
+      "filename": "Bichon-havanais.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Cuba (Patrocinio: FCI)",
+      "colorazioni": "Fulvo (in varie tonalità), Nero, Avana (marrone-rosso), Tabacco. Ammesse macchie e carbonature.",
+      "temperamento_breve": "Affettuoso, Vivace, Intelligente, Clownesco",
+      "descrizione_generale": "<p>Il Bichon Havanais, o Havanese, è un piccolo cane da compagnia appartenente alla famiglia dei Bichon, ed è l'unica razza nativa di Cuba, di cui è il cane nazionale. Si distingue dai suoi cugini (Bolognese, Frisé) per il suo mantello lungo, setoso e, soprattutto, per la vasta gamma di colori ammessi.</p><p>È un cane eccezionalmente affettuoso, un vero \"cane velcro\" che vive per la compagnia umana. È noto per la sua intelligenza vivace, la sua natura clownesca e la sua sorprendente agilità. È un compagno da appartamento ideale, ma il suo bisogno di contatto e la cura del mantello lo rendono un impegno serio.</p>",
+      "origini_storia": "<p>Le origini dell'Havanais risalgono ai piccoli cani (probabilmente Bichon di Tenerife) portati a Cuba da commercianti spagnoli e italiani durante l'epoca coloniale. Sull'isola, la razza si è sviluppata in totale isolamento per secoli, diventando il cane da grembo preferito dell'aristocrazia cubana nelle piantagioni di zucchero.</p><p>La Rivoluzione Cubana del 1959 ha quasi portato la razza all'estinzione. Le famiglie aristocratiche in fuga portarono con sé i loro cani negli Stati Uniti. Si stima che l'intero pool genetico odierno della razza discenda da soli 11 esemplari. Appassionati allevatori americani hanno salvato la razza, che è stata riconosciuta dalla FCI solo nel 1996.</p>",
+      "aspetto_fisico": "<p>L'Havanais è un cane piccolo ma robusto, leggermente più lungo che alto. L'altezza al garrese è compresa tra 23 e 27 cm, con un peso che varia dai 4,5 agli 8 kg. Ha un'andatura elastica e vivace, con la coda portata alta e arricciata sul dorso.</p><p>Il mantello è la sua caratteristica distintiva: è molto lungo (12-18 cm), morbido, setoso e quasi privo di sottopelo. Può essere piatto o leggermente ondulato. A differenza degli altri Bichon, sono ammessi molti colori:</p>\n<ul>\n  <li>Fulvo (in tutte le sfumature, dal sabbia al rosso)</li>\n  <li>Nero</li>\n  <li>Marrone Avana (color tabacco)</li>\n  <li>Sono ammesse macchie di questi colori e carbonature. Il bianco puro è raro.</li>\n</ul>",
+      "carattere_temperamento": "<p>L'Havanais è un cane da compagnia per eccellenza. È estremamente affettuoso, socievole e vive in simbiosi con il suo proprietario. Soffre terribilmente la solitudine e può sviluppare grave ansia da separazione se lasciato solo per troppe ore. È un \"cane ombra\".</p><p>È molto intelligente, vivace e ha un lato \"clownesco\", amando esibirsi per la famiglia. È un buon cane da allarme, vigile e pronto ad abbaiare, ma è amichevole con gli estranei una volta capito che sono i benvenuti. È ottimo con i bambini e altri animali.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 13-15 anni. È una razza generalmente sana, ma è soggetta ad alcune patologie comuni nelle razze piccole:</p>\n<ul>\n  <li><b>Lussazione della rotula.</b></li>\n  <li><b>Problemi oculari:</b> Come la cataratta giovanile.</li>\n  <li><b>Problemi dentali:</b> Richiede igiene orale regolare.</li>\n  <li><b>Sordità</b> (in alcuni esemplari).</li>\n</ul>\n<p>La toelettatura è molto impegnativa. Il mantello lungo e setoso, pur non perdendo pelo, deve essere **spazzolato quotidianamente** per evitare la formazione di nodi. Molti proprietari optano per un taglio \"puppy cut\" più corto e gestibile.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta perfettamente alla vita in appartamento, ma non è un cane pigro. Ha bisogno di passeggiate quotidiane e di molto gioco interattivo. È sorprendentemente agile e veloce.</p><p>È molto intelligente e facile da addestrare, grazie al suo desiderio di compiacere. Risponde magnificamente al rinforzo positivo. Eccelle in attività come l'agility per cani piccoli e l'obedience. Come altri Bichon, l'addestramento alla pulizia in casa può richiedere pazienza.</p>",
+      "ideale_per": "<p>È il cane perfetto per chi lavora da casa, per i pensionati o per famiglie molto presenti che desiderano un cane \"velcro\" affettuoso e giocherellone. È ideale per la vita in appartamento e per chi è disposto a dedicare tempo quotidiano alla toelettatura.</p><p>È **assolutamente sconsigliato** a chi è fuori casa per otto ore al giorno. La sua incapacità di tollerare la solitudine è il suo limite più grande. Non è adatto a chi cerca un cane indipendente o a bassa manutenzione.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Billy",
+    "post_excerpt": "Il Billy è un grande segugio francese, elegante e veloce, creato da Monsieur Billy per la caccia al cervo. È un cane da muta, energico e molto vocale. È una razza rara, adatta esclusivamente a cacciatori che vivono in campagna e lavorano in muta, non è un cane da compagnia.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "billy",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Billy\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Billy.jpg",
+      "filename": "Billy.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia",
+      "colorazioni": "Bianco, Bianco e Arancio (o Limone), Bianco caffellatte.",
+      "temperamento_breve": "Energico, Veloce, Vocale, Socievole (con cani)",
+      "descrizione_generale": "<p>Il Billy è un cane da seguita (segugio) francese di taglia grande, noto per la sua eleganza, la sua velocità e il suo mantello prevalentemente bianco. È un cane da caccia \"par force\", ovvero un cane che insegue la preda (originariamente cervi e caprioli, oggi cinghiali) ad alta velocità, lavorando in grandi mute.</p><p>È un cane con un'energia inesauribile e un istinto predatorio altissimo. È un lavoratore specializzato, apprezzato per la sua voce potente e la sua capacità di collaborare con altri cani. Non è assolutamente un cane da compagnia né da vita urbana.</p>",
+      "origini_storia": "<p>La razza porta il nome del suo creatore, Monsieur Gaston Hublot du Rivault, che viveva al Château de Billy, nella regione del Poitou, in Francia. Nel XIX secolo, Rivault volle creare il suo segugio da muta ideale. Per farlo, incrociò tre razze di cani da caccia bianchi, ora estinte: il Céris, il Montaimboeuf e il Larye.</p><p>Il risultato fu questo cane bianco, veloce ed elegante. La razza era quasi scomparsa dopo la Seconda Guerra Mondiale (si dice sopravvissero solo due esemplari), ma fu salvata dal figlio di Rivault, Antoine, che la ricostruì incrociando i superstiti con altre razze come il Poitevin e il Foxhound. Rimane una razza estremamente rara.</p>",
+      "aspetto_fisico": "<p>Il Billy è un segugio di taglia grande, atletico e leggero, ma muscoloso. L'altezza al garrese per i maschi è 60-70 cm, per le femmine 58-62 cm. Il peso si aggira sui 25-35 kg. Ha una testa asciutta ed elegante, con orecchie di media lunghezza, piatte e leggermente arrotolate.</p><p>Il mantello è corto, liscio e duro al tatto. Il colore è una sua caratteristica distintiva: è prevalentemente bianco, o bianco caffellatte. Può avere macchie di colore arancio pallido o limone.</p>",
+      "carattere_temperamento": "<p>È un cane da muta nel senso più puro. È estremamente energico, resistente e ossessionato dalla caccia. È un cane da \"grande vénerie", che copre enormi distanze a grande velocità. È molto vocale quando è sulla traccia.</p><p>Il suo temperamento è focalizzato sul lavoro e sulla muta. È molto socievole con gli altri cani, essendo allevato per collaborare. Con l'uomo è generalmente docile e amichevole, ma non è un cane da compagnia. Il suo istinto predatorio è assoluto e non è un cane da lasciare libero.</p>",       \"salute_cura\": \"<p>Essendo una razza da lavoro rara e selezionata per la funzionalità, è generalmente molto sana e rustica. L'aspettativa di vita è di 12-14 anni. Le uniche preoccupazioni sono i rischi legati all'attività venatoria (ferite) e le infezioni alle orecchie (otiti), comuni in tutti i segugi.</p><p>La cura del mantello corto è minima. Richiede solo una spazzolata occasionale.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme e non negoziabili. Questo cane non è fatto per la vita domestica. È allevato per correre per ore in grandi mute. Ha bisogno di vivere in un canile da caccia, in un contesto rurale, e di praticare l'attività venatoria.</p><p>L'addestramento all'obbedienza è quasi impossibile e inutile per il suo scopo. È un cane intelligente, ma totalmente indipendente e testardo. È addestrato solo per la caccia in muta. Il richiamo è inesistente in presenza di una traccia.</p>",
+      "ideale_per": "<p>Questo cane è adatto **esclusivamente a cacciatori** (in particolare chi pratica la \"vénerie\" o caccia a seguita) che gestiscono grandi mute in contesti rurali e boschivi. È un cane da lavoro specialistico.</p><p>È **assolutamente sconsigliato** a chiunque altro. Non è un cane da compagnia, non è un cane da appartamento, non è per principianti, non è per la città. È inadatto a qualsiasi altra forma di vita che non sia la caccia in muta.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Black and tan coonhound",
+    "post_excerpt": "Il Black and Tan Coonhound è un segugio americano di taglia grande, allevato per la caccia notturna a procioni e opossum. È un cane tenace, dal fiuto eccezionale e dalla voce profonda. Affettuoso in famiglia, è un cacciatore indipendente e vocale, non adatto alla città.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "black-and-tan-coonhound",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Black and tan coonhound\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Black-and-tan-coonhound.jpg",
+      "filename": "Black-and-tan-coonhound.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America",
+      "colorazioni": "Nero focato (Black and Tan)",
+      "temperamento_breve": "Tenace, Vocale, Affettuoso, Indipendente",
+      "descrizione_generale": "<p>Il Black and Tan Coonhound è un segugio americano di taglia grande, rinomato per il suo mantello nero focato e le sue lunghissime orecchie pendenti. È una delle sei varietà di Coonhound, cani specializzati nella caccia notturna al procione (raccoon) e all'opossum. Il loro compito è seguire la traccia olfattiva (anche vecchia) e \"mettere sull'albero\" la preda, abbaiando per segnalare la posizione al cacciatore.</p><p>È un cane dal carattere duplice: in casa è un compagno calmo, affettuoso e amante del divano, ma all'esterno si trasforma in un cacciatore instancabile, testardo e incredibilmente vocale. Richiede un proprietario paziente e un giardino sicuro.</p>",
+      "origini_storia": "<p>Questa razza è stata sviluppata negli Stati Uniti meridionali, principalmente sulle montagne Ozark e Appalachi, a partire dal XVIII secolo. I coloni avevano bisogno di un cane che potesse cacciare selvaggina autoctona come il procione. La razza è stata creata incrociando segugi europei (in particolare il Bloodhound, da cui ha preso il fiuto e le orecchie, e il Foxhound) con cani da caccia locali.</p><p>Il Black and Tan Coonhound è stato il primo tra i Coonhound ad essere riconosciuto come razza distinta dall'American Kennel Club (AKC), ottenendo la registrazione nel 1945. Rimane un cane da caccia molto popolare negli stati meridionali.</p>",
+      "aspetto_fisico": "<p>È un cane da seguita di taglia grande, robusto e potente. L'altezza al garrese per i maschi è 63-69 cm, per le femmine 58-64 cm. Il peso può essere considerevole, dai 30 ai 45 kg. La sua struttura è quella di un cane da traccia, con un'ossatura forte.</p><p>La testa è la sua caratteristica, con un'espressione dolce e implorante, e orecchie lunghissime, attaccate basse, che pendono in pieghe. Il mantello è corto e fitto. Il colore è sempre **nero corvino con focature (tan)** intense sopra gli occhi, ai lati del muso, sul petto e sulle zampe.</p>",
+      "carattere_temperamento": "<p>È un segugio tipico. È tenace, indipendente e governato dal suo naso. Quando sente una traccia, \"disconnette\" il cervello e segue l'odore, ululando e abbaiando con la sua voce profonda e melodiosa. È un cane che può essere molto testardo.</p><p>In famiglia, è sorprendentemente calmo, dolce e affettuoso. Ama il comfort e cerca il contatto umano. È generalmente buono con i bambini e altri cani (è un cane da muta), ma il suo istinto predatorio lo rende inadatto alla convivenza con piccoli animali. Sbava notevolmente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza robusta, ma soggetta a problemi tipici dei cani grandi con orecchie lunghe:</p>\n<ul>\n  <li><b>Displasia dell'anca e del gomito.</b></li>\n  <li><b>Otiti:</b> Le orecchie lunghe e chiuse sono un terreno fertile per infezioni e richiedono una pulizia costante e meticolosa.</li>\n  <li><b>Problemi oculari:</b> Come l'entropion e l'ectropion.</li>\n  <li><b>Torsione gastrica (Bloat).</b></li>\n</ul>\n<p>La cura del pelo è minima, ma la pulizia delle orecchie e della bava è un impegno quotidiano.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, ma non è un cane da corsa sfrenata; è un cane da traccia di resistenza. Ha bisogno di lunghe passeggiate (sempre al guinzaglio) in campagna o nel bosco, dove possa annusare. Non è adatto alla città. Richiede un giardino recintato in modo molto sicuro (è un maestro della fuga).</p><p>L'addestramento all'obbedienza è molto difficile. È intelligente, ma testardo e non motivato a compiacere. Il richiamo è quasi impossibile da insegnare. L'addestramento deve essere paziente e basato sul rinforzo positivo (cibo).</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** di procioni o per persone che praticano il **mantrailing** (ricerca olfattiva) a livello sportivo. È adatto a chi vive in un contesto rurale isolato (per via della sua vocalità), apprezza la natura di un segugio e non si fa problemi per bava e orecchie da pulire.</p><p>È **sconsigliato** ai proprietari principianti, a chi vive in appartamento o in città, e a chi ha vicini sensibili al rumore. Non può **mai** essere lasciato libero in aree non recintate.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bloodhound chien de saint-ubert",
+    "post_excerpt": "Il Bloodhound, o Cane di Sant'Uberto, è il segugio con il fiuto più potente al mondo. È un cane di taglia grande, nobile e calmo, noto per le sue rughe e le orecchie lunghissime. È un cane da traccia insuperabile, ma in casa è un \"gigante gentile", anche se testardo e sbava molto.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "bloodhound-chien-de-saint-ubert",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bloodhound chien de saint-ubert\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bloodhound-chien-de-saint-ubert.jpg",
+      "filename": "Bloodhound-chien-de-saint-ubert.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Belgio",
+      "colorazioni": "Nero focato (Black and Tan), Fegato focato (Liver and Tan), Rosso solido.",
+      "temperamento_breve": "Affettuoso, Tenace (sul fiuto), Calmo, Testardo",
+      "descrizione_generale": "<p>Il Bloodhound, conosciuto in Europa come Chien de Saint-Ubert, è un cane da seguita di taglia grande, universalmente riconosciuto come il cane con il miglior olfatto del mondo. È un \"cane da traccia\" per eccellenza, capace di seguire una pista vecchia di giorni per chilometri.</p><p>Nonostante il suo aspetto imponente, con la pelle lassa, le rughe profonde e le orecchie lunghissime, il Bloodhound è un \"gigante gentile\". È un cane eccezionalmente calmo, affettuoso e docile con le persone, ma è anche incredibilmente testardo e indipendente quando il suo naso si attiva. È un cane che sbava moltissimo.</p>",
+      "origini_storia": "<p>Le origini della razza sono antichissime e risalgono ai segugi allevati nel monastero di Saint-Ubert, nelle Ardenne belghe, già nel VII secolo. Questi cani erano famosi per la loro abilità nel seguire le tracce di selvaggina e persone. Si dice che Guglielmo il Conquistatore abbia portato alcuni di questi cani in Inghilterra nel 1066.</p><p>In Inghilterra, la razza fu ulteriormente sviluppata e prese il nome di \"Bloodhound", che non significa "cane sanguinario", ma "cane di sangue puro\" (blooded-hound), per indicare la sua nobile e antica linea di sangue. È stato usato per secoli per la caccia, ma anche per la ricerca di criminali e persone scomparse.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, massiccio e potente. L'altezza al garrese per i maschi è 64-72 cm, per le femmine 58-66 cm. Il peso è notevole, 40-54 kg. La sua testa è la caratteristica distintiva: è grande, lunga, con una pelle lassa che forma rughe profonde. Le orecchie sono estremamente lunghe e sottili, e le palpebre inferiori sono cadenti (ectropion), mostrando la congiuntiva.</p><p>Il mantello è corto e fitto. I colori ammessi sono tre:</p>\n<ul>\n  <li>Nero focato (Black and Tan)</li>\n  <li>Fegato focato (Liver and Tan)</li>\n  <li>Rosso solido (Red)</li>\n</ul>",
+      "carattere_temperamento": "<p>Il Bloodhound è un cane di contrasti. In casa è calmo, gentile, affettuoso e molto paziente con i bambini. Ama il comfort. All'esterno, se il suo naso intercetta una traccia, diventa un lavoratore instancabile, tenace e incredibilmente testardo, sordo a qualsiasi richiamo.</p><p>È un cane molto vocale, con un ululato profondo e caratteristico. È generalmente socievole con altri cani e persone, non è un cane da guardia. È anche un cane che sbava in modo proverbiale. È sensibile e non risponde ai metodi duri.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è purtroppo breve, 8-10 anni. La sua conformazione lo predispone a molti problemi:</p>\n<ul>\n  <li><b>Torsione gastrica (Bloat):</b> Rischio altissimo.</li>\n  <li><b>Otiti:</b> Le orecchie lunghissime e chiuse sono il suo tallone d'Achille. Richiedono pulizia quotidiana e sono soggette a infezioni croniche.</li>\n  <li><b>Problemi oculari:</b> Entropion ed Ectropion, che richiedono spesso interventi chirurgici.</li>\n  <li><b>Displasia dell'anca e del gomito.</b></li>\n</ul><p>La cura del pelo è minima, ma la pulizia di orecchie, occhi e bava è un impegno quotidiano molto gravoso.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, ma di tipo olfattivo. Non è un corridore, ma un camminatore di resistenza. Ha bisogno di lunghe passeggiate (sempre al guinzaglio) in campagna. L'attività ideale per lui è il **mantrailing** (ricerca persone).</p><p>L'addestramento all'obbedienza è **estremamente difficile**. È classificato come una delle razze meno obbedienti, non per mancanza di intelligenza, ma per eccesso di indipendenza e distrazione olfattiva. Richiede un proprietario paziente che capisca la natura di un segugio.</p>",
+      "ideale_per": "<p>È ideale per appassionati di **mantrailing** o per chi lavora nella protezione civile. È adatto a proprietari molto pazienti, che vivono in campagna, e che non si fanno problemi per la bava, l'odore e la cura costante di orecchie e occhi. È un cane da \"specialisti\".</p><p>È **sconsigliato** ai proprietari principianti, ai maniaci della pulizia, a chi vive in appartamento (a meno che non sia un professionista della ricerca) e a chi desidera un cane obbediente. Non può **mai** essere lasciato libero.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bobtail",
+    "post_excerpt": "Il Bobtail, o Old English Sheepdog, è un cane da pastore inglese di taglia grande, famoso per il suo mantello \"shaggy\" (ispido) e l'andatura da orso. È un cane \"clown", affettuoso ed esuberante, ottimo per le famiglie. Richiede un impegno estremo nella toelettatura e socializzazione.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "bobtail",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bobtail\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bobtail.jpg",
+      "filename": "Bobtail.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Qualsiasi tonalità di Grigio, Grigio-blu (Grizzle), Blu, Blu Merle, con o senza macchie bianche.",
+      "temperamento_breve": "Esuberante, Affettuoso, Intelligente, Clownesco",
+      "descrizione_generale": "<p>Il Bobtail, il cui nome ufficiale è Old English Sheepdog, è un cane da pastore di taglia grande, originario dell'Inghilterra occidentale. È famoso per il suo aspetto da \"orso\" peloso, con un mantello folto e ispido (\"shaggy\") che gli copre tutto il corpo, inclusi gli occhi, e per la sua caratteristica andatura dondolante (amble).</p><p>È un cane dal carattere esuberante, un \"eterno cucciolo\" noto per la sua natura clownesca e il suo temperamento affettuoso. È un eccellente cane da famiglia, molto paziente con i bambini. Tuttavia, la sua gestione richiede un impegno enorme nella toelettatura e un addestramento costante per gestire la sua esuberanza.</p>",
+      "origini_storia": "<p>Le origini esatte del Bobtail sono incerte, ma si è sviluppato nel West Country inglese (Devon, Somerset) nel XIX secolo come cane da pastore. Era un \"drover's dog", un cane usato per condurre il bestiame (pecore e bovini) ai mercati. Si pensa discenda da un mix di cani da pastore europei, tra cui forse l'Owtcharka russo e il Pastore Bergamasco.</p><p>Il nome "Bobtail\" (coda mozza) deriva dall'antica usanza di tagliare la coda ai cani da lavoro per dimostrare il loro status ed evitare le tasse. Divenne molto popolare come cane da esposizione alla fine dell'era vittoriana. La sua fama mondiale è esplosa negli anni '60 e '70, diventando un'icona della cultura pop (ad esempio, il cane dei Beatles \"Martha\").</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, forte, compatto e molto muscoloso. L'altezza al garrese è di circa 61 cm per i maschi e 56 cm per le femmine. Il peso si aggira sui 30-45 kg. È un cane più alto al posteriore che al garrese. La coda è spesso naturalmente corta (bobtail) o veniva tradizionalmente amputata.</p><p>Il mantello è la sua caratteristica: è doppio, con un pelo di copertura ruvido, ispido e non riccio, e un sottopelo impermeabile e denso. È un mantello che richiede un'enorme cura. I colori sono qualsiasi tonalità di grigio, grigio-blu (grizzle) o blu, con la parte posteriore del corpo più scura e la testa, il collo e le zampe bianche (con o senza macchie).</p>",
+      "carattere_temperamento": "<p>Il Bobtail è un cane da pastore nel cuore, ma con un temperamento da \"clown\". È esuberante, giocherellone, intelligente e molto affettuoso. Sviluppa un legame fortissimo con la famiglia e ama essere al centro dell'attenzione. È molto paziente e protettivo con i bambini.</p><p>È un buon cane da allarme, con un abbaio profondo e sonoro. Ha un forte istinto da conduzione e può tentare di \"radunare\" (spingendo con il corpo) i membri della famiglia. È intelligente ma può essere testardo. Richiede una socializzazione precoce per gestire la sua esuberanza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza robusta, ma soggetta a diverse patologie:</p>\n<ul>\n  <li><b>Displasia dell'anca e del gomito:</b> Molto comune.</li>\n  <li><b>Torsione gastrica (Bloat).</b></li>\n  <li><b>Problemi oculari:</b> Come la cataratta e l'Atrofia Progressiva della Retina (PRA).</li>\n  <li><b>Ipotiroidismo.</b></li>\n  <li><b>Sordità:</b> Può essere legata al bianco eccessivo sulla testa.</li>\n</ul>\n<p>La toelettatura è **estremamente impegnativa**. Il mantello folto deve essere spazzolato a fondo fino alla pelle per diverse ore ogni settimana, per evitare che il sottopelo si infeltrisca formando un \"guscio\" doloroso. Perde molto pelo.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, ma non è un cane iperattivo. Ha bisogno di lunghe passeggiate quotidiane e di gioco. Non è un cane da corsa sfrenata, ma un cane da trotto resistente. Si adatta alla vita in casa, ma ha bisogno di un giardino. Soffre il caldo.</p><p>L'addestramento è necessario per gestire la sua mole e la sua esuberanza. È intelligente ma ha un lato testardo da \"orso\". Risponde bene al rinforzo positivo e alla coerenza. La sua natura da \"clown\" può renderlo deconcentrato.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive, con bambini, che hanno molto spazio e, soprattutto, moltissimo tempo da dedicare alla toelettatura (o il budget per un professionista). È per chi cerca un cane affettuoso, protettivo e dalla personalità esuberante.</p><p>È **assolutamente sconsigliato** ai maniaci della pulizia (perde pelo e porta sporco in casa) e a chi non è disposto a dedicare **almeno 3-4 ore a settimana alla spazzolatura**. Non è un cane per climi caldi.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Bolognese",
+    "post_excerpt": "Il Bolognese è un antico cane da compagnia italiano, appartenente alla famiglia dei Bichon. È un cane \"velcro", calmo, serio e incredibilmente devoto al suo proprietario. Il suo mantello bianco e fioccoso non perde pelo, ma richiede cure quotidiane. Soffre molto la solitudine.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "bolognese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bolognese\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bolognese.jpg",
+      "filename": "Bolognese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Bologna)",
+      "colorazioni": "Bianco puro",
+      "temperamento_breve": "Affettuoso (Velcro), Calmo, Riservato, Intelligente",
+      "descrizione_generale": "<p>Il Bolognese è un'antica razza italiana da compagnia, appartenente alla famiglia dei Bichon (come il Maltese e il Frisé). È un cane di piccola taglia, noto per il suo mantello bianco, lungo e fioccoso (non riccio), che gli conferisce un aspetto da nuvola. È un cane esclusivamente da compagnia, allevato per secoli per questo unico scopo.</p><p>A differenza del cugino Bichon Frisé (più estroverso), il Bolognese ha un carattere più calmo, serio e riservato. È un \"cane velcro\" per eccellenza: sviluppa un legame simbiotico con il suo proprietario e soffre profondamente la solitudine. È un compagno devoto, ma impegnativo dal punto di vista emotivo e della toelettatura.</p>",
+      "origini_storia": "<p>Le origini del Bolognese sono antichissime e si fondono con quelle del Maltese. Discende dai cani da compagnia del Mediterraneo, apprezzati già nell'Antica Roma. Il suo sviluppo specifico è legato alla città di Bologna, da cui prende il nome, e alle corti nobiliari italiane del Rinascimento, come i Gonzaga e i Medici.</p><p>Era un dono preziosissimo tra le casate nobiliari d'Europa. Filippo II di Spagna, dopo averne ricevuti due in dono, scrisse che erano \"il dono più regale che si potesse fare a un imperatore\". Come molte razze aristocratiche, ha rischiato l'estinzione, ma è stato salvato da allevatori italiani nel XX secolo.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo e compatto. L'altezza al garrese per i maschi è 27-30 cm, per le femmine 25-28 cm. Il peso è compreso tra 2,5 e 4 kg. Ha una struttura quadrata e un aspetto molto elegante.</p><p>Il mantello è la sua caratteristica: è lungo su tutto il corpo, sollevato in \"fiocchi\" (flocculento) e mai piatto o liscio. È privo di sottopelo e non fa muta (ipoallergenico). Il colore è **bianco puro**, senza alcuna macchia o sfumatura.</p>",
+      "carattere_temperamento": "<p>Il Bolognese è un cane da compagnia calmo, serio e molto intelligente. È meno esuberante di altri Bichon. Il suo tratto distintivo è la devozione assoluta al proprietario: è un cane \"ombra\" che ha bisogno costante di contatto fisico e visivo. Per questo, soffre di ansia da separazione più di quasi ogni altra razza.</p><p>È riservato e diffidente verso gli estranei, il che lo rende un ottimo cane da allarme (abbaia per avvisare). È sensibile e non tollera i modi bruschi. È un cane riflessivo che ama la tranquillità della casa.</p>",
+      "salute_cura": "<p>È una razza molto longeva, con un'aspettativa di vita di 14-16 anni. È generalmente sana, ma è soggetta ai problemi tipici delle razze toy:</p>\n<ul>\n  <li><b>Lussazione della rotula.</b></li>\n  <li><b>Problemi dentali:</b> Richiede igiene orale costante.</li>\n  <li><b>Macchie da lacrimazione (tear staining):</b> Il pelo bianco sotto gli occhi tende a macchiarsi di rosso e richiede una pulizia quotidiana.</li>\n</ul>\n<p>La toelettatura è molto impegnativa. Il mantello fioccoso deve essere **spazzolato quotidianamente** per evitare la formazione di nodi. Non va tosato, ma mantenuto al naturale e pulito.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. È il perfetto cane da appartamento. Si accontenta di brevi passeggiate quotidiane e di molto gioco in casa. Non è un cane sportivo, ma ama imparare e interagire con il proprietario.</p><p>È intelligente e addestrabile, ma la sua sensibilità richiede metodi esclusivamente gentili e positivi. Può essere un po' testardo e l'addestramento alla pulizia in casa può richiedere tempo. È un cane che impara per compiacere il proprietario a cui è legato.</p>",
+      "ideale_per": "<p>È il cane ideale per **persone pensionate, anziani** o per chi lavora da casa e desidera un compagno da grembo calmo, devoto e sempre presente. È perfetto per chi vive in appartamento e ha molto tempo da dedicare alla compagnia e alla toelettatura.</p><p>È **assolutamente sconsigliato** a chi è fuori casa tutto il giorno. Non è un cane per famiglie con bambini piccoli e rumorosi (ama la tranquillità) o per chi cerca un cane indipendente e a bassa manutenzione.</p>",
+      "energia_e_livelli_di_attivita": 2.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Border collie",
+    "post_excerpt": "Il Border Collie è considerato il cane più intelligente del mondo. È un \"workaholic\" (drogato di lavoro) di taglia media, selezionato in Scozia per la conduzione delle pecore. È un atleta instancabile che richiede un proprietario esperto e un'enorme stimolazione fisica e, soprattutto, mentale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "border-collie",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Border collie\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Border-collie.jpg",
+      "filename": "Border-collie.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia/Inghilterra)",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammessi, il bianco non deve mai predominare.",
+      "temperamento_breve": "Intelligente, Energico (Workaholic), Addestrabile, Reattivo",
+      "descrizione_generale": "<p>Il Border Collie è universalmente riconosciuto come la razza canina più intelligente. È un cane da pastore (herding) di taglia media, un atleta supremo e un lavoratore instancabile. Sviluppato nella regione di confine (border) tra Scozia e Inghilterra, è il re della conduzione delle pecore, famoso per il suo \"occhio\" ipnotico e i suoi movimenti felini.</p><p>È un cane \"workaholic\" (drogato di lavoro) che ha un bisogno viscerale di avere un compito. La sua intelligenza e la sua energia sono estreme e, se non incanalate, portano a gravi problemi comportamentali. È un compagno leale per proprietari esperti e molto attivi, ma non è un cane per tutti.</p>",
+      "origini_storia": "<p>La razza si è sviluppata per secoli nella regione dei Borders tra Scozia e Inghilterra, un'area dove la pastorizia era fondamentale. I pastori selezionarono cani esclusivamente per la loro abilità lavorativa, premiando l'intelligenza, la resistenza e la capacità di lavorare a distanza con l'uomo.</p><p>Il capostipite della razza moderna è un cane di nome \"Old Hemp\", nato nel 1893. Hemp era un cane straordinario, che lavorava in modo silenzioso e intuitivo, usando il suo famoso \"occhio\" (lo sguardo fisso) per controllare le pecore. La sua abilità era tale che divenne il modello per lo standard. La razza è stata riconosciuta dal Kennel Club inglese solo nel 1976, poiché gli allevatori temevano che la selezione estetica rovinasse le sue doti lavorative.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, atletico e molto agile. L'altezza al garrese per i maschi è 50-56 cm, per le femmine 48-53 cm. Il peso varia dai 14 ai 22 kg. La sua struttura è costruita per la velocità e la resistenza, mai pesante.</p><p>Esiste in due varietà di pelo: moderatamente lungo (Rough) e corto (Smooth). Entrambi hanno un sottopelo denso. Il colore più famoso è il **bianco e nero**, ma lo standard FCI ammette tutti i colori e le combinazioni (es. blu merle, tricolore, rosso), a condizione che il bianco non sia mai il colore predominante.</p>",
+      "carattere_temperamento": "<p>Il Border Collie è un concentrato di intelligenza, energia e reattività. È un cane che ha bisogno di un lavoro 24 ore su 24. Impara a una velocità sbalorditiva, ma questo significa che impara anche le cattive abitudini all'istante. È estremamente sensibile ai suoni e ai movimenti.</p><p>Sviluppa un legame fortissimo con il proprietario, ma il suo istinto da conduzione è sempre attivo: cercherà di radunare qualsiasi cosa si muova (bambini, gatti, auto), spesso mordicchiando i talloni. Se annoiato, diventa nevrotico, distruttivo, abbaia e sviluppa comportamenti ossessivi.</p>",
+      "salute_cura": "<p>È una razza generalmente sana, con un'aspettativa di vita di 12-15 anni. Tuttavia, la sua popolarità ha diffuso alcune patologie genetiche:</p>\n<ul>\n  <li><b>Anomalia dell'occhio del Collie (CEA):</b> Molto diffusa, è necessario un test.</li>\n  <li><b>Mutazione del gene MDR1:</b> Ipersensibilità a molti farmaci.</li>\n  <li><b>Displasia dell'anca e del gomito.</b></li>\n  <li><b>Epilessia:</b> Presente in alcune linee di sangue.</li>\n</ul>\n<p>La cura del mantello (specialmente quello lungo) richiede spazzolate regolari (più volte a settimana) per evitare nodi e gestire la perdita di pelo, che è abbondante.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio fisico e mentale sono **ESTREME**. Non è un cane da passeggiata. Richiede ore di attività quotidiana, ma l'attività fisica da sola non basta: ha bisogno di **lavoro mentale complesso**. È il re assoluto dell'Agility, dell'Obedience, del Flyball, del Disc Dog e della Sheepdog (pastorizia).</p><p>È il cane più addestrabile al mondo, ma questo lo rende difficile. Richiede un proprietario esperto, attivo, che sappia come stimolare la sua mente e come essere un leader calmo e coerente. Non è un cane che si \"spegne\" mai.</p>",
+      "ideale_per": "<p>È un cane ideale **esclusivamente per agonisti di sport cinofili** (Agility, Obedience) o per veri pastori. È per persone che dedicano la loro vita all'addestramento e all'attività con il cane. Richiede un impegno totale e uno stile di vita adeguato.</p><p>È **assolutamente sconsigliato** alla stragrande maggioranza delle famiglie. Non è un cane da compagnia, non è per principianti, non è per la vita in appartamento, non è per persone sedentarie. È un \"workaholic\" che, se disoccupato, diventa profondamente infelice e problematico.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Border terrier",
+    "post_excerpt": "Il Border Terrier è un piccolo terrier da lavoro originario del confine tra Scozia e Inghilterra. Noto per la sua testa \"da lontra\" e il mantello \"fil di ferro", è un cacciatore tenace ma anche un compagno affettuoso e adattabile. Meno rissoso di altri terrier, richiede comunque esercizio e un giardino sicuro.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "border-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Border terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Border-terrier.jpg",
+      "filename": "Border-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia/Inghilterra)",
+      "colorazioni": "Rosso, Grano (Wheaten), Grigio focato (Grizzle and Tan), Blu focato (Blue and Tan).",
+      "temperamento_breve": "Tenace, Affettuoso, Energico, Adattabile",
+      "descrizione_generale": "<p>Il Border Terrier è un piccolo cane da terrier originario della regione di confine (border) tra la Scozia e l'Inghilterra. È un cane da lavoro rustico, selezionato per la sua capacità di seguire a cavallo i Foxhound e di stanare le volpi dalla tana. È famoso per la sua testa unica, descritta come \"simile a quella di una lontra\".</p><p>A differenza di molti terrier, il Border è noto per essere meno rissoso con gli altri cani e per avere un temperamento più equilibrato e affettuoso in famiglia. Mantiene però un istinto predatorio altissimo e un'energia da terrier. È un \"grande cane in un corpo piccolo", adattabile ma che richiede un proprietario attivo.</p>",       \"origini_storia\": \"<p>La razza si è sviluppata nel XVIII secolo nella regione collinare dei Cheviot Hills, al confine tra Inghilterra e Scozia. I contadini e i pastori locali avevano bisogno di un terrier che fosse abbastanza veloce da seguire i cavalli, ma abbastanza piccolo e tenace da entrare nelle tane rocciose per stanare le volpi che predavano gli agnelli.</p><p>Per secoli è stato allevato esclusivamente per la sua abilità lavorativa (\"gameness\"), con poca attenzione all'estetica. La sua struttura doveva essere tale da poter essere \"attraversato da un uomo con le sue mani\" (per misurarne il torace). È stato riconosciuto dal Kennel Club inglese solo nel 1920, essendo una delle ultime razze di terrier ad essere standardizzate.</p>",
+      "aspetto_fisico": "<p>È un terrier piccolo ma robusto e atletico. Il peso è un elemento chiave: 5,9-7,1 kg per i maschi e 5,1-6,4 kg per le femmine. L'altezza è proporzionata. La sua caratteristica unica è la testa \"a lontra", con un cranio moderatamente largo e un muso corto e forte.</p><p>Il mantello è doppio: un pelo di copertura duro e "fil di ferro\" (wire) e un sottopelo fitto e morbido. Questo mantello lo rende molto resistente alle intemperie. I colori ammessi sono:</p>\n<ul>\n  <li>Rosso</li>\n  <li>Grano (Wheaten)</li>\n  <li>Grigio focato (Grizzle and Tan)</li>\n  <li>Blu focato (Blue and Tan)</li>\n</ul>",
+      "carattere_temperamento": "<p>Il Border Terrier è un cane da lavoro tenace e coraggioso. Ha un istinto predatorio molto elevato ed è un maestro della fuga e dello scavo: inseguirà qualsiasi cosa piccola e pelosa. È un cane vigile e un buon avvisatore.</p><p>In famiglia, è eccezionalmente affettuoso, leale e desideroso di compiacere (per essere un terrier). È generalmente più socievole con gli altri cani rispetto ai suoi cugini terrier e molto buono con i bambini. È intelligente ma mantiene un lato testardo e indipendente. È un cane attivo che ama l'avventura.</p>",
+      "salute_cura": "<p>È una delle razze terrier più sane e longeve, con un'aspettativa di vita di 14-16 anni. Tuttavia, è soggetto ad alcune patologie genetiche:</p>\n<ul>\n  <li><b>CECS (Sindrome delle convulsioni epilettiche canine):</b> Nota anche come \"malattia di Spike", un disturbo neurologico.</li>\n  <li><b>Atrofia Progressiva della Retina (PRA).</b></li>\n  <li><b>Lussazione della rotula.</b></li>\n</ul><p>Il mantello "fil di ferro\" non perde molto pelo, ma richiede cure specifiche: deve essere **strippato** (strappato a mano) 2-3 volte l'anno. La tosatura ne rovina la tessitura e il colore.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio. È un cane piccolo ma instancabile. Ha bisogno di lunghe passeggiate quotidiane, escursioni e la possibilità di correre in un'area sicura. È un atleta sorprendente, eccellente in Agility e Earthdog (prove in tana).</p><p>L'addestramento è moderatamente facile. È intelligente e più addestrabile di altri terrier, ma la sua testardaggine richiede pazienza e coerenza. Il rinforzo positivo e il cibo funzionano bene. Il richiamo è il suo punto debole a causa dell'istinto predatorio.</p>",
+      "ideale_per": "<p>È un eccellente \"primo terrier\" per proprietari attivi. È ideale per famiglie che vivono in campagna o in città (si adatta bene all'appartamento se portato fuori), purché il giardino sia a prova di fuga. È per chi cerca un cane piccolo ma robusto e avventuroso.</p><p>È **sconsigliato** a persone sedentarie e a chi ha piccoli animali domestici (criceti, conigli). Richiede un impegno nella toelettatura (stripping) e una gestione attenta del guinzaglio in aree aperte.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Boston terrier",
+    "post_excerpt": "Il Boston Terrier, il \"Gentiluomo Americano", è un cane da compagnia vivace e affettuoso, noto per il suo smoking bianco e nero. È un cane brachicefalo, ideale per la vita d'appartamento, ma la sua conformazione richiede attenzione alla salute, specialmente al caldo.",     \"post_type\": \"razze_di_cani",
+    "post_status": "publish",
+    "slug": "boston-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Boston terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Boston-terrier.jpg",
+      "filename": "Boston-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America (Boston)",
+      "colorazioni": "Tigrato (Brindle), Nero o Foca (Seal) - Tutti con macchie bianche.",
+      "temperamento_breve": "Vivace, Intelligente, Affettuoso, Comico",
+      "descrizione_generale": "<p>Il Boston Terrier è una delle poche razze sviluppate interamente negli Stati Uniti, tanto da essere soprannominato \"il Gentiluomo Americano\". È un cane da compagnia di piccola taglia, compatto e muscoloso, immediatamente riconoscibile per il suo mantello liscio che ricorda uno \"smoking\" (bianco e nero/tigrato) e la sua espressione attenta e intelligente.</p><p>È un cane vivace, affettuoso e con un grande senso dell'umorismo, che si adatta perfettamente alla vita in appartamento. È un compagno devoto, ma la sua natura brachicefala (muso corto) lo rende vulnerabile ai climi estremi e richiede specifiche attenzioni alla salute.</p>",
+      "origini_storia": "<p>La razza nacque a Boston, Massachusetts, intorno al 1870. Le sue origini sono molto precise: un uomo di nome Robert C. Hooper acquistò un cane di nome \"Judge", un incrocio tra un Bulldog Inglese e un White English Terrier (ora estinto). Questo cane, "Hooper's Judge\", è considerato il capostipite di tutti i Boston Terrier moderni.</p><p>Judge fu incrociato con femmine più piccole, e i suoi discendenti furono ulteriormente incrociati, probabilmente con il Bulldog Francese, per ridurne la taglia e fissare le orecchie erette. Nata come cane da combattimento, la razza fu rapidamente trasformata in un cane da compagnia raffinato. L'AKC la riconobbe nel 1893.</p>\",
+      \"aspetto_fisico": "<p>È un cane piccolo ma robusto. Lo standard AKC divide la razza in tre categorie di peso: sotto i 6,8 kg, tra 6,8 e 9 kg, e tra 9 e 11,3 kg. La testa è quadrata (\"boxy\"), con un muso corto (brachicefalo) e grandi occhi scuri e rotondi. Le orecchie sono erette (naturali o tagliate).</p><p>Il mantello è corto, liscio e lucido. Il colore deve essere sempre **pezzato**, con macchie bianche obbligatorie su muso, fronte, collo, petto e zampe. I colori ammessi per le macchie sono:</p>\n<ul>\n  <li><b>Tigrato (Brindle)</b> - il preferito</li>\n  <li><b>Nero</b></li>\n  <li><b>Foca (Seal)</b> - un nero che controluce appare rossastro.</li>\n</ul>",
+      "carattere_temperamento": "<p>Il Boston Terrier è un cane pieno di vita: è vivace, intelligente, affettuoso e spesso comico. Ama giocare e interagire con la sua famiglia, verso cui è molto leale. È un cane da compagnia che ha bisogno di essere coinvolto nella vita domestica.</p><p>È sensibile e addestrabile, ma ha una vena di testardaggine da terrier. È un buon cane da allarme, ma generalmente amichevole con gli estranei. È un ottimo cane da appartamento, che si accontenta di un'attività moderata.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. La sua struttura **brachicefala** è la fonte dei suoi principali problemi di salute:</p>\n<ul>\n  <li><b>BAOS (Sindrome Ostruttiva delle Vie Aeree Superiori):</b> Russa e ha difficoltà respiratorie. Soffre terribilmente il caldo e il freddo estremo.</li>\n  <li><b>Problemi oculari:</b> Gli occhi grandi e sporgenti sono soggetti a ulcere corneali, graffi e cataratta giovanile.</li>\n  <li><b>Lussazione della rotula.</b></li>\n  <li><b>Problemi spinali:</b> Come l'emivertebra, dovuta alla coda corta.</li>\n</ul><p>La cura del pelo è minima, ma le rughe del viso e gli occhi richiedono una pulizia quotidiana.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Passeggiate quotidiane al guinzaglio (sempre con la pettorina, mai il collare) e sessioni di gioco in casa sono sufficienti. È fondamentale evitare qualsiasi sforzo quando fa caldo o troppo freddo, poiché rischia un colpo di calore fatale.</p><p>È intelligente e impara velocemente, ma la sua testardaggine richiede un addestramento positivo e coerente. È un cane sensibile che non risponde ai metodi duri. Può essere difficile da addestrare alla pulizia in casa.</p>",
+      "ideale_per": "<p>È il cane da appartamento ideale per quasi tutti: single, anziani, famiglie (con bambini rispettosi). È perfetto per chi cerca un cane da compagnia vivace, affettuoso e con una personalità comica. È adatto anche ai proprietari principianti, purché siano molto attenti alla sua salute.</p><p>È **sconsigliato** a chi cerca un cane sportivo per attività intense (jogging, lunghe escursioni) e a chi vive in climi molto caldi senza aria condizionata. Richiede un proprietario consapevole delle sue delicatezze respiratorie.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 3.0
+    }
+  }
+]

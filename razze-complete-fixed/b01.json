@@ -1,0 +1,482 @@
+[
+  {
+    "post_title": "Airedale terrier",
+    "post_excerpt": "Il \"Re dei Terrier\", l'Airedale è il più grande del gruppo. Nato nell'Yorkshire per la caccia alla lontra, è un cane versatile, energico e intelligente. Ottimo cane da guardia e famiglia, ma richiede un proprietario attivo, toelettatura (stripping) e addestramento coerente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "airedale-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Airedale terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/schede_razze_airedale_terrier.jpg",
+      "filename": "schede_razze_airedale_terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra, Valle dell'Aire, Yorkshire)",
+      "colorazioni": "Nero focato (Black and Tan), Grizzle focato",
+      "temperamento_breve": "Coraggioso, Intelligente, Energico, Versatile",
+      "descrizione_generale": "<p>L'Airedale Terrier è il più grande membro del gruppo dei terrier, guadagnandosi il soprannome di \"Re dei Terrier\". È un cane muscoloso, focoso e dall'aspetto distinto, con il suo caratteristico mantello \"fil di ferro\" nero e focato. Nato come cane da caccia versatile, oggi è un compagno di famiglia dinamico e un eccellente cane da guardia.</p><p>Combina l'intelligenza di un cane da lavoro con l'affetto di un compagno, ma non è un cane per tutti. Richiede un proprietario attivo, un addestramento coerente e una toelettatura specifica (stripping) per mantenere il suo mantello in salute. È noto per il suo coraggio e la sua personalità esuberante.</p>",
+      "origini_storia": "<p>L'Airedale Terrier è stato creato nella metà del XIX secolo nella Valle dell'Aire, nello Yorkshire, in Inghilterra. I lavoratori e i cacciatori locali volevano un cane \"tuttofare\", capace di cacciare sia in acqua (lontre, ratti d'acqua) che sulla terraferma (volpi, tassi). La razza è il risultato di un incrocio mirato tra l'Old English Black and Tan Terrier (oggi estinto) e l'Otterhound (per le abilità acquatiche).</p><p>Probabilmente sono stati aggiunti anche l'Irish Terrier e il Welsh Terrier. Inizialmente noto come \"Waterside Terrier\" o \"Bingley Terrier\", fu usato anche come cane da guardia. La sua versatilità lo portò ad essere uno dei primi cani utilizzati dalla polizia britannica e come cane militare durante la Prima Guerra Mondiale. Il Kennel Club inglese riconobbe la razza nel 1886.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media-grande, robusto, muscoloso e quadrato. L'altezza al garrese è circa 58-61 cm per i maschi e 56-59 cm per le femmine. Il peso si aggira tra i 23 e i 29 kg. La testa è lunga e rettangolare, con baffi e barba caratteristici.</p><p>Il mantello è doppio: un pelo di copertura duro, \"fil di ferro\" e fitto, e un sottopelo morbido. Il colore è il classico \"terrier\": sella nera o grizzle sul dorso, mentre testa, orecchie e zampe sono di un intenso colore focato (tan).</p>",
+      "carattere_temperamento": "<p>L'Airedale è un cane energico, intelligente e coraggioso. È molto leale e protettivo della sua famiglia, rendendolo un eccellente cane da guardia. Con i suoi proprietari è affettuoso e giocherellone, spesso mantenendo un lato \"pagliaccio\" anche in età adulta.</p><p>Tuttavia, è un terrier: è testardo, indipendente e può essere dominante e rissoso con altri cani, specialmente dello stesso sesso. Ha un forte istinto predatorio. Richiede una socializzazione precoce e un proprietario che sappia essere un leader fermo ma giusto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-14 anni. È una razza generalmente robusta, ma è predisposta alla Displasia dell'Anca. Sono comuni anche le allergie cutanee e l'ipotiroidismo. Alcune linee possono essere soggette a problemi cardiaci.</p><p>Il mantello \"fil di ferro\" non perde molto pelo, ma richiede una toelettatura specifica e impegnativa. Deve essere spazzolato settimanalmente e sottoposto a stripping (strappo manuale del pelo morto) 3-4 volte l'anno. La tosatura è un'alternativa più semplice, ma rovina la tessitura e il colore del pelo.</p>",
+      "attivita_addestramento": "<p>Questo è un cane ad alta energia. Ha bisogno di almeno 1-2 ore di esercizio vigoroso al giorno. Non si accontenta del giro dell'isolato; ha bisogno di correre, giocare e di stimolazione mentale. Eccelle in agility, obedience e sport di fiuto.</p><p>L'addestramento è una sfida. È molto intelligente e impara velocemente, ma la sua testardaggine da terrier richiede un proprietario paziente, coerente e creativo. Si annoia facilmente con la ripetizione. Il rinforzo positivo è d'obbligo.</p>",
+      "ideale_per": "<p>L'Airedale è ideale per famiglie attive o proprietari con esperienza di terrier, che vivono in una casa con un giardino ben recintato. È per chi cerca un cane da guardia versatile, un partner sportivo e un compagno leale, ed è disposto a dedicare tempo alla toelettatura.</p><p>Non è un cane per proprietari principianti, per persone sedentarie, o per chi vive in un piccolo appartamento. Non è affidabile con piccoli animali domestici (gatti, criceti) a causa del suo forte istinto predatorio.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Akita",
+    "post_excerpt": "Antico Spitz giapponese, \"Monumento Naturale\" del Giappone. L'Akita è un cane fiero, dignitoso e incredibilmente leale. È un guardiano silenzioso e protettivo, molto riservato con gli estranei. Richiede un proprietario esperto, socializzazione e non tollera altri cani.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "akita-2",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Akita"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Akita-Inu-bosco-696x464-1.jpg",
+      "filename": "Akita-Inu-bosco-696x464-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Prefettura di Akita)",
+      "colorazioni": "Rosso-fulvo, Sesamo, Tigrato (Brindle), Bianco. (Tutti, tranne il bianco, devono avere \"Urajiro\")",
+      "temperamento_breve": "Fiero, Leale, Indipendente, Protettivo",
+      "descrizione_generale": "<p>L'Akita (o Akita Inu) è una delle razze giapponesi più antiche e venerate, un grande Spitz originario della prefettura di Akita. È un \"Monumento Naturale\" del Giappone, simbolo di lealtà, coraggio e dignità. È famoso per la sua testa massiccia da orso, le piccole orecchie triangolari e la coda folta portata arricciata sul dorso.</p><p>Non è un cane per tutti. L'Akita è un cane primitivo, con un carattere complesso: è incredibilmente leale e devoto alla sua famiglia, ma è anche indipendente, testardo e molto riservato con gli estranei. È un cane da guardia silenzioso e potente. La sua storia è indissolubilmente legata a Hachikō, il cane che aspettò il suo padrone per anni alla stazione di Shibuya.</p>",
+      "origini_storia": "<p>Le origini dell'Akita risalgono a secoli fa nella prefettura di Akita, sull'isola di Honshu. Questi cani, noti come \"Akita Matagi\" (cani da caccia Matagi), erano cani da caccia di taglia media, usati per la caccia a grossa selvaggina come orsi, cinghiali e cervi. Erano cani coraggiosi e indispensabili per i cacciatori Matagi.</p><p>A partire dal 1868, durante l'era Meiji, la razza fu incrociata con il Tosa e con molossi europei (come il Mastiff e l'Alano) per creare un cane da combattimento più grande e feroce. Questo portò la razza quasi all'estinzione. All'inizio del XX secolo, un movimento nazionalista (guidato dal sindaco di Odate) iniziò a proteggere e ripristinare la razza pura. La Società per la Preservazione dell'Akita Inu (Akiho) fu fondata nel 1927.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, potente e dalla struttura solida. L'altezza al garrese per i maschi è 64–70 cm, per le femmine 58–64 cm. Il peso può variare dai 32 ai 50 kg. È un cane ben proporzionato, con un'aria di nobiltà.</p><p>Il mantello è doppio, artico: il pelo di copertura è duro e dritto, mentre il sottopelo è soffice e molto denso. I colori ammessi sono quattro: rosso-fulvo, sesamo (pelo rosso con punte nere), tigrato e bianco. Tutti i colori, tranne il bianco, devono presentare l'\"Urajiro\": un pelo biancastro sui lati del muso, guance, sotto la mascella, collo, petto, ventre e lato interno degli arti.</p>",
+      "carattere_temperamento": "<p>L'Akita è un cane fiero, calmo e molto dignitoso. È estremamente leale alla sua famiglia, ma non è un cane espansivo o servile; il suo affetto è riservato. È un guardiano innato: silenzioso, vigile, molto protettivo e diffidente con gli estranei. Non abbaia molto, ma agisce se percepisce una minaccia.</p><p>È noto per essere molto dominante e aggressivo verso altri cani, specialmente dello stesso sesso. La convivenza è spesso impossibile. È anche testardo e indipendente. Richiede una socializzazione precoce e intensiva, ma la sua natura fondamentale non cambierà. È molto pulito, quasi felino.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. È una razza robusta, ma è predisposta a malattie autoimmuni, in particolare l'Adenite Sebacea (una malattia della pelle) e la Sindrome di Vogt-Koyanagi-Harada (VKH), che colpisce occhi e pelle. È anche soggetto a displasia dell'anca e torsione gastrica.</p><p>Il mantello folto richiede spazzolate regolari. Due volte l'anno, la muta (\"blowing coat\") è esplosiva e la perdita di pelo è massiccia. Soffre il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo. Lunghe passeggiate quotidiane (sempre al guinzaglio) sono sufficienti. Apprezza un giardino da pattugliare. Non è un cane da sport ad alta velocità, ma un camminatore resistente.</p><p>L'addestramento è solo per esperti. È intelligente ma testardo e non motivato a compiacere. L'addestramento deve essere basato sul rispetto, la coerenza e la pazienza. Non risponde alla durezza. La socializzazione è l'aspetto più critico.</p>",
+      "ideale_per": "<p>L'Akita è esclusivamente per proprietari esperti di razze primitive o Spitz, che cercano un cane da guardia leale e indipendente. È ideale per una casa tranquilla, senza altri cani, e per un proprietario che possa essere un leader calmo e autorevole. Richiede un impegno totale nella socializzazione.</p><p>Non è assolutamente un cane per principianti. È sconsigliato a chi cerca un cane socievole da portare al parco o a chi ha altri animali domestici. La sua gestione richiede competenza e responsabilità.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Akita americano",
+    "post_excerpt": "Grande e potente Spitz americano (di origine giapponese). Più massiccio dell'Akita Inu, è un guardiano coraggioso e dominante. Leale alla famiglia, ma molto diffidente con gli estranei e reattivo con altri cani. Richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "akita-americano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Akita americano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/akita-americano.jpg",
+      "filename": "akita-americano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Sviluppato negli USA)",
+      "colorazioni": "Tutti i colori sono ammessi (inclusi pezzato e maschera nera)",
+      "temperamento_breve": "Coraggioso, Dominante, Leale, Protettivo",
+      "descrizione_generale": "<p>L'Akita Americano, un tempo noto come \"Grande Cane Giapponese\", è il discendente degli Akita giapponesi portati negli Stati Uniti dopo la Seconda Guerra Mondiale. È un cane di taglia grande, massiccio e imponente, con una struttura ossea più pesante e una testa più larga, da orso, rispetto al cugino giapponese (Akita Inu).</p><p>Condivide la stessa natura da cane primitivo: è un guardiano potente, coraggioso e molto leale alla sua famiglia. È anche estremamente dominante, territoriale e diffidente con gli estranei. È una razza che richiede un proprietario esperto, capace di gestire la sua forza e il suo carattere forte.</p>",
+      "origini_storia": "<p>La storia dell'Akita Americano inizia dopo la Seconda Guerra Mondiale. I soldati americani di stanza in Giappone rimasero affascinati dagli Akita (all'epoca non ancora standardizzati come li conosciamo oggi) e portarono diversi esemplari negli Stati Uniti. Questi cani appartenevano principalmente alla linea \"Dewa\", una linea più grande, pesante e di tipo molossoide (influenzata dagli incroci con Mastiff e Tosa), che era popolare in Giappone prima e durante la guerra.</p><p>Mentre in Giappone gli allevatori lavoravano per \"purificare\" la razza e riportarla all'aspetto \"Matagi\" (più leggero e volpino), negli Stati Uniti gli allevatori preferirono selezionare per la taglia massiccia e la maschera nera. Per decenni, le due linee si svilupparono separatamente, fino a quando la FCI, nel 1999, decise di separarle ufficialmente in due razze distinte: l'Akita (giapponese) e il Grande Cane Giapponese (ora Akita Americano, Standard N° 344).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande e massiccio. L'altezza al garrese per i maschi è 66–71 cm, per le femmine 61–66 cm. Il peso può superare i 50-60 kg. La sua struttura è pesante, con un'ossatura molto forte. La testa è larga, a forma di triangolo ottuso, con muso largo e potente.</p><p>Il mantello è doppio, artico, molto folto. A differenza dell'Akita giapponese, lo standard dell'Akita Americano ammette tutti i colori: rosso, fulvo, bianco, tigrato, pezzato (pinto). È molto comune la maschera nera, che non è permessa nello standard giapponese (tranne che sul sesamo).</p>",
+      "carattere_temperamento": "<p>Il carattere è molto simile a quello dell'Akita giapponese, ma è spesso considerato ancora più dominante e territoriale. È un cane da guardia eccezionale, silenzioso, coraggioso e molto protettivo della famiglia. È estremamente diffidente con gli estranei.</p><p>È noto per la sua altissima aggressività verso altri cani, specialmente dello stesso sesso. Non è un cane da parco. È testardo, indipendente e richiede un proprietario che sia un leader indiscusso, calmo ma fermo. La socializzazione precoce è vitale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. Come l'Akita giapponese, è predisposto a malattie autoimmuni, in particolare l'Adenite Sebacea (SA) e la Sindrome VKH. È fondamentale il controllo della Displasia dell'Anca e del gomito. È anche soggetto a torsione gastrica (gonfiore).</p><p>Il mantello folto richiede spazzolate regolari e ha due mute stagionali \"esplosive\". Soffre molto il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo. Lunghe passeggiate quotidiane (sempre al guinzaglio) sono sufficienti. Apprezza un giardino da pattugliare. Non è un cane da sport ad alta velocità, ma un camminatore resistente.</p><p>L'addestramento è solo per esperti. È intelligente ma testardo e non motivato a compiacere. L'addestramento deve essere basato sul rispetto, la coerenza e la pazienza. Non risponde alla durezza. La socializzazione è l'aspetto più critico.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti, con esperienza in cani da guardia dominanti o razze primitive. Richiede una casa con un giardino ampio e recintato in modo sicuro. È per chi cerca un cane da guardia serio e leale e può dedicare la vita del cane alla sua gestione.</p><p>È assolutamente sconsigliato ai principianti, a chi ha altri cani (specialmente dello stesso sesso), o a chi vive in appartamento. La sua gestione richiede forza, competenza e responsabilità.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Alano",
+    "post_excerpt": "L'\"Apollo dei cani\", l'Alano è un molosso tedesco di taglia gigante. Nato per la caccia al cinghiale, oggi è un \"gigante gentile\". Affettuoso e leale, ma richiede spazio e un proprietario consapevole della sua mole e della sua breve vita.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "alano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Alano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/razza-cane-alano.jpg",
+      "filename": "razza-cane-alano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Fulvo, Tigrato, Arlecchino (bianco con macchie nere), Nero, Blu",
+      "temperamento_breve": "Gentile, Affettuoso, Calmo, Protettivo",
+      "descrizione_generale": "<p>L'Alano, conosciuto in gran parte del mondo come \"Great Dane\" (Danese Gigante), è una delle razze più grandi e maestose, spesso chiamato l'\"Apollo dei cani\". È un molossoide di taglia gigante che combina nobiltà, potenza ed eleganza. Nonostante l'aspetto imponente, è noto per il suo carattere da \"gigante gentile\".</p><p>Originariamente allevato in Germania per la caccia alla grossa selvaggina (cinghiali, orsi), oggi è un cane da compagnia e da guardia. È calmo, estremamente affettuoso e leale alla sua famiglia, ma la sua gestione richiede spazio, un proprietario consapevole della sua mole e, purtroppo, la preparazione ad un'aspettativa di vita molto breve.</p>",
+      "origini_storia": "<p>Le origini dell'Alano risalgono ai molossi da guerra assiri e, successivamente, ai cani \"Alaunt\" diffusi in Europa. La razza moderna è stata sviluppata in Germania nel XVI secolo. I nobili tedeschi avevano bisogno di un cane potente e coraggioso per la caccia al cinghiale e all'orso. Questi cani, noti come \"Kammerhunde\" (cani da camera) perché i più belli vivevano in casa, erano un incrocio tra i potenti Bullenbeisser (antenati del Boxer) e i veloci levrieri da caccia (come l'Irish Wolfhound).</p><p>Nel 1878, a Berlino, un comitato di allevatori decise di unificare queste diverse varietà (\"Ulmer Dogge\", \"Dänische Dogge\") sotto un unico nome: \"Deutsche Dogge\" (Mastino Tedesco), che è ancora il suo nome ufficiale in Germania. L'Alano è il cane nazionale della Germania. Il nome \"Great Dane\" è un'errata traduzione francese, poiché la razza non ha origini danesi.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia gigante, armonioso e potente. L'altezza minima al garrese per i maschi è 80 cm, per le femmine 72 cm (molti sono più alti). Il peso può variare dai 50 ai 90 kg. La struttura deve essere forte ma elegante, mai goffa.</p><p>Il mantello è corto, fitto e lucido. I colori ammessi sono cinque: <ul> <li><b>Fulvo:</b> Dal giallo-oro al fulvo intenso.</li> <li><b>Tigrato:</b> Fulvo con striature nere.</li> <li><b>Arlecchino (Harlekin):</b> Fondo bianco puro con macchie nere \"strappate\".</li> <li><b>Nero (Schwarz):</b> Nero lucido (ammesso con bianco, \"Manteltiger\").</li> <li><b>Blu (Blau):</b> Grigio acciaio puro.</li> </ul></p>",
+      "carattere_temperamento": "<p>L'Alano è un \"gigante gentile\". È calmo, affettuoso, sensibile e molto legato alla famiglia. Ha bisogno di contatto umano e soffre la solitudine (non è un cane da lasciare solo in giardino). È un cane da guardia naturale: la sua sola presenza è un deterrente, ed è protettivo ma non aggressivo, diffidente con gli estranei.</p><p>È generalmente buono con i bambini (anche se la sua mole può essere un pericolo involontario) e socievole con altri animali se cresciuto insieme. È un cane che sembra non rendersi conto della sua stazza e cercherà di sedersi in braccio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è purtroppo molto breve, 6-8 anni. Essendo una razza gigante, è afflitta da molti problemi. La Torsione Gastrica (gonfiore) è la prima causa di morte e un'emergenza assoluta. Sono comuni la Displasia dell'Anca e del Gomito e, soprattutto, i problemi cardiaci (Cardiomiopatia Dilatativa).</p><p>È soggetto a tumori ossei (osteosarcoma) e alla sindrome di Wobbler (problemi cervicali). Il mantello corto è facile da curare, ma la crescita del cucciolo (fino a 2-3 anni) deve essere gestita con un'alimentazione perfetta per evitare problemi scheletrici.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Nonostante la taglia, non è un cane iperattivo. Ha bisogno di passeggiate quotidiane di buona qualità, ma non di esercizio estenuante (specialmente da giovane, per proteggere le articolazioni). Si adatta sorprendentemente bene alla vita in appartamento, a patto di avere spazio per muoversi (e un divano grande).</p><p>L'addestramento è fondamentale, data la taglia. È intelligente e sensibile, ma può essere testardo. Richiede un addestramento gentile ma coerente. Non risponde alla durezza.</p>",
+      "ideale_per": "<p>È un cane per proprietari consapevoli, che hanno spazio (e un'auto grande) e cercano un compagno affettuoso e calmo. È per chi è pronto ad affrontare i costi di mantenimento (cibo, veterinario) di un cane gigante e, soprattutto, il dolore di un'aspettativa di vita molto breve.</p><p>Non è adatto a chi vive in case piccole, a chi è ossessionato dalla pulizia (sbava molto), o a chi non può sostenere i costi di un cane così grande e fragile.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Alaskan malamute",
+    "post_excerpt": "Potente cane da slitta artico, una delle razze più antiche. Il Malamute è un \"treno da carico\", costruito per la forza e la resistenza. È un cane amichevole ma indipendente, testardo e con un forte istinto predatorio. Richiede molto esercizio e soffre il caldo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "alaskan-malamute",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Alaskan malamute"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Alaskan-malamute.jpg",
+      "filename": "Alaskan-malamute.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America (Alaska)",
+      "colorazioni": "Dal grigio chiaro al nero, Zibellino, Rosso. (Sempre con sottopelo bianco e maschera/parti bianche).",
+      "temperamento_breve": "Amichevole, Indipendente, Forte, Vocale (ulula)",
+      "descrizione_generale": "<p>L'Alaskan Malamute è una delle razze di cani da slitta più antiche e potenti del mondo. È un cane artico di taglia grande, allevato dal popolo Inuit dei Mahlemiut (da cui il nome) in Alaska. A differenza del cugino Siberian Husky (costruito per la velocità), il Malamute è il \"treno da carico\" dell'Artico, selezionato per la sua forza immensa e la sua resistenza nel trainare carichi pesanti su lunghe distanze.</p><p>È un cane dall'aspetto lupino, ma con un carattere generalmente amichevole e socievole con le persone (non è un cane da guardia). Tuttavia, è un cane primitivo: è testardo, indipendente, molto vocale (ulula, non abbaia), ha un istinto predatorio altissimo e può essere molto dominante con altri cani.</p>",
+      "origini_storia": "<p>Il Malamute ha vissuto e lavorato a fianco del popolo Mahlemiut, lungo le coste del Norton Sound in Alaska, per migliaia di anni. Questi cani erano essenziali per la sopravvivenza, usati per il traino pesante, la caccia alla foca e all'orso polare. L'isolamento geografico ha mantenuto la razza pura.</p><p>La Corsa all'Oro del Klondike (fine 1800) mise a rischio la razza, poiché i cercatori d'oro incrociarono i Malamute con qualsiasi cane per creare cani da slitta veloci per le scommesse. La razza fu salvata da un gruppo di appassionati negli anni '20, in particolare Arthur T. Walden e Milton e Eva Seeley. L'American Kennel Club riconobbe la razza nel 1935.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, potente e con un'ossatura pesante. L'altezza al garrese ideale è 63,5 cm (maschi) e 58,5 cm (femmine). Il peso è 34–38 kg, ma molti esemplari \"da show\" sono molto più grandi (fino a 50 kg). La struttura è forte e compatta.</p><p>Il mantello è doppio, artico e molto folto. Il pelo di copertura è ruvido (\"guard coat\"), mentre il sottopelo è denso, lanoso e oleoso (fino a 5 cm di spessore). I colori variano dal grigio chiaro al nero, zibellino (sable) o rosso, sempre con un sottopelo e parti inferiori bianche. È obbligatoria una maschera facciale (cuffia, occhiali, ecc.). La coda è folta e portata a pennacchio sul dorso.</p>",
+      "carattere_temperamento": "<p>Il Malamute è un cane da muta. È amichevole e socievole con le persone, non è un cane da guardia. È un cane leale, ma non servile. È molto indipendente, testardo e non facile da addestrare. È molto vocale: ulula, \"parla\" (woo-woo) ma abbaia raramente. È un maestro della fuga e ama scavare.</p><p>Ha un istinto predatorio altissimo e non è affidabile con gatti, pollame o piccoli animali. È noto per essere molto dominante e aggressivo con altri cani dello stesso sesso. La socializzazione precoce è fondamentale, ma la sua natura da \"capo branco\" rimane.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-14 anni. È una razza robusta. Le principali preoccupazioni sono la Displasia dell'Anca e una malattia genetica chiamata Polineuropatia dell'Alaskan Malamute (AMPN), per cui esistono test. È soggetto a torsione gastrica e a problemi oculari (cataratta).</p><p>Il mantello folto richiede spazzolate regolari e ha due mute stagionali \"esplosive\" (\"blowing coat\"). Soffre terribilmente il caldo e deve essere protetto dai colpi di calore.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. Ha bisogno di un lavoro da fare (traino, sleddog, escursionismo con zaino). Richiede lunghe passeggiate quotidiane e un giardino a prova di fuga (alto e interrato). Non deve correre con il caldo.</p><p>L'addestramento è molto difficile. È testardo e non motivato a compiacere. Richiede un proprietario esperto, calmo e autorevole. Il richiamo è inaffidabile.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di razze nordiche, che vivono in climi freddi e in un ambiente rurale. È ideale per chi pratica sport di traino (sleddog, skijoring) o lunghe escursioni invernali. Richiede un impegno totale nella gestione della sua dominanza e del suo istinto predatorio.</p><p>Non è assolutamente un cane per principianti, per la vita in città, per chi vive in climi caldi, o per chi ha altri animali domestici. La sua forza e il suo carattere richiedono un proprietario responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Alpenlaendische dachsbracke",
+    "post_excerpt": "Robusto segugio austriaco da montagna, basso e allungato. È uno specialista della traccia di sangue per recuperare selvaggina ferita (cervi, camosci). Cane da lavoro tenace e coraggioso, riservato ai cacciatori professionisti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "alpenlaendische-dachsbracke",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Alpenlaendische dachsbracke"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Alpenlaendische-dachsbracke.jpg",
+      "filename": "Alpenlaendische-dachsbracke.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Austria (Alpi)",
+      "colorazioni": "Rosso cervo (scuro, con o senza carbonature), Nero focato",
+      "temperamento_breve": "Tenace, Coraggioso, Intelligente, Riservato",
+      "descrizione_generale": "<p>L'Alpenländische Dachsbracke, o Segugio Alpino Bavarese, è un cane da caccia (segugio) di taglia piccola-media, basso sugli arti e dalla struttura robusta. È uno \"specialista\" delle Alpi austriache e bavaresi. Il suo compito non è la seguita, ma il recupero della selvaggina ferita (traccia di sangue), in particolare cervi, camosci e cinghiali, sui terreni montani più impervi.</p><p>È un cane da lavoro puro, incredibilmente tenace, coraggioso e con un fiuto eccezionale. È leale al suo conduttore (cacciatore), ma riservato e diffidente con gli estranei. Non è un cane da compagnia, ma un ausiliare venatorio per professionisti.</p>",
+      "origini_storia": "<p>Le origini di questo cane da traccia risalgono ai cani da caccia medievali. La razza moderna fu sviluppata e standardizzata in Austria e Baviera alla fine del XIX secolo. I cacciatori e le guardie forestali delle Alpi avevano bisogno di un cane che combinasse il fiuto eccezionale dei \"cani da traccia di sangue\" (come l'Hannoveriano) con l'agilità e la bassa statura dei \"Dachsbracke\" (segugi bassotti) per lavorare sui terreni rocciosi.</p><p>Fu creato incrociando i segugi da montagna locali con i Bassotti. Il Principe Ereditario Rodolfo d'Asburgo, nel 1880, portò questi cani nelle sue battute di caccia. La razza è stata riconosciuta ufficialmente in Austria nel 1932 come \"Cane da traccia alpino\". La FCI l'ha riconosciuta nel 1975 (Standard N° 254).</p>",
+      "aspetto_fisico": "<p>È un cane basso sugli arti (tipo Basset/Dachs), ma molto robusto e muscoloso. L'altezza al garrese è 34–42 cm. Il peso è 15–18 kg. La struttura è solida e allungata. La testa è forte, con orecchie pendenti di media lunghezza.</p><p>Il mantello è doppio, molto fitto e ruvido, con un sottopelo denso che lo protegge dal clima alpino. I colori ideali sono il rosso cervo scuro (spesso carbonato) o il nero focato (nero con focature rosse/marroni).</p>",
+      "carattere_temperamento": "<p>È un cane da lavoro serio, intelligente, calmo e molto concentrato. È incredibilmente tenace sulla traccia, capace di seguire una pista fredda per ore. È molto coraggioso e non esita ad affrontare un cinghiale ferito.</p><p>È un cane \"per un solo padrone\", molto legato al suo conduttore, ma diffidente e riservato con gli estranei. Non è un cane da compagnia. Ha un forte istinto predatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza da lavoro estremamente rustica e sana. La sua schiena lunga lo rende suscettibile a problemi spinali (IVDD), anche se meno del Bassotto. Le orecchie richiedono pulizia. Il mantello fitto richiede spazzolate, specialmente dopo il lavoro nel bosco.</p>",
+      "attivita_addestramento": "<p>L'addestramento è esclusivamente venatorio, per la traccia di sangue. È un cane che impara questo compito in modo eccellente. Le sue esigenze di esercizio sono legate al suo lavoro: lunghe ore di tracciamento in montagna. Non è un cane da appartamento.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per cacciatori di ungulati, conduttori di cani da traccia abilitati e guardie forestali che lavorano in montagna. È un cane da lavoro specialistico e non è venduto come cane da compagnia.</p><p>Totalmente inadatto a qualsiasi altro stile di vita.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "American water spaniel",
+    "post_excerpt": "Raro cane da riporto americano, cane ufficiale del Wisconsin. È un cane da caccia versatile (acqua e terra), con un mantello riccio color fegato. È un compagno energico e intelligente, ma testardo. Richiede un proprietario cacciatore o molto attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "american-water-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "American water spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/American-water-spaniel.jpg",
+      "filename": "American-water-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America (Wisconsin)",
+      "colorazioni": "Fegato (Liver), Marrone, Cioccolato scuro",
+      "temperamento_breve": "Intelligente, Energico, Testardo, Affettuoso (con la famiglia)",
+      "descrizione_generale": "<p>L'American Water Spaniel è una rara razza da caccia (retriever e spaniel), sviluppata negli Stati Uniti, ed è il cane ufficiale dello stato del Wisconsin. È un cane di taglia media, robusto e muscoloso, con un caratteristico mantello riccio e oleoso, di colore fegato o cioccolato, che lo protegge dalle acque gelide dei Grandi Laghi.</p><p>È un cane da lavoro \"tuttofare\", creato per saltare dalle barche, riportare la selvaggina acquatica e stanare le prede sulla terraferma. È un compagno di famiglia intelligente e affettuoso, ma anche un cane da caccia energico, testardo e molto vocale. Richiede un proprietario attivo.</p>",
+      "origini_storia": "<p>La razza si è sviluppata nel XIX secolo nelle valli dei fiumi Wolf e Fox, nel Wisconsin. I cacciatori di anatre di quella regione avevano bisogno di un cane da riporto compatto, che potesse lavorare dalle piccole barche (skiff) e resistere alle acque gelide, ma che fosse anche un buon cane da ferma sulla terraferma.</p><p>Le sue origini esatte sono sconosciute, ma si ritiene che derivi da incroci tra l'Irish Water Spaniel, il Curly-Coated Retriever e forse l'Old English Water Spaniel (estinto). Il Dr. F.J. Pfeifer di New London, Wisconsin, è considerato il padre della razza moderna. L'AKC ha riconosciuto la razza nel 1940.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, robusto e compatto. L'altezza al garrese è 38–46 cm. Il peso è 14–20 kg (maschi) e 11–18 kg (femmine). Il mantello è la sua caratteristica: è riccio o \"marcel\" (ondulato), fitto e oleoso, con un sottopelo denso per l'acqua fredda. I colori sono fegato (liver), marrone o cioccolato scuro. Le orecchie sono lunghe e pendenti.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia energico, intelligente e determinato. È un eccellente nuotatore. In famiglia, è affettuoso e giocherellone, ma è anche un cane da allerta molto vigile e vocale (abbaia molto). È un cane \"per un solo padrone\", che si lega profondamente ma può essere testardo e indipendente.</p><p>È riservato con gli estranei. Ha un forte istinto predatorio. Richiede una socializzazione precoce per gestire la sua diffidenza e la sua vocalità.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. Essendo una razza rara con un pool genetico ristretto, è soggetta ad alcune patologie: displasia dell'anca, problemi oculari (cataratta, PRA) e problemi cardiaci. Il mantello riccio richiede spazzolate regolari per evitare nodi e non deve essere tosato raso. Le orecchie pendenti richiedono cura.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento. Ha bisogno di esercizio quotidiano intenso, specialmente il nuoto e il riporto. È un cane da lavoro che deve essere stimolato mentalmente.</p><p>L'addestramento è una sfida. È intelligente ma molto testardo (\"spaniel testardo\"). Richiede un proprietario paziente, coerente e che usi il rinforzo positivo. Si annoia facilmente.</p>",
+      "ideale_per": "<p>È ideale per cacciatori di uccelli acquatici o per famiglie molto attive che vivono in campagna, vicino all'acqua. È per proprietari esperti che cercano un cane da riporto compatto e possono gestire un cane testardo e vocale.</p><p>Non è adatto a proprietari principianti, a persone sedentarie, o alla vita in città. La sua vocalità può essere un problema.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Amstaff – american staffordshire terrier",
+    "post_excerpt": "Cane americano di tipo \"Bull\", muscoloso e potente. L'Amstaff è un cane coraggioso, sicuro di sé e molto leale. Se ben socializzato, è un ottimo cane da famiglia, ma richiede un proprietario esperto e responsabile che ne gestisca la reattività.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "amstaff-american-staffordshire-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Amstaff – american staffordshire terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Amstaff.jpg",
+      "filename": "Amstaff.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America",
+      "colorazioni": "Tutti i colori sono ammessi (solidi, pezzati, tigrati). (Non desiderato il bianco puro, il nero focato o il fegato).",
+      "temperamento_breve": "Coraggioso, Leale, Tenace, Affettuoso (con le persone)",
+      "descrizione_generale": "<p>L'American Staffordshire Terrier, o Amstaff, è un cane di taglia media, muscoloso, potente e agile, che trasmette grande forza per la sua taglia. È una delle razze comunemente note come \"Pit Bull\", anche se è una razza distinta, selezionata negli Stati Uniti per le esposizioni canine e la compagnia, a differenza del cugino American Pit Bull Terrier (non riconosciuto FCI).</p><p>L'Amstaff ha un carattere coraggioso e tenace, ma è anche noto per la sua profonda lealtà e il suo affetto per la famiglia. Se ben allevato e socializzato, è un compagno di vita affidabile e sicuro. Tuttavia, la sua storia richiede un proprietario esperto e responsabile, capace di gestire la sua potenziale reattività verso altri cani.</p>",
+      "origini_storia": "<p>L'Amstaff condivide la stessa origine dell'American Pit Bull Terrier e dello Staffordshire Bull Terrier (inglese). Discende dai \"Bull and Terrier\" creati in Inghilterra e Irlanda nel XIX secolo per i combattimenti (pit fighting). Questi cani arrivarono in America con gli immigrati, dove furono selezionati per essere più grandi e potenti dei loro cugini inglesi, e vennero chiamati \"Pit Bull Terriers\" o \"Yankee Terriers\".</p><p>Nel 1936, l'American Kennel Club (AKC) decise di riconoscere la razza, ma voleva distanziarla dal suo passato da combattimento. Le diede quindi il nome di \"Staffordshire Terrier\". Nel 1972, quando l'AKC riconobbe lo Staffordshire Bull Terrier (inglese), cambiò il nome in \"American Staffordshire Terrier\" per distinguere le due razze. Da quel momento, l'Amstaff è stato selezionato principalmente per la bellezza e la compagnia, divergendo dallo standard \"da lavoro\" del Pit Bull.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, solido, muscoloso e compatto. L'altezza al garrese per i maschi è 46–48 cm, per le femmine 43–46 cm. Il peso è 25–32 kg. La testa è larga e potente, con mascelle forti e muscoli mascellari molto pronunciati. Le orecchie, se integre, sono \"a rosa\" o semi-erette.</p><p>Il mantello è corto, fitto, duro al tatto e lucido. Sono ammessi tutti i colori, unicolori, pezzati o tigrati. Non sono desiderati il bianco che supera l'80% del corpo, il nero focato e il fegato.</p>",
+      "carattere_temperamento": "<p>L'Amstaff è un cane coraggioso, tenace, sicuro di sé e pieno di vita. È incredibilmente leale e affettuoso con la sua famiglia, spesso ottimo con i bambini (sempre sotto supervisione). È amichevole con le persone, non è un cane da guardia diffidente per natura.</p><p>Il suo punto critico è la reattività verso altri cani (dog aggression). Questo tratto, ereditato dal suo passato, è spesso presente e richiede una socializzazione precoce, intensiva e una gestione responsabile per tutta la vita. Non è un cane da parco. Ha un alto istinto predatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-16 anni. È una razza generalmente molto robusta. Le principali preoccupazioni genetiche sono l'Atassia Cerebellare (NCL-A), una grave malattia neurologica per cui esiste un test del DNA, e la displasia dell'anca e del gomito.</p><p>Sono molto comuni le allergie cutanee (dermatiti atopiche). Il mantello corto è facile da curare, ma la pelle è sensibile. Soffre il freddo.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. È un atleta che ha bisogno di esercizio fisico intenso: lunghe passeggiate, corsa, giochi di forza (come il weight pulling). Si adatta all'appartamento solo se il proprietario è molto attivo.</p><p>L'addestramento è fondamentale. È intelligente e desideroso di compiacere la sua famiglia, ma è anche testardo. Richiede un proprietario fermo, coerente e che usi il rinforzo positivo. La socializzazione è l'aspetto più importante e non finisce mai.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti, attivi e responsabili. È per chi cerca un cane leale e fisicamente potente, ed è disposto a dedicare un impegno totale alla socializzazione e alla gestione della sua reattività con altri cani. È un ottimo partner per sport come l'agility o il weight pulling.</p><p>Non è un cane per principianti. Non è adatto a chi cerca un cane \"socievole\" da lasciare libero al parco, o a chi non sa essere un leader calmo e autorevole. È soggetto a restrizioni legali in molti paesi.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Anglo francais de petite venerie",
+    "post_excerpt": "Segugio francese da muta (\"piccola caccia\"), taglia media. Creato incrociando Harrier e segugi francesi. È un cane da lavoro tenace e vocale, specializzato nella caccia alla lepre e alla volpe. Non è un cane da compagnia.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "anglo-francais-de-petite-venerie",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Anglo francais de petite venerie"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Anglo-francais-de-petite-venerie.jpg",
+      "filename": "Anglo-francais-de-petite-venerie.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia",
+      "colorazioni": "Tricolore (Bianco, Nero, Focato), Bicolore (Bianco e Arancio), Bicolore (Bianco e Nero)",
+      "temperamento_breve": "Energico (da muta), Tenace, Vocale, Socievole (con cani)",
+      "descrizione_generale": "<p>L'Anglo-Français de Petite Vénerie è un cane da seguita francese di taglia media. Il suo nome descrive la sua funzione: \"Anglo-Francais\" perché è un incrocio tra segugi inglesi (Harrier) e francesi (Poitevin, Bleu de Gascogne), e \"Petite Vénerie\" perché è usato per la \"piccola caccia\" (lepre, volpe, coniglio), a differenza dei \"Grand\" che sono usati per la caccia al cervo.</p><p>È un cane da lavoro puro, che vive e caccia in muta. È un atleta resistente, veloce, con un fiuto eccellente e una voce potente. È un cane esclusivamente per cacciatori, non adatto alla vita da compagnia.</p>",
+      "origini_storia": "<p>Questa razza è stata creata in Francia nel XIX secolo, quando i cacciatori francesi cercarono di \"migliorare\" i loro segugi locali. Volevano un cane più veloce e tenace per la caccia alla lepre. Per ottenere questo, incrociarono i loro segugi (Poitevin, Porcelaine, Bleu de Gascogne) con l'Harrier inglese, che era rinomato per la sua velocità e il suo \"naso\".</p><p>Il risultato fu questo segugio di taglia media, più piccolo del Foxhound ma più grande del Beagle, perfetto per la \"petite vénerie\". La razza è stata riconosciuta dalla FCI nel 1983 (Standard N° 325) ed è ancora oggi utilizzata quasi esclusivamente per la caccia in muta.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, elegante e muscoloso. L'altezza al garrese è 48–56 cm. Il peso è 20–25 kg. La struttura è bilanciata, da corridore resistente. Il mantello è corto, fitto e liscio. I colori sono: <ul> <li><b>Tricolore:</b> Bianco, nero e focato (il più comune).</li> <li><b>Bicolore:</b> Bianco e arancio.</li> <li><b>Bicolore:</b> Bianco e nero (con focature pallide).</li> </ul></p>",
+      "carattere_temperamento": "<p>È un cane da muta. È energico, tenace, vocale e socievole con altri cani. È docile con l'uomo (il \"maestro di muta\"), ma non è un cane da famiglia. È un lavoratore con un istinto predatorio assoluto. È testardo e segue solo il suo naso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza da lavoro sana e robusta. Le orecchie pendenti richiedono cura per le otiti. Il pelo corto è a manutenzione zero.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve cacciare in muta per ore. L'addestramento è esclusivamente venatorio. È totalmente inadatto a qualsiasi altro contesto.</p>",
+      "ideale_per": "<p>Esclusivamente per cacciatori di piccola selvaggina (lepre, volpe) che lavorano in muta e vivono in campagna. Non è un cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 4.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Ariegeois",
+    "post_excerpt": "Segugio francese (Ariège) leggero ed elegante. È un cane da caccia alla lepre, vocale e tenace. È un cane da muta socievole, ma con un forte istinto predatorio. Non è un cane da compagnia, ma un lavoratore rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "ariegeois",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Ariegeois"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Ariegeois.jpg",
+      "filename": "Ariegeois.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione dell'Ariège)",
+      "colorazioni": "Tricolore (Bianco e Nero, con focature pallide)",
+      "temperamento_breve": "Leggero, Veloce, Vocale, Tenace",
+      "descrizione_generale": "<p>L'Ariégeois è un cane da seguita francese di taglia media, originario del dipartimento dell'Ariège, ai piedi dei Pirenei. È un segugio elegante, leggero e veloce, selezionato specificamente per la caccia alla lepre su terreni difficili e rocciosi. È noto per il suo fiuto fine e la sua voce acuta e sonora.</p><p>È un cane da lavoro puro, che caccia in muta. È un cane energico, testardo e con un forte istinto predatorio. Sebbene sia docile con l'uomo, non è un cane da compagnia, ma un ausiliare venatorio per cacciatori che si muovono a piedi.</p>",
+      "origini_storia": "<p>La razza è stata creata alla fine del XIX secolo nell'Ariège. È il risultato di un incrocio mirato tra i segugi locali (\"Chiens d'ordre\") e due grandi segugi francesi: il Grand Bleu de Gascogne (per il fiuto e la voce) e il Grand Gascogne-Saintongeois (per la struttura e la velocità).</p><p>L'obiettivo era creare un cane più leggero e più piccolo dei suoi progenitori, ma altrettanto tenace, adatto alla caccia alla lepre in montagna. La razza è stata riconosciuta dalla FCI nel 1954 (Standard N° 20) ed è molto popolare tra i cacciatori del sud della Francia, ma rara altrove.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, leggero, asciutto ed elegante. L'altezza al garrese per i maschi è 52–58 cm, per le femmine 50–56 cm. Il peso è circa 25–30 kg. La testa è fine e allungata, con orecchie lunghe e sottili.</p><p>Il mantello è corto, fine e fitto. Il colore è tricolore: fondo bianco, con macchie nere ben definite (spesso una sella) e focature (tan) di colore molto pallido (quasi sabbia) sulle guance e sopra gli occhi.</p>",
+      "carattere_temperamento": "<p>È un cacciatore puro. Energico, tenace, molto vocale sulla traccia. È un cane da muta, quindi molto socievole con altri cani. È docile e amichevole con le persone, ma non è un cane da compagnia. È un lavoratore con un istinto predatorio assoluto.</p><p>È testardo e governato dal suo naso. Richiede un proprietario cacciatore e un ambiente rurale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza da lavoro molto sana e rustica. Le orecchie pendenti richiedono cura per le otiti. Il pelo corto è a manutenzione zero.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve cacciare in muta per ore. Non è adatto alla vita in appartamento. L'addestramento è esclusivamente venatorio. È totalmente inadatto a qualsiasi altro contesto.</p>",
+      "ideale_per": "<p>Esclusivamente per cacciatori di lepre che lavorano a piedi, specialmente nel sud della Francia o in climi simili. Non è un cane da compagnia, né da città.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

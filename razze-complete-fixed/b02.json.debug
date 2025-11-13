@@ -1,0 +1,482 @@
+[
+  {
+    "post_title": "Australian cattledog",
+    "post_excerpt": "L'Australian Cattledog, o \"Blue Heeler\", è un cane da pastore (bovaro) tenace e incredibilmente resistente, creato per guidare il bestiame in Australia. Intelligente e protettivo, richiede un proprietario esperto, un'enorme quantità di esercizio fisico e mentale, e un \"lavoro\" da fare. Non è un cane per principianti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "australian-cattledog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Australian cattledog\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Australian-cattledog.jpg",
+      "filename": "Australian-cattledog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Australia",
+      "colorazioni": "Blu (Blue Heeler: blu, blu marmorizzato o blu macchiettato, con o senza focature), Rosso (Red Heeler: rosso macchiettato, con o senza macchie rosse)",
+      "temperamento_breve": "Intelligente, Tenace, Protettivo, Energico, Vigile",
+      "descrizione_generale": "<p>L'Australian Cattledog, noto anche come \"Blue Heeler\" o \"Red Heeler\" a seconda del colore, è un cane da pastore di taglia media, compatto e incredibilmente robusto. È un lavoratore instancabile, selezionato per la sua capacità di condurre mandrie di bovini selvatici su lunghe distanze nei climi ostili dell'outback australiano.</p><p>È famoso per la sua intelligenza acuta, la sua lealtà al proprietario e il suo innato istinto protettivo. Non è un cane per tutti: la sua energia quasi illimitata e il suo bisogno di stimolazione mentale richiedono un proprietario esperto e molto attivo. È un cane da lavoro nel senso più puro del termine.</p>",
+      "origini_storia": "<p>La razza è stata sviluppata nel XIX secolo in Australia. I proprietari di ranch avevano bisogno di un cane che potesse resistere al caldo, al terreno accidentato e che fosse abbastanza \"duro\" da gestire i bovini selvatici. I cani da pastore europei importati (come i Collie) fallivano a causa del clima e del loro abbaiare, che innervosiva il bestiame.</p><p>La svolta avvenne quando i \"Blue Merle Collie\" (probabilmente Collie a pelo corto) furono incrociati con il <strong>Dingo</strong> australiano, per ottenere resistenza e silenziosità. A questo incrocio, l'allevatore Thomas Hall (il creatore degli \"Hall's Heelers\") aggiunse sangue di Dalmata (per la lealtà ai cavalli) e di Kelpie. I fratelli Bagust, negli anni '70 del 1800, perfezionarono la razza, che fu standardizzata nel 1903 da Robert Kaleski.</p>",
+      "aspetto_fisico": "<p>È un cane forte e compatto. L'altezza al garrese è 46-51 cm per i maschi e 43-48 cm per le femmine. Il peso varia dai 15 ai 22 kg. La testa è forte, con un cranio largo e orecchie erette. La coda è portata bassa.</p><p>Il mantello è doppio, con un pelo di copertura corto, dritto e resistente alle intemperie, e un sottopelo fitto. I colori sono unici:</p><ul><li><b>Blu (Blue Heeler):</b> Il colore è \"blu\", \"blu marmorizzato\" (blue merle) o \"blu macchiettato\" (blue speckled). Questo è il risultato di peli bianchi e neri mescolati. Sono ammesse macchie nere sulla testa e focature (tan).</li><li><b>Rosso (Red Heeler):</b> Un rosso macchiettato uniforme (risultato di peli bianchi e rossi), con o senza macchie rosse più scure sulla testa.</li></ul><p>I cuccioli nascono bianchi (tranne le macchie) e il colore \"spunta\" crescendo.</p>",
+      "carattere_temperamento": "<p>L'Australian Cattledog è estremamente intelligente, ma anche testardo e indipendente. È un \"workaholic\" (drogato di lavoro) che ha bisogno di un compito. È un cane da \"morso al tallone\" (heeler), un istinto che userà per condurre il bestiame, ma che può applicare anche a persone, auto o bambini se non gestito.</p><p>È incredibilmente leale e protettivo verso la sua famiglia, ma è naturalmente <strong>molto diffidente con gli estranei</strong>, il che lo rende un eccellente cane da guardia. È un cane da \"una sola persona\" o \"una sola famiglia\". Può essere dominante e rissoso con altri cani. Richiede una socializzazione precoce e intensiva.</p>",
+      "salute_cura": "<p>È una razza molto robusta, con un'aspettativa di vita di 12-16 anni. Tuttavia, è soggetto a diverse patologie genetiche:</p><ul><li><b>Sordità:</b> La sordità congenita (unilaterale o bilaterale) è comune ed è legata al gene del merle/bianco. È fondamentale testare i cuccioli (test BAER).</li><li><b>Atrofia Progressiva della Retina (PRA):</b> Che porta alla cecità (esistono test genetici).</li><li><b>Displasia dell'anca e del gomito.</b></li></ul><p>Il mantello corto è di facile manutenzione, richiede solo spazzolate settimanali, ma perde molto pelo durante le mute stagionali.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio fisico e mentale sono <strong>estreme</strong>. Non è un cane da appartamento. Ha bisogno di ore di attività quotidiana, non solo passeggiate, ma lavoro (herding, agility, obedience avanzata). Se annoiato, diventa distruttivo, rumoroso e sviluppa comportamenti ossessivi.</p><p>È molto addestrabile per un proprietario esperto che sappia essere un leader fermo, coerente e positivo. La sua intelligenza può essere usata contro il proprietario se quest'ultimo è insicuro. L'addestramento alla socializzazione è la priorità assoluta.</p>",
+      "ideale_per": "<p>Questo cane è ideale <strong>esclusivamente per proprietari molto esperti</strong> di cani da pastore. È perfetto per agricoltori, allevatori di bestiame, o agonisti di sport cinofili ad alto livello (agility, obedience). Richiede una vita rurale o suburbana con un grande giardino recintato in modo sicuro.</p><p>È <strong>assolutamente sconsigliato</strong> ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento e a chi cerca un cane \"socievole con tutti\". La sua diffidenza e il suo bisogno di lavoro sono impegnativi.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 4.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Australian shepherd",
+    "post_excerpt": "L'Australian Shepherd, o \"Aussie\", è un cane da pastore (herding) di taglia media, paradossalmente sviluppato in America. È un \"workaholic\" (drogato di lavoro) estremamente intelligente, energico e versatile. Richiede un proprietario esperto, molta attività fisica e, soprattutto, stimolazione mentale (es. agility).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "australian-shepherd",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Australian shepherd\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Australian-shepherd.jpg",
+      "filename": "Australian-shepherd.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America (non Australia)",
+      "colorazioni": "Blu merle, Nero, Rosso merle, Rosso (tutti con o senza macchie bianche e/o focature tan).",
+      "temperamento_breve": "Intelligente, Energico, Leale, Addestrabile, Protettivo",
+      "descrizione_generale": "<p>L'Australian Shepherd, affettuosamente noto come \"Aussie\", è una delle razze da pastore più popolari al mondo. Nonostante il nome, la razza è stata sviluppata negli Stati Uniti, non in Australia. È un cane di taglia media, incredibilmente intelligente, agile e versatile, nato per la conduzione del bestiame nei ranch americani.</p><p>È un cane \"workaholic\", che ha un bisogno innato di avere un lavoro da fare. La sua intelligenza e la sua energia lo rendono un atleta eccezionale in sport come l'agility e il disc dog, ma anche un cane impegnativo per un proprietario medio. È un compagno leale e protettivo, ma non un cane da divano.</p>",
+      "origini_storia": "<p>La storia dell'Aussie è legata ai cani da pastore dei Paesi Baschi. Nel XIX secolo, pastori baschi emigrarono prima in Australia e poi, durante la corsa all'oro, in California, portando con sé i loro cani (probabilmente incroci tra Pastore dei Pirenei e Collie). Negli Stati Uniti, questi cani furono incrociati con altri cani da pastore (come Collie e Border Collie) per creare il cane da ranch ideale.</p><p>Il nome \"Australian\" deriva dal fatto che i cani baschi erano arrivati in America <em>dall'</em>Australia. La razza divenne famosa grazie ai \"Rodeo Show\", dove Jay Sisler e i suoi Aussie \"Shorty\" e \"Queenie\" stupivano il pubblico con i loro numeri. L'AKC ha riconosciuto la razza solo nel 1991.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, atletico e ben proporzionato. L'altezza al garrese per i maschi è 51-58 cm, per le femmine 46-53 cm. Il peso varia dai 23 ai 29 kg per i maschi e dai 18 ai 25 kg per le femmine. La coda è spesso naturalmente corta (NBT - Natural Bobtail) o può essere lunga.</p><p>Il mantello è doppio, di media lunghezza e resistente alle intemperie. I colori sono la sua caratteristica distintiva e sono quattro:</p><ul><li><b>Blu Merle</b> (base grigia marmorizzata con macchie nere)</li><li><b>Nero</b> (solido)</li><li><b>Rosso Merle</b> (base beige marmorizzata con macchie rosse/fegato)</li><li><b>Rosso</b> (solido, fegato)</li></ul><p>Tutti i colori possono avere o meno macchie bianche (collare, petto, zampe) e focature (tan). Gli occhi possono essere di qualsiasi colore (marroni, blu, ambra) o eterocromi (due occhi diversi).</p>",
+      "carattere_temperamento": "<p>L'Aussie è un cane da pastore puro. È estremamente intelligente (spesso troppo per un proprietario medio), energico e ha un forte istinto di conduzione. Tenterà di \"radunare\" qualsiasi cosa: bambini, gatti, auto, spesso mordicchiando i talloni (nipping).</p><p>È molto leale e protettivo verso la famiglia, ma è <strong>naturalmente riservato e diffidente con gli estranei</strong>, il che lo rende un eccellente cane da guardia. Se non viene socializzato e stimolato mentalmente, la sua intelligenza si trasforma in nevrosi, distruttività e comportamenti ossessivi. Ha bisogno di un \"lavoro\".</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza generalmente sana, ma la sua popolarità ha diffuso problemi genetici:</p><ul><li><b>Displasia dell'anca e del gomito.</b></li><li><b>Problemi oculari:</b> Come l'Anomalia dell'occhio del Collie (CEA), cataratta e PRA.</li><li><b>Mutazione del gene MDR1:</b> Ipersensibilità a molti farmaci.</li><li><b>Epilessia.</b></li></ul><p>È fondamentale evitare l'accoppiamento \"merle x merle\", che produce cuccioli \"doppio merle\", spesso sordi e/o ciechi.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio fisico e mentale sono <strong>estreme</strong>. È un cane che ha bisogno di ore di attività, ma soprattutto di stimolazione cerebrale. È un campione mondiale di <strong>Agility</strong>, Flyball, Obedience e Disc Dog. La semplice passeggiata non basta.</p><p>È altamente addestrabile per un proprietario esperto. Impara istantaneamente, ma la sua intelligenza richiede un addestramento vario, positivo e coerente. Si annoia facilmente e cercherà di \"addestrare\" un proprietario insicuro. La socializzazione precoce per gestire la diffidenza è vitale.</p>",
+      "ideale_per": "<p>È un cane ideale <strong>esclusivamente per proprietari molto esperti e attivi</strong>. È perfetto per agonisti di sport cinofili (Agility in primis) o per chi lavora in un ranch. Richiede un impegno totale e uno stile di vita che ruoti attorno alle sue esigenze.</p><p>È <strong>assolutamente sconsigliato</strong> ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento senza tempo da dedicargli. È un cane da lavoro, non un cane da compagnia \"facile\" nonostante il suo bell'aspetto.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Australian silky terrier",
+    "post_excerpt": "L'Australian Silky Terrier, o \"Silky\", è un cane toy di origine australiana, sviluppato per essere un cane da compagnia ma con un'anima da terrier. Elegante, con un lungo mantello setoso blu e focato, è un cane vivace, tenace e un ottimo cacciatore di topi. Richiede toelettatura e un proprietario attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "australian-silky-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Australian silky terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Australian-silky-terrier.jpg",
+      "filename": "Australian-silky-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Australia (Sydney)",
+      "colorazioni": "Blu e focato (Blue and Tan)",
+      "temperamento_breve": "Vivace, Tenace, Intelligente, Affettuoso (con la famiglia)",
+      "descrizione_generale": "<p>L'Australian Silky Terrier, noto semplicemente come Silky, è un piccolo cane di tipo terrier, appartenente al gruppo Toy. Nonostante l'aspetto elegante e il lungo mantello setoso che ricorda quello del cugino Yorkshire Terrier, il Silky è un vero terrier: tenace, energico e un coraggioso cacciatore di topi.</p><p>Sviluppato in Australia per essere un cane da compagnia \"urbano\" ma con il carattere di un cane da lavoro, è un compagno vivace e intelligente. È molto affettuoso con la sua famiglia, ma mantiene la vigilanza e l'istinto predatorio del terrier. Richiede un impegno costante nella toelettatura.</p>",
+      "origini_storia": "<p>La razza è stata sviluppata a Sydney, in Australia, alla fine del XIX secolo. Gli allevatori volevano creare un cane da compagnia piccolo e raffinato, ma che mantenesse l'istinto \"terrier\" di cacciare i roditori, molto diffusi nelle città. La razza è il risultato di un incrocio pianificato tra l'Australian Terrier (per la robustezza) e lo Yorkshire Terrier (per il mantello setoso e il colore).</p><p>Inizialmente le tre razze (Australian, Silky e Yorkie) venivano spesso confuse e incrociate. A partire dal 1906, gli allevatori australiani hanno lavorato per separare la razza, creando standard distinti per il Silky Terrier. La razza è stata riconosciuta ufficialmente nel 1959 con il nome di \"Australian Silky Terrier\".</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, compatto e dall'ossatura fine, ma non deve apparire fragile. L'altezza al garrese è 23-26 cm, con un peso di circa 3,5-5 kg. È un cane leggermente più lungo che alto, con un portamento fiero.</p><p>Il mantello è la sua caratteristica distintiva: è lungo (13-15 cm), piatto, fine, setoso e lucido, senza sottopelo. Il pelo cade dritto e non deve mai essere \"cotonato\" o riccio. Il colore è sempre <strong>blu e focato (blue and tan)</strong>. Il blu (un grigio-blu acciaio) si estende sul dorso, dalla nuca alla coda, mentre il focato (tan) è presente sul muso, sulle zampe e sotto la coda. I cuccioli nascono neri e focati.</p>",
+      "carattere_temperamento": "<p>Il Silky è un \"grande cane in un corpo piccolo\". È un terrier al 100%: vivace, curioso, coraggioso e tenace. Ha un <strong>altissimo istinto predatorio</strong> ed è un cacciatore di topi nato; non è affidabile con roditori o piccoli animali. È anche un eccellente cane da allarme, molto vocale e vigile.</p><p>Con la sua famiglia è affettuoso e leale, ma non è un cane da grembo passivo. Ha bisogno di stimolazione e di gioco. Può essere testardo e indipendente. È riservato con gli estranei e può essere rissoso con altri cani se non ben socializzato.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 13-16 anni. È una razza generalmente sana, ma soggetta ai problemi delle razze toy:</p>\n<ul>\n  <li><b>Lussazione della rotula.</b></li>\n  <li><b>Malattia di Legg-Perthes:</b> Necrosi della testa del femore.</li>\n  <li><b>Problemi dentali:</b> Richiede igiene orale costante.</li>\n  <li><b>Trachea collassata.</b></li>\n</ul>\n<p>Il mantello lungo e setoso, pur non perdendo molto pelo (ipoallergenico), richiede una <strong>spazzolatura quotidiana</strong> per evitare la formazione di nodi e feltri. Necessita di bagni regolari.</p>",
+      "attivita_addestramento": "<p>Ha un'energia da terrier e richiede più esercizio di un tipico cane toy. Passeggiate quotidiane e sessioni di gioco vigorose sono necessarie. Amano scavare, quindi il giardino deve essere sicuro. Si adatta all'appartamento solo se le sue esigenze di energia sono soddisfatte.</p><p>È intelligente ma testardo. L'addestramento (specialmente alla pulizia in casa) richiede pazienza e coerenza. Risponde bene al rinforzo positivo, ma si annoia facilmente. La socializzazione precoce è fondamentale per gestire il suo carattere da terrier.</p>",
+      "ideale_per": "<p>È ideale per proprietari di terrier o per chi cerca un cane da compagnia piccolo ma energico e \"pepato\". È adatto alla vita in appartamento, a patto che sia gestito da un proprietario attivo e disposto a dedicare tempo quotidiano alla toelettatura e al gioco.</p><p>È <strong>sconsigliato</strong> a persone sedentarie, a chi cerca un cane da grembo calmo e sottomesso, e a famiglie con roditori o piccoli animali. Non è il cane più paziente con i bambini piccoli e irruenti.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Australian stumpy tail cattle dog",
+    "post_excerpt": "L'Australian Stumpy Tail Cattle Dog è un cane da pastore (bovaro) australiano, simile al Cattledog ma con una coda naturalmente corta (bobtail). È un lavoratore tenace, intelligente e protettivo. Una razza rara e primitiva, adatta solo a proprietari esperti e alla vita rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "australian-stumpy-tail-cattle-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Australian stumpy tail cattle dog\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Australian_Stumpy_Tail_Cattle_Dog.jpg",
+      "filename": "Australian_Stumpy_Tail_Cattle_Dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Australia",
+      "colorazioni": "Blu macchiettato (Blue Speckle), Rosso macchiettato (Red Speckle).",
+      "temperamento_breve": "Tenace, Intelligente, Vigile, Protettivo, Raro",
+      "descrizione_generale": "<p>L'Australian Stumpy Tail Cattle Dog, o \"Stumpy\", è un cane da pastore australiano, strettamente imparentato con l'Australian Cattledog (l'Heeler). Come suggerisce il nome, la sua caratteristica distintiva è la coda naturalmente corta (NBT - Natural Bobtail). È considerato da molti la forma più antica e primitiva del bovaro australiano.</p><p>Condivide con l'Heeler l'incredibile resistenza, l'intelligenza e l'istinto da \"morsicatore di talloni\" (heeler) per la conduzione dei bovini. È un cane da lavoro puro, tenace e protettivo, con un'alta diffidenza verso gli estranei. È una razza molto rara, anche in Australia.</p>",
+      "origini_storia": "<p>Le origini dello Stumpy sono le stesse dell'Australian Cattledog e risalgono ai primi tentativi di creare un bovaro adatto all'outback. Si ritiene che lo Stumpy discenda direttamente dagli \"Hall's Heelers\", l'incrocio originale tra cani da pastore importati (come gli Smithfield, cani senza coda) e il Dingo.</p><p>A differenza dell'Australian Cattledog, la linea dello Stumpy non fu incrociata con il Dalmata o il Kelpie, mantenendosi più \"primitiva\" e simile al Dingo. La coda corta (stumpy) era un tratto desiderato dai bovari. La razza è stata riconosciuta formalmente, ma rimane molto rara, messa in ombra dal suo cugino più popolare, l'ACD.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, più quadrato e leggero dell'ACD, con un aspetto più lupino. L'altezza al garrese è 46-51 cm per i maschi e 43-48 cm per le femmine. Il peso è 16-23 kg. La caratteristica principale è la <strong>coda naturalmente corta</strong>, che non deve superare i 10 cm.</p><p>Il mantello è doppio, con un pelo di copertura moderatamente corto, dritto e denso (più ruvido di quello dell'ACD). I colori sono:</p><ul><li><b>Blu macchiettato:</b> Fondo blu (peli bianchi e neri) con o senza macchie nere.</li><li><b>Rosso macchiettato:</b> Fondo rosso (peli bianchi e rossi) con o senza macchie rosse.</li></ul><p>A differenza dell'ACD, le focature (tan) non sono ammesse.</p>",
+      "carattere_temperamento": "<p>Il carattere è molto simile a quello dell'ACD, ma spesso descritto come ancora più \"primitivo\", indipendente e riservato. È un cane da lavoro instancabile, estremamente intelligente e protettivo. È un cane da \"una sola persona\" o \"una sola famiglia\".</p><p>È molto diffidente con gli estranei e ha un forte istinto territoriale. Richiede una socializzazione precoce e intensiva per essere gestibile. È un \"heeler\" nato e ha un forte istinto predatorio. Può essere molto dominante con altri cani.</p>",
+      "salute_cura": "<p>Essendo una razza primitiva e rara, è eccezionalmente robusta, con un'aspettativa di vita di 13-16 anni. Come l'ACD, le principali preoccupazioni sono la <strong>sordità congenita</strong> e l'<strong>Atrofia Progressiva della Retina (PRA)</strong>. I test genetici sono fondamentali.</p><p>Il mantello è di facile manutenzione, richiede solo spazzolate settimanali.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio fisico e mentale sono <strong>estreme</strong>. È un cane da lavoro che deve lavorare. Non è un cane da compagnia e non è adatto alla vita urbana. Richiede spazio, stimoli e un compito (pastorizia, agility avanzato).</p><p>L'addestramento è per soli esperti. La sua intelligenza primitiva e la sua indipendenza lo rendono una sfida. Richiede un proprietario che capisca i cani da pastore primitivi e che sappia imporsi come leader con coerenza e metodi positivi.</p>",
+      "ideale_per": "<p>È un cane <strong>esclusivamente per allevatori di bestiame</strong> o per appassionati molto esperti di razze da lavoro primitive che vivono in un contesto rurale isolato. È per chi cerca un cane da lavoro puro, resistente e protettivo.</p><p>È <strong>assolutamente sconsigliato</strong> a chiunque altro. Non è un cane da famiglia, non è per principianti, non è per la città. È una razza specialistica e molto rara.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 4.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Australian terrier",
+    "post_excerpt": "L'Australian Terrier è uno dei terrier più piccoli, ma un cacciatore di serpenti e topi tenace e coraggioso. Originario dell'Australia, è un cane da compagnia vivace, leale e un ottimo cane da allarme. Richiede un proprietario attivo che gestisca il suo istinto predatorio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "australian-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Australian terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Australian-terrier.jpg",
+      "filename": "Australian-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Australia",
+      "colorazioni": "Blu focato (Blue and Tan), Sabbia (Sandy), Rosso (Red).",
+      "temperamento_breve": "Tenace, Vivace, Coraggioso, Leale, Intelligente",
+      "descrizione_generale": "<p>L'Australian Terrier, o \"Aussie\", è un piccolo terrier robusto e dal pelo duro, considerato una delle prime razze sviluppate in Australia. Nato come cane da lavoro versatile, il suo compito era tenere le fattorie e le miniere libere da roditori e serpenti, oltre a fare da cane da allarme.</p><p>È un terrier \"tuttofare\": coraggioso, energico e con una personalità esuberante. Nonostante la piccola taglia, è un cane resistente e sicuro di sé. È un compagno di famiglia leale e affettuoso, ma mantiene un fortissimo istinto predatorio e la testardaggine tipica del terrier.</p>",
+      "origini_storia": "<p>L'Australian Terrier è stato sviluppato nel XIX secolo dai coloni britannici in Australia. È il risultato di un \"melting pot\" di terrier importati dalla Gran Bretagna, tra cui lo Skye Terrier, il Cairn Terrier, il Dandie Dinmont Terrier e forse l'Irish Terrier. L'obiettivo era creare un piccolo cane robusto, adatto al clima australiano e impavido di fronte ai serpenti.</p><p>La razza è stata presentata per la prima volta in una mostra a Melbourne nel 1868 ed è stata la prima razza ad essere ufficialmente riconosciuta in Australia (1887). È stato un cane da lavoro essenziale prima di diventare un popolare cane da compagnia.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, basso sugli arti, ma robusto e leggermente più lungo che alto. L'altezza al garrese è di circa 25 cm, con un peso intorno ai 6,5 kg. Ha un aspetto rustico e \"arruffato\".</p><p>Il mantello è doppio, con un pelo di copertura duro, \"fil di ferro\" e dritto, lungo circa 6 cm, e un sottopelo corto e morbido. Caratteristica distintiva è il \"collare\" di pelo più lungo attorno al collo e un \"top-knot\" (ciuffo) di pelo più morbido sulla testa. I colori ammessi sono:</p><ul><li><b>Blu focato (Blue and Tan)</b></li><li><b>Sabbia (Sandy)</b></li><li><b>Rosso (Red)</b></li></ul>",
+      "carattere_temperamento": "<p>È un terrier vivace, sicuro di sé e molto coraggioso. È un cacciatore nato, con un istinto predatorio estremo verso roditori e rettili. È un eccellente cane da allarme, molto vocale e vigile. Ama scavare ed esplorare.</p><p>Con la sua famiglia è affettuoso, leale e molto giocherellone. Si adatta bene alla vita d'appartamento, a patto che le sue esigenze di energia siano soddisfatte. Può essere testardo e rissoso con altri cani, specialmente i maschi. Richiede una socializzazione precoce.</p>",
+      "salute_cura": "<p>È una razza molto robusta e longeva, con un'aspettativa di vita di 14-16 anni. È generalmente molto sano, ma può essere soggetto a:</p>\n<ul>\n  <li><b>Lussazione della rotula.</b></li>\n  <li><b>Malattia di Legg-Perthes:</b> Necrosi della testa del femore.</li>\n  <li><b>Allergie cutanee (dermatiti).</b></li>\n</ul>\n<p>Il mantello duro non perde molto pelo, ma richiede cure: deve essere spazzolato settimanalmente e necessita di <strong>stripping</strong> (strappo manuale) 2-3 volte l'anno per mantenere la tessitura corretta. La tosatura è sconsigliata.</p>",
+      "attivita_addestramento": "<p>Ha un'energia da terrier e richiede passeggiate quotidiane e molto gioco. Non è un cane da divano. Eccelle in sport come l'Agility e l'Earthdog (prove in tana). È fondamentale un giardino a prova di fuga (scava).</p><p>È intelligente ma testardo. L'addestramento richiede pazienza, coerenza e metodi positivi. Si annoia facilmente. Il richiamo è inaffidabile a causa del suo istinto di caccia. È un \"grande cane in un corpo piccolo\".</p>",
+      "ideale_per": "<p>È un ottimo \"primo terrier\" per proprietari attivi che cercano un cane piccolo ma robusto e di carattere. Si adatta bene alla vita d'appartamento, purché gli sia garantito sfogo. È un eccellente cane da allarme.</p><p>È <strong>sconsigliato</strong> a persone sedentarie e a chi ha piccoli animali domestici (criceti, conigli). Richiede un proprietario che sappia gestire la sua testardaggine e il suo istinto predatorio.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Azawakh",
+    "post_excerpt": "L'Azawakh è un levriero primitivo originario del Sahel (Mali, Niger). Elegante e incredibilmente veloce, è un cacciatore a vista e un guardiano. È un cane \"felino\", indipendente e molto riservato con gli estranei. Richiede un proprietario esperto, spazio per correre e soffre il freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "azawakh",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Azawakh\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Azawakh.jpg",
+      "filename": "Azawakh.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Mali, Niger, Burkina Faso (Valle dell'Azawakh). Patrocinio: Francia.",
+      "colorazioni": "Fulvo (dal sabbia chiaro al rosso scuro), Tigrato (Brindle). Maschera nera ammessa. Macchie bianche obbligatorie su petto e zampe.",
+      "temperamento_breve": "Indipendente, Riservato, Leale (con la famiglia), Veloce",
+      "descrizione_generale": "<p>L'Azawakh è un antico levriero (sighthound) originario della Valle dell'Azawakh, nel cuore del deserto del Sahel (Mali, Niger). È un cane primitivo, allevato per secoli dalle tribù nomadi Tuareg per due scopi: la caccia a vista di selvaggina veloce (gazzelle, lepri) e la guardia dell'accampamento.</p><p>È un cane dall'aspetto elegante e quasi \"scheletrico\", con una pelle sottile che lascia intravedere muscoli e ossa. Ha un carattere fiero, indipendente e \"felino\". È profondamente legato alla sua famiglia, ma estremamente riservato e diffidente verso gli estranei. Non è un cane per principianti.</p>",
+      "origini_storia": "<p>L'Azawakh ha vissuto per millenni in simbiosi con i nomadi Tuareg, che lo consideravano un membro della famiglia e un partner di lavoro essenziale, non un semplice animale. La sua selezione era basata sulla velocità, sulla resistenza al caldo estremo e sull'istinto di guardia.</p><p>La razza è stata introdotta in Europa solo negli anni '70, quando alcuni esemplari furono portati in Jugoslavia e poi in Francia da diplomatici. La Francia detiene il patrocinio della razza, che è stata riconosciuta dalla FCI nel 1981. Rimane una razza rara, apprezzata per la sua natura primitiva.</p>",
+      "aspetto_fisico": "<p>È un levriero di taglia media, slanciato ed elegante, con un'ossatura e una muscolatura asciutte. È più alto che lungo. L'altezza al garrese per i maschi è 64-74 cm, per le femmine 60-70 cm. Il peso è leggero, 20-25 kg (maschi) e 15-20 kg (femmine).</p><p>Il mantello è cortissimo, fine, quasi assente sul ventre. Il colore è il fulvo (dal sabbia chiaro al rosso scuro) o il tigrato. La maschera nera sul muso è ammessa. Le macchie bianche sono una caratteristica obbligatoria: deve avere \"stivaletti\" bianchi su tutte e quattro le zampe e una macchia bianca sul petto e sulla punta della coda.</p>",
+      "carattere_temperamento": "<p>L'Azawakh ha un carattere complesso da cane primitivo. È un cane \"felino\": indipendente, dignitoso e non servile. È incredibilmente leale e affettuoso con la sua famiglia ristretta, con cui cerca il contatto fisico (ama il comfort).</p><p>È <strong>estremamente riservato e diffidente con gli estranei</strong>. Non è un cane socievole e non apprezza essere toccato da chi non conosce. Ha un forte istinto di guardia territoriale. Ha un istinto predatorio altissimo e inseguirà qualsiasi cosa si muova. È un cane molto sensibile.</p>",
+      "salute_cura": "<p>È una razza molto sana e rustica, selezionata in un ambiente ostile. L'aspettativa di vita è di 12-15 anni. Come tutti i levrieri, è <strong>molto sensibile all'anestesia</strong> e ai farmaci, a causa della sua bassa percentuale di grasso corporeo. Può essere soggetto a displasia dell'anca e a torsione gastrica.</p><p>Il mantello corto non richiede cure, ma la sua pelle sottile e la totale assenza di grasso lo rendono <strong>estremamente sensibile al freddo</strong> e all'umidità. Ha bisogno di vivere in casa e di indossare cappotti caldi in inverno.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, ma di tipo levriero: <strong>sprint esplosivi</strong>. Ha bisogno di correre libero ad alta velocità ogni giorno, ma <strong>esclusivamente in aree sicure e perfettamente recintate</strong>. È un corridore instancabile. È il re del Lure Coursing.</p><p>L'addestramento è per soli esperti. È intelligente, ma indipendente e non motivato a compiacere. L'addestramento tradizionale è inutile. Risponde solo a un rapporto basato sul rispetto, sulla pazienza e sulla coerenza. Il richiamo è inaffidabile. La socializzazione precoce è fondamentale per gestire la sua diffidenza.</p>",
+      "ideale_per": "<p>È un cane <strong>esclusivamente per proprietari esperti</strong> di levrieri o cani primitivi. È ideale per chi pratica Lure Coursing e capisce la natura \"felina\" e riservata. Richiede un giardino alto e sicuro e un ambiente domestico tranquillo.</p><p>È <strong>sconsigliato</strong> ai proprietari principianti, a chi vive in climi freddi senza protezione, a chi ha gatti o piccoli animali, e a chi desidera un cane socievole e \"da parco\". Non può mai essere lasciato libero.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 5.0,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Barbet",
+    "post_excerpt": "Il Barbet è un antico cane d'acqua francese, progenitore di molte razze (tra cui il Barbone). È un cane rustico, con un mantello lanoso e riccio, specializzato nel riporto in palude. Intelligente, leale e giocherellone, è un ottimo cane da famiglia per proprietari attivi. Richiede toelettatura.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "barbet",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Barbet\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Barbet.jpg",
+      "filename": "Barbet.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia",
+      "colorazioni": "Nero, Grigio, Marrone, Fulvo, Sabbia, Bianco (solidi o pezzati).",
+      "temperamento_breve": "Intelligente, Giocherellone, Leale, Socievole, Amante dell'acqua",
+      "descrizione_generale": "<p>Il Barbet è un'antica razza francese da acqua, un cane rustico e versatile. Il suo nome deriva dalla sua caratteristica \"barbe\" (barba). È considerato l'antenato di molte razze moderne, tra cui il Barbone, il Bichon Frisé e il Griffone Korthals. È un cane di taglia media, robusto e coperto da un folto mantello lanoso e riccio che lo protegge dall'acqua fredda.</p><p>È un cane da riporto specializzato nel lavoro in palude (\"gundog\"), ma è anche un compagno di famiglia eccezionale. È intelligente, leale, molto socievole e ha un carattere giocherellone e \"buffo\". È un cane che ama l'acqua più di ogni altra cosa.</p>",
+      "origini_storia": "<p>Il Barbet è presente in Francia da secoli, forse introdotto dai Mori. È citato in letteratura e raffigurato in opere d'arte fin dal XVI secolo. Era il cane d'acqua per eccellenza, utilizzato per la caccia alle anatre e agli uccelli acquatici. La sua popolarità come cane da lavoro era immensa prima dello sviluppo del Barbone (Poodle), che ne è una versione più raffinata.</p><p>La razza fu quasi completamente decimata dalle due guerre mondiali. Negli anni '70 e '80, appassionati allevatori francesi hanno lavorato duramente per salvare la razza dall'estinzione, utilizzando i pochi esemplari rimasti. Oggi è ancora una razza rara, ma in ripresa, apprezzata per la sua natura rustica e il suo carattere socievole.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, forte e ben proporzionato. L'altezza al garrese per i maschi è 58-65 cm, per le femmine 53-61 cm. Il peso varia dai 17 ai 28 kg. Ha una testa forte, con una barba pronunciata e orecchie lunghe e pelose.</p><p>Il mantello è la sua caratteristica: è lungo, lanoso, fitto e riccio. È impermeabile e forma corde se non spazzolato. Non perde pelo (ipoallergenico). I colori ammessi sono il nero solido, il grigio, il marrone (fegato), il fulvo e il sabbia. Sono ammesse anche pezzature bianche.</p>",
+      "carattere_temperamento": "<p>Il Barbet è un cane intelligente, leale e molto socievole. È un cane da famiglia ideale: giocherellone, paziente con i bambini e amichevole con gli estranei e altri animali. È meno \"elettrico\" del Barbone, ma mantiene un'alta energia lavorativa.</p><p>Il suo amore per l'acqua è istintivo; si tufferà in qualsiasi pozza. È un cane che ha bisogno di compagnia e soffre la solitudine. È addestrabile e desideroso di compiacere, ma ha anche un lato \"buffo\" e testardo. È un ottimo cane da allarme.</p>",
+      "salute_cura": "<p>È una razza rustica e generalmente sana, con un'aspettativa di vita di 13-15 anni. Le principali preoccupazioni, dovute a un pool genetico inizialmente ristretto, sono:</p>\n<ul>\n  <li><b>Displasia dell'anca e del gomito.</b></li>\n  <li><b>Epilessia.</b></li>\n  <li><b>Problemi oculari (cataratta, PRA).</b></li>\n  <li><b>Otiti:</b> Le sue orecchie pelose e pendenti richiedono una pulizia costante.</li>\n</ul>\n<p>La toelettatura è impegnativa. Il mantello non perde pelo, ma deve essere spazzolato a fondo regolarmente (più volte a settimana) per evitare feltri. Richiede una tosatura professionale periodica.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio. È un cane da lavoro che ha bisogno di attività fisica e mentale. È un nuotatore instancabile. È ideale per la caccia, ma eccelle anche in Agility, Obedience e Dock Diving. Non è un cane da divano e si adatta male alla vita in appartamento senza sfogo.</p><p>È intelligente e addestrabile. Risponde bene al rinforzo positivo e al gioco. La sua sensibilità richiede un proprietario gentile ma coerente. La socializzazione precoce è importante.</p>",
+      "ideale_per": "<p>È ideale per famiglie attive che vivono vicino all'acqua (lago, mare) o che amano le escursioni. È perfetto per chi cerca un cane ipoallergenico, intelligente e giocherellone per sport cinofili. È adatto a cacciatori di acquatici.</p><p>È <strong>sconsigliato</strong> a persone sedentarie, a chi vive in un piccolo appartamento senza tempo per l'esercizio, e a chi non è disposto a gestire una toelettatura impegnativa. È una razza rara.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Barboni",
+    "post_excerpt": "Il Barbone è una delle razze più intelligenti al mondo, disponibile in quattro taglie (Grande, Medio, Nano, Toy). È un cane ipoallergenico, incredibilmente addestrabile e un eccellente cane da famiglia. Richiede una toelettatura professionale costante e molta stimolazione mentale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "barboni",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Barboni\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Barboni.jpg",
+      "filename": "Barboni.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (origine contesa con la Germania)",
+      "colorazioni": "Nero, Bianco, Marrone, Grigio, Albicocca, Rosso fulvo. (Devono essere solidi).",
+      "temperamento_breve": "Intelligente, Addestrabile, Affettuoso, Vivace, Sensibile",
+      "descrizione_generale": "<p>Il Barbone (Poodle) è una razza canina incredibilmente versatile e una delle più intelligenti in assoluto. Sebbene sia spesso visto come un cane da esposizione \"snob\", è un cane da lavoro robusto, originariamente selezionato come cane da riporto in acqua (il nome deriva dal tedesco \"pudeln\", sguazzare).</p><p>La razza è unita da un unico standard, ma divisa in quattro taglie: <strong>Grande Mole</strong> (Standard), <strong>Media Mole</strong> (Medium), <strong>Nano</strong> (Miniature) e <strong>Toy</strong>. Tutti i Barboni condividono un mantello riccio e ipoallergenico, un'intelligenza acuta e un carattere leale e addestrabile. Richiedono molta stimolazione mentale e una toelettatura costante.</p>",
+      "origini_storia": "<p>L'origine del Barbone è contesa tra Francia e Germania, ma la FCI ha assegnato il patrocinio alla Francia. Discende senza dubbio da antichi cani d'acqua, come il Barbet. Per secoli è stato un cane da lavoro, specializzato nel riporto delle anatre dalle paludi. Le sue famose toelettature (come quella \"a leone\") non erano estetiche, ma funzionali: proteggevano petto e articolazioni dal freddo, lasciando il resto del corpo libero per nuotare.</p><p>La sua intelligenza lo rese popolare anche nei circhi. Le taglie più piccole (Nano e Toy) furono sviluppate in Francia a partire dal XV secolo come cani da compagnia per la nobiltà, che li usava anche come \"cani da tartufo\". Oggi è principalmente un cane da famiglia e da esposizione.</p>",
+      "aspetto_fisico": "<p>Tutte le taglie condividono la stessa morfologia elegante, quadrata e proporzionata. Le taglie sono:</p>\n<ul>\n  <li><b>Grande Mole:</b> 45 - 60 cm</li>\n  <li><b>Media Mole:</b> 35 - 45 cm</li>\n  <li><b>Nano:</b> 28 - 35 cm</li>\n  <li><b>Toy:</b> 24 - 28 cm</li>\n</ul>\n<p>Il mantello è la sua caratteristica: è fitto, lanoso, elastico e molto riccio. Non perde pelo (ipoallergenico), ma cresce continuamente. I colori devono essere solidi: nero, bianco, marrone, grigio, albicocca e rosso fulvo.</p>",
+      "carattere_temperamento": "<p>Il Barbone è eccezionalmente intelligente, facile da addestrare e molto desideroso di compiacere. È un cane vivace, energico (specialmente il Grande) e giocherellone. È anche molto sensibile e si lega profondamente alla sua famiglia, soffrendo la solitudine.</p><p>È un eccellente cane da allarme, vigile e protettivo (specialmente il Grande), ma generalmente socievole se ben socializzato. Le taglie più piccole possono essere più \"nervose\" se viziate. Ha bisogno di costante stimolazione mentale per non annoiarsi e sviluppare comportamenti problematici.</p>",
+      "salute_cura": "<p>L'aspettativa di vita varia con la taglia: i Toy (14-17 anni) sono più longevi dei Grandi (10-12 anni). È una razza soggetta a molti problemi genetici:</p>\n<ul>\n  <li><b>Malattia di Addison:</b> Un disturbo ormonale, comune nel Grande Barbone.</li>\n  <li><b>Torsione gastrica (Bloat):</b> Rischio elevato per il Grande Barbone.</li>\n  <li><b>Atrofia Progressiva della Retina (PRA):</b> Comune in Nani e Toy.</li>\n  <li><b>Lussazione della rotula:</b> Molto comune nelle taglie piccole (Nano, Toy).</li>\n  <li><b>Epilessia.</b></li>\n</ul>\n<p>La toelettatura è l'impegno maggiore: il mantello <strong>non perde pelo</strong>, ma deve essere spazzolato a fondo quotidianamente e richiede una <strong>toelettatura professionale ogni 4-6 settimane</strong>.</p>",
+      "attivita_addestramento": "<p>È considerato uno dei cani più facili da addestrare, grazie alla sua intelligenza quasi umana. Impara tutto e velocemente. È un campione in <strong>Obedience, Agility</strong> e (il Grande) nelle prove di riporto. L'addestramento deve essere positivo, creativo e stimolante.</p><p>Le esigenze di esercizio variano: il Grande Barbone è un atleta che richiede molta attività fisica. Le taglie più piccole richiedono meno corsa, ma hanno lo stesso bisogno di stimolazione mentale (giochi di intelligenza, addestramento).</p>",
+      "ideale_per": "<p>È un cane ideale per una vasta gamma di persone, dai single alle famiglie, purché siano attive e disposte a impegnarsi nella stimolazione mentale. È la scelta perfetta per chi soffre di allergie. Le taglie piccole sono ideali per l'appartamento, il Grande ha bisogno di più spazio.</p><p>È <strong>assolutamente sconsigliato</strong> a chi cerca un cane \"a bassa manutenzione\". I costi e l'impegno della toelettatura professionale sono un fattore da non sottovalutare. Non è adatto a chi è assente tutto il giorno.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Barzoi",
+    "post_excerpt": "Il Barzoi, o Levriero Russo, è un cane di taglia gigante dall'eleganza aristocratica. Nato per la caccia al lupo, è un atleta incredibilmente veloce. In casa è un cane \"felino\": calmo, indipendente e riservato. Richiede un proprietario esperto, un giardino sicuro e soffre il freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "barzoi",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Barzoi\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Barzoi.jpg",
+      "filename": "Barzoi.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Russia",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammessi, tranne il blu e il cioccolato.",
+      "temperamento_breve": "Calmo (in casa), Indipendente, Veloce, Sensibile, Riservato",
+      "descrizione_generale": "<p>Il Barzoi, o Levriero Russo da Caccia (Russkaya Psovaya Borzaya), è un levriero (sighthound) di taglia gigante, sinonimo di eleganza e nobiltà. Con il suo mantello lungo e setoso, la testa sottile e il corpo aerodinamico, è stato per secoli il cane dell'aristocrazia russa, utilizzato in mute di centinaia di esemplari per la spettacolare caccia al lupo.</p><p>Ha un carattere \"felino\": in casa è un compagno calmo, pulito, quasi invisibile e molto dignitoso. All'esterno, si trasforma in un atleta esplosivo con un istinto predatorio fulmineo. È un cane sensibile e riservato, non per tutti, che richiede un proprietario che ne comprenda la natura indipendente.</p>",
+      "origini_storia": "<p>Le origini del Barzoi risalgono al 1600 in Russia. La nobiltà russa aveva bisogno di un cane che fosse abbastanza veloce da inseguire i lupi nelle vaste steppe e abbastanza coraggioso da trattenerli. Si ritiene sia stato creato incrociando levrieri arabi (come il Saluki) con cani da pastore russi a pelo lungo (come l'Owtcharka), per ottenere resistenza al freddo.</p><p>Per due secoli, la caccia al lupo con i Barzoi fu lo sport nazionale dell'aristocrazia zarista. La Rivoluzione Russa del 1917 fu una tragedia per la razza: i Barzoi, visti come simbolo del regime zarista, furono massacrati in massa. La razza sopravvisse solo grazie agli esemplari donati in precedenza alle corti europee e americane.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia gigante, slanciato ed elegante. L'altezza al garrese per i maschi è 75-85 cm, per le femmine 68-78 cm. Il peso è 34-48 kg. Ha una testa molto lunga e stretta, occhi scuri a mandorla e una schiena distintamente arcuata. La coda è lunga e portata bassa.</p><p>Il mantello è lungo, setoso, piatto o leggermente ondulato, con abbondanti frange (specialmente sul collo e sulla coda). Il sottopelo è presente. Tutti i colori e le combinazioni sono ammessi (bianco, nero, fulvo, tigrato), ad eccezione del blu e del cioccolato.</p>",
+      "carattere_temperamento": "<p>Il Barzoi è un cane da \"divano\" in casa: calmo, gentile, molto pulito e discreto. È affettuoso con la sua famiglia, ma in modo riservato e mai invadente. È estremamente sensibile e non tollera i modi bruschi o un ambiente caotico.</p><p>È <strong>molto riservato e diffidente con gli estranei</strong>. Ha un istinto predatorio altissimo e innescato dal movimento: inseguirà qualsiasi cosa (gatti, scoiattoli, sacchetti di plastica). Non è un cane da obbedienza, ma un pensatore indipendente. È generalmente pacifico con altri cani (specialmente levrieri), ma non affidabile.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-11 anni. Come tutti i levrieri giganti, è soggetto a:</p>\n<ul>\n  <li><b>Torsione gastrica (Bloat):</b> Rischio altissimo.</li>\n  <li><b>Cardiomiopatia Dilatativa:</b> Un grave problema cardiaco.</li>\n  <li><b>Cancro (in particolare Osteosarcoma).</b></li>\n  <li><b>Sensibilità all'anestesia:</b> Come tutti i levrieri, a causa del basso grasso corporeo.</li>\n</ul>\n<p>Il mantello lungo richiede spazzolate regolari (più volte a settimana) per evitare nodi, specialmente sulle frange. Perde molto pelo stagionalmente.</p>",
+      "attivita_addestramento": "<p>Ha bisogno di <strong>sprint esplosivi</strong>. Come il Greyhound, non è un cane da lunghe escursioni, ma ha bisogno di correre ad alta velocità in un'area <strong>molto ampia e recintata in modo sicuro</strong> (è un saltatore incredibile). Non è adatto a vivere in un piccolo appartamento senza giardino.</p><p>L'addestramento è per soli esperti. È intelligente, ma testardo e non ha alcun desiderio di compiacere. L'addestramento tradizionale è inutile. Il richiamo è <strong>totalmente inaffidabile</strong>. Risponde solo al rispetto reciproco e alla gentilezza. Eccelle nel Lure Coursing.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di levrieri, che vivono in un ambiente tranquillo, con un giardino molto grande e recintato in modo sicuro. È per chi apprezza un compagno calmo, elegante e \"felino\", e ne rispetta la natura indipendente.</p><p>È <strong>assolutamente sconsigliato</strong> ai proprietari principianti, a chi ha gatti o piccoli animali, e a chi desidera un cane obbediente da lasciare libero. La sua gestione richiede esperienza e un ambiente adatto.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Basenji",
+    "post_excerpt": "Il Basenji è un'antica razza da caccia africana, nota per essere \"il cane che non abbaia\" (ma emette un suono tipo \"yodel\"). È un cane \"felino\", pulitissimo, indipendente e molto intelligente. È un maestro della fuga e non per principianti. Richiede un proprietario esperto e paziente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "basenji",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Basenji\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Basenji.jpg",
+      "filename": "Basenji.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Repubblica Democratica del Congo (Patrocinio: Gran Bretagna)",
+      "colorazioni": "Nero e bianco; Rosso e bianco; Nero, focato e bianco (Tricolore); Tigrato e bianco.",
+      "temperamento_breve": "Indipendente, Intelligente, Pulito (felino), Curioso",
+      "descrizione_generale": "<p>Il Basenji è un'antica razza da caccia (di tipo primitivo) originaria dell'Africa centrale. È famoso per due caratteristiche uniche: <strong>non abbaia</strong> (ma non è muto, emette un suono particolare simile a uno yodel o un \"barroo\") e si <strong>lava come un gatto</strong>, rendendolo estremamente pulito e quasi inodore.</p><p>È un cane di taglia piccola-media, elegante, con la fronte rugosa (quando è attento) e una coda arricciata a cavatappi. È un cane \"felino\" non solo nella pulizia, ma anche nel carattere: indipendente, testardo, curioso e molto intelligente. È un compagno affascinante, ma un vero incubo per un proprietario inesperto.</p>",
+      "origini_storia": "<p>Il Basenji è una delle razze \"basali\", geneticamente molto antiche, che esistono da migliaia di anni. È il cane da caccia delle tribù pigmee nelle foreste del Congo, usato per stanare la selvaggina (piccole antilopi) nelle reti. La sua assenza di abbaio era un vantaggio per non spaventare la preda.</p><p>I primi tentativi di importare la razza in Inghilterra negli anni '20 e '30 fallirono a causa del cimurro. La razza fu stabilita con successo in Occidente solo negli anni '30, grazie a importazioni dall'Africa. Il patrocinio della razza è della Gran Bretagna. È una razza che va in calore solo una volta all'anno, come i lupi.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia piccola-media, leggero ed elegante. L'altezza al garrese ideale è 43 cm per i maschi e 40 cm per le femmine. Il peso è 11 kg (maschi) e 9,5 kg (femmine). La sua struttura è fine, con zampe lunghe. Ha orecchie erette e una coda arricciata strettamente sul dorso.</p><p>Il mantello è corto, fine e lucido. I colori ammessi sono:</p><ul><li>Nero puro e bianco</li><li>Rosso e bianco</li><li>Nero, focato (tan) e bianco (Tricolore)</li><li>Tigrato (Brindle) e bianco</li></ul><p>Le zampe, il petto e la punta della coda devono essere sempre bianchi.</p>",
+      "carattere_temperamento": "<p>Il Basenji è un cane primitivo. È incredibilmente intelligente nel risolvere problemi, ma non nell'obbedire. È testardo, indipendente e molto curioso. È un <strong>maestro della fuga</strong>: può scavalcare recinzioni, aprire porte e gabbie. Non può mai essere lasciato libero in aree non sicure.</p><p>È affettuoso con la sua famiglia, ma in modo \"felino\", alle sue condizioni. È riservato con gli estranei. Odia l'acqua e la pioggia. Ha un istinto predatorio altissimo verso i piccoli animali. È un cane che richiede molta stimolazione mentale per non diventare distruttivo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza soggetta a una grave patologia genetica ereditaria:</p>\n<ul>\n  <li><b>Sindrome di Fanconi:</b> Una malattia renale grave che, se non trattata, è fatale. È fondamentale testare i riproduttori.</li>\n  <li><b>Atrofia Progressiva della Retina (PRA).</b></li>\n  <li><b>Ipotiroidismo.</b></li>\n</ul>\n<p>La cura del pelo è minima. Si pulisce da solo e non ha odore. Perde pochissimo pelo. È una delle razze più facili da gestire da questo punto di vista.</p>",
+      "attivita_addestramento": "<p>È considerato <strong>una delle razze più difficili da addestrare</strong>. Non è motivato a compiacere e si annoia istantaneamente. L'addestramento deve essere creativo, positivo, basato sul gioco e su sessioni brevissime. Il richiamo è inaffidabile.</p><p>Ha un alto bisogno di esercizio, preferibilmente corsa (è un levrieroide). Si adatta all'appartamento perché è pulito e calmo in casa, ma deve poter correre in un'area sicura ogni giorno. È un eccellente cane da Lure Coursing.</p>",
+      "ideale_per": "<p>È ideale per <strong>proprietari molto esperti</strong> di cani primitivi, pazienti e con un grande senso dell'umorismo. È per chi cerca un cane \"felino\", pulito, indipendente e affascinante. Richiede un giardino a prova di fuga o una gestione molto attenta al guinzaglio.</p><p>È <strong>assolutamente sconsigliato</strong> ai proprietari principianti, a chi desidera un cane obbediente, e a chi ha piccoli animali domestici. È un cane che metterà costantemente alla prova l'intelligenza e la pazienza del proprietario.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 1.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 4.5,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

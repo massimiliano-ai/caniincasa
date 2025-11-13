@@ -1,0 +1,479 @@
+[
+  {
+    "post_title": "Kooikerhondje",
+    "post_excerpt": "Il Kooikerhondje, o Spaniel Olandese, è un antico cane da caccia (da richiamo per anatre), allegro e intelligente. Di taglia media, bianco e rosso, è un compagno sensibile e attivo, ma riservato con gli estranei. Richiede socializzazione precoce.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "kooikerhondje",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Kooikerhondje\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Kooikerhondje.jpg",
+      "filename": "Kooikerhondje.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi",
+      "colorazioni": "Bianco con macchie nette rosso-arancio",
+      "temperamento_breve": "Vivace, Intelligente, Sensibile, Riservato",
+      "descrizione_generale": "<p>Il Nederlandse Kooikerhondje, o Spaniel Olandese, è un'affascinante razza da caccia di taglia media, originaria dei Paesi Bassi. È un cane elegante, dal mantello bianco e rosso-arancio e una coda piumata. La sua specialità storica non era la caccia con il fucile, ma il lavoro di richiamo nelle \"eendenkooien\" (trappole per anatre).</p><p>Oggi è un apprezzato cane da compagnia, noto per il suo carattere allegro, intelligente e vivace in famiglia. È tuttavia un cane molto sensibile, che si lega profondamente a una persona e rimane riservato e diffidente verso gli estranei. Richiede una socializzazione attenta e un proprietario paziente.</p>",
+      "origini_storia": "<p>Questa razza è molto antica e la sua immagine è riconoscibile in dipinti olandesi del XVI e XVII secolo, come quelli di Jan Steen e Vermeer. Il suo lavoro era unico: non spaventava le anatre, ma le attirava nei canali della trappola (il \"kooi\") grazie alla sua coda piumata bianca, che usava come un'esca, e al suo movimento giocoso. Il \"kooiker\" (l'uomo delle trappole) rimaneva nascosto.</p><p>Come molte razze, rischiò l'estinzione totale durante la Seconda Guerra Mondiale. Fu salvata da un'unica donna, la Baronessa van Hardenbroek van Ammerstol, che iniziò un programma di recupero nel 1939, cercando esemplari nelle fattorie. La razza fu riconosciuta ufficialmente nei Paesi Bassi nel 1971 e dalla FCI nel 1990 (Standard N° 314).</p>",
+      "aspetto_fisico": "<p>Il Kooikerhondje è un cane armonioso e quasi quadrato. L'altezza al garrese è di 35-40 cm. Il peso si aggira tra i 9 e gli 11 kg. La sua struttura è agile e leggera.</p><p>Il mantello è di media lunghezza, liscio o leggermente ondulato, con un buon sottopelo. Il colore è sempre bianco con macchie nette di colore rosso-arancio. Il rosso non deve predominare. Caratteristici sono gli \"orecchini\" (earrings): lunghe frange di pelo nero sulla punta delle orecchie, che sono molto ricercate. La coda è lunga, piumata e portata allegra.</p>",
+      "carattere_temperamento": "<p>Il Kooiker è un cane dai due volti: con la sua famiglia è allegro, affettuoso, intelligente e giocherellone. Ama imparare e lavorare con il proprietario. È però un cane estremamente sensibile, che non risponde bene ai toni di voce alti o ai metodi duri.</p><p>Con gli estranei è, per natura, molto riservato e diffidente. Non è un cane che dà confidenza a tutti. Ha bisogno dei suoi tempi per accettare nuove persone. Questa sua natura lo rende un eccellente cane da allerta. La socializzazione precoce e positiva è fondamentale per evitare che la diffidenza diventi paura.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. La razza è stata ricostruita da un pool genetico molto ristretto, il che la rende soggetta ad alcune patologie ereditarie. Le più note sono: <ul> <li><b>Mielopatia degenerativa (DM)</b></li> <li><b>Malattia di Von Willebrand (un disturbo della coagulazione)</b></li> <li><b>Polimiosite ereditaria (una malattia muscolare infiammatoria)</b></li> </ul> Gli allevatori responsabili testano i riproduttori per queste condizioni. Può soffrire anche di lussazione della rotula.</p><p>Il mantello non richiede una toelettatura eccessiva. Una spazzolata settimanale è sufficiente per mantenerlo pulito e senza nodi. Perde pelo moderatamente.</p>",
+      "attivita_addestramento": "<p>L'addestramento è un piacere se si usa il metodo giusto. Essendo intelligenti e desiderosi di compiacere (il loro proprietario), eccellono nel rinforzo positivo. Si \"spengono\" con la durezza. Sono cani da lavoro e hanno bisogno di stimolazione mentale.</p><p>Hanno un livello di energia alto. Necessitano di esercizio quotidiano, non solo passeggiate, ma anche corse, giochi di fiuto e attivazione mentale. Sono molto agili e brillano nell'agility (spesso ai vertici delle competizioni nella loro taglia), nell'obedience e nel flyball.</p>",
+      "ideale_per": "<p>È il cane ideale per proprietari sensibili, pazienti e attivi, che cercano un cane intelligente per sport cinofili o come compagno di vita dinamico. È adatto a famiglie con bambini tranquilli e rispettosi. Si adatta all'appartamento se le sue elevate esigenze di esercizio e stimolo mentale sono soddisfatte.</p><p>Non è un cane per principianti. È sconsigliato a chi cerca un cane \"facile\" e amichevole con tutti. Non è adatto a famiglie rumorose o a chi usa metodi di addestramento tradizionali. La sua diffidenza e sensibilità richiedono un ambiente calmo e un proprietario consapevole.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Korea jindo dog",
+    "post_excerpt": "Cane da caccia primitivo, \"Tesoro Nazionale\" della Corea. Estremamente leale al suo proprietario, ma indipendente e territoriale. Molto diffidente con gli estranei e reattivo con altri cani. Richiede un proprietario esperto e socializzazione intensiva.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "korea-jindo-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Korea jindo dog\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Korea-jindo-dog.jpg",
+      "filename": "Korea-jindo-dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Corea (Isola di Jindo)",
+      "colorazioni": "Fulvo (rosso), Bianco, Nero, Nero focato, Grigio (lupo), Tigrato (brindle)",
+      "temperamento_breve": "Leale (estremo), Indipendente, Territoriale, Primitivo",
+      "descrizione_generale": "<p>Il Korea Jindo Dog è una razza da caccia di tipo Spitz, originaria dell'isola di Jindo, in Corea del Sud. È considerato un \"Tesoro Naturale\" nel suo paese (designato nel 1962), dove è protetto e venerato per la sua purezza e le sue abilità. È un cane primitivo, selezionato per la caccia (cervi, cinghiali) in autonomia.</p><p>La sua caratteristica principale è una lealtà feroce e quasi leggendaria verso il suo proprietario, spesso descritta come un legame \"per un solo padrone\". Di contro, è estremamente indipendente, territoriale e molto diffidente verso gli estranei. È una razza che richiede un proprietario esperto e una socializzazione precoce e massiccia.</p>",
+      "origini_storia": "<p>Il Jindo esiste sull'isola omonima da migliaia di anni. L'isolamento geografico ha permesso alla razza di svilupparsi in purezza, senza incroci esterni. Ci sono diverse teorie sulla sua origine (mongola, cinese), ma la sua forma attuale è stata forgiata dall'ambiente dell'isola. Era il cane da caccia indispensabile per gli isolani.</p><p>La sua incredibile abilità nel tornare a casa da solo, anche dopo mesi e centinaia di chilometri, è leggendaria in Corea (la storia di Baekgu, un Jindo che tornò dal suo proprietario originale dopo essere stato venduto, è nota a tutti i coreani). Il governo sudcoreano protegge la razza con leggi specifiche per preservarne la purezza sull'isola. La FCI ha riconosciuto la razza nel 2005 (Standard N° 334).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, muscoloso e inscritto nel quadrato. L'altezza al garrese per i maschi è 50–55 cm, per le femmine 45–50 cm. Il peso è 15–23 kg. Ha l'aspetto tipico di uno Spitz: orecchie erette, testa a cuneo e coda arricciata o a falce sul dorso.</p><p>Il mantello è doppio, con un pelo di copertura duro e dritto e un sottopelo denso. I colori più comuni sono il fulvo (hwanggu) e il bianco (baekgu), ma sono ammessi anche il nero focato (heukgu), il grigio (jaegu) e il tigrato (hogu).</p>",
+      "carattere_temperamento": "<p>Il Jindo è definito dalla sua lealtà. Si lega indissolubilmente a un proprietario e può avere difficoltà a cambiare famiglia. È un eccellente cane da guardia, estremamente territoriale e diffidente verso gli estranei, che non accetta facilmente. Non è un cane che dà confidenza.</p><p>È molto dominante e reattivo verso altri cani, specialmente dello stesso sesso. Ha un istinto predatorio altissimo ed è un maestro della fuga. È incredibilmente pulito (quasi felino). È un pensatore indipendente e non facile da addestrare.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 12-15 anni. Essendo una razza \"naturale", è eccezionalmente sana e robusta. Non ci sono malattie genetiche gravi note, a parte una tendenza all'ipotiroidismo. Il mantello è facile da curare, ma le due mute stagionali sono abbondanti.</p>",       \"attivita_addestramento\": \"<p>Ha un livello di energia molto alto. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate (sempre al guinzaglio, dato l'istinto di fuga e predatorio) e di un giardino con recinzioni a prova di fuga (alte e interrate).</p><p>L'addestramento è molto difficile. È testardo e non motivato a compiacere. Richiede un proprietario esperto di razze primitive, che usi metodi basati sul rispetto. La socializzazione precoce è l'aspetto più importante, ma non eliminerà mai la sua diffidenza innata.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti, che comprendono e rispettano la natura di un cane primitivo e indipendente. È ideale per chi vive in un ambiente rurale, ha recinzioni sicure e cerca un guardiano leale e incorruttibile.</p><p>Non è assolutamente adatto ai principianti, alla vita in città, o a chi cerca un cane socievole da portare al parco. La sua reattività verso altri cani e la sua diffidenza richiedono una gestione esperta e responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 5.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Kromforhlander",
+    "post_excerpt": "Rara razza da compagnia tedesca, creata dopo la WWII. È un cane vivace, affettuoso e un ottimo cane da allerta. Non ha istinto di caccia. Disponibile in due varietà di pelo (ruvido e liscio). Richiede un proprietario presente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "kromforhlander",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Kromforhlander\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Kromforhlander.jpg",
+      "filename": "Kromforhlander.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Bianco con macchie marroni (da chiare a scure)",
+      "temperamento_breve": "Affettuoso, Vivace, Intelligente, Vigile",
+      "descrizione_generale": "<p>Il Kromfohrländer è una delle razze da compagnia più recenti della Germania, creata intenzionalmente nel secondo dopoguerra. È un cane di taglia media, il cui unico scopo è essere un cane da compagnia e da guardia. È noto per il suo carattere allegro, la sua intelligenza e la sua devozione alla famiglia.</p><p>Una delle sue caratteristiche più apprezzate è la quasi totale assenza di istinto predatorio, un tratto voluto dalla sua creatrice. È un cane vivace che si adatta bene alla vita in appartamento (se esercitato), ma è molto vigile e riservato con gli estranei. È una razza rara con un pool genetico ristretto.</p>",
+      "origini_storia": "<p>Il Kromfohrländer è una \"razza d'autore", creata da Ilse Schleifenbaum. La storia iniziò nel 1945, vicino a Siegen (Nord Reno-Westfalia). I soldati americani persero un cane maschio, "Peter\" (probabilmente un Griffone Vandeano o un Fox Terrier a pelo ruvido), che fu trovato dalla signora Schleifenbaum. Lei lo incrociò con la sua femmina, \"Fiffi\" (probabilmente un Fox Terrier).</p><p>Ilse Schleifenbaum fu così colpita dal temperamento dei cuccioli (leali, vigili, senza istinto di caccia) che decise di creare una nuova razza. Per dieci anni, lavorò sulla selezione, chiamando la razza \"Kromfohrländer\" (da \"krom fohr\", che significa \"solco storto\" in dialetto locale). La FCI riconobbe la razza nel 1955 (Standard N° 192).</p>\",
+      \"aspetto_fisico": "<p>È un cane di taglia media, elegante. L'altezza al garrese è 38–46 cm. Il peso è 10–16 kg. La testa è espressiva, con orecchie triangolari pendenti. Esistono due varietà di pelo: <ul> <li><b>Pelo Ruvido (Rauhaar):</b> Pelo duro \"fil di ferro\" con barba.</li> <li><b>Pelo Liscio (Glatthaar):</b> Pelo corto e liscio, simile al Fox Terrier.</li> </ul> Il colore è sempre bianco con macchie marroni (da marrone chiaro a marrone molto scuro). Le macchie sono sulla testa (formando una maschera) e sul corpo.</p>",
+      "carattere_temperamento": "<p>È un cane da compagnia molto devoto. È vivace, intelligente e giocherellone. Si lega moltissimo a una persona o alla sua famiglia e soffre la solitudine. È un eccellente cane da allerta: è molto riservato e diffidente con gli estranei e abbaierà per segnalare qualsiasi novità.</p><p>Come voluto dalla sua creatrice, ha un istinto di caccia molto basso o nullo. È addestrabile ma, come un terrier, può essere testardo. Richiede una socializzazione precoce per gestire la sua diffidenza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 13-15 anni. Essendo una razza derivata da pochissimi fondatori, il pool genetico è molto ristretto. Questo porta a una predisposizione per l'epilessia e una malattia specifica chiamata \"cheratosi digitale ereditaria\" (zampe screpolate). Può soffrire anche di lussazione della rotula.</p><p>La cura del pelo varia: il pelo liscio è facile, il pelo ruvido richiede spazzolate e forse uno stripping leggero.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia medio-alto. Si adatta all'appartamento, ma richiede passeggiate quotidiane e stimolazione mentale. Non è un cane iperattivo, ma ha bisogno di un \"lavoro\" da fare, come l'agility o l'obedience, in cui eccelle.</p><p>L'addestramento è relativamente facile grazie alla sua intelligenza, ma richiede pazienza per la sua testardaggine. Risponde bene al rinforzo positivo.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie o persone che cercano un cane da compagnia attivo, di taglia gestibile e un buon cane da allerta, senza l'istinto predatorio. È adatto a chi è spesso a casa. È una buona scelta per chi pratica agility a livello amatoriale.</p><p>Non è adatto a proprietari inesperti che non sanno gestire la diffidenza. Non è per chi è fuori casa tutto il giorno. La sua rarità lo rende difficile da trovare e potenzialmente costoso in termini di salute.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 1.0
+    }
+  },
+  {
+    "post_title": "Kuvasz",
+    "post_excerpt": "Antico cane da pastore guardiano (LGD) ungherese, dal mantello bianco e folto. È un protettore coraggioso e indipendente della famiglia e del territorio. Non è un cane per principianti: richiede spazio rurale e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "kuvasz",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Kuvasz\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Kuvasz.jpg",
+      "filename": "Kuvasz.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Ungheria",
+      "colorazioni": "Esclusivamente Bianco (o Avorio)",
+      "temperamento_breve": "Protettivo, Indipendente, Coraggioso, Leale",
+      "descrizione_generale": "<p>Il Kuvasz è un'antica razza ungherese di taglia grande, un cane da pastore guardiano (LGD) dal mantello bianco, folto e ondulato. Non è un cane da conduzione, ma un protettore del gregge, selezionato per secoli per difendere il bestiame dai lupi e dagli orsi nelle pianure e montagne dei Carpazi.</p><p>È un cane dal carattere forte, coraggioso e indipendente. Sviluppa un legame profondissimo con la sua famiglia e il suo territorio, che difende con determinazione. È molto diffidente con gli estranei. Non è un cane per tutti, ma richiede un proprietario esperto, spazio rurale e una socializzazione attenta.</p>",
+      "origini_storia": "<p>Le origini del Kuvasz sono antichissime. Si ritiene che i suoi antenati siano arrivati nel bacino dei Carpazi con le tribù Magiari provenienti dall'Asia, più di mille anni fa. Per secoli, è stato il cane da guardiania dei pastori ungheresi. Il suo colore bianco era fondamentale per distinguerlo dai lupi grigi durante gli attacchi notturni.</p><p>Nel XV secolo, sotto il regno di Re Mattia Corvino, il Kuvasz divenne un cane da guardia molto apprezzato dalla nobiltà, usato anche per la caccia grossa. Dopo la Seconda Guerra Mondiale, la razza era quasi estinta; si stima che in tutta l'Ungheria fossero rimasti meno di 30 Kuvasz. Un difficile programma di recupero ha salvato la razza. La FCI l'ha riconosciuta nel 1954 (Standard N° 54).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto e muscoloso, ma non pesante. L'altezza al garrese per i maschi è 71–76 cm (peso 48–62 kg), per le femmine 66–70 cm (peso 37–50 kg). L'aspetto è nobile e potente.</p><p>Il mantello è doppio, con un pelo di copertura ondulato, di media lunghezza, e un sottopelo lanoso e fitto. Forma una criniera sul collo. L'unico colore ammesso è il bianco o l'avorio. La pelle è pigmentata di nero (tartufo, labbra, rime palpebrali).</p>",
+      "carattere_temperamento": "<p>Il Kuvasz è un guardiano puro. È calmo, ma estremamente vigile. È indipendente e abituato a prendere decisioni da solo. È incredibilmente coraggioso e non esiterà a difendere la sua famiglia, che considera il suo \"gregge\".</p><p>È molto leale e affettuoso con i suoi familiari, spesso dolce con i bambini del suo nucleo, ma è estremamente diffidente e riservato con gli estranei. Non accetta facilmente ospiti. Può essere dominante e reattivo con altri cani. La socializzazione precoce è fondamentale per insegnargli a gestire la sua diffidenza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. Come cane di taglia grande, è soggetto a displasia dell'anca e del gomito, e a torsione gastrica (gonfiore). Possono verificarsi problemi dermatologici. Il mantello bianco richiede spazzolate regolari, ma tende ad essere autopulente. Le mute stagionali sono molto abbondanti.</p>",
+      "attivita_addestramento": "<p>L'addestramento all'obbedienza tradizionale è difficile. È un cane indipendente che non ama i comandi ripetitivi. L'addestramento deve essere basato sul rispetto reciproco e sulla coerenza. Il proprietario deve essere un leader calmo e autorevole.</p><p>Le esigenze di esercizio sono moderate. Non è un cane da corsa, ma da pattugliamento. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. Le passeggiate quotidiane sono comunque necessarie.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di cani da guardiania (LGD) che vivono in un ambiente rurale, con un ampio terreno ben recintato. È ideale per chi cerca un cane da protezione serio, leale e indipendente.</p><p>È assolutamente sconsigliato ai principianti, alla vita in città, o a chi ha una vita sociale molto attiva. La sua diffidenza e la sua natura protettiva richiedono una gestione esperta e responsabile.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Labrador retriever",
+    "post_excerpt": "Il Labrador Retriever è il cane da famiglia per eccellenza: amichevole, estroverso, intelligente e paziente. Nato come cane da riporto (acqua e terra) a Terranova, oggi eccelle in compagnia, assistenza e pet therapy. Richiede molto esercizio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "labrador-retriever",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Labrador retriever\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Labrador-retriever.jpg",
+      "filename": "Labrador-retriever.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Canada (Terranova) - Sviluppato nel Regno Unito",
+      "colorazioni": "Nero, Giallo (dal crema chiaro al rosso volpe), Fegato/Cioccolato",
+      "temperamento_breve": "Amichevole, Estroverso, Intelligente, Attivo",
+      "descrizione_generale": "<p>Il Labrador Retriever è da decenni una delle razze canine più popolari al mondo, se non la più popolare. È un cane da riporto di taglia media-grande, noto per il suo carattere eccezionalmente amichevole, la sua intelligenza e la sua natura estroversa. È un cane da famiglia ideale, paziente con i bambini, socievole con tutti (estranei e altri animali) e desideroso di compiacere.</p><p>Nato come cane da lavoro per i pescatori di Terranova, il suo compito era riportare le reti e i pesci dall'acqua gelida. Questa origine lo rende un cane ad alta energia, un nuotatore instancabile e un lavoratore entusiasta. Oltre che come cane da compagnia, eccelle come cane da assistenza per disabili, cane guida, cane da ricerca e soccorso e da pet therapy.</p>",
+      "origini_storia": "<p>Le origini del Labrador risalgono all'isola di Terranova, in Canada. I suoi antenati erano i \"Cani d'acqua di St. John", cani da lavoro tuttofare che aiutavano i pescatori. Questi cani erano più piccoli del Terranova e avevano un pelo corto e idrorepellente.</p><p>All'inizio del XIX secolo, questi cani furono importati in Inghilterra da nobili inglesi, in particolare dal Conte di Malmesbury, che ne apprezzò le incredibili doti di riporto (in inglese "to retrieve\"). Fu in Inghilterra, nella tenuta di Malmesbury, che la razza fu selezionata, perfezionata e prese il nome di \"Labrador\" (nonostante provenisse da Terranova). Il Kennel Club inglese riconobbe la razza nel 1903.</p>",
+      "aspetto_fisico": "<p>Il Labrador è un cane di taglia media-grande, robusto, solido e compatto. L'altezza al garrese per i maschi è 56–57 cm, per le femmine 54–56 cm. Il peso varia dai 25 ai 36 kg. La sua struttura è potente e atletica. Esiste una distinzione tra le linee da lavoro (più leggere e agili) e le linee da esposizione (più pesanti e massicce).</p><p>Due caratteristiche sono distintive: <ul> <li><b>Il mantello:</b> Corto, denso, non ondulato, con un sottopelo fitto e resistente all'acqua.</li> <li><b>La coda:</b> La \"coda da lontra", grossa alla base e che si assottiglia, usata come timone in acqua.</li>
+</ul>
+I colori ammessi sono esclusivamente nero, giallo (dal crema pallido al rosso volpe) e fegato/cioccolato.</p>",       \"carattere_temperamento\": \"<p>Il temperamento del Labrador è il suo punto forte. È estroverso, gentile, paziente e non aggressivo. È amichevole con tutti e si fida ciecamente delle persone (non è un cane da guardia). È eccezionale con i bambini e socievole con altri cani e animali domestici. È estremamente intelligente e desideroso di compiacere, il che lo rende molto facile da addestrare.</p><p>Ha un'energia molto alta e una \"maturità\" lenta; rimane un cucciolo esuberante per molti anni. È noto per il suo appetito insaziabile (tendenza al sovrappeso) e per la sua passione per il riporto e l'acqua. Se annoiato o lasciato solo, può diventare distruttivo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza predisposta a diverse patologie. Le più comuni sono la displasia dell'anca e del gomito. Sono frequenti anche le malattie oculari (PRA, cataratta). È anche soggetto a una condizione chiamata \"paralisi indotta dall'esercizio\" (EIC).</p><p>La loro golosità li rende inclini all'obesità, che deve essere gestita con una dieta rigorosa. Il mantello corto è facile da curare, ma perde molto pelo tutto l'anno. Le orecchie pendenti richiedono controlli per le otiti.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da divano. Ha bisogno di almeno 1-2 ore di esercizio vigoroso al giorno: corse, nuoto (lo adora), e sessioni di riporto. È un cane che si adatta all'appartamento solo se questo bisogno di sfogo è pienamente soddisfatto.</p><p>L'addestramento è facile e divertente. È una delle razze più addestrabili. Apprende velocemente e risponde con entusiasmo al rinforzo positivo e al cibo. Eccelle in obedience, agility, riporto e qualsiasi attività da fare con il proprietario.</p>",
+      "ideale_per": "<p>È il cane ideale per famiglie attive, anche con bambini piccoli, o per proprietari alla prima esperienza disposti a impegnarsi. È perfetto per chi pratica sport, escursionismo, o vive vicino all'acqua. È il compagno di vita per eccellenza per chi cerca un cane socievole e partecipe.</p><p>Non è adatto a persone sedentarie, a chi è fuori casa tutto il giorno (soffre la solitudine), o a chi cerca un cane da guardia. La sua esuberanza giovanile e la sua perdita di pelo richiedono pazienza.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 1.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Lagotto romagnolo",
+    "post_excerpt": "Antico cane da riporto in acqua italiano, oggi specialista mondiale nella cerca del tartufo. Dal caratteristico mantello riccio e lanoso, è un cane intelligente, affettuoso e un eccellente lavoratore. Richiede toelettatura e stimolazione mentale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "lagotto-romagnolo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Lagotto romagnolo\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Lagotto-romagnolo.jpg",
+      "filename": "Lagotto-romagnolo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Romagna)",
+      "colorazioni": "Bianco sporco, Bianco-marrone, Roano-marrone, Marrone (in varie tonalità), Arancio",
+      "temperamento_breve": "Intelligente, Affettuoso, Addestrabile, Eccellente fiuto",
+      "descrizione_generale": "<p>Il Lagotto Romagnolo è l'unica razza al mondo specializzata nella cerca del tartufo. È un antico cane da acqua italiano, originario delle zone paludose della Romagna, il cui nome deriva da \"Lago\". È un cane di taglia medio-piccola, dall'aspetto rustico e dal caratteristico mantello riccio, fitto e lanoso, simile alla lana di pecora.</p><p>Sebbene sia un eccellente cane da famiglia, affettuoso e leale, rimane un cane da lavoro nel cuore. È estremamente intelligente, molto addestrabile e possiede un fiuto eccezionale. Ha un'energia sorprendente e un bisogno di stimolazione mentale (come il nosework) per essere felice. Il suo mantello perde poco pelo, ma richiede una toelettatura costante.</p>",
+      "origini_storia": "<p>Le origini del Lagotto sono antichissime e risalgono al Rinascimento, se non prima. Nelle zone paludose della Romagna (Comacchio, Ravenna) era il cane da riporto acquatico dei \"vallaroli\" o \"lagotti\". Il suo compito era tuffarsi per recuperare la selvaggina (folaghe) abbattuta. Il suo mantello riccio e impermeabile era perfetto per proteggerlo dall'acqua gelida.</p><p>Verso la fine del XIX secolo, le grandi bonifiche prosciugarono le paludi. Il Lagotto rischiò l'estinzione e dovette \"reinventarsi\". I tartufai locali (i \"Trifulau\") si accorsero del suo fiuto eccezionale e della sua addestrabilità, e lo convertirono da cane da acqua a insuperabile cercatore di tartufi. Un gruppo di appassionati romagnoli (tra cui Quintino Toschi) iniziò il recupero della razza negli anni '70, portandola al riconoscimento ENCI nel 1991 e FCI nel 1995 (provvisorio).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia medio-piccola, robusto e ben proporzionato, quasi quadrato. L'altezza al garrese per i maschi è 43–48 cm, per le femmine 41–46 cm. Il peso è 11–16 kg. L'aspetto è rustico.</p><p>Il mantello è la sua caratteristica: è lanoso, fitto, riccio e forma anelli stretti su tutto il corpo, con un abbondante sottopelo. È impermeabile. I colori ammessi sono il bianco sporco, il bianco-marrone, il roano-marrone, il marrone unicolore (in varie tonalità) e l'arancio unicolore (raro). Il mantello non fa la muta stagionale, ma cresce continuamente e deve essere tosato.</p>",
+      "carattere_temperamento": "<p>Il Lagotto è un cane vivace, intelligente e molto affettuoso. È un compagno di famiglia eccellente, che si lega profondamente al proprietario ed è generalmente buono con i bambini e altri animali. È un cane da lavoro e ha bisogno di \"fare\": il suo cervello è sempre attivo.</p><p>È un eccellente cane da allerta, che abbaia per avvisare, ma non è aggressivo. Il suo istinto da cacciatore di selvaggina è stato in gran parte eliminato dalla selezione (per non distrarlo dai tartufi), ma mantiene un forte istinto di scavo. Ama l'acqua.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 14-16 anni. È una razza robusta, ma il pool genetico è ristretto. Le principali malattie ereditarie da testare sono la Displasia dell'Anca, l'Epilessia Giovanile Benigna (JE) e la Malattia da Accumulo Lisosomiale (LSD). Alcuni possono soffrire di otiti, a causa del pelo nelle orecchie.</p><p>La cura del mantello è impegnativa. Non perde pelo (è adatto a molti allergici), ma il pelo cresce e si infeltrisce. Deve essere tosato completamente almeno 1-2 volte l'anno. Richiede spazzolate regolari per evitare che si formino \"corde\" e feltri dolorosi.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. Si adatta all'appartamento, ma solo se il proprietario è molto attivo e gli fornisce stimolazione quotidiana. Ha bisogno di lunghe passeggiate, nuoto e, soprattutto, di usare il naso.</p><p>È molto facile da addestrare. È intelligente, concentrato e desideroso di compiacere. È una star in tutte le attività di fiuto (nosework, ricerca tartufi), ma eccelle anche in agility e obedience. L'addestramento è fondamentale per la sua felicità.</p>",
+      "ideale_per": "<p>È ideale per famiglie attive, anche alla prima esperienza, purché disposte a impegnarsi nell'addestramento e nella stimolazione mentale. È perfetto per chi cerca un cane \"ipoallergenico\" (che perde poco pelo) e per chi vuole praticare sport cinofili (specialmente nosework).</p><p>Non è adatto a persone sedentarie, a chi cerca un cane da divano \"a bassa manutenzione\" (la toelettatura è un impegno), o a chi non ha tempo per stimolare la sua mente attiva. Può diventare un abbaione se annoiato.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Laika della siberia",
+    "post_excerpt": "Potente Laika siberiano, un cane da caccia (Spitz) primitivo e versatile. Utilizzato per la caccia a grossa selvaggina (alce, orso), è un cane indipendente, energico e riservato. Richiede un proprietario esperto, climi freddi e contesto rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "laika-della-siberia",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Laika della siberia\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Laika-della-siberia.jpg",
+      "filename": "Laika-della-siberia.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Russia (Siberia Occidentale)",
+      "colorazioni": "Grigio (lupo), Sale e pepe, Bianco, Nero, Macchiato (su fondo bianco)",
+      "temperamento_breve": "Indipendente, Energico, Protettivo, Primitivo",
+      "descrizione_generale": "<p>Il Laika della Siberia Occidentale (Zapadno-Sibirskaya Laika) è il più diffuso dei Laika russi. È un cane da caccia primitivo di tipo Spitz, selezionato per la sua incredibile versatilità. Nelle vaste foreste siberiane, viene utilizzato per la caccia a quasi ogni tipo di preda, dalla piccola selvaggina da pelliccia (zibellino) alla grande selvaggina (alce, cinghiale, orso).</p><p>È un cane potente, resistente e dall'aspetto lupino. Ha un carattere equilibrato, ma è un cane da lavoro puro: indipendente, energico, con un forte istinto predatorio e territoriale. È leale al cacciatore ma riservato con gli estranei. Non è un cane da compagnia per la città.</p>",
+      "origini_storia": "<p>Questo Laika è il risultato della fusione di due ceppi aborigeni (landrace) di cani da caccia allevati dai popoli Mansi e Khanty, nelle regioni degli Urali e del bacino del fiume Ob, nella Siberia Occidentale. Questi cani erano essenziali per la sopravvivenza dei cacciatori locali.</p><p>Negli anni '20, in Unione Sovietica, iniziò un programma di standardizzazione dei vari Laika. Il Laika della Siberia Occidentale fu selezionato come il cane da caccia più versatile e affidabile. Lo standard ufficiale fu approvato a Mosca nel 1949. È una razza molto apprezzata dai cacciatori russi, ma rara altrove.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media-grande, robusto e asciutto. L'altezza al garrese per i maschi è 55–62 cm, per le femmine 51–58 cm. La struttura è leggermente allungata, adatta alla resistenza. Il mantello è doppio, artico: pelo di copertura duro e dritto, sottopelo folto e lanoso. Forma una criniera sul collo. La coda è portata arricciata sul dorso.</p><p>I colori sono quelli tipici dei cani \"selvatici\": grigio (lupo), sale e pepe, bianco, grigio-rossiccio, e macchiato su fondo bianco.</p>",
+      "carattere_temperamento": "<p>È un cacciatore primitivo. È indipendente, intelligente (ma non obbediente) e molto energico. È calmo e stabile in casa (se sfogato), ma esplosivo sul lavoro. È molto territoriale e un eccellente cane da guardia, diffidente con gli estranei.</p><p>È leale al suo proprietario, ma non è un cane espansivo. È molto dominante e può essere aggressivo con altri cani dello stesso sesso. Ha un istinto predatorio assoluto e non può convivere con piccoli animali. Soffre il caldo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza eccezionalmente sana e robusta, forgiata dalla selezione naturale. Non ha malattie genetiche note. Il mantello richiede spazzolate durante le mute massicce. Soffre molto il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane da caccia e deve lavorare. Non è un cane da appartamento. Ha bisogno di vivere in campagna, in climi freddi, e di avere accesso a ettari di bosco. L'inattività lo rende distruttivo.</p><p>L'addestramento è solo venatorio. È un cane che lavora d'istinto e in collaborazione con il cacciatore, ma non è un cane da obbedienza da gara. Richiede un proprietario esperto di Spitz da caccia.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori (specialmente di grossa selvaggina) o per persone che vivono in ambienti rurali molto isolati, in climi freddi. È per chi cerca un cane da guardia e da caccia primitivo, indipendente e robusto.</p><p>È assolutamente inadatto alla vita urbana, ai proprietari principianti, o a chi vive in climi caldi. La sua reattività e il suo istinto predatorio richiedono una gestione esperta.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 5.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Laika russo-europeo",
+    "post_excerpt": "Il più piccolo dei Laika da caccia russi. È uno Spitz energico, coraggioso e molto vocale, specializzato nella caccia alla selvaggina da penna e piccola selvaggina. È un guardiano territoriale, non adatto alla città.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "laika-russo-europeo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Laika russo-europeo\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Laika-russo-europeo.jpg",
+      "filename": "Laika-russo-europeo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Russia (Parte Europea)",
+      "colorazioni": "Nero e bianco (macchiato o pezzato), Bianco e nero",
+      "temperamento_breve": "Vivace, Tenace, Vocale, Territoriale",
+      "descrizione_generale": "<p>Il Laika Russo-Europeo (Russko-Evropeïskaïa Laïka) è il più piccolo dei tre Laika da caccia russi riconosciuti. È un cane di tipo Spitz, compatto e robusto, quasi sempre di colore bianco e nero. È stato selezionato nelle regioni forestali della Russia europea per la caccia a un'ampia varietà di selvaggina, dallo scoiattolo al gallo cedrone, fino all'alce.</p><p>È un cane estremamente vivace, energico, coraggioso e con un temperamento forte. È un cacciatore \"abbaiatore\" (usa la voce per segnalare la preda). È molto territoriale e un ottimo cane da guardia, ma anche molto reattivo con altri cani. È un cane da lavoro per climi freddi.</p>",
+      "origini_storia": "<p>Questa razza è stata \"creata\" dal programma di allevamento statale sovietico iniziato dopo la Seconda Guerra Mondiale. L'obiettivo era standardizzare i cani da caccia locali. Il Laika Russo-Europeo è stato sviluppato a partire dagli anni '40, nel canile di stato di Yaroslavl e presso l'Istituto di Ricerca Scientifica di Leningrado.</p><p>Fu creato incrociando i Laika locali delle regioni di Arcangelo (Arkhangelsk) e della Carelia (Karelia), in particolare il Laika di tipo \"Komi\". Lo standard ufficiale è stato approvato nel 1952. È un cane da caccia molto efficiente, ma meno diffuso del Laika della Siberia Occidentale.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, inscritto nel quadrato. L'altezza al garrese per i maschi è 52–58 cm, per le femmine 50–56 cm. Il peso è 18–23 kg. Ha una struttura forte ma agile. Il mantello è doppio, artico, con pelo di copertura dritto e duro e sottopelo folto. La coda è arricciata sul dorso.</p><p>Il colore è quasi sempre bianco e nero, sia a macchie grandi (pezzato) sia con prevalenza di uno dei due colori. È ammesso anche il nero unicolore o il bianco unicolore, ma sono rari.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia primitivo con un'energia esplosiva. È tenace, coraggioso e molto indipendente. È estremamente vocale sul lavoro e come guardiano. È molto territoriale e diffidente con gli estranei. È leale al proprietario, ma non servile.</p><p>È noto per essere molto reattivo e aggressivo verso altri cani dello stesso sesso e ha un istinto predatorio assoluto. Non è un cane da compagnia. Soffre il caldo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza eccezionalmente robusta e sana, selezionata per il lavoro. Non ha malattie genetiche note. Il mantello richiede spazzolate durante le mute massicce.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. Deve cacciare. Non è un cane da appartamento. Richiede un proprietario cacciatore che viva in un clima freddo e in un ambiente rurale. L'addestramento è solo venatorio e richiede grande esperienza.</p>",
+      "ideale_per": "<p>Esclusivamente per cacciatori che vivono in climi freddi e cercano un cane da caccia (piccola e media selvaggina) vocale, resistente e territoriale. Non è adatto a nessun altro scopo. La sua reattività verso altri cani lo rende difficile da gestire.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 5.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Lakeland terrier",
+    "post_excerpt": "Terrier inglese del Lake District, elegante ma tenace. Nato per cacciare la volpe sulle montagne (\"fells\"), è un cane coraggioso, vivace e testardo. Richiede toelettatura (stripping) e un proprietario attivo che ne gestisca il carattere.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "lakeland-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Lakeland terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Lakeland-terrier.jpg",
+      "filename": "Lakeland-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra, Lake District)",
+      "colorazioni": "Nero focato, Blu focato, Rosso (in varie tonalità), Grano (Wheaten), Liver (fegato) focato",
+      "temperamento_breve": "Coraggioso, Vivace, Testardo, Affettuoso (con la famiglia)",
+      "descrizione_generale": "<p>Il Lakeland Terrier è un cane da tana originario dell'impervia regione del Lake District, nel nord dell'Inghilterra. È un terrier robusto, dall'aspetto elegante ma con un cuore da lavoratore. La sua funzione era cacciare e uccidere le volpi che predavano gli agnelli sui \"fells\" (le montagne locali), un lavoro che richiedeva coraggio, agilità e tenacia.</p><p>È un cane \"grande in un corpo piccolo", con un carattere vivace, sicuro di sé e molto testardo. È affettuoso con la sua famiglia, ma conserva un forte istinto predatorio e una potenziale reattività con altri cani. Richiede una toelettatura specifica (stripping).</p>",       \"origini_storia\": \"<p>Il Lakeland è uno dei terrier più antichi. Si è sviluppato nel Cumberland, vicino al confine scozzese, dove i contadini avevano bisogno di un cane che proteggesse le loro greggi. È il risultato di incroci tra l'Old English Black and Tan Terrier (oggi estinto) e altri terrier locali, come il Bedlington Terrier (per la velocità) e il Border Terrier.</p><p>Per secoli è stato allevato solo per la sua abilità nel lavoro, spesso in condizioni difficili. È stato riconosciuto ufficialmente dal Kennel Club inglese nel 1921. Sebbene sia un ottimo cane da compagnia, rimane un cane da lavoro nel cuore.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia medio-piccola, quadrato e robusto. L'altezza al garrese non supera i 37 cm. Il peso è di circa 7,7 kg per i maschi e 6,8 kg per le femmine. La testa è rettangolare, con baffi e barba, e le orecchie a V sono piegate in avanti.</p><p>Il mantello è doppio: un sottopelo soffice e un pelo di copertura duro, \"fil di ferro\" e fitto. I colori sono vari: nero focato, blu focato, rosso (dal giallo-rosso al mogano), grano (wheaten) e liver (fegato) focato. I cuccioli nascono spesso neri e cambiano colore crescendo.</p>",
+      "carattere_temperamento": "<p>Il Lakeland è un terrier al 100%. È coraggioso fino alla temerarietà, molto energico, curioso e testardo. È un pensatore indipendente che non ama ricevere ordini. È anche molto divertente e giocherellone con la sua famiglia, a cui è leale.</p><p>È un eccellente cane da allerta, vocale e riservato con gli estranei. Ha un istinto predatorio altissimo (non affidabile con piccoli animali) e può essere molto rissoso con altri cani, anche molto più grandi di lui. Ama scavare.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 12-16 anni. È una razza molto robusta. Può essere soggetto a problemi oculari (lussazione del cristallino) e alla malattia di Legg-Calvé-Perthes (necrosi della testa del femore).</p><p>Il mantello richiede una toelettatura (stripping) professionale 2-3 volte l'anno per mantenere la sua tessitura ruvida e i colori brillanti. La tosatura è un'alternativa, ma rovina il pelo. La barba deve essere pulita.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. Si adatta all'appartamento, ma ha bisogno di molto sfogo. Passeggiate vigorose (al guinzaglio) e sessioni di gioco sono il minimo. Eccelle nell'Earthdog e nell'agility.</p><p>L'addestramento è una sfida. È intelligente ma testardo. Si annoia facilmente. L'addestramento deve essere divertente, vario e basato sul rinforzo positivo. Il richiamo è inaffidabile. La socializzazione precoce è fondamentale.</p>",
+      "ideale_per": "<p>È un cane per proprietari di terrier esperti, attivi e con senso dell'umorismo. È per chi cerca un cane piccolo ma con un carattere enorme e può gestirne la testardaggine e l'istinto predatorio. Richiede impegno per la toelettatura.</p><p>Non è adatto a proprietari principianti, a persone sedentarie, o a famiglie con piccoli animali domestici. La sua potenziale reattività con altri cani richiede una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Landseer",
+    "post_excerpt": "Il Landseer (tipo Continentale-Europeo) è un cane da salvataggio in acqua, distinto dal Terranova. Bianco e nero, è un gigante gentile, calmo e molto protettivo. Richiede spazio, soffre il caldo e ha costi di gestione elevati.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "landseer",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Landseer\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Landseer.jpg",
+      "filename": "Landseer.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania / Svizzera (discendente da cani canadesi)",
+      "colorazioni": "Esclusivamente Bianco e Nero (fondo bianco puro con macchie nere)",
+      "temperamento_breve": "Calmo, Gentile, Protettivo, Amante dell'acqua",
+      "descrizione_generale": "<p>Il Landseer (Tipo Continentale-Europeo) è un cane di taglia gigante, bianco e nero, strettamente imparentato con il Terranova. Per la FCI, è una razza distinta, mentre per altri kennel club (come quello americano) è solo una variante di colore del Terranova. Il Landseer europeo è stato selezionato in Germania e Svizzera per essere più alto sugli arti, più agile e meno massiccio del Terranova moderno.</p><p>Come il cugino, è un \"gigante gentile", un cane da salvataggio in acqua per eccellenza. È calmo, nobile, incredibilmente paziente con i bambini e protettivo della sua famiglia. È un cane che richiede spazio, soffre il caldo e ha un innato amore per il nuoto.</p>",       \"origini_storia\": \"<p>Le origini sono le stesse del Terranova. I cani bianchi e neri dell'isola di Terranova (i Cani di St. John) furono importati in Inghilterra. Divennero immensamente popolari grazie ai dipinti di Sir Edwin Landseer (in particolare \"Un membro distintosi della Humane Society", 1838), che ne immortalò l'aspetto nobile e l'eroismo nel salvataggio. Da lui presero il nome.</p><p>Mentre in Inghilterra e Canada si preferì selezionare il colore nero (portando al Terranova moderno), in Europa continentale (Germania e Svizzera) gli allevatori continuarono a selezionare la varietà bianca e nera. Li selezionarono anche per un fisico leggermente diverso, più alto e meno pesante, ritenuto più vicino ai cani originali dipinti da Landseer. La FCI ha riconosciuto il Landseer (E.C.T.) come razza separata nel 1960 (Standard N° 226).</p>",       \"aspetto_fisico\": \"<p>È un cane di taglia gigante, alto e potente. L'altezza al garrese per i maschi è 72–80 cm, per le femmine 67–72 cm. È visibilmente più alto del Terranova. Il peso si aggira tra i 50 e i 68 kg. La testa è meno massiccia e il muso leggermente più lungo rispetto al Terranova.</p><p>Il mantello è doppio, lungo e idrorepellente, ma non deve essere folto come quello del Terranova. Il colore è rigorosamente bianco e nero: un fondo bianco puro, con una sella nera, macchie nere sulla groppa e sulla testa (la testa deve essere nera, con muso bianco).</p>",
+      "carattere_temperamento": "<p>Il temperamento è molto simile a quello del Terranova: calmo, gentile, estremamente paziente e protettivo. È un cane da famiglia superbo, meraviglioso con i bambini. Ha un istinto di salvataggio in acqua molto spiccato.</p><p>È socievole con altri animali e persone, anche se forse leggermente più riservato del Terranova. È un guardiano vigile, ma non aggressivo. Sbava, anche se generalmente meno del Terranova.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è breve, 8-10 anni. Soffre delle stesse patologie delle razze giganti: displasia dell'anca e del gomito, problemi cardiaci (stenosi subaortica) e torsione gastrica (gonfiore).</p><p>Il mantello lungo richiede spazzolate frequenti (più volte a settimana) per evitare nodi. Perde molto pelo. Soffre terribilmente il caldo e ha bisogno di accesso all'acqua o a un luogo fresco in estate.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Ha bisogno di passeggiate quotidiane, ma la sua attività preferita è il nuoto. Non è un cane da jogging. Non è un cane da appartamento, ha bisogno di spazio.</p><p>È intelligente e relativamente facile da addestrare, grazie al suo desiderio di compiacere. Risponde bene ai metodi gentili. Eccelle nelle prove di salvataggio in acqua.</p>",
+      "ideale_per": "<p>È ideale per famiglie che vivono in climi freschi, con una casa grande e un giardino, e preferibilmente con accesso all'acqua (lago, mare). È per chi cerca un \"gigante gentile\" e può gestire i costi, la bava e la perdita di pelo di una razza gigante.</p><p>Non è adatto a chi vive in appartamento, in climi caldi, o a persone ossessionate dalla pulizia. Richiede un proprietario consapevole delle problematiche di salute delle razze giganti.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 1.0
+    }
+  }
+]

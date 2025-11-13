@@ -1,0 +1,455 @@
+[
+  {
+    "post_title": "Haldenstovare",
+    "post_excerpt": "Raro segugio norvegese, specializzato nella caccia alla lepre su terreni innevati. Tricolore, energico e vocale, è un cane da lavoro puro, non adatto alla città. È amichevole ma richiede un proprietario cacciatore e molto esercizio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "haldenstovare",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Haldenstovare\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Haldenstovare.jpeg",
+      "filename": "Haldenstovare.jpeg"
+    },
+    "acf": {
+      "nazione_origine": "Norvegia (Regione di Halden)",
+      "colorazioni": "Tricolore (Bianco con macchie nere e focature tan)",
+      "temperamento_breve": "Energico, Vocale, Amichevole, Tenace",
+      "descrizione_generale": "<p>L'Haldenstøvare, o Segugio di Halden, è una rara razza di cane da seguita norvegese, sviluppata per la caccia alla lepre. Prende il nome dalla città di Halden, nel sud-est della Norvegia. È un cane di taglia media, tricolore, noto per la sua resistenza, la sua voce potente e la sua capacità di cacciare da solo su terreni difficili e innevati.</p><p>È un cane da lavoro puro, con un carattere amichevole e un forte istinto venatorio. Non è un cane da compagnia per la città, ma un atleta che richiede grandi spazi, un proprietario cacciatore e molto esercizio. È una delle razze di segugi scandinavi meno diffuse, anche in patria.</p>",
+      "origini_storia": "<p>L'Haldenstøvare fu sviluppato nella regione di Halden a partire dalla metà del XIX secolo. La sua creazione è attribuita a un allevatore di nome Hans Larsen Bisseberg, che iniziò a incrociare i segugi locali norvegesi (probabilmente imparentati con l'Hygenhund) con cani importati, in particolare Foxhound inglesi e forse Segugi Svizzeri e Tedeschi.</p><p>L'obiettivo era creare un cane veloce, resistente e con un'ottima voce, capace di cacciare la lepre in solitaria. La razza fu stabilizzata all'inizio del XX secolo. Come molte razze europee, rischiò l'estinzione dopo la Seconda Guerra Mondiale. Un programma di recupero negli anni '50 ha salvato la razza, che è stata riconosciuta dalla FCI nel 1952 (Standard N° 267).</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, dalla struttura forte ma non pesante, inscritto nel rettangolo. L'altezza al garrese per i maschi è 52–60 cm, per le femmine 50–58 cm. Il peso si aggira tra i 18 e i 25 kg. Ha orecchie pendenti e una coda lunga.</p><p>Il mantello è doppio, corto, ruvido e molto fitto, per proteggerlo dal freddo. Il colore è sempre tricolore: bianco come fondo, con macchie nere e focature (tan) di colore marrone chiaro. Il nero non deve predominare.</p>",
+      "carattere_temperamento": "<p>È un cacciatore tenace, energico e molto indipendente. È noto per la sua voce melodiosa e potente, che usa abbondantemente sulla traccia. È un cane da lavoro che ha bisogno di sfogare il suo altissimo livello di energia. Ha un istinto predatorio molto forte.</p><p>In famiglia, è generalmente amichevole, di buon carattere e si lega al proprietario, ma non è un cane da appartamento. È vigile e abbaia per allertare. Richiede una socializzazione precoce.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Essendo una razza molto rara, il pool genetico è ristretto, ma è generalmente considerata robusta. Può soffrire di displasia dell'anca. Le orecchie pendenti richiedono una pulizia costante per prevenire otiti. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve correre per ore. L'unica attività adatta è la caccia in un ambiente rurale, preferibilmente con neve. Non è un cane da obbedienza, è testardo e motivato solo dal suo naso. Il richiamo è inaffidabile.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per cacciatori di lepre che vivono in climi freddi e in campagna. È adatto a chi cerca un cane da lavoro vocale, resistente e indipendente. È totalmente inadatto a qualsiasi altro stile di vita, specialmente quello urbano o sedentario.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Hamilton stovare",
+    "post_excerpt": "Elegante segugio svedese tricolore, cane da caccia nazionale. Specializzato nella caccia alla lepre e alla volpe, è un cane da lavoro tenace e vocale. In famiglia è calmo e leale, ma richiede un proprietario attivo e spazio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "hamilton-stovare",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Hamilton stovare\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Hamilton-stovare.jpg",
+      "filename": "Hamilton-stovare.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia",
+      "colorazioni": "Tricolore (Sella nera, focature marroni, macchie bianche su muso, collo, petto, arti e punta della coda)",
+      "temperamento_breve": "Leale, Energico, Vocale, Equilibrato",
+      "descrizione_generale": "<p>L'Hamiltonstövare, o Segugio di Hamilton, è il cane da caccia più popolare e uno dei simboli nazionali della Svezia. È un segugio di taglia media dall'aspetto nobile ed elegante, famoso per il suo splendido mantello tricolore ben definito. È un cane da seguita specializzato nella caccia alla lepre e alla volpe, anche sulla neve.</p><p>Combina un'eccezionale passione venatoria e resistenza sul campo con un temperamento calmo, equilibrato e molto affettuoso in famiglia. È un cane leale e buono con i bambini, ma rimane un cane da caccia con un alto livello di energia e un forte istinto predatorio.</p>",
+      "origini_storia": "<p>La razza è una \"creazione d'autore\". Fu sviluppata dal Conte Adolf Patrick Hamilton, il fondatore dello Swedish Kennel Club (creato nel 1889). Alla fine del XIX secolo, Hamilton volle creare il segugio svedese perfetto, combinando le migliori linee di cani da caccia disponibili.</p><p>Si ritiene che abbia incrociato i segugi svedesi locali (come lo Smålandsstövare) con segugi importati di alta classe, in particolare Foxhound inglesi (per la velocità), Harrier e segugi tedeschi (come l'Holsteiner Hound). Il risultato fu questo cane elegante e potente. La razza fu presentata per la prima volta nel 1886 con il nome di \"Segugio Svedese", ma fu rinominata "Hamiltonstövare\" nel 1921, in onore del suo creatore.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, robusto ma elegante. L'altezza al garrese per i maschi è 53–61 cm, per le femmine 49–57 cm. Il peso è 23–27 kg. La struttura è rettangolare e potente. La testa è lunga e nobile, con orecchie pendenti.</p><p>Il mantello è doppio, corto e molto aderente. Il sottopelo è fitto, specialmente in inverno. Il colore è tricolore e molto netto: una sella nera sul dorso; testa, arti e lati del collo di colore focato (tan) marrone intenso; macchie bianche obbligatorie (lista sul muso, collare, petto, punta della coda e piedi).</p>",
+      "carattere_temperamento": "<p>È un cane da caccia tenace, energico e vocale sul campo. È indipendente e segue il suo naso. In casa, è noto per essere calmo, equilibrato e molto affettuoso con la sua famiglia. È un cane dolce e paziente con i bambini, sebbene il suo istinto predatorio non lo renda affidabile con piccoli animali.</p><p>Non è un cane da guardia, è generalmente amichevole con le persone. Ha bisogno di molto esercizio per mantenere il suo equilibrio. Soffre la solitudine se lasciato solo per troppe ore.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto robusta e sana. La displasia dell'anca è presente, ma non molto diffusa. L'epilessia è stata segnalata in alcune linee. Le orecchie pendenti richiedono una pulizia regolare per prevenire otiti. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. È un atleta che ha bisogno di correre quotidianamente per almeno un'ora, preferibilmente in campagna. È un ottimo compagno di canicross o escursionismo (al guinzaglio).</p><p>L'addestramento all'obbedienza è una sfida. È un segugio intelligente ma testardo. L'addestramento deve essere paziente e coerente. Il richiamo è inaffidabile in presenza di selvaggina.</p>",
+      "ideale_per": "<p>È ideale per cacciatori (lepre, volpe) o per famiglie molto attive che vivono in campagna. È adatto a chi cerca un cane leale e dolce in casa, ma è disposto a gestirne l'energia estrema e l'istinto venatorio all'esterno.</p><p>Non è adatto a persone sedentarie, alla vita in città, o a proprietari inesperti. Non è un cane da lasciare libero in aree non recintate. Il suo abbaio da segugio è potente.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Hannoverischer schweisshund",
+    "post_excerpt": "Specialista tedesco nel recupero della selvaggina ferita (traccia di sangue). È un cane da lavoro puro, calmo, tenace e con un fiuto eccezionale. È riservato esclusivamente ai cacciatori e alle guardie forestali.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "hannoverischer-schweisshund",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Hannoverischer schweisshund\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Hannoverischer-schweisshund.jpg",
+      "filename": "Hannoverischer-schweisshund.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Regione di Hannover)",
+      "colorazioni": "Rosso cervo (chiaro o scuro), Tigrato (con o senza maschera)",
+      "temperamento_breve": "Calmo, Tenace, Specialista (fiuto), Riservato",
+      "descrizione_generale": "<p>L'Hannoverischer Schweisshund (Cane da traccia di Hannover) è un cane da caccia altamente specializzato. Non è un segugio da seguita, ma uno \"specialista della traccia di sangue\" (Schweisshund), il cui unico compito è trovare la selvaggina di grossa taglia (cervi, cinghiali) ferita dopo lo sparo.</p><p>È un cane di taglia media, robusto e potente, con un carattere calmo, serio e incredibilmente tenace. È capace di seguire una traccia di sangue fredda anche a distanza di giorni. È un cane da lavoro puro, riservato quasi esclusivamente a cacciatori professionisti e guardie forestali.</p>",
+      "origini_storia": "<p>Le origini della razza risalgono ai cani da traccia medievali (Leithunde), i cani più preziosi per la caccia nobile. La razza moderna fu sviluppata nel XIX secolo presso la casa di caccia reale di Hannover, in Bassa Sassonia. Gli allevatori di corte incrociarono gli antichi Leithunde con i più pesanti \"segugi di Harz\".</p><p>L'obiettivo era creare un cane che non solo seguisse la traccia di sangue, ma avesse anche la forza e il coraggio di bloccare la selvaggina ferita (spesso pericolosa, come un cinghiale). Il \"Verein Hirschmann", il club ufficiale, fu fondato nel 1894 per proteggere la purezza e l'abilità lavorativa di questo specialista.</p>",       \"aspetto_fisico\": \"<p>È un cane di taglia media, potente e allungato. L'altezza al garrese per i maschi è 50–55 cm, per le femmine 48–53 cm. Il peso è 30–40 kg (maschi) e 25–35 kg (femmine). È un cane massiccio e muscoloso, con un petto profondo per la resistenza.</p><p>Il mantello è corto, fitto e ruvido al tatto. I colori sono il rosso cervo (dal chiaro allo scuro) o il tigrato (brindle), con o senza maschera scura. Le orecchie sono lunghe e pendenti.</p>",
+      "carattere_temperamento": "<p>È un cane calmo, equilibrato e molto serio sul lavoro. È incredibilmente tenace e concentrato sulla sua traccia. È molto legato al suo conduttore, con cui forma un legame profondo, ma è estremamente riservato e diffidente verso gli estranei.</p><p>Non è un cane da compagnia. È un cane da lavoro che ha bisogno di un compito preciso. È molto silenzioso, tranne quando è sulla traccia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-14 anni. È una razza molto robusta, selezionata per la funzionalità. La displasia dell'anca è da monitorare. Le orecchie lunghe richiedono pulizia. Il mantello corto è di facile gestione.</p>",
+      "attivita_addestramento": "<p>L'addestramento è esclusivamente per la traccia di sangue. È un cane che impara questo compito in modo quasi innato. Le esigenze di esercizio sono elevate e legate al suo lavoro: lunghe ore di tracciamento nel bosco.</p><p>Non è adatto alla vita in città. Richiede un ambiente rurale e un proprietario che sia un cacciatore specializzato nel recupero.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per cacciatori di ungulati, conduttori di cani da traccia abilitati e guardie forestali. È un cane da lavoro specialistico e non è venduto come cane da compagnia.</p><p>Totalmente inadatto a qualsiasi altro stile di vita. Non è un cane da famiglia, né da appartamento.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Harrier",
+    "post_excerpt": "Un \"Beagle gigante\" o un \"Foxhound in miniatura\". L'Harrier è un segugio inglese da muta, specializzato nella caccia alla lepre. Energico, socievole con altri cani e vocale. È un cane da lavoro che richiede molto esercizio e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "harrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Harrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Harrier.jpg",
+      "filename": "Harrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Tricolore (Bianco, Nero, Focato), Bicolore (Bianco e Limone, Bianco e Arancio)",
+      "temperamento_breve": "Energico, Socievole (con cani), Vocale, Tenace",
+      "descrizione_generale": "<p>L'Harrier è un segugio da muta inglese di taglia media, che si colloca perfettamente a metà strada tra il Beagle (più piccolo) e il Foxhound (più grande). Il suo nome deriva dal suo scopo: la caccia alla lepre (\"Hare\"). È un cane da lavoro puro, costruito per la velocità e la resistenza, capace di seguire una traccia per ore.</p><p>È un cane con un temperamento classico da segugio: energico, tenace, molto vocale e incredibilmente socievole con gli altri cani, essendo nato per vivere e lavorare in muta. È amichevole con le persone, ma il suo istinto venatorio e il suo bisogno di esercizio lo rendono inadatto alla vita da semplice cane da compagnia.</p>",
+      "origini_storia": "<p>L'Harrier è una delle razze di segugi più antiche d'Inghilterra, con origini che risalgono almeno al XIII secolo. La prima muta di Harrier, la \"Penistone Hunt", fu fondata nel 1260 e continua ad esistere oggi. Questi cani erano usati per la caccia alla lepre, inizialmente a piedi e poi a cavallo.</p><p>La razza è stata probabilmente sviluppata incrociando gli antichi segugi del sud (Southern Hounds) con i Greyhound (per la velocità) e, successivamente, con i Foxhound. È una razza da lavoro, e la sua selezione è sempre stata gestita dai "Master of Hounds\" (capi muta), più che dai club di esposizione. È stata riconosciuta dalla FCI nel 1974 (Standard N° 295).</p>",
+      "aspetto_fisico": "<p>È un cane robusto e compatto. L'altezza al garrese è 48–55 cm. Il peso è 20–27 kg. È più grande e potente di un Beagle, ma più piccolo e leggero di un Foxhound. La struttura è bilanciata per la resistenza.</p><p>Il mantello è corto, fitto e lucido. I colori sono quelli tipici dei segugi: tricolore (bianco, nero e focato, con sella nera) o bicolore (bianco e limone/arancio). Le orecchie sono pendenti e di media lunghezza.</p>",
+      "carattere_temperamento": "<p>L'Harrier è un cane da muta. È estremamente socievole con altri cani e preferisce la loro compagnia a quella umana. È amichevole con le persone, ma non è un cane da \"compagnia\" nel senso affettuoso del termine. È un cane da lavoro.</p><p>È molto energico, tenace e incredibilmente vocale quando è sulla traccia. Il suo istinto predatorio è altissimo. È noto per essere un cane testardo e difficile da addestrare all'obbedienza, poiché la sua unica motivazione è il naso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto sana e robusta, selezionata per il lavoro. La displasia dell'anca è l'unica preoccupazione comune. Le orecchie richiedono pulizia. Il mantello corto è a manutenzione zero.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve correre in muta per ore. Non è adatto alla vita in appartamento. Richiede un proprietario cacciatore o che pratichi \"hunting\" (caccia simulata) o canicross a livelli molto alti.</p><p>L'addestramento all'obbedienza è quasi impossibile. Il richiamo è inesistente. È un cane che vive per il suo naso e per la muta.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per la caccia alla lepre in muta (beagling o harrying). È adatto solo a chi gestisce una muta da caccia e vive in un contesto rurale, con canili adeguati. È totalmente inadatto a qualsiasi altro stile di vita. Raramente viene venduto come cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 4.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 2.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Hokkaido",
+    "post_excerpt": "Antico Spitz giapponese, cane da caccia dell'isola di Hokkaido. Coraggioso e tenace, è usato per la caccia all'orso. È un cane primitivo, leale al proprietario ma diffidente e territoriale. Richiede un proprietario esperto e climi freddi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "hokkaido",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Hokkaido\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Hokkaido.jpg",
+      "filename": "Hokkaido.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Isola di Hokkaido)",
+      "colorazioni": "Sesamo (goma), Tigrato (brindle), Rosso, Nero, Nero focato, Bianco",
+      "temperamento_breve": "Coraggioso, Leale, Indipendente, Primitivo",
+      "descrizione_generale": "<p>L'Hokkaido, noto anche come Ainu-ken (cane degli Ainu), è una delle sei razze Spitz giapponesi autoctone. È un cane da caccia di taglia media, incredibilmente robusto, coraggioso e resistente, sviluppato per la caccia alla grossa selvaggina (orsi e cervi) nel clima rigido dell'isola di Hokkaido, la più settentrionale del Giappone.</p><p>È un cane primitivo, con un carattere fiero e indomito. È estremamente leale e protettivo nei confronti del suo proprietario, ma molto indipendente, testardo e diffidente verso gli estranei. È una razza che richiede un proprietario esperto che ne comprenda la natura selvaggia.</p>",
+      "origini_storia": "<p>L'Hokkaido è considerato una delle razze giapponesi più antiche. Si ritiene che i suoi antenati siano arrivati sull'isola di Hokkaido con il popolo Ainu (gli indigeni del Giappone settentrionale) durante il periodo Jōmon (migliaia di anni fa). Gli Ainu allevavano questi cani in purezza per la caccia all'orso Yezo e ad altra selvaggina.</p><p>La razza divenne nota al di fuori di Hokkaido durante la guerra russo-giapponese (1904-1905), quando fu usata per il trasporto di rifornimenti. Come lo Shiba, l'Hokkaido è stato designato \"Monumento Naturale\" del Giappone nel 1937, per proteggerne la purezza. Rimane una razza molto rara.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, forte e muscoloso. L'altezza al garrese per i maschi è 48,5–51,5 cm, per le femmine 45,5–48,5 cm. Il peso è 20–30 kg. Ha un aspetto tipico da Spitz, con orecchie erette piccole e triangolari e una coda folta arricciata sul dorso.</p><p>Il mantello è doppio, artico, con un pelo di copertura duro e dritto e un sottopelo soffice e denso. I colori ammessi sono il sesamo (misto di peli neri, rossi e bianchi), il tigrato, il rosso, il nero, il nero focato e il bianco. La lingua presenta spesso macchie blu-nere.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia primitivo. È coraggioso, audace, tenace e ha un forte senso dell'orientamento. È un guardiano eccezionale, molto territoriale e diffidente con gli estranei. È leale al suo proprietario, ma non è un cane servile.</p><p>È dominante e molto reattivo con altri cani, specialmente dello stesso sesso. Ha un istinto predatorio altissimo. È un cane che ragiona in modo indipendente e richiede un proprietario che guadagni il suo rispetto. Soffre il caldo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. Essendo una razza \"naturale", è molto sana. La displasia dell'anca è rara. La principale preoccupazione è l'anomalia dell'occhio del Collie (CEA), dovuta al pool genetico ristretto. Il mantello folto richiede spazzolate regolari, specialmente durante le mute massicce.</p>",       \"attivita_addestramento\": \"<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. Ha bisogno di vivere in un clima freddo e in un ambiente rurale, con accesso a grandi spazi. È un eccellente compagno di escursionismo invernale (al guinzaglio).</p><p>L'addestramento è molto difficile. È testardo e indipendente. Richiede un proprietario esperto di Spitz primitivi. La socializzazione precoce è fondamentale per mitigare la sua diffidenza e reattività.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti di razze primitive, che vivono in climi freddi e in campagna. È per chi cerca un cane da caccia o un guardiano serio e indipendente.</p><p>Non è assolutamente adatto ai principianti, alla vita in città, o a chi cerca un cane socievole. È un cane da lavoro puro, con un carattere selvaggio.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Hovawart",
+    "post_excerpt": "Antico cane da guardia tedesco (il nome significa \"guardiano della fattoria\"). Robusto, intelligente e protettivo. È un cane da lavoro versatile, leale alla famiglia ma riservato con gli estranei. Richiede un proprietario esperto e coerente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "hovawart",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Hovawart\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Hovawart.jpg",
+      "filename": "Hovawart.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Nero focato, Nero, Biondo (Blond)",
+      "temperamento_breve": "Protettivo, Intelligente, Leale, Equilibrato",
+      "descrizione_generale": "<p>L'Hovawart è un'antica razza da lavoro tedesca. Il suo nome deriva dal tedesco medievale: \"Hova\" (corte, fattoria) e \"Wart\" (guardiano). È un cane da guardia di taglia grande, robusto e dal pelo lungo, che per secoli ha protetto le fattorie e le proprietà nella regione della Foresta Nera.</p><p>È un cane versatile, utilizzato non solo per la guardia, ma anche per la traccia e la protezione civile. È noto per il suo carattere equilibrato: è un cane calmo, molto intelligente, incredibilmente leale e protettivo della sua famiglia, ma riservato e diffidente con gli estranei. Richiede un proprietario esperto e un addestramento coerente.</p>",
+      "origini_storia": "<p>Cani da guardia chiamati \"Hovawart\" sono menzionati in testi di legge tedeschi (come lo Schwabenspiegel) già nel 1274. Questi cani da fattoria medievali erano i protettori della proprietà. Tuttavia, la razza originale quasi si estinse, soppiantata da altre, come il Pastore Tedesco.</p><p>La razza moderna è una \"ricostruzione\" iniziata dopo la Prima Guerra Mondiale. Un gruppo di appassionati, guidato da Kurt Friedrich König, decise di ricreare l'antico cane da fattoria. A partire dal 1922, usarono cani da fattoria locali (tipo \"Typhus\") e li incrociarono con razze come il Pastore Tedesco, il Terranova (per la stazza), il Kuvasz (per l'istinto di guardia) e il Leonberger. La FCI ha riconosciuto la razza ricostruita nel 1937 (Standard N° 190).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, potente ma agile. L'altezza al garrese per i maschi è 63–70 cm, per le femmine 58–65 cm. Il peso è 30–40 kg. La struttura è robusta e leggermente allungata. Il petto è profondo.</p><p>Il mantello è lungo, folto, leggermente ondulato e resistente alle intemperie, con un buon sottopelo. I colori ammessi sono tre: <ul> <li><b>Nero focato (Schwarzmarken):</b> Il più comune, simile a un Rottweiler a pelo lungo.</li> <li><b>Nero (Schwarz):</b> Completamente nero.</li> <li><b>Biondo (Blond):</b> Un fulvo dorato.</li> </ul></p>",
+      "carattere_temperamento": "<p>L'Hovawart è un cane da guardia eccezionale. È calmo, sicuro di sé, equilibrato e molto intelligente. È estremamente protettivo e territoriale, ma non è inutilmente aggressivo; è un cane che \"pensa\" prima di agire. È molto leale e affettuoso con la sua famiglia, compresi i bambini.</p><p>È molto riservato e diffidente con gli estranei. Richiede una socializzazione precoce e un addestramento costante, altrimenti il suo istinto protettivo può diventare un problema. È un cane che matura lentamente (fino a 3 anni).</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-14 anni. È una razza generalmente sana e robusta. La displasia dell'anca è la preoccupazione principale. Può essere soggetto a ipotiroidismo. Il mantello lungo richiede spazzolate regolari (1-2 volte a settimana) per evitare nodi, ma non è difficile da gestire come altre razze a pelo lungo. Perde pelo stagionalmente.</p>",
+      "attivita_addestramento": "<p>È un cane da lavoro che ha bisogno di esercizio fisico e mentale. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate quotidiane e, idealmente, di un \"lavoro\" (come l'addestramento da guardia, la traccia o la protezione civile).</p><p>L'addestramento è per proprietari esperti. È intelligente ma anche dominante e testardo. Richiede un leader calmo, paziente ma assolutamente coerente. Risponde bene al rinforzo positivo ma non sopporta la monotonia. La socializzazione è la chiave.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di cani da lavoro, che vivono in una casa con un grande giardino recintato. È perfetto per chi cerca un cane da guardia leale, intelligente e protettivo, e ha il tempo di dedicarsi all'addestramento e alla socializzazione.</p><p>Non è un cane per principianti. Non è adatto alla vita in appartamento o a proprietari \"morbidi\". Il suo istinto di guardia è forte e deve essere gestito con competenza.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Hyghenhund",
+    "post_excerpt": "Raro segugio norvegese, allevato per la caccia alla lepre ad alta velocità. È un cane da lavoro energico, tenace e vocale. In famiglia è amichevole, ma richiede un proprietario cacciatore e un ambiente rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "hyghenhund",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Hyghenhund\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Hygenhund.jpg",
+      "filename": "Hygenhund.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Norvegia",
+      "colorazioni": "Rosso-bruno, Giallo-rosso, Nero focato (con bianco)",
+      "temperamento_breve": "Energico, Tenace, Vocale, Amichevole",
+      "descrizione_generale": "<p>L'Hygenhund, o Segugio di Hygen, è una razza da seguita norvegese di taglia media, molto rara. È un cane da caccia specializzato, selezionato per la sua velocità, la sua resistenza e la sua voce potente, utilizzata per la caccia alla lepre e alla volpe su terreni difficili e innevati.</p><p>È un cane da lavoro puro, con un temperamento energico e tenace sul campo. In famiglia è noto per essere amichevole e di buon carattere (se le sue esigenze di esercizio sono soddisfatte), ma il suo istinto venatorio e il suo bisogno di corsa lo rendono inadatto alla vita urbana.</p>",
+      "origini_storia": "<p>La razza è una \"creazione d'autore", sviluppata nel XIX secolo dall'allevatore norvegese Hans Fredrik Hygen, nella regione del Ringerike. A partire dal 1830, Hygen incrociò i segugi locali norvegesi con segugi importati, in particolare i segugi tedeschi dell'Holstein (Holsteiner Bracke).</p><p>L'obiettivo era creare un cane da caccia veloce, con grande resistenza e un forte istinto venatorio. La razza fu stabilizzata dai suoi figli dopo la sua morte. L'Hygenhund fu riconosciuto ufficialmente in Norvegia all'inizio del XX secolo. È una razza estremamente rara, anche in patria.</p>",       \"aspetto_fisico\": \"<p>È un segugio di taglia media, solido e compatto. L'altezza al garrese per i maschi è 50–58 cm, per le femmine 47–55 cm. Il peso è 20–25 kg. Il mantello è corto, fitto e ruvido, con un buon sottopelo per il freddo.</p><p>I colori ammessi sono: rosso-bruno o giallo-rosso (spesso con macchie bianche); nero focato, solitamente combinato con macchie bianche (tricolore).</p>",
+      "carattere_temperamento": "<p>È un cacciatore appassionato, energico e vocale. È un cane da lavoro che deve sfogare la sua energia. È indipendente sul campo, ma amichevole e leale in famiglia. Non è un cane da guardia, è generalmente fiducioso.</p><p>Ha un istinto predatorio molto forte e non è affidabile con piccoli animali. Richiede un proprietario esperto che ne gestisca l'energia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Essendo una razza molto rara, il pool genetico è ristretto. Non ci sono malattie genetiche specifiche note. Le orecchie pendenti richiedono pulizia. Il pelo corto è facile da curare.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane da caccia che deve correre per ore. Non è adatto alla vita in appartamento. Richiede un proprietario cacciatore o che viva in campagna e possa garantirgli sfogo.</p><p>L'addestramento è difficile; è un segugio testardo. Il richiamo è inaffidabile.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori di lepre che vivono in climi freddi e in campagna. È adatto a chi cerca un cane da lavoro vocale, resistente e indipendente. È totalmente inadatto a qualsiasi altro stile di vita.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Cane da pastore di Islanda",
+    "post_excerpt": "Antico cane da pastore (Spitz) portato in Islanda dai Vichinghi. È un cane da conduzione (herding) vivace, amichevole e molto vocale. È un eccellente cane da famiglia per proprietari attivi, ma abbaia molto. Richiede socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "iceland-dog-cane-da-pastore-di-islanda",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Iceland dog- cane da pastore di islanda\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Iceland-dog-cane-da-pastore-di-islanda.jpg",
+      "filename": "Iceland-dog-cane-da-pastore-di-islanda.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Islanda",
+      "colorazioni": "Fulvo (in varie tonalità), Cioccolato, Grigio, Nero (tutti con macchie bianche obbligatorie)",
+      "temperamento_breve": "Vivace, Amichevole, Vocale, Intelligente",
+      "descrizione_generale": "<p>Il Cane da Pastore Islandese (Íslenskur fjárhundur) è l'unica razza canina autoctona dell'Islanda. È un cane da pastore di tipo Spitz, portato sull'isola dai primi coloni Vichinghi (tra l'874 e il 930 d.C.). Per secoli, è stato il cane da lavoro indispensabile per i contadini islandesi, utilizzato per radunare le pecore e i cavalli negli aspri terreni vulcanici.</p><p>È un cane vivace, agile, estremamente amichevole ed estroverso (non è un cane da guardia, ma da allerta). La sua caratteristica principale è la vocalità: abbaia molto per lavorare e per segnalare qualsiasi cosa. È un eccellente cane da famiglia e da sport (agility), ma richiede un proprietario attivo.</p>",
+      "origini_storia": "<p>Questo cane discende direttamente dai cani che i Vichinghi portarono dalla Norvegia. È strettamente imparentato con il Norsk Buhund. L'isolamento e il clima rigido dell'Islanda hanno forgiato una razza robusta e adatta al terreno. Il suo compito era radunare le pecore sparse sulle montagne e riportarle alle fattorie.</p><p>La razza è quasi scomparsa due volte: prima a causa di una tassa sui cani nel tardo XIX secolo, e poi, in modo drammatico, a causa di epidemie di cimurro negli anni '50 (si stima fossero rimasti meno di 50 cani). La razza è stata salvata da appassionati, tra cui l'inglese Mark Watson. È stata riconosciuta dalla FCI nel 1972 (Standard N° 289).</p>",
+      "aspetto_fisico": "<p>È uno Spitz di taglia media, leggermente sotto la media, con una struttura rettangolare. L'altezza ideale al garrese per i maschi è 46 cm, per le femmine 42 cm. Ha un'espressione dolce e attenta, orecchie erette e coda arricciata sul dorso. Una caratteristica unica è la presenza (frequente) di doppi speroni su tutti e quattro gli arti.</p><p>Esistono due varietà di pelo, entrambe doppie e impermeabili: <ul> <li><b>Pelo Corto:</b> Pelo di copertura di media lunghezza e ruvido.</li> <li><b>Pelo Lungo:</b> Pelo di copertura più lungo e frangiato.</li> </ul> Sono ammessi molti colori, ma sempre con il bianco come parte integrante (lista, collare, petto, piedi, punta coda). I colori base sono fulvo (dal crema al rosso), cioccolato, grigio e nero.</p>",
+      "carattere_temperamento": "<p>È un cane da pastore instancabile, vivace e molto agile. È estremamente socievole, amichevole e fiducioso verso gli estranei (saluta tutti). È un pessimo cane da guardia, ma un eccellente cane da allerta: abbaia a qualsiasi stimolo (uccelli, aerei, persone).</p><p>È molto intelligente, addestrabile e desideroso di compiacere, il che lo rende un ottimo cane da famiglia e da sport. È buono con i bambini e altri cani. Soffre la solitudine e ha bisogno di contatto umano.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto sana, ma il pool genetico è ristretto. La lussazione della rotula e la displasia dell'anca sono le principali preoccupazioni. Il mantello, sebbene folto, è facile da curare, ma le mute sono abbondanti.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. Si adatta all'appartamento, ma richiede molto esercizio e stimolazione mentale. Ha bisogno di un \"lavoro\" da fare. È una star dell'agility, dell'herding e dell'obedience.</p><p>L'addestramento è facile e divertente. Apprende velocemente. La sfida principale è gestire e incanalare la sua tendenza innata ad abbaiare, che non può essere eliminata ma solo controllata.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive, anche alla prima esperienza, che cercano un cane amichevole, intelligente e sportivo. È perfetto per chi pratica agility. Richiede un proprietario che non sia infastidito dall'abbaio e che sia molto presente.</p><p>Non è adatto a persone sedentarie, a chi vive in un condominio con vicini sensibili al rumore, o a chi è fuori casa tutto il giorno. Non è un cane da guardia.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Irish glen of imaal terrier",
+    "post_excerpt": "Raro terrier irlandese, basso e robusto, originario della valle di Imaal. Nato per la caccia al tasso e per \"lavorare al tornio\". È un cane coraggioso e tenace, ma più calmo di altri terrier. Richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "irish-glen-of-imaal-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Irish glen of imaal terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Irish-glen-of-imaal-terrier.jpg",
+      "filename": "Irish-glen-of-imaal-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda (Contea di Wicklow, Glen of Imaal)",
+      "colorazioni": "Blu-Tigrato (Blue Brindle), Grano (Wheaten)",
+      "temperamento_breve": "Coraggioso, Calmo (per un terrier), Tenace, Leale",
+      "descrizione_generale": "<p>L'Irish Glen of Imaal Terrier è una delle quattro razze di terrier irlandesi, e una delle più rare. È un cane da lavoro robusto, basso, lungo e muscoloso, originario della remota e aspra valle di Imaal, nella contea di Wicklow. È un cacciatore impavido, specializzato nella caccia al tasso e alla volpe.</p><p>Ha un carattere unico: è un terrier \"duro\" nel cuore, coraggioso e tenace, ma in casa è sorprendentemente calmo e docile. È meno rissoso e meno vocale di altri terrier. È un cane da compagnia leale, ma richiede un proprietario che ne capisca la natura da lavoratore.</p>",
+      "origini_storia": "<p>La razza si è sviluppata nell'isolamento della valle di Imaal. I contadini locali avevano bisogno di un cane forte, silenzioso e coraggioso, che entrasse nelle tane di roccia per stanare tassi e volpi. Il Glen è l'unico terrier basso che non scava la terra, ma entra in tane già esistenti.</p><p>Oltre alla caccia, il Glen of Imaal aveva un compito unico: lavorava come \"cane da tornio\" (turnspit dog). Era messo su una sorta di \"ruota per criceti\" collegata a uno spiedo, e camminando faceva girare l'arrosto sul fuoco. Questo lavoro richiedeva cani tenaci e resistenti. La razza è stata riconosciuta dall'Irish Kennel Club nel 1934.</p>",
+      "aspetto_fisico": "<p>È un cane \"lungo, basso e forte\". L'altezza al garrese è di circa 35,5 cm. Il peso è di circa 16 kg (molto pesante per la sua taglia). La struttura è massiccia e muscolosa, specialmente sul posteriore (per \"farsi strada\" nella tana). Ha una testa forte e le zampe anteriori sono tipicamente arcuate (\"bowed\").</p><p>Il mantello è doppio, di media lunghezza, con un pelo di copertura ruvido e un sottopelo soffice. I colori sono il Blu-Tigrato (Blue Brindle, che può variare dal grigio ardesia al blu scuro) e il Grano (Wheaten, dal crema al paglierino).</p>",
+      "carattere_temperamento": "<p>È il più calmo dei terrier irlandesi. In casa è tranquillo, affettuoso e un compagno piacevole. Non è iperattivo. Sul campo, però, è un cacciatore silenzioso, tenace e incredibilmente coraggioso. Mantiene un forte istinto predatorio.</p><p>È meno rissoso di altri terrier, ma non si tira indietro se sfidato. È testardo ma intelligente. È riservato con gli estranei, ma non aggressivo. Non abbaia molto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-14 anni. È una razza molto robusta. La principale preoccupazione genetica è l'Atrofia Progressiva della Retina (PRA-CRD3), una malattia oculare per cui esiste un test del DNA. La sua schiena lunga lo rende suscettibile a problemi spinali (IVDD).</p><p>Il mantello richiede una spazzolatura settimanale e uno stripping 2-3 volte l'anno per mantenere la tessitura ruvida.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta bene alla vita in appartamento. Lunghe passeggiate quotidiane sono sufficienti. Non è un corridore, ma un cane da \"trazione\" e resistenza. Ama scavare e le attività di fiuto.</p><p>L'addestramento richiede pazienza. È un terrier testardo. Risponde bene al rinforzo positivo, ma non alla coercizione. La socializzazione precoce è importante.</p>",
+      "ideale_per": "<p>È un'ottima scelta per chi desidera un terrier robusto e con carattere, ma senza l'iperattività e l'eccessiva vocalità di altre razze del gruppo. È adatto alla vita in appartamento, purché esercitato. Richiede un proprietario disposto a gestire la toelettatura (stripping).</p><p>Non è adatto a famiglie con piccoli animali domestici (roditori). La sua testardaggine richiede un proprietario paziente e coerente.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Irish soft-coated wheaten terrier",
+    "post_excerpt": "Terrier irlandese da fattoria, noto per il suo mantello setoso color grano (\"Wheaten\") che non perde pelo. È un cane esuberante, affettuoso e socievole, ma richiede una toelettatura costante. Mantiene un forte istinto predatorio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "irish-soft-coated-wheaten-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Irish soft-coated wheaten terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Irish-soft-coated-wheaten-terrier.jpg",
+      "filename": "Irish-soft-coated-wheaten-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda (Munster)",
+      "colorazioni": "Grano (Wheaten) - Qualsiasi sfumatura, dal crema chiaro al rosso-dorato",
+      "temperamento_breve": "Esuberante, Affettuoso, Intelligente, Testardo",
+      "descrizione_generale": "<p>L'Irish Soft-Coated Wheaten Terrier, o semplicemente Wheaten, è un cane da fattoria irlandese, un terrier \"tuttofare\" originario della provincia del Munster. Era il cane dei contadini poveri, usato per qualsiasi compito: guardia, pastorizia, caccia ai topi e persino caccia alla piccola selvaggina. È noto per il suo magnifico mantello setoso, morbido e ondulato, del colore del grano maturo (wheaten).</p><p>È un cane esuberante, giocherellone e incredibilmente affettuoso con la sua famiglia. È considerato uno dei terrier più socievoli. Tuttavia, è un cane da lavoro che richiede molto esercizio, una toelettatura costante (non perde pelo) e una gestione del suo forte istinto predatorio.</p>",
+      "origini_storia": "<p>È una delle razze terrier irlandesi più antiche, con una storia di almeno 200 anni. Condivide un'ascendenza comune con l'Irish Terrier e il Kerry Blue Terrier. Era il cane \"tuttofare\" dei contadini, specialmente nel Munster. Nonostante la sua lunga storia, è stata l'ultima delle razze terrier irlandesi ad essere riconosciuta.</p><p>Per anni è stato messo in ombra dai suoi cugini. Un gruppo di appassionati, tra cui il Dr. G.J. Pierse, si impegnò per il suo riconoscimento, che arrivò dall'Irish Kennel Club solo nel 1937, il giorno di San Patrizio. È diventato molto popolare negli USA come cane da compagnia \"ipoallergenico\".</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, compatto e robusto. L'altezza al garrese è 46–48 cm (maschi) e 43–46 cm (femmine). Il peso è 15–20 kg. La struttura è quadrata e forte. I cuccioli nascono scuri (neri o mogano) e il mantello schiarisce con la crescita, raggiungendo il colore grano definitivo verso i 2-3 anni.</p><p>Il mantello è la sua caratteristica: è monostrato (senza sottopelo), setoso, morbido al tatto e forma onde o riccioli aperti. Non perde pelo (muta minima). Il colore è una qualsiasi sfumatura di grano (wheaten).</p>",
+      "carattere_temperamento": "<p>Lo Wheaten è un cane esuberante, allegro e molto affettuoso. È un \"cane velcro\" che soffre la solitudine. È famoso per il \"saluto Wheaten", un salto entusiasta per salutare i proprietari. È intelligente, ma anche molto testardo (un tratto da terrier).</p><p>È più socievole di altri terrier, sia con le persone che con i cani (se ben socializzato). Mantiene però un istinto predatorio molto forte e non è affidabile con piccoli animali. È un ottimo cane da allerta, vocale e vigile.</p>",       \"salute_cura\": \"<p>L'aspettativa di vita è di 12-14 anni. La razza è predisposta a due gravi malattie genetiche: la Nefropatia Proteino-disperdente (PLN) e l'Enteropatia Proteino-disperdente (PLE), che colpiscono reni e intestino. È fondamentale rivolgersi ad allevatori che testano per queste patologie.</p><p>Il mantello che non perde pelo è un impegno enorme: deve essere spazzolato e pettinato quotidianamente fino alla pelle per evitare la formazione di feltri dolorosi. Richiede una toelettatura professionale regolare. Non deve essere tosato raso.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Si adatta all'appartamento, ma richiede molto esercizio quotidiano (passeggiate, corse, gioco). Ha bisogno di stimolazione mentale per gestire la sua intelligenza.</p><p>L'addestramento richiede pazienza e coerenza. Sono intelligenti ma testardi. Rispondono bene al rinforzo positivo, ma si offendono se sgridati. La socializzazione precoce è fondamentale per gestire la sua esuberanza e l'istinto predatorio.</p>",
+      "ideale_per": "<p>È ideale per famiglie attive, anche con bambini, che cercano un cane \"ipoallergenico", affettuoso ed energico. È per proprietari disposti a dedicare tempo quotidiano alla toelettatura e all'esercizio. È un buon cane per agility e obedience.</p><p>Non è adatto a persone sedentarie, a chi è fuori casa tutto il giorno, o a chi non ha tempo per la cura quotidiana del mantello. Non è affidabile con piccoli animali.</p>",       \"energia_e_livelli_di_attivita\": 4.5,       \"affettuosita\": 4.5,       \"vocalita_e_predisposizione_ad_abbaiare\": 3.5,       \"socievolezza_cani\": 3.5,       \"adattabilita_appartamento\": 3.0,       \"adattabilita_clima_caldo\": 3.0,       \"adattabilita_clima_freddo\": 3.5,       \"tolleranza_alla_solitudine\": 1.5,       \"compatibilita_con_i_bambini\": 5.0,       \"tolleranza_estranei\": 4.0,       \"compatibilita_con_altri_animali_domestici\": 2.0,       \"facilita_di_addestramento\": 3.5,       \"intelligenza\": 4.0,       \"esigenze_di_esercizio\": 4.0,       \"facilita_toelettatura\": 1.5,       \"cura_e_perdita_pelo_\": 4.5,       \"predisposizioni_per_la_salute\": 2.0,       \"livello_esperienza_richiesto\": 3.0,       \"costo_mantenimento\": 3.5,       \"istinti_di_caccia\": 4.5     }   } ]

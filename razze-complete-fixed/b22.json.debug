@@ -1,0 +1,457 @@
+[
+  {
+    "post_title": "Parson russell terrier",
+    "post_excerpt": "Il Parson Russell Terrier è un energico cane da lavoro inglese, selezionato dal Reverendo John Russell per la caccia alla volpe. Di taglia media, agile e tenace, è disponibile a pelo liscio o ruvido. È un cane coraggioso e vivace, che richiede molto esercizio e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "parson-russell-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Parson russell terrier\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Parson-russell-terrier.jpg",
+      "filename": "Parson-russell-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Bianco (come colore predominante) con macchie nere, marroni (tan) o limone. Sono ammesse combinazioni tricolori.",
+      "temperamento_breve": "Energico, Tenace, Coraggioso, Intelligente, Vivace",
+      "descrizione_generale": "<p>Il Parson Russell Terrier è un vero terrier da lavoro, un concentrato di energia e determinazione in un corpo agile e compatto. Sviluppato nel sud dell'Inghilterra per la caccia alla volpe, questo cane doveva essere abbastanza veloce da seguire i cavalli e i segugi, e abbastanza piccolo e coraggioso da entrare in tana per stanare la preda.</p><p>È un cane vivace, intelligente e con una forte personalità. Non deve essere confuso con il Jack Russell Terrier, che ha uno standard diverso (zampe più corte, corpo più lungo). Il Parson è più alto sugli arti e di costruzione più quadrata, ottimizzato per la corsa. È un compagno instancabile per proprietari attivi che comprendono la sua natura da terrier.</p>",
+      "origini_storia": "<p>La razza deve il suo nome e la sua creazione al Reverendo John Russell, un appassionato cacciatore di volpi vissuto nel Devon, in Inghilterra, nel XIX secolo. A partire dal 1819, Russell iniziò a selezionare una linea di terrier specificamente per la caccia. Il suo obiettivo era un cane che lavorasse con i suoi foxhound, capace di entrare in tana senza uccidere la volpe, ma solo stanandola.</p><p>Per decenni, questi cani furono allevati esclusivamente per le loro capacità lavorative, dando origine a una grande varietà di tipi. Solo in tempi recenti si è arrivati a una standardizzazione. La razza è stata ufficialmente riconosciuta dal Kennel Club inglese nel 1990 e ha ottenuto il riconoscimento FCI definitivo nel 2001, distinguendola formalmente dal Jack Russell Terrier.</p>",
+      "aspetto_fisico": "<p>Il Parson Russell Terrier è un cane di taglia media, flessibile e atletico. L'altezza al garrese ideale secondo lo standard FCI è di 36 cm per i maschi e 33 cm per le femmine. Il peso si aggira solitamente tra i 6 e gli 8 kg. La sua struttura è bilanciata, costruita per la velocità e la resistenza.</p><p>Il mantello è una caratteristica distintiva e si presenta in due varietà:</p><ul><li><b>Smooth (Liscio):</b> Pelo corto, piatto e fitto.</li><li><b>Broken (Spezzato) o Rough (Ruvido):</b> Pelo duro, ruvido e fitto, spesso con barba e sopracciglia.</li></ul><p>Entrambe le varietà hanno un sottopelo denso. Il colore deve essere prevalentemente bianco (almeno 51%), con macchie nere, marroni (tan) o limone, o una combinazione tricolore.</p>",
+      "carattere_temperamento": "<p>Il Parson è un terrier al 100%. È audace, energico, incredibilmente intelligente e spesso testardo. Ha un altissimo istinto predatorio ed è un cacciatore nato: scaverà, inseguirà e abbaierà a qualsiasi cosa ritenga una preda. È molto vocale e un eccellente cane da allarme.</p><p>Con la sua famiglia è leale, affettuoso e molto giocherellone. Tuttavia, non è un cane per tutti. Richiede una socializzazione precoce e costante per gestire la sua esuberanza e il suo istinto. Può essere rissoso con altri cani se non abituato correttamente. Ha bisogno di un proprietario che sappia essere un leader fermo ma giusto.</p>",
+      "salute_cura": "<p>Il Parson Russell è una razza generalmente robusta, con un'aspettativa di vita di 13-15 anni. Tuttavia, è soggetto ad alcune patologie genetiche ereditarie. Le più note sono:</p><ul><li><b>Lussazione Primaria del Cristallino (PLL):</b> Una dolorosa condizione oculare che può portare alla cecità.</li><li><b>Atassia a Insorgenza Tardiva (LOA) e Atassia Spino-Cerebellare (SCA):</b> Malattie neurologiche degenerative che colpiscono la coordinazione.</li></ul><p>È fondamentale rivolgersi ad allevatori seri che testano i riproduttori per queste patologie. La cura del mantello varia: il pelo liscio richiede poche spazzolate, mentre il pelo ruvido/broken necessita di stripping (strappo manuale del pelo morto) 2-3 volte l'anno per mantenere la corretta tessitura.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio di questa razza sono estreme. È un cane iperattivo che ha bisogno di almeno 1.5-2 ore di attività fisica intensa al giorno. Adora correre, giocare con la palla e usare il cervello. È un campione in sport come l'agility, il flyball e le prove di lavoro in tana (se disponibili).</p><p>L'addestramento è sia facile che difficile. Impara i comandi molto velocemente grazie alla sua intelligenza, ma la sua testardaggine e il suo istinto predatorio lo rendono difficile da gestire, specialmente sul richiamo. Richiede un addestramento positivo, coerente e molto vario per evitare la noia.</p>",
+      "ideale_per": "<p>Il Parson Russell Terrier è ideale per proprietari esperti di terrier, molto attivi e sportivi. È adatto a chi vive in campagna o in una casa con un giardino *molto* ben recintato (sono scavatori e saltatori eccezionali). È un compagno perfetto per chi pratica escursionismo o sport cinofili.</p><p>È **fortemente sconsigliato** ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento senza tempo da dedicargli, e a famiglie con bambini molto piccoli (a causa della sua irruenza) o piccoli animali domestici (a causa dell'istinto predatorio).</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Pastore svizzero bianco",
+    "post_excerpt": "Il Pastore Svizzero Bianco è una variante del Pastore Tedesco, riconosciuta come razza a sé stante. Elegante e di taglia grande, è noto per il suo mantello bianco e un carattere più mite e sensibile rispetto al cugino tedesco. È un ottimo cane da famiglia, intelligente e addestrabile, ma richiede socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "pastore-svizzero-bianco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Pastore svizzero bianco\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Pastore-svizzero-bianco.jpg",
+      "filename": "Pastore-svizzero-bianco.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svizzera (Sviluppo moderno)",
+      "colorazioni": "Bianco",
+      "temperamento_breve": "Intelligente, Sensibile, Leale, Vigile",
+      "descrizione_generale": "<p>Il Pastore Svizzero Bianco (Berger Blanc Suisse) è un cane da pastore di taglia grande, strettamente imparentato con il Pastore Tedesco, dal quale si distingue principalmente per il colore bianco candido del mantello e per alcune differenze caratteriali. È un cane elegante, potente e muscoloso, ma con un temperamento generalmente più mite e sensibile.</p><p>Nato come cane da pastore, oggi è apprezzato soprattutto come cane da compagnia e da famiglia. La sua intelligenza e addestrabilità lo rendono versatile per molti sport cinofili, anche se la sua sensibilità richiede un approccio gentile. È un cane vigile e un buon avvisatore, ma meno \"duro\" del Pastore Tedesco.</p>",
+      "origini_storia": "<p>Le origini del Pastore Svizzero Bianco sono le stesse del Pastore Tedesco. Il nonno del primo Pastore Tedesco registrato (Horand von Grafrath) era un cane da pastore bianco. Inizialmente, i pastori tedeschi bianchi erano accettati, ma negli anni '30, in Germania, il colore bianco fu erroneamente associato a difetti genetici (come la sordità) e bandito dallo standard.</p><p>Tuttavia, la popolarità dei pastori bianchi era già cresciuta in Nord America (USA e Canada), dove continuarono ad essere allevati. Negli anni '70, alcuni di questi cani furono reintrodotti in Europa, in particolare in Svizzera. Il primo maschio importato, \"Lobo\" (nato nel 1966), è considerato il capostipite della razza in Svizzera. La Svizzera ha adottato la razza e l'ha sviluppata, portandola al riconoscimento ufficiale FCI nel 2011.</p>",
+      "aspetto_fisico": "<p>Il Pastore Svizzero Bianco è un cane forte e muscoloso. L'altezza al garrese per i maschi è 58-66 cm, per le femmine 53-61 cm. Il peso varia dai 30-40 kg per i maschi ai 25-35 kg per le femmine. A differenza di alcune linee da show del Pastore Tedesco, il Pastore Svizzero Bianco ha una linea dorsale dritta.</p><p>Il mantello è sempre bianco e si presenta in due varietà:</p><ul><li><b>Pelo medio (Stockhaar):</b> Pelo di copertura fitto e dritto, con abbondante sottopelo.</li><li><b>Pelo lungo (Langstockhaar):</b> Pelo di copertura lungo e dritto, con abbondante sottopelo.</li></ul><p>Il colore ammesso è esclusivamente il bianco. La pelle è scura e il tartufo deve essere il più nero possibile.</p>",
+      "carattere_temperamento": "<p>Il Pastore Svizzero Bianco è noto per essere più sensibile e meno assertivo del Pastore Tedesco. È estremamente intelligente, leale e desideroso di compiacere, il che lo rende molto addestrabile. È un cane da pastore nel cuore: vigile, attento e protettivo nei confronti della sua famiglia.</p><p>Tende ad essere riservato e talvolta timido con gli estranei, per questo una socializzazione precoce e approfondita è fondamentale per evitare che la timidezza si trasformi in paura. È molto legato al suo nucleo familiare e soffre la solitudine. Se ben socializzato, è generalmente ottimo con i bambini e altri animali domestici.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. Condivide alcune predisposizioni con il Pastore Tedesco, come la displasia dell'anca (HD) e del gomito (ED). È anche soggetto alla mutazione del gene **MDR1**, che causa ipersensibilità a diversi farmaci (è fondamentale testare il cane). Può soffrire di mielopatia degenerativa.</p><p>La cura del mantello è impegnativa, specialmente per la varietà a pelo lungo. Perde moltissimo pelo tutto l'anno, con picchi stagionali. Richiede spazzolate frequenti (più volte a settimana) per rimuovere il sottopelo morto ed evitare nodi.</p>",
+      "attivita_addestramento": "<p>È un cane energico che richiede un'attività fisica e mentale quotidiana. Ha bisogno di lunghe passeggiate, corse e, soprattutto, di \"lavorare\" con il proprietario. Eccelle in sport come l'Obedience, il Rally-O, il tracking e l'agility.</p><p>L'addestramento deve essere basato sul rinforzo positivo. Data la sua sensibilità, risponde molto male ai metodi duri o coercitivi, che possono spegnerlo o renderlo ansioso. La sua intelligenza e voglia di compiacere lo rendono un allievo entusiasta se gestito con gentilezza e coerenza.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive, anche con bambini, che cercano un cane intelligente e partecipe. È adatto a proprietari che hanno tempo da dedicare all'addestramento, alla socializzazione e alla toelettatura. Si adatta alla vita in appartamento solo se le sue elevate esigenze di esercizio sono soddisfatte.</p><p>È **sconsigliato** a persone sedentarie, a chi è assente da casa per molte ore, o a proprietari che cercano un cane da guardia \"duro\" (non è il suo ruolo). Non è adatto a chi non tollera i peli in casa, perché ne perde tantissimi.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Pastore tedesco",
+    "post_excerpt": "Il Pastore Tedesco è una delle razze più iconiche al mondo. Creato per la pastorizia, eccelle nel lavoro (polizia, militare, soccorso) grazie alla sua intelligenza, addestrabilità e coraggio. È un cane leale e protettivo, ma richiede un proprietario esperto, socializzazione e molto impegno mentale e fisico.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "pastore-tedesco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Pastore tedesco\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Pastore-tedesco-2.jpg",
+      "filename": "Pastore-tedesco-2.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Nero focato, Nero monocolore, Grigio (Grigione)",
+      "temperamento_breve": "Intelligente, Protettivo, Addestrabile, Coraggioso, Leale",
+      "descrizione_generale": "<p>Il Pastore Tedesco è una razza da lavoro di taglia grande, rinomata per la sua intelligenza, versatilità e lealtà. Creato in Germania alla fine del XIX secolo per la conduzione delle greggi, ha rapidamente dimostrato capacità eccezionali in molti altri campi, diventando il cane da utilità per eccellenza.</p><p>È la razza più utilizzata al mondo dalle forze di polizia e militari, nonché un eccellente cane da ricerca e soccorso, da guardia e da difesa. Con la sua famiglia è un compagno devoto e protettivo, ma il suo carattere forte e il suo bisogno di lavoro richiedono un proprietario esperto, coerente e attivo.</p>",
+      "origini_storia": "<p>La storia del Pastore Tedesco è legata indissolubilmente al Capitano di cavalleria Max von Stephanitz. Il suo obiettivo era creare il cane da pastore tedesco \"perfetto", unendo le diverse varietà regionali. Nel 1899, a una mostra canina, vide un cane di nome Hektor Linksrhein, che incarnava la sua visione. Lo acquistò, lo ribattezzò Horand von Grafrath e lo registrò come il primo Pastore Tedesco.</p><p>Von Stephanitz fondò lo stesso anno la \"Verein für Deutsche Schäferhunde\" (SV), il club della razza, e ne guidò lo sviluppo con rigore. Quando il lavoro di pastorizia diminuì, promosse attivamente l'uso del cane nelle forze di polizia e nell'esercito, dove le sue doti di coraggio e addestrabilità furono evidenti durante la Prima Guerra Mondiale, consacrandolo a livello globale.</p>",       \"aspetto_fisico\": \"<p>È un cane di taglia grande, forte e muscoloso. L'altezza al garrese per i maschi è 60-65 cm, per le femmine 55-60 cm. Il peso varia dai 30-40 kg per i maschi ai 22-32 kg per le femmine. Esistono differenze morfologiche evidenti tra le linee da lavoro (spesso \"grigioni", con dorso dritto, più leggeri e reattivi) e le linee da esposizione (prevalentemente nero focato, con dorso più inclinato).</p><p>Il mantello è doppio (Stockhaar) e può essere a pelo corto e duro o a pelo lungo e duro. I colori più comuni sono il nero focato (con focature che vanno dal rosso al crema) e il nero monocolore. È molto apprezzato, soprattutto nelle linee da lavoro, anche il colore grigio carbonato (il "grigione\").</p>",
+      "carattere_temperamento": "<p>Il Pastore Tedesco è definito dal suo equilibrio, dalla sua sicurezza e dal suo coraggio. È un cane estremamente intelligente, attento e desideroso di lavorare con il suo proprietario. È profondamente leale e protettivo nei confronti del suo nucleo familiare, ma naturalmente riservato e diffidente verso gli estranei, il che lo rende un cane da guardia innato.</p><p>Questa natura protettiva richiede una socializzazione massiccia e un addestramento costante per evitare che diventi iper-protettivo o aggressivo. È un cane che ha bisogno di una guida sicura e coerente; se lasciato a sé stesso o gestito da un proprietario insicuro, può diventare problematico.</p>",
+      "salute_cura": "<p>Purtroppo, la popolarità ha portato a problemi di salute. L'aspettativa di vita media è di 9-13 anni. Le patologie più gravi e diffuse sono la **displasia dell'anca (HD)** e la **displasia del gomito (ED)**. È inoltre molto diffusa la **mielopatia degenerativa**, una grave malattia neurologica che porta alla paralisi degli arti posteriori.</p><p>Altre problematiche includono la torsione gastrica (Bloat) e allergie. La cura del mantello richiede spazzolate regolari (più volte a settimana) a causa della perdita di pelo molto abbondante tutto l'anno.</p>",
+      "attivita_addestramento": "<p>Il Pastore Tedesco non è un cane da divano. Ha esigenze di esercizio fisico e, soprattutto, mentale, molto elevate. Ha bisogno di un \"lavoro\". L'obbedienza di base non è sufficiente; eccelle in discipline complesse come l'utilità e difesa (Schutzhund/IPO), il mondioring, l'obedience avanzata, il tracking e la ricerca.</p><p>È una delle razze più addestrabili al mondo, ma richiede un proprietario che sappia essere un leader autorevole. L'addestramento deve essere quotidiano, coerente e stimolante. Se annoiato, sviluppa facilmente comportamenti problematici (distruttività, abbaio eccessivo, nervosismo).</p>",
+      "ideale_per": "<p>È un cane ideale per proprietari esperti, attivi e disposti a dedicare molto tempo all'addestramento e alla stimolazione mentale. È perfetto per chi è interessato a sport cinofili di alto livello (utilità e difesa, ricerca) o per chi cerca un cane da guardia serio e affidabile (se gestito correttamente).</p><p>È **assolutamente sconsigliato** ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento senza tempo per l'attività, e a chi cerca un semplice cane da compagnia \"facile\". Richiede un impegno totale.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Pechinese",
+    "post_excerpt": "Il Pechinese è un antico cane da compagnia di origine cinese, un tempo venerato alla corte imperiale. Di piccola taglia e aspetto leonino, è un cane brachicefalo che richiede cure. Ha un carattere fiero, indipendente e molto leale al proprietario, ma riservato con gli estranei. Adatto alla vita d'appartamento.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "pechinese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Pechinese\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Pechinese-1.jpg",
+      "filename": "Pechinese-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Cina (Patrocinio: Gran Bretagna)",
+      "colorazioni": "Tutti i colori e le macchie sono ammessi e di pari valore, tranne albino e color fegato.",
+      "temperamento_breve": "Indipendente, Leale, Fiero, Coraggioso",
+      "descrizione_generale": "<p>Il Pechinese è una razza canina antica, originaria della Cina, dove era considerato un cane sacro e un compagno esclusivo della famiglia imperiale. È un cane di piccola taglia (toy), dall'aspetto leonino, caratterizzato da un lungo e folto mantello e da un muso schiacciato (brachicefalo).</p><p>Nonostante le piccole dimensioni, il Pechinese ha un carattere fiero, quasi altezzoso, una grande dignità e un coraggio sorprendente. È un cane da compagnia per eccellenza, profondamente leale al suo proprietario, ma non servile. Richiede cure specifiche a causa della sua conformazione fisica.</p>",
+      "origini_storia": "<p>Le origini del Pechinese si perdono nella leggenda cinese. Si dice fosse il risultato dell'amore tra un leone e una scimmia. Storicamente, questi cani erano allevati e venerati all'interno della Città Proibita a Pechino, e solo la famiglia imperiale poteva possederli. Il furto di uno di questi cani era punibile con la morte.</p><p>La razza arrivò in Occidente in modo drammatico. Nel 1860, durante la Seconda Guerra dell'Oppio, le truppe britanniche saccheggiarono il Palazzo d'Estate. Cinque Pechinesi furono trovati e portati in Inghilterra come bottino di guerra. Uno di questi, chiamato \"Looty\", fu donato alla Regina Vittoria, introducendo la razza in Europa. Il patrocinio della razza è oggi britannico.</p>",
+      "aspetto_fisico": "<p>Il Pechinese è un cane piccolo, basso sugli arti, ma sorprendentemente pesante per la sua taglia (il peso ideale non supera i 5 kg per i maschi e 5,4 kg per le femmine). La sua struttura è robusta, con un petto largo e un corpo che si assottiglia verso il posteriore.</p><p>La testa è la caratteristica principale: larga, con un muso molto corto e schiacciato (brachicefalo), grandi occhi scuri e un caratteristico naso nero. Il mantello è lungo, dritto e folto, con una criniera abbondante intorno al collo. Tutti i colori sono ammessi dallo standard FCI, ad eccezione dell'albino e del color fegato. Le macchie sono comuni.</p>",
+      "carattere_temperamento": "<p>Il Pechinese ha una personalità unica: è fiero, indipendente e molto consapevole della sua importanza. È un cane leale e affettuoso con il suo proprietario, ma tende a scegliere un'unica persona come punto di riferimento. Non è un cane espansivo o sottomesso; richiede rispetto.</p><p>È naturalmente riservato e diffidente verso gli estranei, il che lo rende un discreto cane da allarme (abbaia poco, ma avvisa). Non è particolarmente adatto a bambini piccoli e chiassosi, poiché non tollera di essere trattato bruscamente. Può essere testardo e non è la razza più facile da addestrare all'obbedienza.</p>",
+      "salute_cura": "<p>Il Pechinese è una razza con diverse criticità di salute. L'aspettativa di vita è di 12-14 anni. La sua conformazione brachicefalica lo espone alla **BAOS (Sindrome Ostruttiva delle Vie Aeree Superiori)**, che causa difficoltà respiratorie. Soffre moltissimo il caldo e rischia il colpo di calore.</p><p>Gli occhi grandi e sporgenti sono soggetti a ulcere corneali, secchezza oculare (KCS) e proptosi (fuoriuscita del globo oculare). Il mantello lungo richiede una spazzolatura quotidiana per evitare la formazione di nodi. È necessaria anche una pulizia costante delle pieghe del muso per prevenire infezioni cutanee.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. Il Pechinese è un perfetto cane da appartamento. Brevi e tranquille passeggiate quotidiane sono sufficienti. È fondamentale evitare qualsiasi attività fisica intensa, specialmente durante le giornate calde o umide, a causa dei suoi problemi respiratori.</p><p>L'addestramento può essere una sfida. È intelligente, ma la sua natura indipendente e testarda lo rende poco incline a seguire gli ordini. Risponde meglio a sessioni brevi, positive e basate sul rinforzo. L'addestramento alla pulizia in casa può richiedere più tempo rispetto ad altre razze.</p>",
+      "ideale_per": "<p>Il Pechinese è ideale per persone anziane, single o coppie tranquille che vivono in appartamento e desiderano un cane da compagnia leale e di carattere. È adatto a chi è disposto a dedicare tempo quotidiano alla toelettatura e a gestire le sue delicate esigenze di salute.</p><p>È **sconsigliato** a famiglie con bambini piccoli, a persone molto attive o sportive, a chi vive in climi molto caldi e umidi, e a proprietari principianti che desiderano un cane facile da addestrare. Richiede un impegno economico notevole per le cure veterinarie.</p>",
+      "energia_e_livelli_di_attivita": 1.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 1.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Perro de agua espanol",
+    "post_excerpt": "Il Perro de Agua Español (Cane da Acqua Spagnolo) è una versatile razza da lavoro originaria dell'Andalusia. Utilizzato come pastore e cane da riporto in acqua, è noto per il suo mantello riccio e lanoso. È un cane intelligente, energico e leale, ideale per proprietari attivi e sportivi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "perro-de-agua-espanol",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Perro de agua espanol\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Perro-de-agua-espanol-1.jpg",
+      "filename": "Perro-de-agua-espanol-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Andalusia)",
+      "colorazioni": "Monocolore (Bianco, Nero, Marrone), Bicolore (Bianco e Nero, Bianco e Marrone)",
+      "temperamento_breve": "Intelligente, Leale, Lavoratore, Energico",
+      "descrizione_generale": "<p>Il Perro de Agua Español, o Cane da Acqua Spagnolo, è un'antica e versatile razza da lavoro. Originario del sud della Spagna, in particolare dell'Andalusia, è stato per secoli il cane \"tuttofare\" dei pastori e dei pescatori. Il suo compito spaziava dalla conduzione delle greggi (pecore e capre) al riporto della selvaggina dalle paludi.</p><p>È un cane rustico, di taglia media, immediatamente riconoscibile per il suo caratteristico mantello riccio e lanoso, che, se lasciato crescere, forma corde naturali. È un cane estremamente intelligente, energico e leale, che eccelle in molte discipline sportive.</p>",
+      "origini_storia": "<p>Le origini esatte di questa razza sono incerte, ma è presente nella penisola iberica da tempo immemorabile. Si ritiene che i suoi antenati siano arrivati in Spagna con i Mori durante la conquista dell'VIII secolo, o forse anche prima con i mercanti. In Andalusia era conosciuto come il \"cane turco\", forse a indicare la sua provenienza orientale.</p><p>Per secoli è rimasto un cane da lavoro rurale, non standardizzato. Negli anni '70 del XX secolo, la razza rischiò l'estinzione a causa della modernizzazione dell'agricoltura. Fu salvata da un gruppo di appassionati, come Antonio García Pérez, che iniziarono a recuperare i soggetti migliori nelle campagne andaluse. Il riconoscimento ufficiale spagnolo arrivò nel 1985 e quello FCI nel 1999.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, ben proporzionato e atletico. L'altezza al garrese per i maschi è 44-50 cm, per le femmine 40-46 cm. Il peso varia dai 18-22 kg per i maschi ai 14-18 kg per le femmine.</p><p>Il mantello è la sua caratteristica distintiva: è sempre riccio e di consistenza lanosa. Se lasciato crescere, forma corde. È un mantello che non perde pelo (ipoallergenico), ma che richiede cure specifiche. I colori ammessi sono:</p><ul><li><b>Monocolore:</b> Bianco, nero o marrone (in diverse tonalità).</li><li><b>Bicolore:</b> Bianco e nero, o bianco e marrone.</li></ul><p>Il tricolore non è ammesso.</p>",
+      "carattere_temperamento": "<p>Il Perro de Agua Español è un lavoratore instancabile. È estremamente intelligente, vivace e desideroso di compiacere. Questa combinazione lo rende molto addestrabile, ma anche un cane che ha bisogno costante di stimoli mentali. È un eccellente cane da pastore (conduzione) e un nuotatore nato.</p><p>È molto leale e protettivo nei confronti della sua famiglia, ma può essere riservato e diffidente con gli estranei, mostrando un buon istinto da guardia. È fondamentale una socializzazione precoce per bilanciare questa tendenza. È un cane che soffre la solitudine e ha bisogno di essere parte integrante della vita familiare.</p>",
+      "salute_cura": "<p>È una razza generalmente robusta, con un'aspettativa di vita di 12-14 anni. È soggetto a displasia dell'anca e a problemi oculari come l'atrofia progressiva della retina (PRA) e la cataratta. Alcune linee possono essere soggette a ipotiroidismo.</p><p>La cura del mantello è particolare: **non va mai spazzolato né pettinato**. Spazzolarlo rovinerebbe la struttura del riccio e rimuoverebbe il sottopelo protettivo. Il mantello deve essere tosato uniformemente (alla stessa lunghezza) una o più volte l'anno. Se si sceglie di tenere il pelo cordato, le corde devono essere separate manualmente.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Questo cane ha bisogno di attività fisica (corsa, nuoto) e mentale (problem solving, addestramento) ogni giorno. È un cane che eccelle in quasi tutti gli sport cinofili: agility, obedience, herding, e ovviamente le prove di riporto in acqua.</p><p>L'addestramento è relativamente facile per un proprietario esperto. Impara velocemente, ma la sua intelligenza può portarlo a manipolare un proprietario insicuro. Richiede metodi positivi, coerenza e un lavoro che lo impegni mentalmente per evitare che si annoi e diventi distruttivo.</p>",
+      "ideale_per": "<p>È il cane perfetto per proprietari attivi e sportivi, interessati a praticare sport cinofili. È ideale per famiglie dinamiche che vivono in campagna o in una casa con giardino, e che possono includere il cane nelle loro attività. È un'ottima scelta per chi cerca un cane ipoallergenico da lavoro.</p><p>È **sconsigliato** a persone sedentarie, a proprietari principianti che cercano un cane \"facile", e a chi vive in un piccolo appartamento senza tempo da dedicargli. Se annoiato, può diventare rumoroso e distruttivo.</p>",       \"energia_e_livelli_di_attivita\": 4.5,       \"affettuosita\": 4.5,       \"vocalita_e_predisposizione_ad_abbaiare\": 3.0,       \"socievolezza_cani\": 3.5,       \"adattabilita_appartamento\": 3.0,       \"adattabilita_clima_caldo\": 3.5,       \"adattabilita_clima_freddo\": 4.0,       \"tolleranza_alla_solitudine\": 2.0,       \"compatibilita_con_i_bambini\": 4.0,       \"tolleranza_estranei\": 2.5,       \"compatibilita_con_altri_animali_domestici\": 3.5,       \"facilita_di_addestramento\": 4.0,       \"intelligenza\": 4.5,       \"esigenze_di_esercizio\": 4.5,       \"facilita_toelettatura\": 2.5,       \"cura_e_perdita_pelo_\": 5.0,       \"predisposizioni_per_la_salute\": 3.5,       \"livello_esperienza_richiesto\": 3.5,       \"costo_mantenimento\": 3.0,       \"istinti_di_caccia\": 3.5     }   },   {     \"post_title\": \"Perro dogo mallorquin",
+    "post_excerpt": "Il Perro Dogo Mallorquin, o Ca de Bou, è un potente molossoide originario di Maiorca (Spagna), un tempo usato per i combattimenti con i tori. Oggi è un cane da guardia calmo, protettivo e molto leale alla famiglia, ma diffidente con gli estranei. Richiede un proprietario esperto e socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "perro-dogo-mallorquin",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Perro dogo mallorquin\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Perro-dogo-mallorquin-1.jpg",
+      "filename": "Perro-dogo-mallorquin-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Maiorca, Isole Baleari)",
+      "colorazioni": "Tigrato (scuro o chiaro), Fulvo (dal sabbia al rosso cervo), Nero",
+      "temperamento_breve": "Protettivo, Calmo, Fiducioso, Diffidente",
+      "descrizione_generale": "<p>Il Perro Dogo Mallorquin, meglio conosciuto con il suo nome catalano \"Ca de Bou\" (cane da toro), è un potente molossoide di taglia media originario dell'isola di Maiorca. È un cane dalla struttura forte e massiccia, con una testa voluminosa tipica dei cani da presa.</p><p>Nato come cane da combattimento (contro i tori, da cui il nome) e da guardia, oggi è un cane da utilità e compagnia. Il suo temperamento è caratterizzato da una grande calma e sicurezza, combinati con un istinto protettivo innato. È un cane leale alla famiglia, ma che richiede una gestione esperta.</p>",
+      "origini_storia": "<p>Le origini del Ca de Bou sono legate ai commerci marittimi nel Mediterraneo. Discende dai mastini iberici (come il Perro de Presa Español) presenti sull'isola di Maiorca. Nel XVII secolo, dopo l'arrivo degli inglesi, questi cani furono incrociati con i Bulldog inglesi, all'epoca usati per i combattimenti, per creare un cane agile e tenace per la tauromachia (combattimento con i tori).</p><p>Dopo il divieto dei combattimenti in Spagna (1940), la razza fu usata quasi esclusivamente per la guardia e subì un forte declino, arrivando quasi all'estinzione. Il recupero è iniziato negli anni '80. Il primo standard ufficiale è del 1923 e il riconoscimento FCI è del 1964.</p>",
+      "aspetto_fisico": "<p>Il Ca de Bou è un cane di taglia media, ma molto potente e massiccio. L'altezza al garrese per i maschi è 55-58 cm, per le femmine 52-55 cm. Il peso è notevole per la taglia: 35-38 kg per i maschi e 30-34 kg per le femmine. È un cane leggermente brachicefalo, con un muso largo e una testa imponente.</p><p>Il mantello è corto, duro e ruvido al tatto. I colori preferiti sono, in ordine:</p><ul><li><b>Tigrato:</b> Dal tigrato scuro al fulvo tigrato.</li><li><b>Fulvo:</b> Dal color sabbia al rosso cervo.</li><li><b>Nero.</b></li></ul><p>Sono ammesse macchie bianche su petto, muso e zampe anteriori (fino al 30% del totale).</p>",
+      "carattere_temperamento": "<p>Il Ca de Bou è un cane dal temperamento equilibrato. È naturalmente calmo, tranquillo e molto sicuro di sé. In famiglia è leale, affettuoso e paziente. Tuttavia, è un guardiano nato: è estremamente protettivo nei confronti della sua proprietà e della sua famiglia, e intrinsecamente diffidente verso gli estranei.</p><p>Non è un cane inutilmente aggressivo, ma valuta la situazione e, se percepisce una minaccia, interviene con coraggio e determinazione. Richiede una socializzazione massiccia fin da cucciolo per imparare a gestire la sua diffidenza. È un cane dominante che necessita di un proprietario esperto.</p>",
+      "salute_cura": "<p>Come molti molossoidi, è soggetto a displasia dell'anca e del gomito. L'aspettativa di vita è di circa 10-12 anni. Essendo una razza leggermente brachicefala, può soffrire di alcuni problemi respiratori (BAOS), anche se generalmente in forma meno grave rispetto ai brachicefali estremi. Soffre il caldo intenso.</p><p>La cura del mantello è minima. Il pelo corto richiede solo una spazzolata settimanale per rimuovere il pelo morto. La perdita di pelo è moderata.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo, ma ha bisogno di passeggiate quotidiane per mantenersi in forma e sfogare la sua energia controllata. È fondamentale evitare l'esercizio eccessivo durante la crescita per proteggere le articolazioni.</p><p>L'addestramento è una necessità assoluta per questa razza. È intelligente, ma anche testardo e dominante. Richiede un proprietario con polso fermo, autorevole e coerente, che utilizzi metodi basati sul rispetto reciproco. La socializzazione deve essere l'obiettivo primario fin dai primi mesi di vita.</p>",
+      "ideale_per": "<p>È un cane adatto **esclusivamente a proprietari esperti** di molossoidi, che cercano un cane da guardia calmo ma efficace. È ideale per chi vive in una casa con un giardino ben recintato e sa come gestire un cane dal carattere forte e dominante.</p><p>È **assolutamente sconsigliato** ai proprietari principianti, a persone insicure, e a chi vive in un piccolo appartamento. Una gestione errata o una socializzazione carente possono rendere questo cane problematico.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Perro sin pelo del peru’",
+    "post_excerpt": "Il Perro sin Pelo del Perú è un'antica razza primitiva peruviana, esistente già in epoca pre-Inca. È noto per l'assenza di pelo (ma esiste anche la varietà con pelo) e la dentizione spesso incompleta. Leale e riservato, richiede cure specifiche per la pelle. Esiste in tre taglie.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "perro-sin-pelo-del-peru",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Perro sin pelo del peru’\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Perro-sin-pelo-del-peru-1.jpg",
+      "filename": "Perro-sin-pelo-del-peru-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Perù",
+      "colorazioni": "Vari colori di pelle (nero, grigio, marrone, biondo, con o senza macchie rosa). Nella varietà con pelo, tutti i colori sono ammessi.",
+      "temperamento_breve": "Leale, Primitivo, Riservato, Vivace",
+      "descrizione_generale": "<p>Il Perro sin Pelo del Perú (Cane Nudo Peruviano) è una delle razze canine più antiche del mondo, considerata patrimonio nazionale in Perù. La sua esistenza è documentata da reperti archeologici delle civiltà pre-Incaiche (come i Moche) risalenti a oltre 3000 anni fa. Era un cane da compagnia, ma anche venerato per le sue presunte proprietà curative.</p><p>È una razza primitiva, dall'aspetto elegante e slanciato. La sua caratteristica principale è l'assenza di pelo, anche se esiste una varietà con pelo (Coated). È un cane molto legato alla famiglia ma riservato con gli estranei, che richiede cure specifiche per la sua pelle esposta.</p>",
+      "origini_storia": "<p>Questa razza si è sviluppata naturalmente in Perù migliaia di anni fa. Le civiltà pre-Incaiche lo raffiguravano spesso nelle loro ceramiche e lo seppellivano con i loro nobili. Si credeva che il calore emanato dalla sua pelle nuda avesse proprietà curative per i reumatismi e i problemi respiratori.</p><p>Dopo la conquista spagnola, la razza fu perseguitata e quasi estinta, sopravvivendo solo in remote comunità rurali. Negli anni '80 del XX secolo, appassionati cinofili come Ermanno Maniero iniziarono un programma di recupero per salvare la razza. La FCI l'ha riconosciuta ufficialmente nel 1985.</p>",
+      "aspetto_fisico": "<p>Il Cane Nudo Peruviano ha un aspetto elegante e agile. La caratteristica più evidente è la pelle nuda, che può essere di vari colori (dal nero ardesia al marrone, fino al biondo) e può essere uniforme o presentare macchie rosa. Sono ammessi piccoli ciuffi di pelo su testa, zampe e punta della coda.</p><p>Esistono tre taglie ufficiali:</p><ul><li><b>Piccola:</b> 25 - 40 cm (4 - 8 kg)</li><li><b>Media:</b> 41 - 50 cm (8 - 12 kg)</li><li><b>Grande:</b> 51 - 65 cm (12 - 25 kg)</li></ul><p>Esiste anche la varietà **con pelo**, che ha un mantello corto e liscio e che è fondamentale per la riproduzione, poiché il gene della nudità è dominante letale (accoppiando due cani nudi si ottengono cucciolate meno numerose).</p>",
+      "carattere_temperamento": "<p>Essendo una razza primitiva, il Perro sin Pelo del Perú ha un carattere particolare. È estremamente leale, affettuoso e protettivo con la sua famiglia, verso cui sviluppa un legame quasi simbiotico. Tuttavia, è molto riservato, diffidente e talvolta timoroso verso gli estranei.</p><p>È un cane vivace, agile e un buon cane da allarme, poiché abbaia per avvisare. Non è aggressivo, ma la sua natura primitiva richiede una socializzazione precoce e molto attenta per evitare che la diffidenza diventi paura. È sensibile e non risponde bene ai metodi duri.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. La principale \"anomalia\" è legata al gene della nudità: la **dentizione è quasi sempre incompleta** (mancanza di premolari e molari). Questo è considerato normale per lo standard della varietà nuda (la varietà con pelo ha dentizione completa).</p><p>La cura della pelle è fondamentale:</p><ul><li><b>Protezione solare:</b> La pelle si scotta facilmente, quindi necessita di crema solare (specialmente sulle aree chiare/rosa).</li><li><b>Idratazione:</b> La pelle tende a seccarsi e richiede l'applicazione di creme idratanti e oli naturali.</li><li><b>Freddo:</b> Soffre molto il freddo e necessita di cappotti in inverno.</li></ul>",
+      "attivita_addestramento": "<p>È un cane agile e vivace che ha bisogno di un moderato esercizio quotidiano. Brevi corse in un'area sicura (ha un istinto predatorio da levriero) e passeggiate sono sufficienti. Eccelle nel Lure Coursing.</p><p>L'addestramento richiede pazienza. È intelligente, ma la sua natura primitiva e sensibile lo rende diverso da un cane da pastore. Risponde bene a un proprietario calmo, coerente e che usa il rinforzo positivo. La socializzazione è l'aspetto più importante dell'addestramento.</p>",
+      "ideale_per": "<p>È ideale per persone che cercano un cane da compagnia unico, leale e affettuoso. È perfetto per la vita in appartamento, a patto che gli si dedichi tempo. È una buona scelta per chi soffre di allergie al pelo (anche se l'allergia può essere anche alla forfora).</p><p>È **sconsigliato** a proprietari principianti che non sanno gestire un cane primitivo e riservato. Non è adatto a chi vive in climi molto freddi e non può garantirgli protezione, o a chi non ha tempo per le cure quotidiane della sua pelle.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Petit basset griffon vendeen",
+    "post_excerpt": "Il Petit Basset Griffon Vendéen (PBGV) è un vivace segugio francese della Vandea, selezionato per la caccia al coniglio. È un cane piccolo, \"bassetto\" e dal pelo duro (\"griffone\"). Ha un carattere allegro e testardo, è molto vocale e socievole. Richiede esercizio e un proprietario paziente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "petit-basset-griffon-vendeen",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Petit basset griffon vendeen\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Petit-basset-griffon-vendeen-1.jpg",
+      "filename": "Petit-basset-griffon-vendeen-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Vandea)",
+      "colorazioni": "Bianco e Arancio, Bianco e Nero, Bianco e Grigio, Tricolore (Nero focato e bianco)",
+      "temperamento_breve": "Vivace, Socievole, Testardo, Vocale, Allegro",
+      "descrizione_generale": "<p>Il Petit Basset Griffon Vendéen, spesso abbreviato in PBGV, è un piccolo segugio francese pieno di vita e carisma. Originario della Vandea, è un cane \"bassetto\" (basso sugli arti) e \"griffone\" (a pelo duro e ispido). È un cacciatore specializzato, selezionato per stanare la selvaggina (principalmente conigli e lepri) nel sottobosco fitto.</p><p>Lo standard lo descrive perfettamente come \"diavolo in campagna, angelo in casa\". È un cane allegro, estroverso e molto socievole, ma anche un cacciatore tenace, indipendente e molto vocale. È un compagno divertente per proprietari attivi che sanno apprezzare (e gestire) la sua testardaggine da segugio.</p>",
+      "origini_storia": "<p>Il PBGV discende dal Grand Griffon Vendéen, una razza da seguita più grande. Per secoli, i cacciatori della Vandea hanno selezionato cani a pelo duro per la caccia nei terreni impervi e spinosi della regione. Per cacciare la selvaggina più piccola come i conigli, avevano bisogno di una versione più piccola e bassa.</p><p>Inizialmente, i Petit Basset erano semplicemente i cani più piccoli nati nelle cucciolate di Grand Basset. Fu solo alla fine del XIX secolo, e poi grazie al lavoro dell'allevatore Abel Dezamy, che iniziò una selezione mirata del Petit, fissandone le caratteristiche. Lo standard fu separato da quello del Grand Basset nel 1975.</p>",
+      "aspetto_fisico": "<p>Il PBGV è un cane piccolo ma robusto e vigoroso, leggermente più lungo che alto. L'altezza al garrese è compresa tra 34 e 38 cm. Il peso si aggira sui 14-18 kg. La sua struttura è quella di un bassotto, ma senza eccessive curvature degli arti.</p><p>Il mantello è una delle sue caratteristiche principali: è duro, ruvido, non troppo lungo e mai lanoso. Ha un buon sottopelo. L'aspetto è volutamente \"rustico\" e spettinato, con sopracciglia, barba e baffi ben evidenti. I colori più comuni sono il bianco con macchie arancio, bianco e nero, bianco e grigio, o tricolore.</p>",
+      "carattere_temperamento": "<p>Il PBGV ha una personalità esuberante. È allegro, curioso e sempre pronto all'avventura. È un cane da muta, quindi è estremamente socievole sia con le persone che con gli altri cani. Non è un cane da guardia, ma è molto vocale e abbaia con entusiasmo per avvisare o semplicemente per esprimere la sua gioia.</p><p>Come tutti i segugi, è governato dal suo naso. È indipendente e testardo; se sente una traccia interessante, \"spegne\" le orecchie e parte all'inseguimento. Questo istinto predatorio lo rende inadatto alla convivenza con piccoli animali domestici come i conigli.</p>",
+      "salute_cura": "<p>Il PBGV è una razza abbastanza sana, con un'aspettativa di vita di 12-14 anni. Le orecchie lunghe e pelose lo predispongono a **otiti** e infezioni auricolari; richiedono una pulizia costante. Altre patologie note nella razza includono l'epilessia e problemi oculari come il glaucoma.</p><p>La cura del mantello è moderata. Nonostante l'aspetto arruffato, il pelo duro non forma nodi facilmente, ma richiede una spazzolata settimanale per rimuovere lo sporco e il pelo morto. Non necessita di stripping come altri terrier, ma una pulizia regolare è fondamentale.</p>",
+      "attivita_addestramento": "<p>Nonostante la taglia, il PBGV è un cane ad alta energia. Ha bisogno di molto esercizio quotidiano, non solo passeggiate al guinzaglio, ma anche la possibilità di correre e annusare in un'area sicura. È un maestro della fuga, quindi il giardino deve essere a prova di scavo e di salto.</p><p>L'addestramento è una sfida. È intelligente, ma la sua testardaggine da segugio e la sua scarsa attenzione (se distratto da odori) lo rendono difficile. Il richiamo è il comando più difficile da insegnare. Richiede un proprietario paziente, coerente e con un grande senso dell'umorismo.</p>",
+      "ideale_per": "<p>È ideale per famiglie attive, anche con altri cani, che cercano un compagno allegro e avventuroso. È adatto a chi vive in campagna o in periferia con un giardino ben recintato e non si preoccupa di un cane che abbaia e che segue il proprio naso.</p><p>È **sconsigliato** ai proprietari principianti che desiderano un cane obbediente, alle persone sedentarie, a chi vive in un appartamento con vicini sensibili al rumore, e a chi ha piccoli animali domestici. Non è un cane da lasciare senza guinzaglio in aree aperte.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Petit bleu de gascogne",
+    "post_excerpt": "Il Petit Bleu de Gascogne è un segugio francese di taglia media, una versione ridotta del \"Grand Bleu\". È un cacciatore tenace e vocale, specializzato nella lepre e nel cinghiale, che lavora bene in muta. È un cane da lavoro, calmo in casa ma inadatto alla città.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "petit-bleu-de-gascogne",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Petit bleu de gascogne\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Petit-bleu-de-gascogne-1.jpg",
+      "filename": "Petit-bleu-de-gascogne-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Guascogna)",
+      "colorazioni": "Moschettato (nero e bianco) con effetto blu-ardesia, con o senza macchie nere. Focature presenti.",
+      "temperamento_breve": "Tenace, Vocale, Calmo, Socievole (da muta)",
+      "descrizione_generale": "<p>Il Petit Bleu de Gascogne è un segugio di taglia media originario della regione francese della Guascogna. Come suggerisce il nome, è una riduzione deliberata del Grand Bleu de Gascogne, selezionato per essere più versatile nella caccia alla selvaggina più piccola, come la lepre.</p><p>È un cane da caccia polivalente, utilizzato non solo per la lepre ma anche per il cinghiale. È rinomato per il suo fiuto eccezionale, la sua voce profonda e melodiosa e la sua capacità di lavorare in muta. È un cane da lavoro puro, con un carattere calmo e affettuoso in casa, ma un istinto venatorio incontenibile all'esterno.</p>",
+      "origini_storia": "<p>Le origini del Petit Bleu sono le stesse dei grandi segugi \"blu\" della Guascogna, che si ritiene discendano dai cani di Sant'Uberto (Bloodhound) incrociati con antichi segugi locali. Per secoli, questi cani sono stati usati per la caccia grossa.</p><p>Il \"Petit\" Bleu fu sviluppato per soddisfare l'esigenza dei cacciatori che non cacciavano più i lupi, ma si concentravano sulla lepre. Si cercò quindi una versione più piccola, più agile e più gestibile del Grand Bleu, pur mantenendone le eccezionali doti olfattive e vocali. Lo standard FCI è stato pubblicato nel 1996.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, ben proporzionato e dall'aspetto nobile. L'altezza al garrese per i maschi è 52-58 cm, per le femmine 50-56 cm. Il peso si aggira sui 18-22 kg. La sua struttura è quella tipica del segugio francese, asciutta ma robusta.</p><p>Il mantello è corto, fitto e semi-grosso. Il colore è la sua caratteristica distintiva: è interamente moschettato (un mix fitto di peli bianchi e neri) che dà un riflesso blu-ardesia. Possono esserci macchie nere più o meno estese. Ha sempre focature (tan) sopra gli occhi, sulle guance e sugli arti.</p>",
+      "carattere_temperamento": "<p>Il Petit Bleu ha il classico temperamento del segugio da muta. È un cane calmo, socievole e affettuoso con le persone e generalmente ottimo con gli altri cani, essendo selezionato per lavorare in gruppo. In casa è un compagno tranquillo e docile.</p><p>Tutto cambia all'esterno: quando il suo naso si attiva, diventa un cacciatore tenace, indipendente e molto, molto vocale. La sua voce è profonda e la usa costantemente sulla traccia. L'istinto predatorio è altissimo e il richiamo è estremamente difficile da ottenere.</p>",
+      "salute_cura": "<p>È una razza rustica da lavoro, generalmente sana e con poche patologie ereditarie. L'aspettativa di vita è di 12-14 anni. Come tutti i cani con orecchie lunghe e pendenti, è fortemente predisposto a **otiti** e infezioni auricolari, che richiedono una pulizia settimanale rigorosa.</p><p>La cura del mantello è minima. Il pelo corto richiede solo spazzolate occasionali per rimuovere il pelo morto. La perdita di pelo è moderata.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. Non è un cane da città o da appartamento. È un atleta di resistenza che ha bisogno di correre e annusare per ore, preferibilmente in campagna o in grandi boschi. La semplice passeggiata al guinzaglio non è sufficiente.</p><p>L'addestramento all'obbedienza non è il suo forte. È intelligente, ma la sua indipendenza da segugio lo rende testardo. Sebbene sia descritto come \"facile da obbedire\" (per un segugio), questo si riferisce al contesto venatorio. In un contesto urbano, il suo istinto avrà sempre la meglio. Richiede un proprietario paziente.</p>",
+      "ideale_per": "<p>Questo cane è ideale **esclusivamente per cacciatori** che praticano la caccia alla lepre o al cinghiale, specialmente in muta. È adatto a chi vive in un contesto rurale isolato, con ampi terreni, e apprezza la natura di un segugio.</p><p>È **assolutamente sconsigliato** a proprietari principianti, a chi vive in appartamento o in città, e a chi ha vicini sensibili al rumore (a causa della sua vocalità). Non è un cane da lasciare libero in aree non recintate.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Pharaon hound",
+    "post_excerpt": "Il Pharaoh Hound (Cane dei Faraoni) è un'elegante razza primitiva originaria di Malta, dove è cane nazionale. Nonostante il nome, non ha origini egizie. È un cacciatore a vista e udito, noto per la sua capacità di \"arrossire\". È sensibile, indipendente e richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "pharaon-hound",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Pharaon hound\"
+      ]
+    },
+    \"featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Pharaon-hound-1.jpg",
+      "filename": "Pharaon-hound-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Malta (Patrocinio: Gran Bretagna)",
+      "colorazioni": "Rosso (tan) o rosso-marrone (rich tan), con o senza macchie bianche (punta coda, petto, dita, linea muso)",
+      "temperamento_breve": "Intelligente, Indipendente, Sensibile, Cacciatore",
+      "descrizione_generale": "<p>Il Pharaoh Hound, o Cane dei Faraoni, è un'antica razza di tipo primitivo (levrieroide) che, nonostante il nome, non proviene dall'Egitto. La sua vera origine è Malta, dove è conosciuto come \"Kelb tal-Fenek\" (cane da coniglio) ed è il cane nazionale. È un cane elegante, atletico e dalle linee pulite.</p><p>È un cacciatore unico, che utilizza non solo la vista (come i levrieri), ma anche l'udito e l'olfatto per scovare la selvaggina (conigli) nei terreni rocciosi. È famoso per una sua particolarità: la capacità di \"arrossire\" (naso e orecchie diventano rosa intenso) quando è eccitato o felice.</p>",
+      "origini_storia": "<p>Il mito delle sue origini egizie deriva dalla sua somiglianza con il dio Anubi e con i cani raffigurati nelle tombe dei faraoni. Tuttavia, le analisi genetiche hanno smentito questa teoria, dimostrando che si tratta di una razza sviluppatasi in isolamento a Malta, probabilmente da antichi cani da caccia fenici.</p><p>A Malta, è stato usato per migliaia di anni per la caccia al coniglio selvatico, un'attività che richiedeva un cane agile, capace di saltare sui muretti a secco e di usare tutti i sensi. I primi esemplari furono importati in Gran Bretagna negli anni '20 del XX secolo, ma l'allevamento moderno iniziò solo negli anni '60. Il patrocinio della razza è stato assegnato alla Gran Bretagna, che ne ha curato il riconoscimento FCI nel 1977.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, elegante e potente. L'altezza al garrese ideale per i maschi è 56-63,5 cm, per le femmine 53-61 cm. Il peso si aggira sui 20-25 kg. La sua struttura è slanciata, da corridore, con muscoli asciutti.</p><p>Il mantello è corto, fine e lucido. Il colore varia dal rosso (tan) al rosso-marrone intenso (rich tan). Sono molto desiderate alcune macchie bianche: la punta della coda (essenziale per i cacciatori), una stella sul petto, una linea sottile sul muso e il bianco sulle dita.</p>",
+      "carattere_temperamento": "<p>Il Pharaoh Hound ha un carattere complesso, tipico del cane primitivo. È molto intelligente, ma anche indipendente e testardo. È estremamente sensibile e non tollera i metodi di addestramento duri o la voce alta. Con la sua famiglia è affettuoso, giocherellone e quasi \"gattofilo\" nei modi.</p><p>È riservato con gli estranei, ma non timido. Ha un istinto predatorio altissimo: qualsiasi cosa piccola e veloce (gatti, scoiattoli, conigli) è considerata una preda. Non è un cane da lasciare libero in aree non sicure. È anche un saltatore eccezionale, capace di superare recinzioni alte.</p>",
+      "salute_cura": "<p>È una razza eccezionalmente sana e longeva, con un'aspettativa di vita di 12-15 anni. Non ha particolari predisposizioni genetiche note. L'unica sensibilità nota è verso alcuni tipi di anestesia, comune a molti levrieri.</p><p>La cura del mantello è minima. Il pelo corto richiede solo una spazzolata settimanale. Essendo quasi privo di grasso corporeo e con pelo corto, soffre molto il freddo e necessita di un cappotto in inverno. Non ha un odore forte.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, ma di tipo specifico. Adora le corse esplosive e gli sprint. Ha bisogno di correre libero (sempre in aree recintate e sicure) ogni giorno. È il cane perfetto per il Lure Coursing, dove può sfogare il suo istinto venatorio.</p><p>L'addestramento è una sfida. È intelligente, ma obbedirà solo se ne vede il motivo. Il richiamo è quasi inaffidabile a causa del suo istinto. L'addestramento deve essere positivo, creativo e trasformato in un gioco. Si annoia molto facilmente con la ripetizione.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di cani primitivi o levrieri, che ne comprendono e apprezzano la natura indipendente. È adatto a chi ha una casa con un giardino molto alto e sicuro (a prova di fuga). È ideale per chi pratica Lure Coursing.</p><p>È **sconsigliato** ai proprietari principianti, a chi desidera un cane obbediente in stile Pastore Tedesco, a chi vive in appartamento senza accesso a aree di corsa sicure, e a chi ha gatti o altri piccoli animali. Soffre il freddo e non può vivere all'esterno.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 4.0,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]
