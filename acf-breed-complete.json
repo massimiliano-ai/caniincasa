@@ -1,0 +1,492 @@
+[
+  {
+    "key": "group_razze_info_sidebar",
+    "title": "Informazioni Razza (Sidebar)",
+    "fields": [
+      {
+        "key": "field_nazione_origine",
+        "label": "Nazione di Origine",
+        "name": "nazione_origine",
+        "type": "text",
+        "instructions": "Es: Italia, Germania, Francia, Stati Uniti, ecc.",
+        "required": 0,
+        "placeholder": "Es: Italia"
+      },
+      {
+        "key": "field_colorazioni",
+        "label": "Colorazioni",
+        "name": "colorazioni",
+        "type": "textarea",
+        "instructions": "Elenca le colorazioni ammesse per questa razza (una per riga o separate da virgole)",
+        "required": 0,
+        "rows": 3,
+        "placeholder": "Es: Nero, Marrone, Bianco, Fulvo"
+      },
+      {
+        "key": "field_temperamento_breve",
+        "label": "Temperamento (breve)",
+        "name": "temperamento_breve",
+        "type": "text",
+        "instructions": "Descrizione breve del temperamento (3-5 parole)",
+        "required": 0,
+        "maxlength": 100,
+        "placeholder": "Es: Affettuoso, Energico, Protettivo"
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "razze_di_cani"
+        }
+      ]
+    ],
+    "menu_order": 5,
+    "position": "side",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "field"
+  },
+  {
+    "key": "group_razze_sezioni_contenuto",
+    "title": "Contenuto Razza - Sezioni",
+    "fields": [
+      {
+        "key": "field_tab_descrizione",
+        "label": "Descrizione",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_descrizione_generale",
+        "label": "Descrizione Generale",
+        "name": "descrizione_generale",
+        "type": "wysiwyg",
+        "instructions": "Breve introduzione alla razza (2-3 paragrafi)",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      },
+      {
+        "key": "field_tab_storia",
+        "label": "Storia",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_origini_storia",
+        "label": "Origini e Storia",
+        "name": "origini_storia",
+        "type": "wysiwyg",
+        "instructions": "Storia e origini della razza",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      },
+      {
+        "key": "field_tab_aspetto",
+        "label": "Aspetto",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_aspetto_fisico",
+        "label": "Aspetto Fisico",
+        "name": "aspetto_fisico",
+        "type": "wysiwyg",
+        "instructions": "Descrizione fisica della razza (taglia, peso, mantello, colori)",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      },
+      {
+        "key": "field_tab_carattere",
+        "label": "Carattere",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_carattere_temperamento",
+        "label": "Carattere e Temperamento",
+        "name": "carattere_temperamento",
+        "type": "wysiwyg",
+        "instructions": "Descrizione del carattere e temperamento",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      },
+      {
+        "key": "field_tab_salute",
+        "label": "Salute",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_salute_cura",
+        "label": "Salute e Cura",
+        "name": "salute_cura",
+        "type": "wysiwyg",
+        "instructions": "Informazioni su salute, predisposizioni, toelettatura",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      },
+      {
+        "key": "field_tab_addestramento",
+        "label": "Addestramento",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_attivita_addestramento",
+        "label": "Attività e Addestramento",
+        "name": "attivita_addestramento",
+        "type": "wysiwyg",
+        "instructions": "Esigenze di attività fisica e facilità di addestramento",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      },
+      {
+        "key": "field_tab_ideale",
+        "label": "Ideale Per",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_ideale_per",
+        "label": "Ideale Per",
+        "name": "ideale_per",
+        "type": "wysiwyg",
+        "instructions": "Per chi è adatta questa razza? Chi dovrebbe evitarla?",
+        "required": 0,
+        "tabs": "all",
+        "toolbar": "full",
+        "media_upload": 0
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "razze_di_cani"
+        }
+      ]
+    ],
+    "menu_order": 8,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "field"
+  },
+  {
+    "key": "group_razze_caratteristiche_complete",
+    "title": "Caratteristiche Razza (Sistema Zampette)",
+    "fields": [
+      {
+        "key": "field_tab_temperamento_car",
+        "label": "Temperamento",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_energia_e_livelli_di_attivita",
+        "label": "Livello Energia",
+        "name": "energia_e_livelli_di_attivita",
+        "type": "range",
+        "instructions": "1 = Molto basso | 5 = Molto alto",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_affettuosita",
+        "label": "Affettuosità",
+        "name": "affettuosita",
+        "type": "range",
+        "instructions": "1 = Indipendente | 5 = Molto affettuoso",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_vocalita_e_predisposizione_ad_abbaiare",
+        "label": "Vocalità / Tendenza ad Abbaiare",
+        "name": "vocalita_e_predisposizione_ad_abbaiare",
+        "type": "range",
+        "instructions": "1 = Silenzioso | 5 = Molto vocale",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_socievolezza_cani",
+        "label": "Socievolezza con Altri Cani",
+        "name": "socievolezza_cani",
+        "type": "range",
+        "instructions": "1 = Preferisce essere unico | 5 = Ama altri cani",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_tab_adattabilita_car",
+        "label": "Adattabilità",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_adattabilita_appartamento",
+        "label": "Adattabilità Appartamento",
+        "name": "adattabilita_appartamento",
+        "type": "range",
+        "instructions": "1 = Necessita spazio esterno | 5 = Perfetto per appartamento",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_adattabilita_clima_caldo",
+        "label": "Tolleranza al Caldo",
+        "name": "adattabilita_clima_caldo",
+        "type": "range",
+        "instructions": "1 = Bassa tolleranza | 5 = Alta tolleranza",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_adattabilita_clima_freddo",
+        "label": "Tolleranza al Freddo",
+        "name": "adattabilita_clima_freddo",
+        "type": "range",
+        "instructions": "1 = Bassa tolleranza | 5 = Alta tolleranza",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_tolleranza_alla_solitudine",
+        "label": "Tolleranza alla Solitudine",
+        "name": "tolleranza_alla_solitudine",
+        "type": "range",
+        "instructions": "1 = Non tollera | 5 = Molto tollerante",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_tab_famiglia_car",
+        "label": "Famiglia & Socialità",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_compatibilita_con_i_bambini",
+        "label": "Compatibilità con Bambini",
+        "name": "compatibilita_con_i_bambini",
+        "type": "range",
+        "instructions": "1 = Non adatto | 5 = Eccellente",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_tolleranza_estranei",
+        "label": "Tolleranza verso Estranei",
+        "name": "tolleranza_estranei",
+        "type": "range",
+        "instructions": "1 = Diffidente/protettivo | 5 = Amichevole con tutti",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_compatibilita_con_altri_animali_domestici",
+        "label": "Compatibilità Altri Animali",
+        "name": "compatibilita_con_altri_animali_domestici",
+        "type": "range",
+        "instructions": "1 = Difficile | 5 = Ottima",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_tab_addestramento_car",
+        "label": "Addestramento & Cura",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_facilita_di_addestramento",
+        "label": "Facilità Addestramento",
+        "name": "facilita_di_addestramento",
+        "type": "range",
+        "instructions": "1 = Molto difficile | 5 = Molto facile",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_intelligenza",
+        "label": "Intelligenza / Problem Solving",
+        "name": "intelligenza",
+        "type": "range",
+        "instructions": "1 = Segue l'istinto | 5 = Molto intelligente",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_esigenze_di_esercizio",
+        "label": "Bisogno di Esercizio Fisico",
+        "name": "esigenze_di_esercizio",
+        "type": "range",
+        "instructions": "1 = Minimo | 5 = Molto elevato",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_facilita_toelettatura",
+        "label": "Facilità Toelettatura",
+        "name": "facilita_toelettatura",
+        "type": "range",
+        "instructions": "1 = Richiede toelettatura professionale | 5 = Manutenzione minima",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_cura_e_perdita_pelo",
+        "label": "Perdita Pelo",
+        "name": "cura_e_perdita_pelo_",
+        "type": "range",
+        "instructions": "1 = Molto bassa | 5 = Molto elevata",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_predisposizioni_per_la_salute",
+        "label": "Robustezza Salute",
+        "name": "predisposizioni_per_la_salute",
+        "type": "range",
+        "instructions": "1 = Molte predisposizioni | 5 = Molto robusto",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_tab_esperienza_car",
+        "label": "Esperienza & Altri",
+        "name": "",
+        "type": "tab",
+        "placement": "left"
+      },
+      {
+        "key": "field_livello_esperienza_richiesto",
+        "label": "Livello Esperienza Richiesto",
+        "name": "livello_esperienza_richiesto",
+        "type": "range",
+        "instructions": "1 = Principianti | 5 = Solo esperti",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_costo_mantenimento",
+        "label": "Costo Mantenimento",
+        "name": "costo_mantenimento",
+        "type": "range",
+        "instructions": "1 = Economico | 5 = Costoso",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      },
+      {
+        "key": "field_istinti_di_caccia",
+        "label": "Istinti di Caccia",
+        "name": "istinti_di_caccia",
+        "type": "range",
+        "instructions": "1 = Quasi assenti | 5 = Molto forti",
+        "default_value": 3,
+        "min": 1,
+        "max": 5,
+        "step": 0.5,
+        "append": "/5"
+      }
+    ],
+    "location": [
+      [
+        {
+          "param": "post_type",
+          "operator": "==",
+          "value": "razze_di_cani"
+        }
+      ]
+    ],
+    "menu_order": 10,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "field"
+  }
+]
