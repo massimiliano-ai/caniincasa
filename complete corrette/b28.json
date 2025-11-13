@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Setter inglese",
+    "post_excerpt": "Il Setter Inglese è un cane da ferma elegante e atletico, famoso per il suo mantello setoso e macchiettato (belton). È un cacciatore instancabile ma anche un compagno di famiglia eccezionalmente dolce e socievole. Richiede molto esercizio fisico e un giardino recintato.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "setter-inglese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Setter inglese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Setter-inglese.jpg",
+      "filename": "Setter-inglese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Blu belton (bianco-nero), Arancio belton (bianco-arancio), Limone belton (bianco-limone), Fegato belton (bianco-marrone), Tricolore (blu belton e tan).",
+      "temperamento_breve": "Amichevole, Energico, Dolce, Intelligente, Socievole",
+      "descrizione_generale": "<p>Il Setter Inglese è un cane da ferma (gundog) di taglia grande, rinomato per la sua bellezza, la sua eleganza atletica e il suo temperamento eccezionalmente amichevole. È un cacciatore instancabile, specializzato nella localizzazione della selvaggina da piuma, che segnala al cacciatore con una caratteristica ferma acquattata.</p><p>Oltre alle sue doti venatorie, è uno dei cani da compagnia più apprezzati. È noto per la sua natura dolce, la sua pazienza con i bambini e la sua socievolezza con altri cani. Tuttavia, è un cane ad alta energia che richiede molto esercizio quotidiano e non è adatto a una vita sedentaria in appartamento.</p>",
+      "origini_storia": "<p>Le origini del Setter Inglese risalgono a oltre 400 anni fa, discendendo da antichi 'Setting Spaniel' usati per la caccia con la rete. Questi cani venivano addestrati ad acquattarsi ('to set') per permettere ai cacciatori di lanciare le reti sopra di loro e sulla preda. Con l'avvento del fucile, la ferma in piedi divenne più utile.</p><p>La razza moderna fu plasmata nel XIX secolo da due allevatori: Edward Laverack, che a partire dal 1825 sviluppò la linea da esposizione (più elegante e con più pelo) attraverso una forte consanguineità; e R. Purcell Llewellin, che partendo dai cani di Laverack e incrociandoli con Setter Irlandesi e Gordon, creò la linea da lavoro (più leggera e veloce), ancora oggi famosa.</p>",
+      "aspetto_fisico": "<p>È un cane elegante e atletico. L'altezza al garrese per i maschi è 65-68 cm, per le femmine 61-65 cm. Il peso si aggira sui 25-30 kg. Ha una testa lunga e nobile, con uno stop ben definito e occhi scuri e dolci. Le orecchie sono lunghe, attaccate basse e coperte di frange setose.</p><p>Il mantello è lungo e setoso, piatto o leggermente ondulato, con abbondanti frange su orecchie, petto, ventre, zampe e coda. Il colore è una sua caratteristica: si chiama <b>'belton'</b> (una fine moschettatura/roanatura su fondo bianco). I colori sono:</p><ul><li><b>Blue belton:</b> Bianco e nero (il più comune)</li><li><b>Orange belton:</b> Bianco e arancio</li><li><b>Lemon belton:</b> Bianco e limone</li><li><b>Liver belton:</b> Bianco e marrone (fegato)</li><li><b>Tricolore:</b> Blu belton con focature (tan)</li></ul>",
+      "carattere_temperamento": "<p>Il Setter Inglese ha un temperamento eccezionale. È estremamente amichevole, estroverso, socievole e dolce. È un cane 'gentiluomo', mai aggressivo o timido. È fantastico con i bambini e generalmente ottimo con altri cani e animali domestici (se socializzato).</p><p>Conserva un fortissimo istinto venatorio e un'energia quasi inesauribile. È un cane che ha bisogno di correre in grandi spazi. Se annoiato, può diventare distruttivo e molto vocale. È un cane sensibile che soffre la solitudine e ha bisogno di vivere a contatto con la famiglia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. È una razza robusta, ma soggetta a due problemi principali:</p><ul><li><b>Sordità congenita:</b> Legata al gene del bianco, è una preoccupazione significativa. È fondamentale testare i cuccioli (test BAER).</li><li><b>Displasia dell'anca e del gomito:</b> Comune nelle razze da lavoro di questa taglia.</li></ul><p>Può anche soffrire di ipotiroidismo e allergie cutanee. Il mantello lungo e setoso richiede spazzolate regolari (più volte a settimana) per prevenire nodi, specialmente sulle frange. Le orecchie richiedono pulizia costante per evitare otiti.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono <b>molto elevate</b>. È un atleta che ha bisogno di correre per almeno 1-2 ore al giorno, preferibilmente libero in un'area sicura. Non è un cane da appartamento. È un ottimo compagno per il jogging, il canicross o l'escursionismo.</p><p>È intelligente e addestrabile, ma anche sensibile e a volte testardo (ha un istinto da cacciatore indipendente). Risponde magnificamente al rinforzo positivo e alla gentilezza. I metodi duri lo 'spengono'. Il richiamo va lavorato molto bene a causa del suo istinto venatorio.</p>",
+      "ideale_per": "<p>È il cane ideale per **cacciatori** o per **famiglie molto attive** che vivono in campagna o in una casa con un grande giardino recintato. È perfetto per chi cerca un cane da corsa e da escursione che sia anche un compagno di vita dolce e socievole.</p><p>È <b>assolutamente sconsigliato</b> a persone sedentarie, a chi vive in un piccolo appartamento e a chi è assente tutto il giorno. La sua energia e il suo bisogno di compagnia devono essere soddisfatti per evitare problemi.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Setter irlandese",
+    "post_excerpt": "Il Setter Irlandese è un cane da ferma esuberante, famoso per il suo splendido mantello rosso mogano. È un atleta instancabile e un \"eterno cucciolo\", affettuoso e socievole con tutti. Richiede un'enorme quantità di esercizio fisico e un proprietario attivo che sappia gestire la sua energia.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "setter-irlandese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Setter irlandese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Setter-irlandese.jpg",
+      "filename": "Setter-irlandese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda",
+      "colorazioni": "Rosso mogano (castano dorato ricco e brillante).",
+      "temperamento_breve": "Esuberante, Amichevole, Energico, Estroverso, Intelligente",
+      "descrizione_generale": "<p>Il Setter Irlandese è un cane da ferma (gundog) di taglia grande, famoso in tutto il mondo per il suo magnifico mantello setoso di un ricco colore rosso mogano. È un cane da caccia veloce, atletico e instancabile, selezionato per lavorare su vasti terreni aperti.</p><p>Oltre alla sua bellezza, è noto per il suo temperamento esuberante, quasi incontenibile. È un 'eterno cucciolo', estroverso, giocherellone e incredibilmente amichevole con tutti (persone e cani). È un compagno di famiglia devoto, ma la sua energia estrema richiede un proprietario molto attivo e un grande giardino.</p>",
+      "origini_storia": "<p>Le origini del Setter Irlandese risalgono al XVIII secolo in Irlanda. Discende da antichi spaniel da caccia bianchi e rossi (che oggi sono una razza separata, il Setter Irlandese Rosso-Bianco). I cacciatori irlandesi avevano bisogno di un cane veloce e resistente per la caccia alla selvaggina da piuma nelle brughiere.</p><p>Nel XIX secolo, gli allevatori iniziarono a selezionare cani con il mantello completamente rosso, che erano più visibili. Il primo club di razza fu fondato a Dublino nel 1882. La sua popolarità come cane da esposizione e da famiglia crebbe rapidamente grazie alla sua bellezza mozzafiato, anche se esistono ancora linee da lavoro più leggere e reattive.</p>",
+      "aspetto_fisico": "<p>È un cane elegante, atletico e nobile. L'altezza al garrese per i maschi è 58-67 cm, per le femmine 55-62 cm. Il peso si aggira sui 27-32 kg. Ha una testa lunga e fine, con orecchie lunghe e frangiate attaccate basse.</p><p>Il mantello è moderatamente lungo, piatto, setoso e privo di riccioli. Ha abbondanti frange (pennacchi) su orecchie, petto, ventre, zampe e coda. Il colore è il suo marchio di fabbrica: un **rosso mogano** ricco e brillante, senza alcuna traccia di nero. Piccole macchie bianche sono ammesse ma non desiderate.</p>",
+      "carattere_temperamento": "<p>Il Setter Irlandese è pura esuberanza. È un cane estroverso, giocherellone, impulsivo e sempre di buon umore. È amichevole con tutti: estranei, bambini, altri cani. Non c'è un briciolo di aggressività o diffidenza in lui, il che lo rende un pessimo cane da guardia ma un eccellente cane da famiglia.</p><p>È intelligente, ma la sua esuberanza lo rende difficile da addestrare: si distrae facilmente e matura molto lentamente (intorno ai 3 anni). Ha un'energia da vendere e un forte istinto venatorio. Se lasciato solo o annoiato, diventa distruttivo e abbaia molto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza robusta, ma soggetta ad alcune patologie serie:</p><ul><li><b>Atrofia Progressiva della Retina (PRA):</b> Esistono due forme (rcd1 e rcd4) per cui sono disponibili test genetici. È fondamentale che i riproduttori siano testati.</li><li><b>Displasia dell'anca:</b> Molto comune.</li><li><b>Torsione gastrica (Bloat):</b> Un rischio elevato data la sua conformazione a torace profondo.</li><li><b>Otiti:</b> Le orecchie lunghe e pelose richiedono pulizia costante.</li></ul><p>Il mantello setoso richiede spazzolate regolari (più volte a settimana) per prevenire nodi.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono <b>estreme</b>. È un cane che deve correre. Richiede almeno 2 ore di attività fisica intensa al giorno (corsa libera, jogging, canicross). Non è assolutamente un cane da appartamento. Ha bisogno di un grande giardino recintato in modo sicuro (è un saltatore).</p><p>L'addestramento è una sfida a causa della sua esuberanza. È intelligente e vuole compiacere, ma la sua soglia di attenzione è bassa. Richiede un proprietario molto paziente, coerente e che usi metodi positivi e divertenti. L'addestramento alla calma è la parte più difficile.</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** o **famiglie/persone estremamente attive e sportive** che cercano un compagno instancabile per la corsa e le escursioni. È per chi vive in campagna, ha un grande giardino recintato e apprezza un cane estroverso e amichevole con tutti.</p><p>È **assolutamente sconsigliato** a persone sedentarie, a chi vive in appartamento, ai proprietari principianti e a chi cerca un cane calmo e obbediente. La sua energia incontenibile è il suo tratto distintivo e la sua sfida più grande.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Shar pei",
+    "post_excerpt": "Lo Shar Pei è un'antica razza cinese, famosa per la sua pelle rugosa, il muso da \"ippopotamo\" e la lingua blu-nera. Un tempo cane da combattimento e da guardia, è un cane calmo, indipendente e molto protettivo. Richiede un proprietario esperto e attenzione alla sua salute (pelle e febbre).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "shar-pei",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Shar pei"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Shar-pei.jpg",
+      "filename": "Shar-pei.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Cina (Patrocinio: FCI)",
+      "colorazioni": "Tutti i colori solidi, tranne il bianco.",
+      "temperamento_breve": "Indipendente, Leale, Protettivo, Calmo, Riservato",
+      "descrizione_generale": "<p>Lo Shar Pei è una razza canina unica e antica, originaria delle province meridionali della Cina (regione di Canton). È immediatamente riconoscibile per le sue caratteristiche uniche: la pelle lassa che forma rughe (specialmente da cucciolo), il muso largo da 'ippopotamo', le orecchie piccolissime e la lingua di colore blu-nero (come il Chow Chow).</p><p>Nato come cane da fattoria versatile (guardia, caccia al cinghiale e, purtroppo, combattimento), oggi è un cane da compagnia e da guardia. È un cane calmo, dignitoso e molto indipendente, estremamente leale alla sua famiglia ma diffidente con gli estranei. Richiede un proprietario esperto e cure sanitarie specifiche.</p>",
+      "origini_storia": "<p>Le origini dello Shar Pei risalgono ad almeno 2000 anni fa, durante la dinastia Han in Cina. Statuette tombali di quel periodo mostrano cani rugosi molto simili. Era il cane dei contadini, usato per la guardia, la caccia e la pastorizia. Il suo nome significa 'pelle di sabbia', riferendosi alla tessitura ruvida del suo mantello corto.</p><p>Con l'avvento del regime comunista in Cina negli anni '40, la proprietà di cani fu vista come un lusso borghese e la razza fu quasi sterminata. Nel 1973, un allevatore di Hong Kong, Matgo Law, lanciò un appello disperato agli appassionati americani per salvare la razza. Pochi esemplari furono esportati e, da questi, la razza fu salvata dall'estinzione, diventando per un periodo il 'cane più raro del mondo'.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, compatto e potente. L'altezza al garrese è 44-51 cm. Il peso varia dai 18 ai 30 kg. La testa è grande rispetto al corpo, con un muso largo e pieno. Le rughe sono abbondanti sul cucciolo, ma nell'adulto dovrebbero essere presenti solo sulla testa e sul garrese (il tipo americano 'meat-mouth' è molto più rugoso del tipo tradizionale cinese 'bone-mouth').</p><p>Esistono due tipi di mantello, entrambi corti, ispidi e senza sottopelo: <b>'Horse-coat'</b> (molto corto, 1 cm) e <b>'Brush-coat'</b> (fino a 2,5 cm). Tutti i colori solidi sono ammessi, tranne il bianco (es. nero, rosso, fulvo, crema, blu, cioccolato).</p>",
+      "carattere_temperamento": "<p>Lo Shar Pei è un cane molto indipendente, calmo e quasi 'felino' in casa. È pulito e dignitoso. È incredibilmente leale e protettivo nei confronti della sua famiglia, ma è <b>estremamente diffidente e riservato con gli estranei</b>. Non è un cane socievole e non apprezza essere toccato da chi non conosce.</p><p>Ha un passato da cane da combattimento, il che lo rende <b>potenzialmente aggressivo verso altri cani</b>, specialmente dello stesso sesso. È testardo e non è facile da addestrare. Richiede una socializzazione precoce, intensiva e continua per tutta la vita.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-11 anni. È una razza con <b>gravi problemi di salute</b>, molti dei quali legati alla selezione per le rughe:</p><ul><li><b>Febbre Familiare dello Shar Pei (FSF):</b> Una malattia infiammatoria ereditaria che causa febbre alta, gonfiore delle articolazioni e può portare a insufficienza renale (amiloidosi).</li><li><b>Entropion:</b> Le palpebre arrotolate verso l'interno richiedono quasi sempre un intervento chirurgico da cuccioli.</li><li><b>Infezioni cutanee (Dermatiti):</b> Le pieghe della pelle devono essere pulite e asciugate quotidianamente.</li><li><b>Otiti:</b> I canali uditivi molto stretti richiedono pulizia costante.</li></ul><p>La cura del pelo è minima, ma la cura della pelle è un impegno quotidiano.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. È un cane calmo che non ha bisogno di corse sfrenate. Passeggiate quotidiane al guinzaglio sono sufficienti. Si adatta alla vita in appartamento, ma soffre molto il caldo a causa del muso corto e delle rughe.</p><p>L'addestramento è una sfida. È intelligente, ma estremamente testardo e indipendente. Non è motivato a compiacere. Richiede un proprietario esperto, paziente e che usi metodi positivi ma molto fermi. La socializzazione è l'aspetto più critico.</p>",
+      "ideale_per": "<p>È un cane per **proprietari molto esperti** di razze difficili, che cercano un cane da guardia calmo e leale, e che vivono in un ambiente tranquillo. È per chi è disposto a gestire una socializzazione complessa e problemi di salute potenzialmente costosi.</p><p>È **assolutamente sconsigliato** ai proprietari principianti, a chi cerca un cane socievole (con persone o cani), a chi vive in climi molto caldi e a chi non è preparato ad affrontare spese veterinarie significative.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Shiba",
+    "post_excerpt": "Lo Shiba Inu è la più piccola delle razze primitive giapponesi. Un tempo cacciatore, oggi è un cane da compagnia \"felino\": indipendente, pulitissimo, dignitoso e testardo. È molto leale ma non servile. Richiede un proprietario esperto che ne capisca la natura primitiva.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "shiba",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Shiba"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Shiba.jpg",
+      "filename": "Shiba.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone",
+      "colorazioni": "Rosso, Nero focato (Black and Tan), Sesamo (Goma). Tutti con 'Urajiro' (pelo biancastro su muso, gola, petto, ventre, zampe).",
+      "temperamento_breve": "Indipendente, Fiero, Pulito (felino), Testardo, Leale",
+      "descrizione_generale": "<p>Lo Shiba Inu è la più piccola e popolare delle sei razze primitive giapponesi (tipo Spitz). Originario delle montagne del Giappone, era utilizzato per la caccia a piccola selvaggina e uccelli. Oggi è un cane da compagnia incredibilmente popolare in tutto il mondo.</p><p>Lo Shiba ha un carattere 'felino': è estremamente pulito (si lava da solo), indipendente, fiero e molto dignitoso. È un cane intelligente, ma anche incredibilmente testardo e non servile. È leale alla sua famiglia ma riservato con gli estranei. È famoso per il suo 'urlo Shiba', un vocalizzo acuto che emette quando è molto felice o molto contrariato.</p>",
+      "origini_storia": "<p>Lo Shiba Inu è una razza autoctona giapponese le cui origini risalgono a migliaia di anni fa (300 a.C.). Si è sviluppato nelle regioni montuose del Giappone centrale. Il nome 'Shiba' può significare 'piccolo' o 'sterpaglia' (riferendosi al suo mantello rosso o al suo uso nella caccia tra i cespugli).</p><p>Come molte razze giapponesi, lo Shiba ha quasi rischiato l'estinzione durante la Seconda Guerra Mondiale e a causa di un'epidemia di cimurro. Dopo la guerra, un programma di recupero è stato avviato utilizzando le tre linee di sangue superstiti (Shinshu, Mino e San'in). La razza è stata salvata e standardizzata, diventando un 'Monumento Naturale' del Giappone nel 1937.</p>",
+      "aspetto_fisico": "<p>È un cane di piccola taglia, compatto e muscoloso, con un aspetto da spitz. L'altezza al garrese per i maschi è 38-41 cm, per le femmine 35-38 cm. Il peso si aggira sui 8-11 kg. Ha orecchie erette triangolari, occhi scuri e una coda folta portata arricciata sul dorso.</p><p>Il mantello è doppio: un pelo di copertura dritto e ruvido, e un sottopelo soffice e denso. I colori ammessi sono:</p><ul><li><b>Rosso:</b> Il più comune.</li><li><b>Nero focato (Black and Tan)</b></li><li><b>Sesamo (Goma):</b> Peli neri, rossi e bianchi mescolati.</li></ul><p>Tutti i colori devono presentare l'<b>'Urajiro'</b>: un pelo biancastro obbligatorio sui lati del muso, guance, gola, petto, ventre e parte interna delle zampe.</p>",
+      "carattere_temperamento": "<p>Lo Shiba è un cane primitivo e indipendente. È intelligente, ma usa la sua intelligenza per i propri scopi, non per compiacere. È estremamente testardo e non risponde bene all'addestramento tradizionale. È molto pulito e facile da gestire in casa.</p><p>È leale alla sua famiglia, ma non in modo servile. È riservato e diffidente con gli estranei. Può essere molto dominante e rissoso con altri cani (specialmente dello stesso sesso) e ha un forte istinto predatorio. È un maestro della fuga e non può essere lasciato libero in aree non sicure.</p>",
+      "salute_cura": "<p>È una razza molto sana e longeva, con un'aspettativa di vita di 13-16 anni. Le principali preoccupazioni per la salute sono:</p><ul><li><b>Allergie:</b> Molto comuni, spesso si manifestano con dermatiti e prurito.</li><li><b>Lussazione della rotula.</b></li><li><b>Problemi oculari:</b> Come la cataratta e il glaucoma.</li><li><b>Ipotiroidismo.</b></li></ul><p>Il mantello è autopulente, ma perde pelo in modo **catastrofico** durante le due mute stagionali ('blowing coat'). In quei periodi, richiede spazzolate quotidiane.</p>",
+      "attivita_addestramento": "<p>Ha un'esigenza di esercizio moderata. Si adatta sorprendentemente bene alla vita in appartamento perché è calmo e pulito in casa. Tuttavia, ha bisogno di passeggiate quotidiane e di stimolazione mentale per non annoiarsi. Odia il guinzaglio, ma non può essere lasciato libero.</p><p>L'addestramento è **molto difficile**. È per proprietari pazienti che capiscono la mentalità primitiva. È testardo e non motivato dal cibo o dal compiacere. Il richiamo è inaffidabile. La socializzazione precoce e costante è fondamentale per la sua diffidenza e la sua dominanza.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di cani primitivi o spitz, che cercano un cane 'felino', pulito, indipendente e non troppo impegnativo fisicamente. È per chi apprezza un cane di carattere e non cerca un'obbedienza cieca. È adatto alla vita in appartamento (se gestito bene).</p><p>È <b>sconsigliato</b> ai proprietari principianti, a chi desidera un cane 'velcro' e obbediente (come un Golden), e a chi ha altri piccoli animali domestici o vuole un cane da lasciare libero al parco.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Shih tzu",
+    "post_excerpt": "Lo Shih Tzu è un antico cane da compagnia di origine tibetana, noto per il suo lungo mantello fluente e il suo carattere \"arrogante\" ma affettuoso. È un cane da appartamento ideale, vivace e socievole. Richiede una toelettatura quotidiana impegnativa per evitare nodi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "shih-tzu",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Shih tzu"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Shih-tzu.jpg",
+      "filename": "Shih-tzu.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Tibet (Patrocinio: Gran Bretagna)",
+      "colorazioni": "Tutti i colori sono ammessi.",
+      "temperamento_breve": "Affettuoso, Vivace, Estroverso, Fiero, Testardo",
+      "descrizione_generale": "<p>Lo Shih Tzu, il cui nome significa 'Piccolo Leone', è un'antica razza da compagnia di origine tibetana, ma sviluppata come la conosciamo oggi in Cina. È un cane piccolo e robusto, famoso per il suo lungo e fluente mantello doppio, il muso corto (brachicefalo) e la coda portata alta e arricciata sulla schiena.</p><p>Nato per essere un cane da grembo nelle corti imperiali, è un compagno nato. È affettuoso, estroverso, vivace e pieno di carattere. È un cane che ama tutti, ma che richiede un impegno nella toelettatura tra i più alti in assoluto.</p>",
+      "origini_storia": "<p>Le origini dello Shih Tzu risalgono a migliaia di anni fa in Tibet, dove questi piccoli cani 'leone' erano tenuti nei monasteri e donati agli imperatori cinesi come tributo. Nella Città Proibita di Pechino, i cani tibetani (probabilmente gli antenati del Lhasa Apso) furono incrociati con il Pechinese, dando vita allo Shih Tzu moderno.</p><p>Come il Pechinese, era un cane esclusivo della corte imperiale. La razza arrivò in Occidente solo negli anni '30, quando alcuni esemplari furono portati in Inghilterra. La Gran Bretagna ha ottenuto il patrocinio della razza, che è stata riconosciuta dal Kennel Club nel 1940.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo ma sorprendentemente robusto e pesante per la sua taglia. L'altezza al garrese è 20-27 cm, con un peso che varia dai 4,5 agli 8 kg. È un cane brachicefalo, con un muso corto e quadrato e grandi occhi scuri. Il pelo sulla testa viene spesso legato in un ciuffo (top-knot).</p><p>Il mantello è la sua caratteristica distintiva: è lungo, denso, fluente e dotato di un buon sottopelo (a differenza del Maltese). Non è riccio, ma può essere ondulato. Lo standard ammette <b>tutti i colori</b> e le combinazioni di colori.</p>",
+      "carattere_temperamento": "<p>Lo Shih Tzu è un cane estroverso, allegro e affettuoso. È stato selezionato per essere un compagno e ama stare con le persone. È vivace e giocherellone, ma non ha l'energia frenetica di un terrier. È un cane fiero, che può mostrare un lato testardo e 'arrogante'.</p><p>È generalmente socievole con tutti: estranei, bambini e altri animali. È un ottimo cane da appartamento. Può essere un po' difficile da addestrare alla pulizia in casa e non ama essere lasciato solo per troppo tempo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-16 anni. Essendo una razza brachicefala, è soggetta a diversi problemi:</p><ul><li><b>BAOS (Sindrome Ostruttiva delle Vie Aeree Superiori):</b> Russa e ha difficoltà respiratorie. Soffre molto il caldo.</li><li><b>Problemi oculari:</b> Gli occhi grandi sono soggetti a graffi, ulcere e proptosi (fuoriuscita del globo oculare).</li><li><b>Problemi dentali:</b> Affollamento dei denti che richiede pulizia costante.</li><li><b>Otiti:</b> Le orecchie pelose richiedono pulizia.</li></ul><p>La toelettatura è <b>estremamente impegnativa</b>. Il doppio mantello lungo deve essere spazzolato a fondo **ogni singolo giorno** per evitare feltri dolorosi. Molti proprietari scelgono un 'puppy cut' corto.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. È un cane da appartamento perfetto. Brevi passeggiate quotidiane e gioco in casa sono sufficienti. È fondamentale evitare l'esercizio fisico quando fa caldo.</p><p>L'addestramento richiede pazienza. È intelligente, ma molto testardo e non sempre motivato a compiacere. L'addestramento alla pulizia in casa è notoriamente lento. Risponde solo a metodi positivi, gentili e basati sul premio.</p>",
+      "ideale_per": "<p>È un cane da compagnia ideale per chi vive in appartamento, inclusi anziani e famiglie con bambini rispettosi. È perfetto per chi cerca un cane affettuoso e socievole ed è disposto a dedicare **molto tempo quotidiano alla toelettatura** (o al budget per un professionista).</p><p>È <b>sconsigliato</b> a chi cerca un cane a bassa manutenzione, a chi vive in climi molto caldi senza aria condizionata, e a chi è impaziente con l'addestramento. Non è un cane da lasciare solo.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Shikoku",
+    "post_excerpt": "Lo Shikoku è una rara razza primitiva giapponese (tipo Spitz), originaria dell'isola di Shikoku. Un tempo cacciatore di cinghiali, è un cane tenace, agile e molto leale. È un cane primitivo, riservato e dominante, adatto solo a proprietari esperti che vivono in campagna.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "shikoku",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Shikoku"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Shikoku.jpg",
+      "filename": "Shikoku.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Isola di Shikoku, Prefettura di Kochi)",
+      "colorazioni": "Sesamo (Goma), Sesamo rosso (Aka-goma), Sesamo nero (Kuro-goma).",
+      "temperamento_breve": "Tenace, Leale, Primitivo, Vigile, Riservato",
+      "descrizione_generale": "<p>Lo Shikoku (o Shikoku Ken) è una delle sei razze primitive giapponesi di tipo Spitz. È originario delle remote aree montuose dell'isola di Shikoku, in particolare della Prefettura di Kochi. È un cane di taglia media, dall'aspetto lupino, considerato un 'Monumento Naturale' del Giappone.</p><p>È un cane da caccia, selezionato per la sua tenacia e il suo coraggio nell'affrontare il cinghiale. È una razza primitiva, il che si riflette nel suo carattere: è incredibilmente leale al suo proprietario, ma indipendente, dominante e molto riservato con gli estranei. È una razza rara, per soli esperti.</p>",
+      "origini_storia": "<p>Lo Shikoku, come le altre razze giapponesi (Akita, Shiba, Kai, Kishu, Hokkaido), è una razza autoctona antichissima. Si è sviluppato in isolamento sulle montagne dell'isola di Shikoku. Era il cane dei cacciatori 'Matagi', che lo usavano in piccole mute per la caccia al cinghiale.</p><p>La sua purezza è stata preservata dall'isolamento geografico. Come le altre razze giapponesi, fu quasi estinto durante la Seconda Guerra Mondiale. Fu salvato da allevatori appassionati e dichiarato 'Monumento Naturale' del Giappone nel 1937 per proteggerne il lignaggio. Rimane molto raro al di fuori del Giappone.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, forte, agile e molto ben proporzionato. L'altezza al garrese per i maschi è 49-55 cm, per le femmine 46-52 cm. Il peso si aggira sui 16-25 kg. Ha una struttura da spitz, con orecchie erette e una coda folta portata arricciata o a falce sul dorso.</p><p>Il mantello è doppio, con pelo di copertura ruvido e dritto e un sottopelo soffice. Il colore è la sua caratteristica distintiva: è quasi sempre <b>Sesamo (Goma)</b>. Questo colore è un mix di peli neri, rossi e bianchi. Esiste in tre varianti:</p><ul><li><b>Goma:</b> Sesamo (equilibrio tra i colori).</li><li><b>Aka-goma:</b> Sesamo rosso (base rossa con peli neri).</li><li><b>Kuro-goma:</b> Sesamo nero (base nera con peli rossi).</li></ul>",
+      "carattere_temperamento": "<p>Lo Shikoku è un cane primitivo. È molto intelligente, ma indipendente e non servile. È un cacciatore tenace, coraggioso e con un altissimo istinto predatorio. È un cane da 'una sola persona' o 'una sola famiglia', verso cui è incredibilmente leale e protettivo.</p><p>È <b>molto diffidente e riservato con gli estranei</b>. È dominante e può essere aggressivo verso altri cani, specialmente dello stesso sesso. È un maestro della fuga (agile e scalatore). Richiede una socializzazione precoce e intensiva per tutta la vita.</p>",
+      "salute_cura": "<p>Essendo una razza 'naturale' e rara, è eccezionalmente sana e robusta. L'aspettativa di vita è lunga, 13-16 anni. Non ha particolari patologie genetiche diffuse, se non la displasia dell'anca, che è comunque rara. È un cane molto pulito, che si lava da solo.</p><p>Il mantello è facile da curare, richiede solo spazzolate settimanali, ma le due mute stagionali sono **estremamente abbondanti** ('blowing coat') e richiedono cure quotidiane.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da montagna che ha bisogno di correre e di esplorare. Non è un cane da appartamento. È ideale per lunghe escursioni, canicross o bikejoring. Ha bisogno di un giardino recintato in modo molto sicuro (a prova di scalata).</p><p>L'addestramento è **per soli esperti**. È intelligente ma testardo e non motivato a compiacere. L'addestramento tradizionale è inutile. Bisogna costruire un rapporto di fiducia e rispetto. Il richiamo è inaffidabile. È una sfida anche per addestratori esperti.</p>",
+      "ideale_per": "<p>È un cane <b>esclusivamente per proprietari molto esperti</b> di cani primitivi o spitz giapponesi. È per chi vive in un contesto rurale isolato, ama l'escursionismo e cerca un compagno leale ma indipendente, e sa come gestire un cane dominante e diffidente.</p><p>È <b>assolutamente sconsigliato</b> ai proprietari principianti, a chi vive in città, a chi cerca un cane socievole 'da parco' e a chi ha altri animali domestici. È una razza molto impegnativa.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Siberian husky",
+    "post_excerpt": "Il Siberian Husky è un cane da slitta (sled dog) di taglia media, famoso per la sua bellezza e gli occhi di ghiaccio. È un cane da lavoro instancabile, nato per correre. È amichevole con tutti, ma ha un forte istinto predatorio e da fuga. Richiede un proprietario attivo e un giardino sicuro.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "siberian-husky",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Siberian husky"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Siberian-husky.jpg",
+      "filename": "Siberian-husky.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America (Sviluppo) / Siberia (Origine)",
+      "colorazioni": "Tutti i colori sono ammessi, dal nero al bianco puro.",
+      "temperamento_breve": "Amichevole, Energico, Indipendente, Socievole (da muta), Vocale (ululatore)",
+      "descrizione_generale": "<p>Il Siberian Husky è una delle razze nordiche più popolari e affascinanti. È un cane da slitta di taglia media, allevato per secoli dal popolo Chukchi della Siberia per il traino leggero su enormi distanze in condizioni artiche. È un cane da lavoro, selezionato per la resistenza, la velocità e lo spirito di squadra.</p><p>È famoso per la sua bellezza lupina, i suoi occhi (spesso blu o eterocromi) e il suo carattere estroverso. È un cane incredibilmente amichevole con le persone, ma non è un cane da guardia. È un atleta ad altissima energia, un maestro della fuga e un cacciatore, che richiede un proprietario attivo e consapevole.</p>",
+      "origini_storia": "<p>La razza è stata allevata per migliaia di anni in purezza dal popolo Chukchi, nella Siberia nord-orientale. Questi cani erano vitali per la sopravvivenza della tribù, usati per il trasporto leggero e come cani da compagnia per i bambini.</p><p>La razza divenne famosa all'inizio del XX secolo, quando un commerciante di pellicce russo, William Goosak, li importò in Alaska per partecipare alla 'All-Alaska Sweepstakes', una corsa di slitte di 408 miglia. I cani siberiani, più piccoli dei Malamute locali, dominarono la gara. La fama mondiale arrivò nel 1925 con la 'Corsa del Siero' a Nome, in Alaska, quando una staffetta di mute di Husky, guidata da Leonhard Seppala e il suo cane leader Togo (e infine Balto), salvò la città da un'epidemia di difterite. La razza fu poi sviluppata e standardizzata negli USA.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, agile e leggero. L'altezza al garrese per i maschi è 53,5-60 cm, per le femmine 50,5-56 cm. Il peso è 20,5-28 kg per i maschi e 15,5-23 kg per le femmine. Ha un aspetto da spitz, con orecchie erette e una coda a spazzola portata a falce.</p><p>Il mantello è doppio e molto folto, ma non lungo, con un sottopelo soffice e denso. Lo protegge da temperature fino a -50°C. Tutti i colori sono ammessi, dal nero al bianco puro, con una vasta gamma di maschere facciali. Gli occhi possono essere marroni, blu, bicolore (un occhio per colore) o particolore (two colors in un occhio).</p>",
+      "carattere_temperamento": "<p>L'Husky è un cane da muta. È estremamente socievole, estroverso e amichevole con tutti (anche gli estranei), il che lo rende un <b>pessimo cane da guardia</b>. È generalmente ottimo con altri cani, ma ha un <b>istinto predatorio altissimo</b> e non è affidabile con gatti o animali da cortile.</p><p>È un cane da lavoro: intelligente, ma indipendente e testardo. È noto per essere un <b>maestro della fuga</b> (scava, salta, apre le porte) e non può mai essere lasciato libero. È molto vocale: non abbaia molto, ma ulula e 'parla' (fa 'woo-woo').</p>",
+      "salute_cura": "<p>È una razza molto sana e robusta. L'aspettativa di vita è di 12-15 anni. Le principali preoccupazioni sono:</p><ul><li><b>Problemi oculari:</b> Come la cataratta giovanile ereditaria e l'atrofia progressiva della retina (PRA).</li><li><b>Displasia dell'anca:</b> Meno comune che in altre razze, ma presente.</li></ul><p>Il mantello è autopulente, ma perde pelo in modo **catastrofico** due volte l'anno ('blowing coat'), riempiendo la casa di sottopelo. In quei periodi, richiede spazzolate quotidiane. <b>Soffre molto il caldo</b>.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono <b>estreme</b>. È un cane nato per correre per chilometri. Non è un cane da passeggiata; ha bisogno di <b>trainare</b> (sleddog, skijoring, bikejoring, canicross) o di correre per ore. È assolutamente inadatto alla vita sedentaria.</p><p>L'addestramento è difficile. È intelligente, ma non motivato a compiacere. Vede i comandi come 'suggerimenti facoltativi'. Richiede un proprietario paziente, coerente e che usi il rinforzo positivo. Il richiamo è <b>inaffidabile</b>: se libero, corre.</p>",
+      "ideale_per": "<p>È ideale per **persone molto attive e sportive** che praticano sport da traino (sleddog, canicross) e vivono in un clima fresco. È per chi cerca un compagno di avventura amichevole e ha un giardino a prova di fuga. È un cane da 'branco' e non ama stare solo.</p><p>È <b>assolutamente sconsigliato</b> a proprietari principianti, a persone sedentarie, a chi vive in climi caldi, e a chi cerca un cane da guardia o obbediente. È la prima causa di abbandono per 'incompatibilità gestionale' (fughe ed energia).</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Skye terrier",
+    "post_excerpt": "Lo Skye Terrier è un antico terrier scozzese, famoso per il suo corpo lungo e basso e il suo mantello lungo e fluente. Nato per la caccia, è un cane coraggioso e tenace, ma anche un \"cane da una sola persona\", leale ma molto riservato. È una razza rara a rischio di estinzione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "skye-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Skye terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Skye-terrier.jpg",
+      "filename": "Skye-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia, Isola di Skye)",
+      "colorazioni": "Nero, Grigio (scuro o chiaro), Fulvo, Crema. (Tutti con orecchie e muso neri).",
+      "temperamento_breve": "Leale (un solo padrone), Coraggioso, Testardo, Riservato",
+      "descrizione_generale": "<p>Lo Skye Terrier è una delle razze di terrier più antiche e un tempo più famose della Scozia, originaria dell'Isola di Skye. È un cane da caccia (terrier) basso e lungo, progettato per stanare volpi e tassi dalle tane rocciose. È famoso per il suo lungo mantello doppio, che cade dritto e gli copre gli occhi, e le sue grandi orecchie (erette o pendenti).</p><p>È un cane dal carattere 'antico': incredibilmente leale e devoto al suo proprietario, ma <b>estremamente diffidente</b> e riservato con gli estranei. È coraggioso, tenace e molto testardo. È una delle razze britanniche più a rischio di estinzione.</p>",
+      "origini_storia": "<p>Le origini dello Skye Terrier risalgono ad almeno 400 anni fa sull'isola di Skye. Era il cane da lavoro dei fittavoli, usato per la caccia alla selvaggina nociva. La sua struttura lunga e bassa e il mantello resistente erano perfetti per il terreno impervio e il clima rigido.</p><p>La razza divenne incredibilmente famosa nell'epoca vittoriana grazie alla Regina Vittoria, che li adorava. La fama mondiale arrivò con la storia di <b>Greyfriars Bobby</b>, uno Skye Terrier di Edimburgo che, secondo la leggenda, vegliò sulla tomba del suo padrone per 14 anni (fino alla sua morte nel 1872). Questa popolarità, tuttavia, portò a una selezione estetica che ne compromise la funzionalità, e oggi è una razza rarissima.</p>",
+      "aspetto_fisico": "<p>È un cane lungo, basso e robusto. È lungo il doppio della sua altezza. L'altezza al garrese è 25-26 cm. Il peso si aggira sui 10-12 kg. Ha una testa lunga e potente, nascosta dal pelo.</p><p>Esiste in due varietà di orecchie: <b>erette</b> (le più comuni oggi) o <b>pendenti</b> (drop-eared). Il mantello è doppio: un sottopelo corto e soffice, e un pelo di copertura lungo (circa 14 cm), dritto e duro, che cade su entrambi i lati del corpo. I colori sono il nero, il grigio scuro o chiaro, il fulvo e il crema, sempre con muso e orecchie nere (maschera).</p>",
+      "carattere_temperamento": "<p>Lo Skye è un cane da 'una sola persona' o 'una sola famiglia'. È di una lealtà leggendaria, ma non è un cane espansivo. È un terrier coraggioso, tenace e molto testardo. Non è un cane da obbedienza cieca; valuta il proprietario e obbedisce per rispetto, non per servilismo.</p><p>È <b>molto diffidente e riservato con gli estranei</b>. Non è aggressivo, ma non apprezza la confidenza da parte di chi non conosce. Richiede una socializzazione precoce e costante per non diventare timoroso. Ha un forte istinto predatorio e può essere rissoso con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. Essendo una razza rara, ha problemi legati al pool genetico ristretto. La sua struttura acondroplasica (lungo e basso) lo espone a:</p><ul><li><b>Problemi spinali (IVDD - ernie del disco):</b> È fondamentale evitare salti e sovrappeso.</li><li><b>Epatite cronica (Skye Terrier Hepatitis):</b> Una malattia del fegato.</li><li><b>Malattia di Legg-Perthes.</b></li></ul><p>Il mantello lungo richiede spazzolate regolari (più volte a settimana) per evitare nodi. Non va tosato, ma tenuto naturale.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta bene alla vita in appartamento, ma ha bisogno di passeggiate quotidiane e di stimoli. Non è un cane da jogging (a causa delle zampe corte), ma è un camminatore resistente. Ama scavare.</p><p>L'addestramento è una sfida. È intelligente, ma incredibilmente testardo e sensibile. Richiede un proprietario esperto, paziente, che usi il rinforzo positivo e che non si scoraggi. I metodi duri lo faranno chiudere a riccio. La socializzazione è l'aspetto più importante.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di terrier, che cercano un cane da compagnia leale e 'da una sola persona', e che vivono in un ambiente tranquillo. È per chi apprezza una razza rara e storica ed è disposto a gestire la toelettatura e la socializzazione.</p><p>È <b>sconsigliato</b> ai proprietari principianti, a famiglie con bambini piccoli e rumorosi (non è paziente), e a chi cerca un cane socievole 'da parco'. Non è affidabile con piccoli animali domestici.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Sloughi",
+    "post_excerpt": "Lo Sloughi, o Levriero Arabo, è un antico cacciatore a vista originario del Nord Africa (Marocco). Elegante e velocissimo, è un cane primitivo, \"felino\" e molto riservato. È devoto alla famiglia ma estremamente diffidente con gli estranei. Richiede un proprietario esperto e un giardino sicuro.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "sloughi",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Sloughi"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Sloughi.jpg",
+      "filename": "Sloughi.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Marocco (Patrocinio: FCI)",
+      "colorazioni": "Sabbia, Sabbia con maschera nera, Sabbia tigrato.",
+      "temperamento_breve": "Indipendente, Riservato, Veloce, Leale, Sensibile",
+      "descrizione_generale": "<p>Lo Sloughi, noto anche come Levriero Arabo o Levriero Berbero, è un antico levriero (sighthound) originario del Nord Africa (Marocco, Algeria, Tunisia). È un cane primitivo, allevato per secoli dalle tribù beduine e berbere per la caccia a vista di selvaggina veloce come gazzelle, lepri e volpi del deserto.</p><p>È un cane dall'aspetto nobile, elegante e molto asciutto, con una pelle sottile e muscoli potenti. Ha un carattere 'felino': indipendente, dignitoso e molto pulito. È estremamente devoto alla sua famiglia, ma mantiene una profonda diffidenza e riservatezza verso gli estranei. Non è un cane per principianti.</p>",
+      "origini_storia": "<p>Lo Sloughi è una razza antichissima, che esiste in Nord Africa da migliaia di anni. Reperti archeologici egizi mostrano cani molto simili. È stato il cane nobile dei nomadi del deserto, che lo tenevano in grande considerazione, spesso all'interno delle loro tende, a differenza di altri cani considerati 'impuri'.</p><p>Lavorava spesso in coppia con il falco (che localizzava la preda dall'alto) o con il cane dell'Atlas (Aidi), che la stanava. La razza è stata introdotta in Europa (principalmente in Francia) alla fine del XIX secolo. La FCI ne riconosce il patrocinio al Marocco.</p>",
+      "aspetto_fisico": "<p>È un levriero di taglia grande, slanciato e potente. L'altezza al garrese per i maschi è 66-72 cm, per le femmine 61-68 cm. Il peso è 22-28 kg (maschi) e 18-23 kg (femmine). È un cane costruito per la velocità e la resistenza al caldo, con una struttura molto asciutta.</p><p>Il mantello è cortissimo, fine e liscio come la seta. I colori ammessi sono tutte le sfumature del <b>sabbia</b> (dal crema chiaro al rosso), con o senza maschera nera. È ammesso anche il <b>tigrato (brindle)</b>. Piccole macchie bianche sul petto sono tollerate.</p>",
+      "carattere_temperamento": "<p>Lo Sloughi è un cane primitivo e indipendente. È molto intelligente, ma usa la sua intelligenza per i propri scopi. È estremamente sensibile e non tollera la voce alta o i metodi duri. È molto pulito, simile a un gatto.</p><p>Con la sua famiglia è incredibilmente leale e affettuoso, ma in modo dignitoso e mai servile. È <b>estremamente riservato e diffidente con gli estranei</b>; non è un cane socievole e non ama essere toccato da chi non conosce. Ha un istinto predatorio altissimo e un forte istinto di guardia (abbaia per avvisare).</p>",
+      "salute_cura": "<p>È una razza molto sana e robusta, selezionata in un ambiente duro. L'aspettativa di vita è di 12-16 anni. La principale preoccupazione genetica è l'<b>Atrofia Progressiva della Retina (PRA)</b>, per cui esiste un test. Come tutti i levrieri, è <b>sensibile all'anestesia</b>.</p><p>Il mantello corto non richiede cure, ma la sua pelle sottile e l'assenza di grasso lo rendono <b>estremamente vulnerabile al freddo</b> e all'umidità. È un cane che deve vivere in casa e indossare un cappotto in inverno.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, che deve essere lo <b>sprint</b>. Ha bisogno di correre ad alta velocità ogni giorno, <b>esclusivamente in aree sicure e recintate</b>. Non può mai essere lasciato libero. È un atleta nato per il Lure Coursing.</p><p>L'addestramento è per soli esperti. È testardo e non motivato a compiacere. Il richiamo è totalmente inaffidabile. L'addestramento deve basarsi sul rispetto e sulla pazienza. La socializzazione precoce e costante è fondamentale per gestire la sua diffidenza, ma non la eliminerà mai.</p>",
+      "ideale_per": "<p>È un cane <b>esclusivamente per proprietari esperti</b> di levrieri primitivi, che vivono in un ambiente tranquillo e hanno un giardino molto grande e recintato in modo sicuro. È per chi apprezza un cane indipendente, 'felino' e leale.</p><p>È <b>sconsigliato</b> ai proprietari principianti, a chi vive in climi freddi, a chi ha piccoli animali domestici e a chi cerca un cane 'da parco' socievole. È un cane che richiede una gestione molto attenta.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 5.0,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Slovensky cuvac",
+    "post_excerpt": "Lo Slovenský Čuvač è un cane da guardia del bestiame (LGD) originario dei monti Tatra, in Slovacchia. Imponente e dal mantello bianco, è un guardiano coraggioso e indipendente. Devoto alla famiglia, è molto diffidente con gli estranei. Richiede spazio, socializzazione e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "slovensky-cuvac",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Slovensky cuvac"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Slovensky-cuvac.jpg",
+      "filename": "Slovensky-cuvac.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Slovacchia (Monti Tatra)",
+      "colorazioni": "Bianco puro.",
+      "temperamento_breve": "Protettivo, Coraggioso, Indipendente, Leale, Diffidente",
+      "descrizione_generale": "<p>Lo Slovenský Čuvač (pronunciato 'Slovensky Chuvach') è un grande cane da guardia del bestiame (LGD) di origine slovacca. È uno dei cani da montagna bianchi dell'Europa orientale, strettamente imparentato con il Kuvasz ungherese e il Pastore dei Tatra polacco. Il suo compito è proteggere le greggi e le proprietà dai predatori (lupi, orsi).</p><p>È un cane imponente, potente e dal folto mantello bianco. È un guardiano istintivo: calmo, coraggioso e molto protettivo. È devoto alla sua famiglia, ma estremamente diffidente verso gli estranei. È una razza da lavoro che richiede un proprietario esperto e un ambiente rurale.</p>",
+      "origini_storia": "<p>Le origini dello Čuvač sono le stesse di tutti i grandi cani da pastore bianchi dei Carpazi e dei Tatra, discendenti dai molossi asiatici. Si è sviluppato in isolamento nelle regioni montuose della Slovacchia, dove era il cane indispensabile dei pastori. Il suo nome deriva dalla parola slovacca 'čúvať', che significa 'ascoltare' o 'stare all'erta'.</p><p>Come molte razze da lavoro, rischiò l'estinzione dopo la Seconda Guerra Mondiale. La razza fu salvata negli anni '50 dal Dr. Antonín Hrůza, della scuola veterinaria di Brno (allora Cecoslovacchia), che ne organizzò il recupero e la selezione. La FCI ha riconosciuto la razza nel 1965.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, forte e massiccio. L'altezza al garrese per i maschi è 62-70 cm, per le femmine 59-65 cm. Il peso varia dai 36 ai 44 kg per i maschi e dai 31 ai 37 kg per le femmine. Ha un'ossatura potente e una testa forte.</p><p>Il mantello è doppio, folto e denso. Il pelo di copertura è lungo (fino a 10 cm), dritto o leggermente ondulato, e forma una criniera sul collo. Il sottopelo è fitto. Il colore è esclusivamente **bianco puro**. Una leggera sfumatura giallastra sulle orecchie è ammessa ma non desiderata.</p>",
+      "carattere_temperamento": "<p>È un LGD classico. È calmo, sicuro di sé, coraggioso e molto vigile (specialmente di notte). È un guardiano nato, profondamente protettivo nei confronti della sua famiglia (specialmente i bambini) e del suo territorio. Non è un cane da attacco, ma un difensore.</p><p>È <b>molto diffidente e riservato con gli estranei</b> e non accetta facilmente la loro presenza. È un cane indipendente, non un cane da obbedienza cieca. Può essere dominante con altri cani. Richiede una socializzazione precoce e costante per essere gestibile.</p>",
+      "salute_cura": "<p>È una razza rustica e generalmente sana, con un'aspettativa di vita di 11-13 anni. Come tutti i cani di taglia grande, è soggetto a <b>displasia dell'anca e del gomito</b> e a <b>torsione gastrica (Bloat)</b>. </p><p>Il mantello bianco e folto, pur essendo abbastanza autopulente, richiede spazzolate regolari (più volte a settimana) per evitare nodi. Le mute stagionali sono **molto abbondanti** e richiedono cure quotidiane. Soffre il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. È un cane da pattugliamento, non da corsa. Ha un <b>bisogno assoluto di spazio</b>: un grande giardino o una proprietà recintata sono indispensabili. È totalmente inadatto alla vita in appartamento.</p><p>L'addestramento è una sfida. È intelligente, ma testardo e indipendente, selezionato per prendere decisioni da solo. L'addestramento deve focalizzarsi sulla socializzazione e sulla gestione della sua diffidenza. Richiede un proprietario calmo, autorevole e molto paziente.</p>",
+      "ideale_per": "<p>È un cane <b>esclusivamente per proprietari esperti</b> di cani da guardia del bestiame (LGD) che vivono in un contesto rurale, con una grande proprietà da proteggere. È un buon cane da famiglia per chi capisce la sua natura di guardiano indipendente.</p><p>È <b>sconsigliato</b> ai proprietari principianti, a chi vive in città o in appartamento, e a chi cerca un cane socievole con tutti. La sua diffidenza e il suo bisogno di spazio sono impegni seri. Perde molto pelo.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 2.5
+    }
+  }
+]
