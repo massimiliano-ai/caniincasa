@@ -408,6 +408,39 @@ Progetto privato - Per modifiche contattare il team.
 - **Developer**: Claude (Anthropic AI)
 - **Project Manager**: Max - Creattivo Communication
 
+## 🐕 Importazione Razze di Esempio
+
+Il progetto include file di esempio per importare 3 razze complete con tutti i campi ACF del sistema di valutazione con zampette.
+
+### File Disponibili
+
+📄 **sample-breeds-import.csv** - Formato CSV per WP All Import
+📄 **sample-breeds-import.json** - Formato JSON per importazione programmatica
+📄 **import-sample-breeds.php** - Script PHP automatico pronto all'uso
+📄 **SAMPLE_BREEDS_GUIDE.md** - Guida completa all'importazione
+
+### Razze Incluse
+
+1. **Labrador Retriever** - Cane da famiglia attivo e affettuoso
+2. **Chihuahua** - Cane da compagnia per appartamento
+3. **Pastore Tedesco** - Cane da lavoro intelligente e protettivo
+
+Ogni razza include:
+- ✅ Contenuto completo in HTML (origini, aspetto, carattere, salute, addestramento)
+- ✅ Tutti i 18 campi ACF con valutazioni realistiche (1-5)
+- ✅ Estratto ottimizzato per SEO
+- ✅ Slug pre-configurati
+
+### Metodi di Importazione
+
+1. **WP All Import** - Usa il file CSV (raccomandato per bulk import)
+2. **Script PHP** - Carica `import-sample-breeds.php` nella root e visita l'URL
+3. **Importazione Manuale** - Copia i dati dal JSON
+
+👉 Per istruzioni dettagliate: [SAMPLE_BREEDS_GUIDE.md](SAMPLE_BREEDS_GUIDE.md)
+
+---
+
 ## 📄 License
 
 **Proprietario** - Tutti i diritti riservati
