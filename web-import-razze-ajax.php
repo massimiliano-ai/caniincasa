@@ -1,7 +1,7 @@
 <?php
 /**
- * AJAX Handler per Importazione Web
- * Questo file gestisce l'importazione vera e propria con streaming del progresso
+ * AJAX Handler per Importazione Web - VERSIONE MIGLIORATA
+ * Cerca i JSON in più posizioni possibili
  */
 
 // Carica WordPress
@@ -152,17 +152,74 @@ $start_time = microtime(true);
 
 send_message('info', ['message' => '🔍 Ricerca file JSON...']);
 
-// Trova file JSON
-$json_dir = __DIR__ . '/complete corrette';
-if (!is_dir($json_dir)) {
-    send_message('error', ['message' => 'Cartella "complete corrette" non trovata!']);
-    exit;
+// CERCA LA CARTELLA JSON IN PIÙ POSIZIONI
+$possible_dirs = [
+    __DIR__ . '/complete corrette',           // Stessa directory (con spazio)
+    __DIR__ . '/complete-corrette',           // Stessa directory (con trattino)
+    __DIR__ . '/razze-json',                  // Nome alternativo
+    __DIR__ . '/json',                        // Nome semplice
+    ABSPATH . 'complete corrette',            // Root WordPress (con spazio)
+    ABSPATH . 'complete-corrette',            // Root WordPress (con trattino)
+    ABSPATH . 'razze-json',                   // Root WordPress alternativo
+    ABSPATH . 'json',                         // Root WordPress semplice
+];
+
+$json_dir = null;
+$json_files = [];
+
+foreach ($possible_dirs as $dir) {
+    send_message('info', ['message' => "Cerco in: $dir"]);
+
+    if (is_dir($dir)) {
+        $files = glob($dir . '/*.json');
+        if (!empty($files)) {
+            $json_dir = $dir;
+            $json_files = $files;
+            send_message('info', ['message' => "✓ Trovata cartella: $dir"]);
+            break;
+        }
+    }
 }
 
-$json_files = glob($json_dir . '/*.json');
+// Se ancora non trovati, prova ricerca ricorsiva
+if (empty($json_files)) {
+    send_message('info', ['message' => '🔎 Ricerca ricorsiva in corso...']);
+
+    // Cerca ricorsivamente dalla root di WordPress
+    $iterator = new RecursiveIteratorIterator(
+        new RecursiveDirectoryIterator(ABSPATH, RecursiveDirectoryIterator::SKIP_DOTS),
+        RecursiveIteratorIterator::SELF_FIRST
+    );
+
+    foreach ($iterator as $file) {
+        if ($file->isFile() && $file->getExtension() === 'json') {
+            $filepath = $file->getPathname();
+            // Controlla se il nome file inizia con 'b' e finisce con '.json'
+            if (preg_match('/b\d+\.json$/', basename($filepath))) {
+                $json_files[] = $filepath;
+                if (!$json_dir) {
+                    $json_dir = dirname($filepath);
+                    send_message('info', ['message' => "✓ File JSON trovati in: $json_dir"]);
+                }
+            }
+        }
+
+        // Limita ricerca per non impiegare troppo tempo
+        if (count($json_files) >= 32) {
+            break;
+        }
+    }
+}
 
 if (empty($json_files)) {
-    send_message('error', ['message' => 'Nessun file JSON trovato!']);
+    send_message('error', ['message' => '❌ ERRORE: Nessun file JSON trovato!']);
+    send_message('error', ['message' => 'Posizioni cercate:']);
+    foreach ($possible_dirs as $dir) {
+        send_message('error', ['message' => "  - $dir"]);
+    }
+    send_message('error', ['message' => '']);
+    send_message('error', ['message' => 'SOLUZIONE: Carica la cartella "complete corrette" nella root di WordPress']);
+    send_message('error', ['message' => 'Oppure rinominala in "razze-json" (senza spazi)']);
     exit;
 }
 
