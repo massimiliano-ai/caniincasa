@@ -1,0 +1,98 @@
+[
+  {
+    "post_title": "Labrador Retriever",
+    "post_content": "<h2>Origini e Storia</h2>\n<p>Il Labrador Retriever ha origini canadesi, precisamente dall'isola di Terranova. Originariamente chiamato \"St. John's dog\", questa razza veniva utilizzata dai pescatori per recuperare le reti e i pesci che sfuggivano dalle lenze. Nel 1800, alcuni esemplari furono portati in Inghilterra dove la razza fu perfezionata e standardizzata.</p>\n\n<h2>Aspetto Fisico</h2>\n<p>Il Labrador è un cane di taglia medio-grande con una costituzione robusta e atletica. Il peso varia tra i 25-36 kg, con un'altezza al garrese di 54-57 cm. Il mantello è corto, denso e impermeabile, disponibile in tre colorazioni riconosciute: nero, giallo (dal crema chiaro al rosso volpe) e chocolate (marrone).</p>\n\n<h2>Carattere e Temperamento</h2>\n<p>Rinomato per il suo carattere equilibrato e dolce, il Labrador è considerato uno dei cani più amichevoli al mondo. È estremamente affettuoso con la famiglia, paziente con i bambini e socievole con altri animali. La sua natura giocosa rimane anche in età adulta, rendendolo un compagno perfetto per famiglie attive.</p>\n\n<h2>Salute e Cura</h2>\n<p>Il Labrador è generalmente una razza sana, ma può essere soggetto a displasia dell'anca e del gomito. È importante controllare il peso poiché tende all'obesità. La toelettatura è semplice: una spazzolata settimanale è sufficiente, anche se durante la muta (due volte l'anno) potrebbe essere necessaria maggiore attenzione.</p>\n\n<h2>Attività e Addestramento</h2>\n<p>Questa razza richiede almeno 1-2 ore di esercizio quotidiano. Eccelle in attività come nuoto, riporto e agility. L'addestramento è generalmente facile grazie alla sua intelligenza e al desiderio di compiacere. È importante iniziare la socializzazione presto per sviluppare un cane equilibrato.</p>\n\n<h2>Ideale Per</h2>\n<p>Il Labrador è perfetto per famiglie attive, persone che amano le attività all'aperto, e come cane da terapia o assistenza. Non è adatto a chi ha poco tempo per l'esercizio fisico o vive in appartamenti molto piccoli senza accesso a spazi esterni.</p>",
+    "post_excerpt": "Il Labrador Retriever è un cane da famiglia per eccellenza: affettuoso, intelligente e giocoso. Ideale per famiglie attive, eccelle come cane da compagnia e da lavoro. Richiede molto esercizio quotidiano.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "acf": {
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 5,
+      "tolleranza_estranei": 5,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 5,
+      "intelligenza": 5,
+      "esigenze_di_esercizio": 5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3,
+      "predisposizioni_per_la_salute": 4,
+      "livello_esperienza_richiesto": 1.5,
+      "costo_mantenimento": 3,
+      "istinti_di_caccia": 2
+    },
+    "meta": {
+      "slug": "labrador-retriever"
+    }
+  },
+  {
+    "post_title": "Chihuahua",
+    "post_content": "<h2>Origini e Storia</h2>\n<p>Il Chihuahua è la razza canina più piccola del mondo e prende il nome dallo stato messicano omonimo. Le sue origini risalgono all'antica civiltà Tolteca, dove veniva considerato un animale sacro. Si ritiene che discenda dal Techichi, un piccolo cane muto tenuto dai Toltechi.</p>\n\n<h2>Aspetto Fisico</h2>\n<p>Il Chihuahua pesa tra 1,5 e 3 kg, con un'altezza che varia dai 15 ai 23 cm. Esistono due varietà: a pelo corto e a pelo lungo. La testa è caratteristica, a forma di mela, con occhi grandi e rotondi. I colori del mantello sono estremamente vari, ammessi praticamente tutti.</p>\n\n<h2>Carattere e Temperamento</h2>\n<p>Nonostante le dimensioni minuscole, il Chihuahua ha un carattere deciso e coraggioso, spesso ignaro della propria taglia. È estremamente fedele al proprietario, con cui tende a creare un legame molto stretto. Può essere diffidente con gli estranei e protettivo nei confronti della sua famiglia. È vivace ma non necessita di eccessivo esercizio fisico.</p>\n\n<h2>Salute e Cura</h2>\n<p>Il Chihuahua è generalmente longevo (12-20 anni) ma delicato. Può soffrire di problemi dentali, lussazione della rotula e ipoglicemia. È sensibile al freddo e spesso necessita di vestiti nelle stagioni fredde. La toelettatura varia: minima per il pelo corto, più regolare per il pelo lungo.</p>\n\n<h2>Attività e Addestramento</h2>\n<p>Necessita di passeggiate brevi e frequenti. L'addestramento può essere sfidante a causa del suo carattere testardo. È importante socializzarlo fin da cucciolo per evitare che diventi troppo timoroso o aggressivo. Risponde bene al rinforzo positivo.</p>\n\n<h2>Ideale Per</h2>\n<p>Perfetto per chi vive in appartamento o ha spazi ridotti. Ideale come primo cane o per persone anziane. Non adatto a famiglie con bambini molto piccoli che potrebbero ferirlo involontariamente. Ottimo per chi cerca un compagno costante che occupa poco spazio.</p>",
+    "post_excerpt": "Il Chihuahua è la razza più piccola al mondo, ma con un grande carattere. Fedele e coraggioso, è perfetto per appartamenti e come cane da compagnia. Richiede poca attività fisica ma tanta attenzione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "acf": {
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4,
+      "socievolezza_cani": 2,
+      "adattabilita_appartamento": 5,
+      "adattabilita_clima_caldo": 3,
+      "adattabilita_clima_freddo": 2,
+      "tolleranza_alla_solitudine": 3,
+      "compatibilita_con_i_bambini": 3,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3,
+      "facilita_di_addestramento": 3,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 4,
+      "livello_esperienza_richiesto": 1,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 1
+    },
+    "meta": {
+      "slug": "chihuahua"
+    }
+  },
+  {
+    "post_title": "Pastore Tedesco",
+    "post_content": "<h2>Origini e Storia</h2>\n<p>Il Pastore Tedesco (German Shepherd) fu sviluppato in Germania alla fine del 1800 dal capitano Max von Stephanitz, con l'obiettivo di creare il cane da pastore perfetto. Rapidamente la razza divenne famosa per la sua versatilità, diventando il cane da lavoro più utilizzato al mondo in ambiti come polizia, militare, ricerca e soccorso.</p>\n\n<h2>Aspetto Fisico</h2>\n<p>È un cane di taglia grande, muscoloso e agile. Il peso varia tra 30-40 kg (femmine) e 35-43 kg (maschi), con un'altezza di 55-60 cm per le femmine e 60-65 cm per i maschi. Il mantello è doppio, di media lunghezza, solitamente nero focato, ma esistono varianti di colore come il nero solido o il grigio.</p>\n\n<h2>Carattere e Temperamento</h2>\n<p>Intelligente, leale e protettivo, il Pastore Tedesco è un cane con forte attitudine al lavoro. Ha un naturale istinto di protezione verso la famiglia ed è estremamente fedele. È coraggioso ma equilibrato, diffidente con gli estranei ma non aggressivo senza motivo. Richiede un proprietario che possa fornire leadership ferma ma gentile.</p>\n\n<h2>Salute e Cura</h2>\n<p>Può essere soggetto a displasia dell'anca e del gomito, mielopatia degenerativa e problemi digestivi (torsione gastrica). La toelettatura richiede spazzolature regolari, specialmente durante i periodi di muta quando perde molto pelo. Ha un'aspettativa di vita di 9-13 anni.</p>\n\n<h2>Attività e Addestramento</h2>\n<p>Richiede almeno 2 ore di esercizio quotidiano, preferibilmente con attività mentali oltre che fisiche. Eccelle in obbedienza, agility, tracking e protezione. È altamente addestrabile grazie alla sua intelligenza e desiderio di lavorare. Necessita di socializzazione precoce e continua.</p>\n\n<h2>Ideale Per</h2>\n<p>Adatto a proprietari esperti o attivi che possono dedicare tempo all'addestramento e all'esercizio. Eccellente come cane da guardia, da lavoro o sportivo. Non ideale per proprietari alle prime armi o sedentari. Richiede spazio e stimolazione mentale costante.</p>",
+    "post_excerpt": "Il Pastore Tedesco è un cane versatile, intelligente e protettivo. Eccellente cane da lavoro e da famiglia per proprietari esperti. Richiede addestramento consistente e molto esercizio fisico e mentale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "acf": {
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2,
+      "compatibilita_con_i_bambini": 4,
+      "tolleranza_estranei": 3,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 5,
+      "intelligenza": 5,
+      "esigenze_di_esercizio": 5,
+      "facilita_toelettatura": 3,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4
+    },
+    "meta": {
+      "slug": "pastore-tedesco"
+    }
+  }
+]
