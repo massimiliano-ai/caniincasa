@@ -48,8 +48,11 @@ get_header();
 
                         <!-- Backward compatibility: Old characteristics (if new fields not filled) -->
                         <?php
-                        // Check if new fields exist
-                        $has_new_fields = function_exists( 'get_field' ) && get_field( 'livello_energia' );
+                        // Check if ANY characteristic field exists (old or new)
+                        $has_new_fields = function_exists( 'get_field' ) && (
+                            get_field( 'energia_e_livelli_di_attivita' ) || // Campo esistente
+                            get_field( 'affettuosita' ) // Campo nuovo
+                        );
 
                         if ( ! $has_new_fields ) {
                             // Show old characteristics format

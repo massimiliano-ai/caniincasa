@@ -22,36 +22,36 @@ if ( ! function_exists( 'acf_add_local_field_group' ) ) {
 }
 
 /**
- * Razze di Cani - Caratteristiche con Rating 1-5
- * Sistema di valutazione visuale con zampette
+ * Razze di Cani - Caratteristiche Aggiuntive (Integrazione con campi esistenti)
+ * Aggiunge solo i campi mancanti, usa quelli già presenti dove possibile
+ *
+ * Campi esistenti riutilizzati:
+ * - energia_e_livelli_di_attivita (32)
+ * - vocalita_e_predisposizione_ad_abbaiare (30)
+ * - cura_e_perdita_pelo_ (31)
+ * - facilita_di_addestramento (29)
+ * - compatibilita_con_i_bambini (33)
+ * - compatibilita_con_altri_animali_domestici (34)
+ * - esigenze_di_esercizio (35)
+ * - tolleranza_alla_solitudine (37)
+ * - adattabilita_clima_freddo (38)
+ * - adattabilita_clima_caldo (39)
+ * - istinti_di_caccia (40)
  */
 acf_add_local_field_group( array(
-    'key' => 'group_razze_caratteristiche_rating',
-    'title' => 'Caratteristiche Razza - Sistema Rating',
+    'key' => 'group_razze_caratteristiche_aggiuntive',
+    'title' => 'Caratteristiche Razza - Campi Aggiuntivi',
     'fields' => array(
 
         // ========================================
-        // TAB 1: Temperamento & Comportamento
+        // TAB 1: Caratteristiche Aggiuntive
         // ========================================
         array(
-            'key' => 'field_tab_temperamento',
-            'label' => 'Temperamento',
+            'key' => 'field_tab_aggiuntive',
+            'label' => 'Caratteristiche Aggiuntive',
             'name' => '',
             'type' => 'tab',
             'placement' => 'left',
-        ),
-
-        array(
-            'key' => 'field_livello_energia',
-            'label' => 'Livello Energia',
-            'name' => 'livello_energia',
-            'type' => 'range',
-            'instructions' => '1 = Molto basso (es. Bulldog) | 5 = Molto alto (es. Border Collie)',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
         ),
 
         array(
@@ -60,19 +60,6 @@ acf_add_local_field_group( array(
             'name' => 'affettuosita',
             'type' => 'range',
             'instructions' => '1 = Indipendente | 5 = Molto affettuoso (es. Golden Retriever)',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        array(
-            'key' => 'field_vocalita',
-            'label' => 'Vocalità / Tendenza ad Abbaiare',
-            'name' => 'vocalita',
-            'type' => 'range',
-            'instructions' => '1 = Molto silenzioso (es. Basenji) | 5 = Abbaia molto (es. Beagle)',
             'default_value' => 3,
             'min' => 1,
             'max' => 5,
@@ -93,73 +80,12 @@ acf_add_local_field_group( array(
             'append' => '/5',
         ),
 
-        // ========================================
-        // TAB 2: Adattabilità
-        // ========================================
-        array(
-            'key' => 'field_tab_adattabilita',
-            'label' => 'Adattabilità',
-            'name' => '',
-            'type' => 'tab',
-            'placement' => 'left',
-        ),
-
         array(
             'key' => 'field_adattabilita_appartamento',
             'label' => 'Adattabilità Appartamento',
             'name' => 'adattabilita_appartamento',
             'type' => 'range',
             'instructions' => '1 = Necessita spazio esterno | 5 = Perfetto per appartamento',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        array(
-            'key' => 'field_tolleranza_caldo',
-            'label' => 'Tolleranza al Caldo',
-            'name' => 'tolleranza_caldo',
-            'type' => 'range',
-            'instructions' => '1 = Soffre molto il caldo (es. Husky) | 5 = Tollera bene',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        array(
-            'key' => 'field_tolleranza_freddo',
-            'label' => 'Tolleranza al Freddo',
-            'name' => 'tolleranza_freddo',
-            'type' => 'range',
-            'instructions' => '1 = Soffre il freddo (es. Chihuahua) | 5 = Ama il freddo (es. Malamute)',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        // ========================================
-        // TAB 3: Famiglia & Socialità
-        // ========================================
-        array(
-            'key' => 'field_tab_famiglia',
-            'label' => 'Famiglia & Socialità',
-            'name' => '',
-            'type' => 'tab',
-            'placement' => 'left',
-        ),
-
-        array(
-            'key' => 'field_compatibilita_bambini',
-            'label' => 'Compatibilità con Bambini',
-            'name' => 'compatibilita_bambini',
-            'type' => 'range',
-            'instructions' => '1 = Non adatto | 5 = Eccellente con bambini (es. Labrador)',
             'default_value' => 3,
             'min' => 1,
             'max' => 5,
@@ -181,61 +107,11 @@ acf_add_local_field_group( array(
         ),
 
         array(
-            'key' => 'field_compatibilita_altri_animali',
-            'label' => 'Compatibilità Altri Animali',
-            'name' => 'compatibilita_altri_animali',
-            'type' => 'range',
-            'instructions' => '1 = Difficile con gatti/piccoli animali | 5 = Va d\'accordo con tutti',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        // ========================================
-        // TAB 4: Addestramento & Cura
-        // ========================================
-        array(
-            'key' => 'field_tab_addestramento',
-            'label' => 'Addestramento & Cura',
-            'name' => '',
-            'type' => 'tab',
-            'placement' => 'left',
-        ),
-
-        array(
-            'key' => 'field_facilita_addestramento',
-            'label' => 'Facilità Addestramento',
-            'name' => 'facilita_addestramento',
-            'type' => 'range',
-            'instructions' => '1 = Testardo/difficile | 5 = Facile da addestrare (es. Border Collie)',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        array(
             'key' => 'field_intelligenza',
             'label' => 'Intelligenza / Problem Solving',
             'name' => 'intelligenza',
             'type' => 'range',
             'instructions' => '1 = Segue più l\'istinto | 5 = Molto intelligente',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        array(
-            'key' => 'field_bisogno_esercizio',
-            'label' => 'Bisogno di Esercizio Fisico',
-            'name' => 'bisogno_esercizio',
-            'type' => 'range',
-            'instructions' => '1 = Poche passeggiate brevi | 5 = Necessita sport intenso quotidiano',
             'default_value' => 3,
             'min' => 1,
             'max' => 5,
@@ -254,30 +130,6 @@ acf_add_local_field_group( array(
             'max' => 5,
             'step' => 0.5,
             'append' => '/5',
-        ),
-
-        array(
-            'key' => 'field_perdita_pelo',
-            'label' => 'Perdita Pelo',
-            'name' => 'perdita_pelo',
-            'type' => 'range',
-            'instructions' => '1 = Minima (es. Barboncino) | 5 = Perde molto pelo (es. Husky)',
-            'default_value' => 3,
-            'min' => 1,
-            'max' => 5,
-            'step' => 0.5,
-            'append' => '/5',
-        ),
-
-        // ========================================
-        // TAB 5: Esperienza & Costi
-        // ========================================
-        array(
-            'key' => 'field_tab_esperienza',
-            'label' => 'Esperienza & Costi',
-            'name' => '',
-            'type' => 'tab',
-            'placement' => 'left',
         ),
 
         array(
@@ -315,7 +167,7 @@ acf_add_local_field_group( array(
             ),
         ),
     ),
-    'menu_order' => 0,
+    'menu_order' => 10,
     'position' => 'normal',
     'style' => 'default',
     'label_placement' => 'left',

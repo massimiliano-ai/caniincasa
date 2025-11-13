@@ -521,52 +521,56 @@ function caniincasa_get_breed_characteristics( $post_id = null ) {
     }
 
     // Define characteristic groups
+    // Usa campi esistenti dove possibile, poi i nuovi
     $characteristics = array(
         'temperamento' => array(
             'title' => __( 'Temperamento & Comportamento', 'caniincasa' ),
             'icon' => '💪',
             'fields' => array(
-                'livello_energia' => __( 'Livello Energia', 'caniincasa' ),
-                'affettuosita' => __( 'Affettuosità', 'caniincasa' ),
-                'vocalita' => __( 'Vocalità / Abbaiare', 'caniincasa' ),
-                'socievolezza_cani' => __( 'Socievolezza con Altri Cani', 'caniincasa' ),
+                'energia_e_livelli_di_attivita' => __( 'Livello Energia', 'caniincasa' ), // Campo esistente
+                'affettuosita' => __( 'Affettuosità', 'caniincasa' ), // Campo nuovo
+                'vocalita_e_predisposizione_ad_abbaiare' => __( 'Vocalità / Abbaiare', 'caniincasa' ), // Campo esistente
+                'socievolezza_cani' => __( 'Socievolezza con Altri Cani', 'caniincasa' ), // Campo nuovo
             ),
         ),
         'adattabilita' => array(
             'title' => __( 'Adattabilità', 'caniincasa' ),
             'icon' => '🏡',
             'fields' => array(
-                'adattabilita_appartamento' => __( 'Adattabilità Appartamento', 'caniincasa' ),
-                'tolleranza_caldo' => __( 'Tolleranza al Caldo', 'caniincasa' ),
-                'tolleranza_freddo' => __( 'Tolleranza al Freddo', 'caniincasa' ),
+                'adattabilita_appartamento' => __( 'Adattabilità Appartamento', 'caniincasa' ), // Campo nuovo
+                'adattabilita_clima_caldo' => __( 'Tolleranza al Caldo', 'caniincasa' ), // Campo esistente
+                'adattabilita_clima_freddo' => __( 'Tolleranza al Freddo', 'caniincasa' ), // Campo esistente
+                'tolleranza_alla_solitudine' => __( 'Tolleranza Solitudine', 'caniincasa' ), // Campo esistente
             ),
         ),
         'famiglia' => array(
             'title' => __( 'Famiglia & Socialità', 'caniincasa' ),
             'icon' => '👨‍👩‍👧‍👦',
             'fields' => array(
-                'compatibilita_bambini' => __( 'Compatibilità con Bambini', 'caniincasa' ),
-                'tolleranza_estranei' => __( 'Tolleranza verso Estranei', 'caniincasa' ),
-                'compatibilita_altri_animali' => __( 'Compatibilità Altri Animali', 'caniincasa' ),
+                'compatibilita_con_i_bambini' => __( 'Compatibilità con Bambini', 'caniincasa' ), // Campo esistente
+                'tolleranza_estranei' => __( 'Tolleranza verso Estranei', 'caniincasa' ), // Campo nuovo
+                'compatibilita_con_altri_animali_domestici' => __( 'Compatibilità Altri Animali', 'caniincasa' ), // Campo esistente
             ),
         ),
         'addestramento' => array(
             'title' => __( 'Addestramento & Cura', 'caniincasa' ),
             'icon' => '🎓',
             'fields' => array(
-                'facilita_addestramento' => __( 'Facilità Addestramento', 'caniincasa' ),
-                'intelligenza' => __( 'Intelligenza', 'caniincasa' ),
-                'bisogno_esercizio' => __( 'Bisogno di Esercizio', 'caniincasa' ),
-                'facilita_toelettatura' => __( 'Facilità Toelettatura', 'caniincasa' ),
-                'perdita_pelo' => __( 'Perdita Pelo', 'caniincasa' ),
+                'facilita_di_addestramento' => __( 'Facilità Addestramento', 'caniincasa' ), // Campo esistente
+                'intelligenza' => __( 'Intelligenza', 'caniincasa' ), // Campo nuovo
+                'esigenze_di_esercizio' => __( 'Bisogno di Esercizio', 'caniincasa' ), // Campo esistente
+                'facilita_toelettatura' => __( 'Facilità Toelettatura', 'caniincasa' ), // Campo nuovo
+                'cura_e_perdita_pelo_' => __( 'Cura e Perdita Pelo', 'caniincasa' ), // Campo esistente
+                'predisposizioni_per_la_salute' => __( 'Predisposizioni Salute', 'caniincasa' ), // Campo esistente
             ),
         ),
         'esperienza' => array(
-            'title' => __( 'Esperienza & Costi', 'caniincasa' ),
+            'title' => __( 'Esperienza & Altri', 'caniincasa' ),
             'icon' => '💰',
             'fields' => array(
-                'livello_esperienza_richiesto' => __( 'Livello Esperienza Richiesto', 'caniincasa' ),
-                'costo_mantenimento' => __( 'Costo Mantenimento', 'caniincasa' ),
+                'livello_esperienza_richiesto' => __( 'Livello Esperienza Richiesto', 'caniincasa' ), // Campo nuovo
+                'costo_mantenimento' => __( 'Costo Mantenimento', 'caniincasa' ), // Campo nuovo
+                'istinti_di_caccia' => __( 'Istinti di Caccia', 'caniincasa' ), // Campo esistente
             ),
         ),
     );
