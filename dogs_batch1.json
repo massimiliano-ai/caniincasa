@@ -5,8 +5,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "airedale-terrier",
-    "taxonomies": {"razze_allevamenti": ["Airedale terrier"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/schede_razze_airedale_terrier.jpg", "filename": "schede_razze_airedale_terrier.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Airedale terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/schede_razze_airedale_terrier.jpg",
+      "filename": "schede_razze_airedale_terrier.jpg"
+    },
     "acf": {
       "nazione_origine": "Regno Unito",
       "colorazioni": "Sella e dorso neri o grizzle; tan fulvo altrove",
@@ -46,8 +53,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "akita-2",
-    "taxonomies": {"razze_allevamenti": [""]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Akita-Inu-bosco-696x464-1.jpg", "filename": "Akita-Inu-bosco-696x464-1.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Akita"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Akita-Inu-bosco-696x464-1.jpg",
+      "filename": "Akita-Inu-bosco-696x464-1.jpg"
+    },
     "acf": {
       "nazione_origine": "Giappone",
       "colorazioni": "Rosso fulvo, Sesamo, Tigrato, Bianco (tutte con urajiro)",
@@ -87,8 +101,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "akita-americano",
-    "taxonomies": {"razze_allevamenti": ["Akita americano"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/akita-americano.jpg", "filename": "akita-americano.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Akita americano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/akita-americano.jpg",
+      "filename": "akita-americano.jpg"
+    },
     "acf": {
       "nazione_origine": "Giappone / USA",
       "colorazioni": "Pinto, Bianco, Brindle, Rosso, Fulvo (mantello spesso con marcature chiare)",
@@ -128,8 +149,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "alano",
-    "taxonomies": {"razze_allevamenti": ["Alano"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/razza-cane-alano.jpg", "filename": "razza-cane-alano.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Alano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/razza-cane-alano.jpg",
+      "filename": "razza-cane-alano.jpg"
+    },
     "acf": {
       "nazione_origine": "Germania",
       "colorazioni": "Fulvo, Tigrato, Arlecchino (bianco con macchie nere), Merle, Nero, Blu",
@@ -169,8 +197,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "alaskan-malamute",
-    "taxonomies": {"razze_allevamenti": ["Alaskan malamute"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Alaskan-malamute.jpg", "filename": "Alaskan-malamute.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Alaskan malamute"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Alaskan-malamute.jpg",
+      "filename": "Alaskan-malamute.jpg"
+    },
     "acf": {
       "nazione_origine": "Stati Uniti",
       "colorazioni": "Grigio chiaro, Grigio, Nero, Sable, Rosso, Bianco (solo bianco solido)",
@@ -210,8 +245,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "alpenlaendische-dachsbracke",
-    "taxonomies": {"razze_allevamenti": ["Alpenlaendische dachsbracke"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Alpenlaendische-dachsbracke.jpg", "filename": "Alpenlaendische-dachsbracke.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Alpenlaendische dachsbracke"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Alpenlaendische-dachsbracke.jpg",
+      "filename": "Alpenlaendische-dachsbracke.jpg"
+    },
     "acf": {
       "nazione_origine": "Austria",
       "colorazioni": "Rosso cervo con peli neri, Nero con macchie rosso-marrone, Stella bianca sul petto ammessa",
@@ -251,8 +293,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "american-water-spaniel",
-    "taxonomies": {"razze_allevamenti": ["American water spaniel"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/American-water-spaniel.jpg", "filename": "American-water-spaniel.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "American water spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/American-water-spaniel.jpg",
+      "filename": "American-water-spaniel.jpg"
+    },
     "acf": {
       "nazione_origine": "Stati Uniti",
       "colorazioni": "Marrone solido, Fegato, Cioccolato (piccolo bianco su petto e dita)",
@@ -292,8 +341,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "amstaff-american-staffordshire-terrier",
-    "taxonomies": {"razze_allevamenti": ["Amstaff – american staffordshire terrier"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Amstaff.jpg", "filename": "Amstaff.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Amstaff – american staffordshire terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Amstaff.jpg",
+      "filename": "Amstaff.jpg"
+    },
     "acf": {
       "nazione_origine": "Stati Uniti",
       "colorazioni": "Qualsiasi colore solido, pezzato o con patch; più di 80% bianco, nero e tan, e fegato sconsigliati",
@@ -333,8 +389,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "anglo-francais-de-petite-venerie",
-    "taxonomies": {"razze_allevamenti": ["Anglo francais de petite venerie"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Anglo-francais-de-petite-venerie.jpg", "filename": "Anglo-francais-de-petite-venerie.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Anglo francais de petite venerie"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Anglo-francais-de-petite-venerie.jpg",
+      "filename": "Anglo-francais-de-petite-venerie.jpg"
+    },
     "acf": {
       "nazione_origine": "Francia",
       "colorazioni": "Tricolore bianco/nero/fuoco, Bianco/nero con fuoco pallido, Bianco/arancio",
@@ -374,8 +437,15 @@
     "post_type": "razze_di_cani",
     "post_status": "publish",
     "slug": "ariegeois",
-    "taxonomies": {"razze_allevamenti": ["Ariegeois"]},
-    "featured_image": {"url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Ariegeois.jpg", "filename": "Ariegeois.jpg"},
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Ariegeois"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Ariegeois.jpg",
+      "filename": "Ariegeois.jpg"
+    },
     "acf": {
       "nazione_origine": "Francia",
       "colorazioni": "Bianco con macchie nere e tan (tricolore)",
