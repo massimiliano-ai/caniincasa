@@ -176,6 +176,253 @@ acf_add_local_field_group( array(
 ) );
 
 /**
+ * Razze di Cani - Informazioni Sidebar
+ * Campi visualizzati nel box laterale della singola razza
+ */
+acf_add_local_field_group( array(
+    'key' => 'group_razze_info_sidebar',
+    'title' => 'Informazioni Razza (Sidebar)',
+    'fields' => array(
+
+        array(
+            'key' => 'field_nazione_origine',
+            'label' => 'Nazione di Origine',
+            'name' => 'nazione_origine',
+            'type' => 'text',
+            'instructions' => 'Es: Italia, Germania, Francia, Stati Uniti, ecc.',
+            'required' => 0,
+            'placeholder' => 'Es: Italia',
+        ),
+
+        array(
+            'key' => 'field_colorazioni',
+            'label' => 'Colorazioni',
+            'name' => 'colorazioni',
+            'type' => 'textarea',
+            'instructions' => 'Elenca le colorazioni ammesse per questa razza (una per riga o separate da virgole)',
+            'required' => 0,
+            'rows' => 3,
+            'placeholder' => 'Es: Nero, Marrone, Bianco, Fulvo',
+        ),
+
+        array(
+            'key' => 'field_temperamento_breve',
+            'label' => 'Temperamento (breve)',
+            'name' => 'temperamento_breve',
+            'type' => 'text',
+            'instructions' => 'Descrizione breve del temperamento (3-5 parole)',
+            'required' => 0,
+            'maxlength' => 100,
+            'placeholder' => 'Es: Affettuoso, Energico, Protettivo',
+        ),
+
+    ),
+    'location' => array(
+        array(
+            array(
+                'param' => 'post_type',
+                'operator' => '==',
+                'value' => 'razze_di_cani',
+            ),
+        ),
+    ),
+    'menu_order' => 5,
+    'position' => 'side',
+    'style' => 'default',
+    'label_placement' => 'top',
+    'instruction_placement' => 'field',
+    'active' => true,
+) );
+
+/**
+ * Razze di Cani - Sezioni Contenuto
+ * Campi WYSIWYG per le diverse sezioni della scheda razza
+ */
+acf_add_local_field_group( array(
+    'key' => 'group_razze_sezioni_contenuto',
+    'title' => 'Contenuto Razza - Sezioni',
+    'fields' => array(
+
+        // ========================================
+        // TAB: Descrizione
+        // ========================================
+        array(
+            'key' => 'field_tab_descrizione',
+            'label' => 'Descrizione',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_descrizione_generale',
+            'label' => 'Descrizione Generale',
+            'name' => 'descrizione_generale',
+            'type' => 'wysiwyg',
+            'instructions' => 'Breve introduzione alla razza (2-3 paragrafi)',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+        // ========================================
+        // TAB: Storia
+        // ========================================
+        array(
+            'key' => 'field_tab_storia',
+            'label' => 'Storia',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_origini_storia',
+            'label' => 'Origini e Storia',
+            'name' => 'origini_storia',
+            'type' => 'wysiwyg',
+            'instructions' => 'Storia e origini della razza',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+        // ========================================
+        // TAB: Aspetto
+        // ========================================
+        array(
+            'key' => 'field_tab_aspetto',
+            'label' => 'Aspetto',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_aspetto_fisico',
+            'label' => 'Aspetto Fisico',
+            'name' => 'aspetto_fisico',
+            'type' => 'wysiwyg',
+            'instructions' => 'Descrizione fisica della razza (taglia, peso, mantello, colori)',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+        // ========================================
+        // TAB: Carattere
+        // ========================================
+        array(
+            'key' => 'field_tab_carattere',
+            'label' => 'Carattere',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_carattere_temperamento',
+            'label' => 'Carattere e Temperamento',
+            'name' => 'carattere_temperamento',
+            'type' => 'wysiwyg',
+            'instructions' => 'Descrizione del carattere e temperamento',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+        // ========================================
+        // TAB: Salute
+        // ========================================
+        array(
+            'key' => 'field_tab_salute',
+            'label' => 'Salute',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_salute_cura',
+            'label' => 'Salute e Cura',
+            'name' => 'salute_cura',
+            'type' => 'wysiwyg',
+            'instructions' => 'Informazioni su salute, predisposizioni, toelettatura',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+        // ========================================
+        // TAB: Addestramento
+        // ========================================
+        array(
+            'key' => 'field_tab_addestramento',
+            'label' => 'Addestramento',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_attivita_addestramento',
+            'label' => 'Attività e Addestramento',
+            'name' => 'attivita_addestramento',
+            'type' => 'wysiwyg',
+            'instructions' => 'Esigenze di attività fisica e facilità di addestramento',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+        // ========================================
+        // TAB: Ideale Per
+        // ========================================
+        array(
+            'key' => 'field_tab_ideale',
+            'label' => 'Ideale Per',
+            'name' => '',
+            'type' => 'tab',
+            'placement' => 'left',
+        ),
+
+        array(
+            'key' => 'field_ideale_per',
+            'label' => 'Ideale Per',
+            'name' => 'ideale_per',
+            'type' => 'wysiwyg',
+            'instructions' => 'Per chi è adatta questa razza? Chi dovrebbe evitarla?',
+            'required' => 0,
+            'tabs' => 'all',
+            'toolbar' => 'full',
+            'media_upload' => 0,
+        ),
+
+    ),
+    'location' => array(
+        array(
+            array(
+                'param' => 'post_type',
+                'operator' => '==',
+                'value' => 'razze_di_cani',
+            ),
+        ),
+    ),
+    'menu_order' => 8,
+    'position' => 'normal',
+    'style' => 'default',
+    'label_placement' => 'top',
+    'instruction_placement' => 'field',
+    'active' => true,
+) );
+
+/**
  * Helper function to get rating label text
  */
 function caniincasa_get_rating_label( $field_name, $value ) {

@@ -200,6 +200,16 @@ function caniincasa_scripts() {
         CANIINCASA_VERSION
     );
 
+    // Enqueue Single Razza layout CSS (only on breed single pages)
+    if ( is_singular( 'razze_di_cani' ) ) {
+        wp_enqueue_style(
+            'caniincasa-single-razza',
+            CANIINCASA_THEME_URI . '/css/single-razza.css',
+            array( 'caniincasa-main', 'caniincasa-breed-characteristics' ),
+            CANIINCASA_VERSION
+        );
+    }
+
     // Enqueue main JavaScript
     wp_enqueue_script(
         'caniincasa-main-js',

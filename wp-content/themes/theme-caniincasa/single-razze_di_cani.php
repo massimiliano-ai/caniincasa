@@ -2,8 +2,11 @@
 /**
  * Single Razze di Cani Template
  *
+ * Layout 1/3 + 2/3 (Desktop)
+ * Layout invertito su Mobile
+ *
  * @package CaninCasa
- * @since 1.0.0
+ * @since 2.0.0
  */
 
 get_header();
@@ -17,28 +20,79 @@ get_header();
             <?php caniincasa_breadcrumbs(); ?>
 
             <div class="container">
-                <div class="razza-single__layout">
+                <div class="razza-layout">
 
-                    <!-- Main Content -->
-                    <div class="razza-single__content">
+                    <!-- COLONNA PRINCIPALE 2/3 (Desktop) / Prima su Mobile -->
+                    <div class="razza-content">
 
-                        <!-- Header -->
-                        <header class="razza-single__header">
-                            <h1 class="razza-single__title"><?php the_title(); ?></h1>
-
-                            <?php if ( has_post_thumbnail() ) : ?>
-                                <div class="razza-single__image">
-                                    <?php the_post_thumbnail( 'caniincasa-featured', array( 'alt' => get_the_title() ) ); ?>
-                                </div>
-                            <?php endif; ?>
+                        <!-- Titolo -->
+                        <header class="razza-header">
+                            <h1 class="razza-title"><?php the_title(); ?></h1>
                         </header>
 
-                        <!-- Description -->
-                        <div class="razza-single__description">
-                            <?php the_content(); ?>
-                        </div>
+                        <!-- Descrizione Generale -->
+                        <?php
+                        $descrizione_generale = get_field( 'descrizione_generale' );
+                        if ( $descrizione_generale ) :
+                        ?>
+                            <div class="razza-description">
+                                <?php echo wp_kses_post( $descrizione_generale ); ?>
+                            </div>
+                        <?php endif; ?>
 
-                        <!-- Caratteristiche della Razza con Sistema Zampette -->
+                        <!-- Sezioni Contenuto -->
+                        <div class="razza-sections">
+
+                            <?php
+                            // Definisci le sezioni con i rispettivi campi ACF
+                            $sections = array(
+                                'origini_storia' => array(
+                                    'title' => 'Origini e Storia',
+                                    'icon'  => '📜',
+                                ),
+                                'aspetto_fisico' => array(
+                                    'title' => 'Aspetto Fisico',
+                                    'icon'  => '🐕',
+                                ),
+                                'carattere_temperamento' => array(
+                                    'title' => 'Carattere e Temperamento',
+                                    'icon'  => '💛',
+                                ),
+                                'salute_cura' => array(
+                                    'title' => 'Salute e Cura',
+                                    'icon'  => '🏥',
+                                ),
+                                'attivita_addestramento' => array(
+                                    'title' => 'Attività e Addestramento',
+                                    'icon'  => '🎾',
+                                ),
+                                'ideale_per' => array(
+                                    'title' => 'Ideale Per',
+                                    'icon'  => '✨',
+                                ),
+                            );
+
+                            foreach ( $sections as $field_name => $section ) :
+                                $content = get_field( $field_name );
+                                if ( $content ) :
+                            ?>
+                                <div class="razza-section" id="section-<?php echo esc_attr( $field_name ); ?>">
+                                    <h2 class="razza-section__title">
+                                        <span class="section-icon"><?php echo $section['icon']; ?></span>
+                                        <?php echo esc_html( $section['title'] ); ?>
+                                    </h2>
+                                    <div class="razza-section__content">
+                                        <?php echo wp_kses_post( $content ); ?>
+                                    </div>
+                                </div>
+                            <?php
+                                endif;
+                            endforeach;
+                            ?>
+
+                        </div><!-- .razza-sections -->
+
+                        <!-- Box Caratteristiche con Zampette -->
                         <?php
                         // Display new paw-based rating system
                         if ( function_exists( 'caniincasa_breed_characteristics' ) ) {
@@ -46,135 +100,105 @@ get_header();
                         }
                         ?>
 
-                        <!-- Backward compatibility: Old characteristics (if new fields not filled) -->
-                        <?php
-                        // Check if ANY characteristic field exists (old or new)
-                        $has_new_fields = function_exists( 'get_field' ) && (
-                            get_field( 'energia_e_livelli_di_attivita' ) || // Campo esistente
-                            get_field( 'affettuosita' ) // Campo nuovo
-                        );
+                    </div><!-- .razza-content -->
 
-                        if ( ! $has_new_fields ) {
-                            // Show old characteristics format
-                            $caratteristiche_caratteriali = array(
-                                'livello_di_energia'                          => 'Livello di Energia',
-                                'livello_di_affettuosità'                     => 'Livello di Affettuosità',
-                                'socialità'                                   => 'Socialità',
-                                'intelligenza'                                => 'Intelligenza',
-                                'facilità_di_addestramento'                   => 'Facilità di Addestramento',
-                                'necessità_di_toelettatura'                   => 'Necessità di Toelettatura',
-                                'perdita_di_pelo'                             => 'Perdita di Pelo',
-                                'tendenza_ad_abbaiare'                        => 'Tendenza ad Abbaiare',
-                                'compatibilita_con_i_bambini'                 => 'Compatibilità con i Bambini',
-                                'compatibilita_con_altri_animali_domestici'   => 'Compatibilità con Altri Animali',
-                                'esigenze_di_esercizio'                       => 'Esigenze di Esercizio',
-                                'predisposizioni_per_la_salute'               => 'Predisposizioni per la Salute',
-                                'tolleranza_alla_solitudine'                  => 'Tolleranza alla Solitudine',
-                                'adattabilita_clima_freddo'                   => 'Adattabilità al Clima Freddo',
-                                'adattabilita_clima_caldo'                    => 'Adattabilità al Clima Caldo',
-                                'istinti_di_caccia'                           => 'Istinti di Caccia',
-                            );
+                    <!-- SIDEBAR 1/3 (Desktop) / Dopo su Mobile -->
+                    <aside class="razza-sidebar">
 
-                            $has_old_data = false;
-                            foreach ( $caratteristiche_caratteriali as $field => $label ) {
-                                if ( get_post_meta( get_the_ID(), $field, true ) ) {
-                                    $has_old_data = true;
-                                    break;
-                                }
-                            }
-
-                            if ( $has_old_data ) :
-                        ?>
-                            <div class="characteristic-group">
-                                <h2 class="characteristic-group__title">Caratteristiche Caratteriali</h2>
-                                <div class="characteristic-list">
-                                    <?php foreach ( $caratteristiche_caratteriali as $field => $label ) : ?>
-                                        <?php $value = get_post_meta( get_the_ID(), $field, true ); ?>
-                                        <?php if ( $value ) : ?>
-                                            <div class="rating-item">
-                                                <span class="rating-label"><?php echo esc_html( $label ); ?></span>
-                                                <?php caniincasa_rating_stars( absint( $value ) ); ?>
-                                            </div>
-                                        <?php endif; ?>
-                                    <?php endforeach; ?>
-                                </div>
+                        <!-- Immagine in Evidenza -->
+                        <?php if ( has_post_thumbnail() ) : ?>
+                            <div class="sidebar-featured-image">
+                                <?php the_post_thumbnail( 'medium_large', array(
+                                    'class' => 'sidebar-image',
+                                    'alt'   => get_the_title(),
+                                ) ); ?>
                             </div>
+                        <?php endif; ?>
+
+                        <!-- Box Informazioni Razza -->
                         <?php
-                            endif;
-                        }
+                        $nazione_origine     = get_field( 'nazione_origine' );
+                        $colorazioni         = get_field( 'colorazioni' );
+                        $temperamento_breve  = get_field( 'temperamento_breve' );
+
+                        if ( $nazione_origine || $colorazioni || $temperamento_breve ) :
                         ?>
+                            <div class="info-box info-box--primary">
+                                <h3 class="info-box__title">📋 Informazioni Razza</h3>
+                                <dl class="info-list">
 
-                    </div><!-- .razza-single__content -->
+                                    <?php if ( $nazione_origine ) : ?>
+                                        <dt>🌍 Nazione Origine</dt>
+                                        <dd><?php echo esc_html( $nazione_origine ); ?></dd>
+                                    <?php endif; ?>
 
-                    <!-- Sidebar -->
-                    <aside class="razza-single__sidebar">
+                                    <?php if ( $colorazioni ) : ?>
+                                        <dt>🎨 Colorazioni</dt>
+                                        <dd><?php echo nl2br( esc_html( $colorazioni ) ); ?></dd>
+                                    <?php endif; ?>
 
-                        <!-- Caratteristiche Fisiche -->
-                        <div class="info-box">
-                            <h3 class="info-box__title">Caratteristiche Fisiche</h3>
-                            <dl class="info-list">
-                                <?php
-                                $altezza_min_maschio = get_post_meta( get_the_ID(), 'altezza_minima_maschio', true );
-                                $altezza_max_maschio = get_post_meta( get_the_ID(), 'altezza_massima_maschio', true );
-                                if ( $altezza_min_maschio && $altezza_max_maschio ) :
-                                ?>
-                                    <dt>Altezza Maschio</dt>
-                                    <dd><?php echo esc_html( $altezza_min_maschio . ' - ' . $altezza_max_maschio . ' cm' ); ?></dd>
-                                <?php endif; ?>
+                                    <?php if ( $temperamento_breve ) : ?>
+                                        <dt>💭 Temperamento</dt>
+                                        <dd><?php echo esc_html( $temperamento_breve ); ?></dd>
+                                    <?php endif; ?>
 
-                                <?php
-                                $altezza_min_femmina = get_post_meta( get_the_ID(), 'altezza_minima_femmina', true );
-                                $altezza_max_femmina = get_post_meta( get_the_ID(), 'altezza_massima_femmina', true );
-                                if ( $altezza_min_femmina && $altezza_max_femmina ) :
-                                ?>
-                                    <dt>Altezza Femmina</dt>
-                                    <dd><?php echo esc_html( $altezza_min_femmina . ' - ' . $altezza_max_femmina . ' cm' ); ?></dd>
-                                <?php endif; ?>
+                                </dl>
+                            </div>
+                        <?php endif; ?>
 
-                                <?php
-                                $peso_min_maschio = get_post_meta( get_the_ID(), 'peso_minimo_maschio', true );
-                                $peso_max_maschio = get_post_meta( get_the_ID(), 'peso_massimo_maschio', true );
-                                if ( $peso_min_maschio && $peso_max_maschio ) :
-                                ?>
-                                    <dt>Peso Maschio</dt>
-                                    <dd><?php echo esc_html( $peso_min_maschio . ' - ' . $peso_max_maschio . ' kg' ); ?></dd>
-                                <?php endif; ?>
+                        <!-- Box Caratteristiche Fisiche -->
+                        <?php
+                        $altezza_min_maschio = get_post_meta( get_the_ID(), 'altezza_minima_maschio', true );
+                        $altezza_max_maschio = get_post_meta( get_the_ID(), 'altezza_massima_maschio', true );
+                        $altezza_min_femmina = get_post_meta( get_the_ID(), 'altezza_minima_femmina', true );
+                        $altezza_max_femmina = get_post_meta( get_the_ID(), 'altezza_massima_femmina', true );
+                        $peso_min_maschio    = get_post_meta( get_the_ID(), 'peso_minimo_maschio', true );
+                        $peso_max_maschio    = get_post_meta( get_the_ID(), 'peso_massimo_maschio', true );
+                        $peso_min_femmina    = get_post_meta( get_the_ID(), 'peso_minimo_femmina', true );
+                        $peso_max_femmina    = get_post_meta( get_the_ID(), 'peso_massimo_femmina', true );
+                        $vita_min            = get_post_meta( get_the_ID(), 'aspettativa_di_vita_minima', true );
+                        $vita_max            = get_post_meta( get_the_ID(), 'aspettativa_di_vita_massima', true );
+                        $gruppo              = get_post_meta( get_the_ID(), 'gruppo_razza', true );
 
-                                <?php
-                                $peso_min_femmina = get_post_meta( get_the_ID(), 'peso_minimo_femmina', true );
-                                $peso_max_femmina = get_post_meta( get_the_ID(), 'peso_massimo_femmina', true );
-                                if ( $peso_min_femmina && $peso_max_femmina ) :
-                                ?>
-                                    <dt>Peso Femmina</dt>
-                                    <dd><?php echo esc_html( $peso_min_femmina . ' - ' . $peso_max_femmina . ' kg' ); ?></dd>
-                                <?php endif; ?>
+                        if ( $altezza_min_maschio || $peso_min_maschio || $vita_min || $gruppo ) :
+                        ?>
+                            <div class="info-box">
+                                <h3 class="info-box__title">📏 Caratteristiche Fisiche</h3>
+                                <dl class="info-list">
 
-                                <?php
-                                $vita_min = get_post_meta( get_the_ID(), 'aspettativa_di_vita_minima', true );
-                                $vita_max = get_post_meta( get_the_ID(), 'aspettativa_di_vita_massima', true );
-                                if ( $vita_min && $vita_max ) :
-                                ?>
-                                    <dt>Aspettativa di Vita</dt>
-                                    <dd><?php echo esc_html( $vita_min . ' - ' . $vita_max . ' anni' ); ?></dd>
-                                <?php endif; ?>
+                                    <?php if ( $altezza_min_maschio && $altezza_max_maschio ) : ?>
+                                        <dt>Altezza Maschio</dt>
+                                        <dd><?php echo esc_html( $altezza_min_maschio . ' - ' . $altezza_max_maschio . ' cm' ); ?></dd>
+                                    <?php endif; ?>
 
-                                <?php
-                                $gruppo = get_post_meta( get_the_ID(), 'gruppo_razza', true );
-                                if ( $gruppo ) :
-                                ?>
-                                    <dt>Gruppo FCI</dt>
-                                    <dd><?php echo esc_html( $gruppo ); ?></dd>
-                                <?php endif; ?>
+                                    <?php if ( $altezza_min_femmina && $altezza_max_femmina ) : ?>
+                                        <dt>Altezza Femmina</dt>
+                                        <dd><?php echo esc_html( $altezza_min_femmina . ' - ' . $altezza_max_femmina . ' cm' ); ?></dd>
+                                    <?php endif; ?>
 
-                                <?php
-                                $paese = get_post_meta( get_the_ID(), 'paese_origine', true );
-                                if ( $paese ) :
-                                ?>
-                                    <dt>Paese d'Origine</dt>
-                                    <dd><?php echo esc_html( $paese ); ?></dd>
-                                <?php endif; ?>
-                            </dl>
-                        </div>
+                                    <?php if ( $peso_min_maschio && $peso_max_maschio ) : ?>
+                                        <dt>Peso Maschio</dt>
+                                        <dd><?php echo esc_html( $peso_min_maschio . ' - ' . $peso_max_maschio . ' kg' ); ?></dd>
+                                    <?php endif; ?>
+
+                                    <?php if ( $peso_min_femmina && $peso_max_femmina ) : ?>
+                                        <dt>Peso Femmina</dt>
+                                        <dd><?php echo esc_html( $peso_min_femmina . ' - ' . $peso_max_femmina . ' kg' ); ?></dd>
+                                    <?php endif; ?>
+
+                                    <?php if ( $vita_min && $vita_max ) : ?>
+                                        <dt>Aspettativa di Vita</dt>
+                                        <dd><?php echo esc_html( $vita_min . ' - ' . $vita_max . ' anni' ); ?></dd>
+                                    <?php endif; ?>
+
+                                    <?php if ( $gruppo ) : ?>
+                                        <dt>Gruppo FCI</dt>
+                                        <dd><?php echo esc_html( $gruppo ); ?></dd>
+                                    <?php endif; ?>
+
+                                </dl>
+                            </div>
+                        <?php endif; ?>
 
                         <!-- Allevamenti Collegati -->
                         <?php
@@ -194,12 +218,12 @@ get_header();
 
                         if ( $allevamenti_query->have_posts() ) :
                         ?>
-                            <div class="info-box">
-                                <h3 class="info-box__title">Allevamenti di <?php the_title(); ?></h3>
+                            <div class="info-box info-box--allevamenti">
+                                <h3 class="info-box__title">🏠 Allevamenti di <?php the_title(); ?></h3>
                                 <ul class="related-list">
                                     <?php while ( $allevamenti_query->have_posts() ) : $allevamenti_query->the_post(); ?>
                                         <li>
-                                            <a href="<?php the_permalink(); ?>">
+                                            <a href="<?php the_permalink(); ?>" class="allevamento-link">
                                                 <?php the_title(); ?>
                                             </a>
                                             <?php
@@ -211,7 +235,7 @@ get_header();
                                         </li>
                                     <?php endwhile; ?>
                                 </ul>
-                                <a href="<?php echo esc_url( home_url( '/allevamenti/' ) ); ?>" class="btn btn-outline btn-block mt-3">
+                                <a href="<?php echo esc_url( home_url( '/allevamenti/' ) ); ?>" class="btn btn-outline btn-block">
                                     Vedi tutti gli allevamenti
                                 </a>
                             </div>
@@ -220,9 +244,9 @@ get_header();
                         wp_reset_postdata();
                         ?>
 
-                    </aside><!-- .razza-single__sidebar -->
+                    </aside><!-- .razza-sidebar -->
 
-                </div><!-- .razza-single__layout -->
+                </div><!-- .razza-layout -->
 
                 <!-- Related Content -->
                 <?php
