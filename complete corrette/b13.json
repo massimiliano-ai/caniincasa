@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Deutscher jagdterrier",
+    "post_excerpt": "Terrier da caccia tedesco, piccolo ma incredibilmente feroce e tenace. Selezionato per la caccia a volpe, tasso e cinghiale. È un cane da lavoro puro, nero focato, non adatto alla vita da compagnia. Richiede un proprietario cacciatore esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "deutscher-jagdterrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Deutscher jagdterrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Deutscher-jagdterrier.jpg",
+      "filename": "Deutscher-jagdterrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Nero focato, Marrone focato, Nero-grigio focato",
+      "temperamento_breve": "Tenace, Coraggioso, Energico, Aggressivo (in caccia)",
+      "descrizione_generale": "<p>Il Deutscher Jagdterrier, o Terrier da Caccia Tedesco, è un cane da tana di taglia piccola, compatto e di colore nero focato. Non fatevi ingannare dalle dimensioni: è uno dei cani da caccia più feroci, coraggiosi e tenaci al mondo. È stato selezionato esclusivamente per le prestazioni venatorie, con l'obiettivo di creare un cane versatile e spietato, capace di affrontare prede molto più grandi di lui, come volpi, tassi e persino cinghiali.</p><p>Questo non è un cane da compagnia. È un cane da lavoro puro, con un livello di energia estremo, un istinto predatorio assoluto e una forte aggressività verso la selvaggina. Richiede un proprietario cacciatore esperto che possa gestire il suo temperamento focoso e incanalare la sua energia inesauribile nel lavoro.</p>",
+      "origini_storia": "<p>La storia dello Jagdterrier è recente e molto specifica. Dopo la Prima Guerra Mondiale, un gruppo di cacciatori tedeschi (tra cui Rudolf Friess, Walter Zangenberg e Carl-Erich Grünewald) era insoddisfatto della \"moda\" che stava colpendo il Fox Terrier, rendendolo, a loro dire, un cane da esposizione troppo grande e poco performante. Volevano un vero cane da tana, piccolo, scuro e feroce.</p><p>Il programma di allevamento iniziò negli anni '20. Acquistarono quattro cuccioli di Fox Terrier nero focati (un colore scartato dallo standard del Fox) e iniziarono un intenso programma di selezione. Incrociarono questi cani con l'Old English Wirehaired Terrier e il Welsh Terrier, selezionando ossessivamente solo per l'abilità venatoria, il coraggio e il colore scuro. Il Deutscher Jagdterrier Club fu fondato nel 1926. La FCI ha riconosciuto la razza nel 1954 (Standard N° 103).</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, compatto e muscoloso. L'altezza al garrese è 33–40 cm sia per i maschi che per le femmine. Il peso è 9–10 kg per i maschi e 7,5–8,5 kg per le femmine. La sua struttura è funzionale al lavoro in tana. Il muso è forte con mascelle potenti.</p><p>Il mantello può essere di due tipi: Pelo Ruvido (Duro) o Pelo Liscio. Entrambi sono fitti, ruvidi e offrono grande protezione. Il colore è nero, marrone scuro o nero-grigio, sempre con focature (tan) ben definite su sopracciglia, muso, petto e zampe. Una piccola macchia bianca sul petto è tollerata.</p>",
+      "carattere_temperamento": "<p>Il carattere dello Jagdterrier è definito dalla caccia. È incredibilmente coraggioso, tenace fino alla temerarietà e aggressivo verso la preda. È molto energico, sempre pronto all'azione, e ha un istinto predatorio assoluto (non è affidabile con nessun altro animale domestico). È anche un eccellente cane da allerta, molto vocale e diffidente con gli estranei.</p><p>Con il suo proprietario-cacciatore sviluppa un legame forte, ma non è un cane da compagnia affettuoso nel senso tradizionale. È un cane da lavoro e deve essere trattato come tale. Può essere rissoso con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza estremamente robusta, selezionata per la salute e la funzionalità. Non ha particolari predisposizioni genetiche gravi, anche se può verificarsi la Lussazione Primaria del Cristallino (PLL). Il mantello (sia liscio che ruvido) è facile da gestire e richiede poche cure. Data la sua attività, è soggetto a ferite da caccia.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve lavorare e cacciare. Non è adatto alla vita in appartamento o in città. Ha bisogno di vivere in campagna e di avere uno sfogo quotidiano per la sua energia e il suo istinto (scavare, seguire tracce).</p><p>L'addestramento è difficile. È intelligente ma testardo e indipendente. L'addestramento è finalizzato solo alla caccia. Richiede un proprietario esperto, fermo e coerente, che sappia gestire un cane ad alta energia e forte temperamento.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per cacciatori (specialmente da tana e per la caccia al cinghiale) e guardie forestali. È adatto solo a proprietari esperti che cercano un cane da lavoro puro, coraggioso e instancabile.</p><p>È assolutamente sconsigliato come cane da compagnia, per famiglie, per proprietari principianti o per la vita in città. Il suo temperamento e il suo istinto predatorio sono incompatibili con un ambiente domestico standard.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Dobermann",
+    "post_excerpt": "Cane da difesa tedesco, elegante e atletico. È un guardiano coraggioso, intelligente e incredibilmente leale. Nato per la protezione personale, richiede un proprietario esperto, socializzazione intensiva e stimolazione mentale. Soffre il freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dobermann",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dobermann"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dobermann.jpg",
+      "filename": "Dobermann.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Città di Apolda, Turingia)",
+      "colorazioni": "Nero focato, Marrone (rosso) focato",
+      "temperamento_breve": "Leale, Intelligente, Protettivo, Energico",
+      "descrizione_generale": "<p>Il Dobermann è una razza da lavoro tedesca relativamente moderna, l'unica razza tedesca a portare il nome del suo creatore. È un cane di taglia grande, dall'aspetto elegante, muscoloso e aristocratico, che incarna la potenza e l'agilità. È famoso per il suo mantello corto e lucido, nero o marrone, con focature ben definite.</p><p>Nato come cane da protezione personale, il Dobermann è un guardiano eccezionale. È incredibilmente intelligente, coraggioso, energico e sviluppa un legame di lealtà assoluta con la sua famiglia. Non è un cane per tutti: richiede un proprietario esperto, un addestramento coerente, una socializzazione precoce e molta stimolazione fisica e mentale.</p>",
+      "origini_storia": "<p>La razza è una \"creazione d'autore\". Fu sviluppata da Karl Friedrich Louis Dobermann, un esattore delle tasse (e accalappiacani) della città di Apolda, in Germania, intorno al 1870. Dobermann aveva bisogno di un cane da difesa coraggioso, veloce e intimidatorio, che lo proteggesse durante i suoi giri.</p><p>Sebbene non tenesse registri ufficiali, si ritiene che abbia creato la razza incrociando i \"cani da macellaio\" locali (antenati del Rottweiler) con il Pinscher Tedesco (per l'agilità), il Weimaraner (per il fiuto) e il Manchester Terrier. Dopo la sua morte (1894), altri allevatori, come Otto Goeller, continuarono il suo lavoro, raffinando la razza. Il Dobermann fu riconosciuto ufficialmente in Germania nel 1900.</p>",
+      "aspetto_fisico": "<p>Il Dobermann è un cane di taglia media-grande, dalla struttura quadrata, forte e muscolosa. L'altezza al garrese per i maschi è 68–72 cm (peso 40–45 kg), per le femmine 63–68 cm (peso 32–35 kg). L'aspetto deve essere nobile ed elegante.</p><p>Il mantello è corto, duro, fitto e liscio, senza sottopelo. Questo lo rende molto sensibile al freddo. I colori ammessi dallo standard FCI (N° 143) sono solo due:\n<ul>\n<li><b>Nero</b> con focature (tan) rosso-ruggine.</li>\n<li><b>Marrone</b> (rosso) con focature (tan) rosso-ruggine.</li>\n</ul>\nLe orecchie e la coda venivano tradizionalmente tagliate, ma questa pratica è ora vietata in Italia e in gran parte d'Europa.</p>",
+      "carattere_temperamento": "<p>Il Dobermann è un cane da difesa. È coraggioso, sicuro di sé, vigile e molto intelligente. È estremamente leale e protettivo nei confronti della sua famiglia, con cui è affettuoso e sensibile. È un \"cane velcro\" che soffre la solitudine e ha bisogno di essere parte integrante della vita familiare.</p><p>È naturalmente diffidente verso gli estranei, il che lo rende un guardiano eccellente. Ha un alto livello di energia e richiede molta stimolazione mentale. Se non addestrato o socializzato, la sua intelligenza e la sua diffidenza possono trasformarsi in reattività o aggressività. Può essere dominante con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. Purtroppo, la razza è afflitta da gravi problemi di salute ereditari. La preoccupazione principale è la Cardiomiopatia Dilatativa (DCM), una malattia cardiaca fatale molto diffusa. È fondamentale testare i cani con Holter ed ecocardio annuali.</p><p>Altre patologie comuni sono la sindrome di Wobbler (instabilità vertebrale cervicale) e la malattia di von Willebrand (un disturbo della coagulazione). Il mantello corto è facile da curare, ma non offre protezione dal freddo (necessita di cappotto).</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da lavoro e un atleta. Ha bisogno di almeno 1-2 ore di esercizio vigoroso al giorno (corsa, giochi) e di stimolazione mentale (addestramento).</p><p>L'addestramento è una necessità. È una delle razze più intelligenti e addestrabili, ma richiede un proprietario esperto, coerente e che usi metodi positivi. Eccelle in sport di obbedienza, agility, e sport di difesa (IPO/Schutzhund). La socializzazione precoce è vitale.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti, attivi e disposti a dedicare molto tempo all'addestramento, alla socializzazione e all'esercizio. È ideale per chi cerca un cane da guardia leale e un partner per sport cinofili. Si adatta all'appartamento solo se le sue esigenze di sfogo sono pienamente soddisfatte.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi è fuori casa tutto il giorno. Non è adatto a chi vive in climi molto freddi. I potenziali problemi di salute richiedono un impegno finanziario.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Dogo argentino",
+    "post_excerpt": "Potente molosso argentino, bianco e atletico. Creato per la caccia grossa (cinghiale, puma), è un cane coraggioso e protettivo, ma anche un leale compagno di famiglia. Richiede un proprietario esperto, socializzazione e molto esercizio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dogo-argentino",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dogo argentino"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dogo-argentino.jpg",
+      "filename": "Dogo-argentino.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Argentina (Provincia di Córdoba)",
+      "colorazioni": "Esclusivamente Bianco (ammessa una macchia nera sulla testa)",
+      "temperamento_breve": "Coraggioso, Protettivo, Leale, Dominante",
+      "descrizione_generale": "<p>Il Dogo Argentino è un cane molossoide di taglia grande, muscoloso e atletico, l'unica razza canina originaria dell'Argentina. È immediatamente riconoscibile per il suo mantello completamente bianco e il suo aspetto potente. È stato creato specificamente per la \"caza mayor\", la caccia alla grossa selvaggina come il cinghiale e il puma, in muta.</p><p>È un cane dal doppio carattere: in casa è un compagno leale, protettivo e sorprendentemente dolce con la famiglia. Sul campo, è un cacciatore impavido, tenace e coraggioso. È una razza dominante, molto reattiva verso altri cani e diffidente con gli estranei. Richiede un proprietario esperto e una socializzazione ferrea.</p>",
+      "origini_storia": "<p>La razza è una \"creazione d'autore\", sviluppata da Antonio Nores Martínez, un medico della provincia di Córdoba, Argentina. Il suo lavoro iniziò nel 1928. L'obiettivo era creare il cane da caccia grossa perfetto, che combinasse il coraggio di un combattente con la resistenza di un segugio e l'affidabilità di un cane da famiglia.</p><p>La base della razza fu il \"Perro de Pelea Cordobés\" (un cane da combattimento locale, ora estinto), che fu incrociato metodicamente con nove altre razze:\n<ul>\n<li><b>Mastino Spagnolo</b> (per la potenza), <b>Bulldog</b> e <b>Bull Terrier</b> (per il coraggio), <b>Dogue de Bordeaux</b> (per le mascelle), <b>Alano</b> (per la taglia), <b>Pointer</b> (per il fiuto), <b>Mastino dei Pirenei</b> (per la taglia e il colore), <b>Irish Wolfhound</b> (per la velocità) e <b>Boxer</b>.</li>\n</ul>\nIl risultato fu questo atleta bianco. La FCI ha riconosciuto la razza nel 1973 (Standard N° 292).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, massiccio ma atletico, mai pesante. L'altezza al garrese per i maschi è 60–68 cm, per le femmine 60–65 cm. Il peso è 40–45 kg (maschi) e 35–40 kg (femmine). È un cane \"mesomorfo\", con muscoli potenti e visibili sotto la pelle.</p><p>Il mantello è corto, liscio e fitto. Il colore è esclusivamente bianco. È ammessa solo una singola macchia nera o scura sulla testa (non più grande del 10% della testa). Il pelo corto lo rende sensibile al freddo e alle scottature solari.</p>",
+      "carattere_temperamento": "<p>Il Dogo è un cane protettivo. È leale e devoto alla sua famiglia, che difenderà con la vita. È un guardiano vigile e molto diffidente con gli estranei. È anche un cane molto dominante, specialmente i maschi, e ha un'altissima reattività e aggressività verso altri cani dello stesso sesso.</p><p>Ha un istinto predatorio molto forte. La socializzazione precoce e continua è fondamentale per gestire la sua diffidenza e la sua reattività. In famiglia, è calmo e richiede contatto fisico. Non è un cane che può vivere isolato in giardino.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. La principale preoccupazione genetica è la sordità congenita, legata al gene del colore bianco (circa il 10% dei cuccioli nasce sordo da uno o entrambe le orecchie). È fondamentale testare l'udito (test BAER). È anche soggetto a displasia dell'anca e a problemi di pelle (allergie).</p><p>Il mantello bianco e corto è facile da pulire, ma la pelle è sensibile e richiede protezione solare. Soffre il freddo.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un atleta che ha bisogno di esercizio vigoroso quotidiano: lunghe passeggiate, corsa (canicross), e un giardino sicuro. Non è un cane da appartamento.</p><p>L'addestramento è per esperti. È intelligente ma testardo e dominante. Richiede un proprietario calmo, autorevole e coerente, che usi il rinforzo positivo ma stabilisca regole ferree. La socializzazione è l'aspetto più importante e deve durare tutta la vita.</p>",
+      "ideale_per": "<p>È un cane solo per proprietari esperti, con esperienza in molossi o razze da presa. È ideale per chi vive in un ambiente rurale o suburbano con un giardino ampio e recintato. È per chi cerca un cane da guardia e un compagno leale, ed è disposto a un impegno totale nella socializzazione.</p><p>Non è assolutamente un cane per principianti. La sua reattività verso altri cani e la sua forza lo rendono potenzialmente pericoloso se non gestito correttamente. È soggetto a restrizioni legali in molti paesi.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Dogo canario",
+    "post_excerpt": "Potente molosso spagnolo (Isole Canarie), cane da guardia e da presa. È un cane calmo, equilibrato e molto protettivo. Leale alla famiglia, ma estremamente diffidente con gli estranei. Richiede un proprietario esperto e socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dogo-canario",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dogo canario"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dogo-canario.jpg",
+      "filename": "Dogo-canario.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Isole Canarie, Tenerife e Gran Canaria)",
+      "colorazioni": "Tigrato (Brindle, in tutte le tonalità), Fulvo (in tutte le tonalità), Sabbia",
+      "temperamento_breve": "Calmo, Protettivo, Equilibrato, Dominante",
+      "descrizione_generale": "<p>Il Dogo Canario (noto anche come Presa Canario) è un cane molossoide da presa (presa) di taglia grande, originario delle Isole Canarie, in particolare Tenerife e Gran Canaria. È un cane dall'aspetto imponente, robusto e muscoloso, con una testa larga e quadrata e un caratteristico mantello tigrato o fulvo.</p><p>Nato come cane da guardia del bestiame (bovini) e della proprietà, e purtroppo usato anche per i combattimenti, il Dogo Canario è un guardiano eccezionale. È calmo, equilibrato e molto sicuro di sé. È devoto alla sua famiglia, ma estremamente diffidente e riservato con gli estranei. Richiede un proprietario esperto, autorevole e una socializzazione ferrea.</p>",
+      "origini_storia": "<p>Le origini della razza risalgono alla conquista spagnola delle Canarie nel XV secolo. Si ritiene che discenda dai cani \"Majorero\" (cani da pastore pre-ispanici) incrociati con i molossi da presa (come l'Alano Spagnolo) portati dai conquistadores. Per secoli, questo cane da presa è stato usato per la guardia alle fattorie, la gestione del bestiame difficile e la protezione dai cani randagi.</p><p>Nel XX secolo, i combattimenti tra cani divennero popolari sulle isole, e il Dogo Canario fu ampiamente utilizzato. Quando i combattimenti furono vietati negli anni '40, la razza rischiò l'estinzione. Fu salvata negli anni '70 e '80 da un gruppo di allevatori a Tenerife, che ne standardizzarono l'aspetto e il carattere. La FCI ha riconosciuto la razza nel 2001 (Standard N° 346).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, massiccio e potente, ma agile. L'altezza al garrese per i maschi è 60–66 cm (peso 50–65 kg), per le femmine 56–62 cm (peso 40–55 kg). La struttura è robusta, con un petto ampio e un posteriore muscoloso.</p><p>Il mantello è corto, ruvido e senza sottopelo. I colori sono il tigrato (brindle) in tutte le sue sfumature (dal sabbia al nero) e il fulvo/sabbia. È obbligatoria una maschera nera che non superi gli occhi. Piccole macchie bianche sul petto sono ammesse.</p>",
+      "carattere_temperamento": "<p>Il Dogo Canario è un guardiano nato. È calmo, equilibrato e ha una \"soglia di stimolo\" alta (non reagisce inutilmente). È molto sicuro di sé. Con la famiglia è leale, docile e protettivo, ma non è un cane espansivo. È un osservatore silenzioso.</p><p>Con gli estranei è estremamente diffidente e riservato, e non accetta contatti se il proprietario non è presente. Il suo istinto di guardia è innato e potente. Può essere molto dominante e reattivo con altri cani, specialmente dello stesso sesso. La socializzazione precoce è fondamentale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-11 anni. È una razza rustica, ma come tutti i molossi è soggetta a displasia dell'anca e del gomito. Può soffrire di problemi cardiaci e di pelle (demodicosi). Il mantello corto è facile da curare, ma non offre protezione dal freddo. Sopporta bene il caldo moderato.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo. Lunghe passeggiate quotidiane e la possibilità di pattugliare un giardino sono sufficienti. Non è un cane da appartamento, ha bisogno di spazio.</p><p>L'addestramento è per esperti. È intelligente ma molto testardo e dominante. Richiede un proprietario calmo, autorevole e assolutamente coerente. Non risponde alla violenza, ma al rispetto reciproco. La socializzazione deve essere la priorità assoluta.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di molossi e cani da guardia. È ideale per chi vive in una casa con un giardino ben recintato e cerca un cane da protezione equilibrato e serio. Richiede un impegno totale nella socializzazione.</p><p>Non è un cane per principianti, per la vita in città, o per chi non sa essere un leader autorevole. È soggetto a restrizioni legali in molti paesi.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Dogue de bordeaux",
+    "post_excerpt": "Antico molosso francese, noto per la sua testa massiccia e rugosa e il mantello fulvo. È un guardiano calmo e leale, molto affettuoso con la famiglia. Soffre il caldo, sbava molto e ha una vita breve. Richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dogue-de-bordeaux",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dogue de bordeaux"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dogue-de-bordeaux.jpg",
+      "filename": "Dogue-de-bordeaux.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione di Bordeaux)",
+      "colorazioni": "Fulvo (Mogano, Isabella, in tutte le tonalità)",
+      "temperamento_breve": "Leale, Protettivo, Calmo, Testardo",
+      "descrizione_generale": "<p>Il Dogue de Bordeaux è un antico molossoide francese, uno dei cani più vecchi di Francia. È famoso per la sua testa enorme, massiccia e rugosa (la più grande del mondo canino in proporzione al corpo) e il suo mantello corto e morbido di colore fulvo (mogano). È un cane potente, muscoloso e basso sugli arti.</p><p>Nato come cane da caccia grossa (cinghiale), da combattimento e da guardia, oggi è un cane da famiglia e da guardia. È incredibilmente leale e affettuoso con i suoi proprietari, ma è un guardiano coraggioso e diffidente con gli estranei. Sbava molto, soffre il caldo e purtroppo ha un'aspettativa di vita molto breve.</p>",
+      "origini_storia": "<p>Si ritiene che discenda dagli Alani, cani da presa medievali usati per la caccia e la guerra. La sua culla è la regione dell'Aquitania, in particolare Bordeaux, dove era usato per la caccia al cinghiale, la guardia alle proprietà e, purtroppo, nei combattimenti contro orsi e tori. Per lungo tempo fu quasi sconosciuto al di fuori della sua regione.</p><p>La razza fu presentata per la prima volta a Parigi nel 1863, ma rischiò l'estinzione durante le due guerre mondiali. La razza moderna è stata salvata da un attento programma di recupero negli anni '60. È diventato famoso a livello mondiale dopo il film \"Turner e il Casinaro\" (Turner & Hooch) del 1989. La FCI ha riconosciuto la razza nel 1954 (Standard N° 116).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, massiccio, basso e tarchiato. L'altezza al garrese per i maschi è 60–68 cm (peso minimo 50 kg), per le femmine 58–66 cm (peso minimo 45 kg). La sua caratteristica è la testa enorme, angolosa e piena di rughe simmetriche. È un cane brachicefalo con un muso corto e prognato.</p><p>Il mantello è corto, fine e morbido al tatto. Il colore è unicolore fulvo, in tutte le tonalità (dal mogano all'isabella). È ammessa una piccola macchia bianca sul petto. La maschera può essere nera o rossa (marrone).</p>",
+      "carattere_temperamento": "<p>Il Dogue de Bordeaux è un cane calmo ed equilibrato in casa. È estremamente affettuoso e leale con la sua famiglia, verso cui è molto protettivo. È un \"cane velcro\" che ha bisogno di contatto fisico. È un guardiano coraggioso, molto diffidente con gli estranei, ma non inutilmente aggressivo.</p><p>È molto testardo e dominante, specialmente i maschi, che possono essere molto reattivi con altri cani dello stesso sesso. Richiede una socializzazione precoce e un proprietario esperto che sappia essere un leader calmo e coerente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è purtroppo molto breve: 5-8 anni. È una razza con molteplici problemi di salute. Essendo brachicefalo, soffre di problemi respiratori e soffre terribilmente il caldo (rischio di colpo di calore). È soggetto a displasia dell'anca e del gomito, problemi cardiaci e tumori.</p><p>Sbava moltissimo. Le rughe del viso devono essere pulite regolarmente. Il mantello corto è facile da curare. È una razza molto costosa da mantenere a causa delle spese veterinarie.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane atletico. Brevi passeggiate quotidiane sono sufficienti. L'esercizio deve essere evitato nelle ore calde. Si adatta alla vita in appartamento (se si tollera la bava), ma preferisce un giardino.</p><p>L'addestramento è difficile. È testardo e non molto recettivo. Richiede pazienza e coerenza. La socializzazione precoce è fondamentale per gestire la sua diffidenza e dominanza.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di molossi, che sono consapevoli della sua breve aspettativa di vita e dei potenziali costi sanitari. È per chi cerca un cane da guardia leale e affettuoso e non si spaventa della bava. È inadatto a climi caldi.</p><p>Non è un cane per principianti, per chi è ossessionato dalla pulizia, o per chi cerca un cane longevo e a bassa manutenzione. La sua dominanza richiede una gestione esperta.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Drever",
+    "post_excerpt": "Segugio svedese basso e lungo (basset), creato per la caccia al cervo e alla lepre. È un cane da lavoro tenace, vocale e molto energico. Ha un carattere testardo e un forte istinto predatorio. Non adatto alla città.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "drever",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Drever"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Drever.jpg",
+      "filename": "Drever.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia (Sviluppato da cani tedeschi)",
+      "colorazioni": "Tricolore (tutti i colori ammessi, con macchie bianche)",
+      "temperamento_breve": "Tenace, Vocale, Energico, Testardo",
+      "descrizione_generale": "<p>Il Drever, o Segugio Svedese da Tana (anche se non è un cane da tana), è un segugio di tipo Basset (basso sugli arti, lungo di corpo) originario della Svezia. È un cane da caccia incredibilmente popolare nei paesi scandinavi, utilizzato per la caccia al cervo, alla volpe e alla lepre. La sua bassa statura gli permette di muoversi agilmente nel sottobosco fitto.</p><p>È un cane da lavoro puro, con un'energia e una resistenza sconfinate. È noto per la sua voce potente e la sua tenacia. È un cane testardo, con un istinto predatorio dominante, non adatto alla vita da cane da compagnia in città.</p>",
+      "origini_storia": "<p>Il Drever è una razza recente. È stato sviluppato in Svezia a partire dal 1910. La sua base genetica è un segugio Basset tedesco, il Westphalian Dachsbracke (Segugio Basset della Westfalia), che fu importato in Svezia. Questi cani tedeschi furono incrociati con altri segugi locali per aumentarne la robustezza e adattarli ai terreni svedesi.</p><p>La razza divenne così popolare che nel 1947 fu riconosciuta con il nome di \"Drever\" (dalla parola svedese \"drev\", che si riferisce a un tipo di caccia in cui il cane spinge la selvaggina verso il cacciatore). La FCI ha riconosciuto la razza nel 1953 (Standard N° 130).</p>",
+      "aspetto_fisico": "<p>È un cane basso e lungo (tipo basset), ma robusto e muscoloso. L'altezza al garrese è 30–38 cm. Il corpo è notevolmente più lungo dell'altezza. La testa è relativamente grande, con orecchie lunghe e pendenti.</p><p>Il mantello è corto, fitto e ruvido, con un buon sottopelo. I colori sono tricolori: qualsiasi colore (nero, rosso, fulvo) combinato con ampie macchie bianche (collare, zampe, petto, punta coda). Il bicolore (bianco e rosso/fulvo) è comune.</p>",
+      "carattere_temperamento": "<p>È un cacciatore puro. È energico, tenace, coraggioso e incredibilmente vocale. È un cane testardo e indipendente, che segue il suo naso. È amichevole con le persone, ma non è un cane da compagnia.</p><p>Il suo istinto predatorio è assoluto. Ha bisogno di cacciare. Se tenuto come cane da compagnia, la sua energia repressa e la sua vocalità diventano un problema ingestibile.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto robusta. La sua schiena lunga lo rende suscettibile a problemi spinali (IVDD), specialmente se in sovrappeso. Le orecchie lunghe richiedono pulizia. Il pelo corto è facile da curare.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve cacciare o correre per ore in campagna. Non è un cane da appartamento. L'addestramento all'obbedienza è molto difficile. Il richiamo è inaffidabile. È un cane da lavoro per cacciatori.</p>",
+      "ideale_per": "<p>Questo cane è esclusivamente per cacciatori (cervo, lepre) che vivono in campagna e lavorano a piedi. È adatto a chi cerca un cane da seguita basso, vocale e instancabile.</p><p>È totalmente inadatto alla vita in città, a persone sedentarie o a proprietari inesperti.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Dunker",
+    "post_excerpt": "Raro segugio norvegese, noto per il suo particolare mantello \"marmorizzato\" (blu merle). È un cane da caccia alla lepre, tenace e vocale. È un cane da lavoro puro, non adatto alla città, per cacciatori esperti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dunker",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dunker"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dunker-1.jpg",
+      "filename": "Dunker-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Norvegia",
+      "colorazioni": "Blu merle (marmorizzato) con focature e macchie bianche; Nero focato (con bianco)",
+      "temperamento_breve": "Energico, Tenace, Vocale, Amichevole",
+      "descrizione_generale": "<p>Il Dunker, o Segugio Norvegese, è una razza da seguita di taglia media, creata in Norvegia per la caccia alla lepre. È un cane da lavoro robusto e resistente, ma la sua caratteristica più distintiva è il colore del mantello: è uno dei pochissimi segugi ad avere il colore \"blu merle\" (marmorizzato), chiamato in norvegese \"dapple\".</p><p>È un cane da caccia tenace e vocale, con una grande resistenza al freddo. Come gli altri segugi scandinavi, è un cane da lavoro puro, con un forte istinto predatorio, non adatto alla vita da cane da compagnia in città.</p>",
+      "origini_storia": "<p>La razza prende il nome dal suo creatore, il Capitano norvegese Wilhelm Conrad Dunker. A partire dal 1820, Dunker iniziò a selezionare un segugio superiore, incrociando i segugi russi Harlequin (marmorizzati) con altri segugi locali norvegesi, per fissare il particolare colore merle e le doti venatorie.</p><p>Il Dunker divenne un cane da caccia alla lepre molto popolare in Norvegia. La razza ha sofferto molto la Seconda Guerra Mondiale e il pool genetico si è ristretto pericolosamente, specialmente per la varietà merle. Resta una razza molto rara, anche in Norvegia. È stata riconosciuta dalla FCI nel 1954 (Standard N° 203).</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, forte ma elegante. L'altezza al garrese per i maschi è 50–58 cm, per le femmine 47–55 cm. Il peso è 16–22 kg. Il mantello è corto, dritto e duro, con un sottopelo denso.</p><p>I colori ammessi sono:\n<ul>\n<li><b>Blu Merle (Dapple/Marmorizzato):</b> Fondo blu-grigio merle, con macchie nere, focature (tan) e bianco.</li>\n<li><b>Nero focato (Tricolore):</b> Nero con focature e macchie bianche.</li>\n</ul>\nGli occhi possono essere scuri, o \"gazzuoli\" (blu/grigi) nella varietà merle.</p>",
+      "carattere_temperamento": "<p>È un cacciatore puro. È energico, tenace e molto vocale sulla traccia. È amichevole e calmo in casa (se sfogato), ma è un cane da lavoro. È indipendente e testardo. Ha un forte istinto predatorio. È generalmente socievole con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Essendo una razza con un pool genetico ristretto, è soggetta a displasia dell'anca e a problemi oculari. L'accoppiamento tra due cani merle produce cuccioli \"doppio merle\" con gravi problemi di sordità e cecità.</p><p>Le orecchie pendenti richiedono cura. Il pelo corto è facile da gestire.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve cacciare o correre per ore in climi freddi. Non è un cane da appartamento. L'addestramento è solo venatorio e richiede un proprietario cacciatore esperto.</p>",
+      "ideale_per": "<p>Esclusivamente per cacciatori di lepre che vivono in climi freddi e in campagna. È adatto a chi cerca un cane da lavoro vocale e resistente. Totalmente inadatto alla vita in città o come semplice cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "English toy terrier black and tan",
+    "post_excerpt": "Piccolo terrier inglese, elegante e vivace. Nato come derattizzatore (\"rat-pit\"), oggi è un cane da compagnia. È un cane \"toy\" affettuoso e vigile, ma fragile e molto sensibile al freddo a causa del pelo raso.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "english-toy-terrier-black-and-tan",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "English toy terrier black and tan"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/English-toy-terrier-black-and-tan.jpg",
+      "filename": "English-toy-terrier-black-and-tan.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Esclusivamente Nero focato (Black and Tan)",
+      "temperamento_breve": "Vivace, Intelligente, Affettuoso, Vigile",
+      "descrizione_generale": "<p>L'English Toy Terrier (Black and Tan) è un cane di taglia toy elegante e aggraziato, che ricorda un Dobermann o un Manchester Terrier in miniatura. È una delle razze terrier autoctone più antiche del Regno Unito, ma oggi è classificato tra i cani da compagnia.</p><p>Originariamente era un derattizzatore implacabile, famoso nelle \"rat-pit\" (arene per la caccia ai topi) dell'Inghilterra vittoriana. Oggi è un compagno vivace, intelligente e molto affettuoso, perfetto per l'appartamento. È un ottimo cane da allerta, ma la sua ossatura fine e il pelo raso lo rendono fragile e molto sensibile al freddo. È una razza rara, a rischio di estinzione.</p>",
+      "origini_storia": "<p>Questa razza discende direttamente dagli antichi Black and Tan Terrier che erano comuni in tutta l'Inghilterra per secoli. Nel XIX secolo, a Manchester, questi cani furono selezionati per la caccia ai topi, uno \"sport\" popolare nelle città industriali. I cani più piccoli e veloci erano i più apprezzati.</p><p>Per ottenere una taglia ancora più piccola e un aspetto più raffinato, furono incrociati con il Piccolo Levriero Italiano. Questo creò il \"Miniature Black and Tan Terrier\". La razza divenne molto popolare come cane da compagnia per le dame vittoriane. Il Kennel Club inglese riconobbe la razza nel 1873. Il suo cugino più grande è il Manchester Terrier.</p>",
+      "aspetto_fisico": "<p>È un cane toy, piccolo ed elegante. L'altezza ideale al garrese è 25–30 cm. Il peso è 2,7–3,6 kg. La struttura è fine e aggraziata, ma compatta. La testa è lunga e a cuneo, con occhi scuri e vivaci. Le orecchie sono a forma di \"fiamma di candela\", erette e appuntite.</p><p>Il mantello è corto, fitto, lucido e aderente, senza sottopelo. Il colore è rigorosamente Nero e Focato (Black and Tan). Il nero è ebano e il focato (tan) è un mogano intenso. La separazione tra i due colori deve essere nettissima.</p>",
+      "carattere_temperamento": "<p>È un cane vivace, intelligente e molto affettuoso. È un \"cane velcro\" che adora il suo proprietario e cerca il comfort (ama stare sotto le coperte). Nonostante la taglia, è un vero terrier: è un eccellente cane da allerta, vocale e vigile, ed è coraggioso.</p><p>Mantiene un forte istinto predatorio verso i roditori. È riservato con gli estranei. È molto sensibile e non sopporta i modi bruschi. Soffre la solitudine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. Essendo una razza toy, è fragile e soggetto a fratture. La Lussazione della Rotula (Patellar Luxation) e la Malattia di Legg-Calvé-Perthes (necrosi della testa del femore) sono comuni. Richiede un'attenta igiene dentale.</p><p>Il pelo raso è a manutenzione zero, ma offre protezione zero. È estremamente sensibile al freddo e deve indossare cappotti in inverno.</p>",
+      "attivita_addestramento": "<p>È un cane da appartamento perfetto. Le esigenze di esercizio sono basse: brevi passeggiate e molto gioco in casa sono sufficienti. L'addestramento richiede pazienza. Sono intelligenti ma testardi (è un terrier) e sensibili. L'addestramento alla pulizia può essere lungo.</p>",
+      "ideale_per": "<p>È ideale per persone che vivono in appartamento, anziani o chi cerca un cane da grembo piccolo e affettuoso. È per chi è molto presente in casa e può proteggerlo dal freddo e dai pericoli fisici.</p><p>Non è adatto a famiglie con bambini piccoli (è troppo fragile) o a chi vive in climi molto freddi. Non è affidabile con criceti o piccoli roditori.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 1.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Epagneul blue de picardie",
+    "post_excerpt": "Cane da ferma francese (tipo Spaniel), originario della Piccardia. Noto per il suo mantello blu-roano (moschettato). È un cane da caccia versatile (palude, bosco), dolce e calmo in famiglia. Richiede esercizio e un ambiente rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "epagneul-blue-de-picardie",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Epagneul blue de picardie"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/epagneul_bleu_picardie-.jpeg",
+      "filename": "epagneul_bleu_picardie-.jpeg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Piccardia, Valle della Somme)",
+      "colorazioni": "Blu-Roano (moschettatura nera su fondo bianco, che dà un effetto blu), con macchie nere",
+      "temperamento_breve": "Calmo, Docile, Intelligente, Versatile (caccia)",
+      "descrizione_generale": "<p>L'Epagneul Bleu de Picardie (Spaniel Blu della Piccardia) è un cane da ferma francese di tipo spaniel, noto per il suo caratteristico mantello \"blu\" (in realtà una moschettatura nera su fondo bianco) e le sue grandi macchie nere. È un cane da caccia versatile, specializzato nel lavoro in palude e nel bosco, capace di fermare e riportare la selvaggina.</p><p>Oltre alle sue doti venatorie, è un cane da compagnia eccezionale, noto per il suo temperamento calmo, docile, intelligente e molto affettuoso. È un cane che si adatta bene alla famiglia, ma richiede esercizio e un ambiente rurale o suburbano.</p>",
+      "origini_storia": "<p>Questa razza è relativamente recente. È stata sviluppata nella regione della Piccardia, nella Francia settentrionale (Valle della Somme), all'inizio del XX secolo. La sua origine è dovuta a un divieto di quarantena imposto in Gran Bretagna, che impedì ai cacciatori francesi di portare i loro Setter Inglesi a cacciare in Francia.</p><p>Per ovviare al problema, i cacciatori della Piccardia iniziarono a incrociare i loro Epagneul Picard (fulvi e marroni) con i Setter Inglesi (soprattutto i \"blue belton\", bianco-neri) che erano rimasti in Francia. L'incrocio con il Setter Inglese ha dato origine al colore blu-roano e ha raffinato le doti di ferma. La razza fu riconosciuta ufficialmente nel 1938.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, robusto ma elegante. L'altezza al garrese è 57–60 cm. La struttura è solida e adatta al lavoro. La testa è nobile, con orecchie lunghe, pendenti e molto frangiate.</p><p>Il mantello è lungo, piatto o leggermente ondulato, con abbondanti frange su orecchie, arti e coda. Il colore è la sua firma: \"grigio-nero moschettato\" (blu roano), che forma un mantello blu ardesia, con macchie nere più o meno grandi. Non sono ammesse focature.</p>",
+      "carattere_temperamento": "<p>È un cane dal carattere eccezionalmente equilibrato. È calmo, docile, molto intelligente e desideroso di compiacere. È un cane da caccia tenace sul campo, ma un compagno tranquillo e molto affettuoso in casa. È ottimo con i bambini e socievole con altri cani.</p><p>Mantiene un forte istinto di caccia e un amore per l'acqua. È un cane sensibile che risponde bene all'addestramento gentile. Soffre la solitudine e ha bisogno di contatto con la famiglia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto robusta. Può essere soggetta a displasia dell'anca e del gomito. Le sue orecchie lunghe e pesantemente frangiate sono il suo punto debole: richiedono una pulizia costante e attenta per prevenire otiti gravi.</p><p>Il mantello lungo richiede spazzolate regolari (1-2 volte a settimana) per evitare nodi nelle frange.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto, ma è più calmo di altri cani da caccia. Ha bisogno di lunghe passeggiate quotidiane e della possibilità di correre e nuotare. Non è un cane da appartamento, preferisce una casa con giardino.</p><p>L'addestramento è facile. È intelligente e collaborativo. Risponde bene al rinforzo positivo. È un ottimo cane da ferma per il cacciatore e un compagno facile da gestire per una famiglia attiva.</p>",
+      "ideale_per": "<p>È un cane ideale per cacciatori o per famiglie attive che vivono in campagna. È un'ottima scelta per chi cerca un cane da caccia che sia anche un compagno di famiglia calmo e affettuoso. Richiede un proprietario disposto a gestire le sue orecchie e il suo bisogno di esercizio.</p><p>Non è adatto a persone sedentarie, alla vita in città (se non in un grande appartamento con un proprietario molto attivo), o a chi è fuori casa tutto il giorno.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Epagneul breton",
+    "post_excerpt": "Cane da ferma francese (Bretagna), il più piccolo dei cani da ferma. È un cane \"tuttofare\", energico, intelligente e molto addestrabile. È un cacciatore instancabile e un eccellente cane da famiglia per proprietari molto attivi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "epagneul-breton",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Epagneul breton"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Epagneul-breton.jpg",
+      "filename": "Epagneul-breton.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Bretagna)",
+      "colorazioni": "Bianco e Arancio, Bianco e Nero, Bianco e Marrone, Tricolore (con focature)",
+      "temperamento_breve": "Intelligente, Energico (estremo), Addestrabile, Socievole",
+      "descrizione_generale": "<p>L'Epagneul Breton (Spaniel Bretone) è uno dei cani da ferma più popolari e versatili al mondo. Originario della regione francese della Bretagna, è il più piccolo dei cani da ferma, ma con un'energia e una passione venatoria che eguagliano (o superano) quelle di cani molto più grandi. È un cane \"tuttofare\", eccellente nella cerca, nella ferma e nel riporto, anche in acqua.</p><p>È un cane con un'intelligenza acuta e un'energia esplosiva. Oltre che un cacciatore instancabile, è un cane da famiglia socievole e affettuoso, ma richiede un proprietario estremamente attivo. È una star dell'agility e degli sport cinofili.</p>",
+      "origini_storia": "<p>Cani di tipo \"Epagneul\" (spaniel) esistono in Bretagna da secoli, usati dai contadini per la caccia alla selvaggina da penna (beccacce). La razza moderna fu sviluppata nella città di Callac (Bretagna) all'inizio del XX secolo. Si ritiene che i cani locali siano stati incrociati con Setter inglesi e Pointer, importati dai cacciatori britannici in Bretagna.</p><p>Questo incrocio ha dato origine a un cane più veloce, con una ferma più solida e un mantello meno folto. Un prete di nome Padre Giraud fu uno dei primi selezionatori. Il primo standard fu redatto nel 1907. La sua taglia compatta, la sua intelligenza e la sua versatilità lo hanno reso uno dei cani da caccia francesi più diffusi al mondo.</p>",
+      "aspetto_fisico": "<p>È il più piccolo dei cani da ferma. È un cane compatto, inscritto nel quadrato, ma molto elegante. L'altezza al garrese è 47–51 cm (maschi) e 46–50 cm (femmine). Il peso è 13–18 kg. È un cane \"brachianuro\" (nasce spesso con la coda corta) o \"anuro\" (senza coda).</p><p>Il mantello è fine, piatto o leggermente ondulato, con frange moderate su orecchie e arti. I colori sono bicolori (bianco e arancio, bianco e nero, bianco e marrone) o tricolori (bianco, nero e arancio, o bianco, marrone e arancio), spesso con pezzature o roanature.</p>",
+      "carattere_temperamento": "<p>L'Epagneul Breton è un concentrato di energia. È vivace, instancabile, intelligente e molto addestrabile. È un cane che vive per lavorare e per compiacere il proprietario. È un cane molto sensibile che non sopporta la durezza.</p><p>In famiglia è affettuoso, giocherellone e socievole. È generalmente buono con i bambini e altri cani. Mantiene un istinto di caccia fortissimo. Se non viene stimolato fisicamente e mentalmente ogni giorno, diventa iperattivo, distruttivo e abbaia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto robusta. La displasia dell'anca è la preoccupazione principale. Può essere soggetto a epilessia. Le orecchie pendenti richiedono pulizia per evitare otiti. Il mantello non richiede cure eccessive, solo spazzolate regolari, specialmente dopo la caccia.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme (livello 5). Non è un cane da appartamento, a meno che il proprietario non sia un atleta. Ha bisogno di almeno due ore di corsa libera al giorno. È un cane da caccia e deve correre.</p><p>L'addestramento è facile in termini di apprendimento, grazie alla sua intelligenza e al suo \"will to please\". È una delle razze da ferma più addestrabili. Eccelle in agility, obedience, flyball e, ovviamente, in tutte le prove di caccia.</p>",
+      "ideale_per": "<p>È ideale per cacciatori o per famiglie estremamente attive e sportive. È perfetto per chi pratica sport cinofili ad alto livello (agility) e cerca un cane instancabile, intelligente e recettivo. Richiede un proprietario che sia quasi sempre presente e attivo.</p><p>È assolutamente sconsigliato a persone sedentarie, a chi vive in un piccolo appartamento e lavora tutto il giorno. L'energia di un Breton non gestita è una bomba a orologeria.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

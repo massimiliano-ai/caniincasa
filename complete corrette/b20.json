@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Lapinkoira",
+    "post_excerpt": "Il Lapinkoira, o Cane da Pastore Finlandese della Lapponia, è una razza nordica di taglia media, usata per secoli dal popolo Sami per la pastorizia delle renne. Intelligente, calmo e amichevole, è un eccellente cane da famiglia. Richiede una moderata attività fisica e un proprietario presente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "lapinkoira",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Lapinkoira"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/lapinkoira.jpg",
+      "filename": "lapinkoira.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Finlandia (Lapponia)",
+      "colorazioni": "Tutti i colori sono ammessi. Il colore di base deve essere predominante.",
+      "temperamento_breve": "Calmo, Coraggioso, Intelligente, Amichevole, Leale",
+      "descrizione_generale": "<p>Il Lapinkoira (Suomenlapinkoira) è un cane di tipo Spitz, originario delle regioni artiche della Lapponia. Per secoli è stato il compagno indispensabile del popolo Sami, aiutandolo nella conduciIone e nella guardia delle mandrie di renne. È un cane di taglia media, robusto e ben costruito, con un mantello folto che lo protegge dai climi estremi.</p><p>Nonostante le sue origini da lavoratore instancabile, il Lapinkoira si è adattato magnificamente alla vita moderna, diventando un cane da compagnia eccezionale. È noto per il suo temperamento calmo, la sua intelligenza acuta e la sua natura amichevole. È un cane che abbaia per avvisare, come da tradizione da pastore, ma è generalmente socievole e molto legato alla famiglia.</p>",
+      "origini_storia": "<p>Le origini del Lapinkoira si fondono con la storia del popolo Sami, la popolazione indigena della Lapponia (regione che si estende tra Finlandia, Svezia, Norvegia e Russia). Questi cani, simili a spitz, vivevano con i Sami da migliaia di anni, aiutandoli nella caccia e nella guardia. Con lo sviluppo dell'allevamento delle renne, il cane si specializzò nella conduzione e protezione delle mandrie.</p><p>Il tipo moderno della razza iniziò a essere definito dopo la Seconda Guerra Mondiale, quando la meccanizzazione (uso delle motoslitte) minacciò la sopravvivenza di questi cani. Appassionati cinofili finlandesi raccolsero i migliori esemplari rimasti nelle aree indigene per salvarli. Il primo standard di razza fu stabilito negli anni '40, ma la razza come la conosciamo oggi è stata fissata e riconosciuta dalla FCI nel 1967.</p>",
+      "aspetto_fisico": "<p>Il Lapinkoira è un cane di taglia media, leggermente più lungo che alto, con un'ossatura forte. L'altezza al garrese ideale è di 49 cm per i maschi e 44 cm per le femmine. Il peso si aggira sui 18-22 kg. Ha le tipiche orecchie da spitz, che possono essere erette o semi-erette, e una coda portata arricciata sul dorso.</p><p>Il mantello è la sua caratteristica distintiva: è abbondante, lungo e dritto, con un sottopelo soffice e denso. I maschi, in particolare, sviluppano una folta \"criniera\" attorno al collo. Lo standard FCI ammette tutti i colori, a condizione che il colore di base (es. nero, marrone, crema, grigio-lupo) sia predominante.</p>",
+      "carattere_temperamento": "<p>Il Lapinkoira ha un carattere eccezionale: è calmo, riflessivo, coraggioso e molto intelligente. È amichevole con le persone e generalmente socievole con gli altri cani. È molto devoto alla sua famiglia e ama partecipare a tutte le attività, mostrando un lato dolce e paziente, che lo rende ottimo anche con i bambini.</p><p>Come cane da pastore, ha un istinto naturale per la guardia e userà la sua voce per avvisare di rumori o estranei, ma non è un cane aggressivo. È desideroso di imparare, ma può avere un lato indipendente. Soffre la solitudine e non è un cane da lasciare isolato in giardino.</p>",
+      "salute_cura": "<p>Il Lapinkoira è una razza generalmente molto robusta e longeva, con un'aspettativa di vita di 12-15 anni. Tuttavia, è soggetto ad alcune patologie ereditarie. Le più note sono l'<strong>Atrofia Progressiva della Retina (PRA)</strong>, che porta alla cecità (esistono test genetici), e la displasia dell'anca.</p><p>La cura del mantello è meno impegnativa di quanto sembri. Il pelo folto è autopulente e non forma nodi facilmente. Richiede una buona spazzolata settimanale (più frequente durante le due intense mute annuali) per rimuovere il sottopelo morto. Perde molto pelo durante la muta.</p>",
+      "attivita_addestramento": "<p>È un cane moderatamente attivo. Non è iperattivo come un Border Collie, ma richiede comunque un esercizio quotidiano costante per essere felice. Lunghe passeggiate, escursioni e giochi di attivazione mentale sono ideali per lui. Eccelle in sport come l'agility, l'obedience e il rally-o.</p><p>L'addestramento è piacevole grazie alla sua intelligenza e al suo desiderio di compiacere. Impara velocemente, ma la sua intelligenza richiede un proprietario che sappia essere un leader gentile ma coerente. Risponde male ai metodi duri, che possono spegnere il suo entusiasmo.</p>",
+      "ideale_per": "<p>È un cane da famiglia quasi perfetto, adatto anche a proprietari alla prima esperienza, a patto che siano disposti a informarsi. È ideale per famiglie attive, anche con bambini, che vivono in casa con giardino o in un appartamento spazioso (purché venga portato fuori regolarmente). È perfetto per chi cerca un compagno per escursioni e sport.</p><p>È **sconsigliato** a persone molto sedentarie, a chi è assente da casa per l'intera giornata, o a chi vive in climi estremamente caldi. Non è adatto a chi cerca un cane da guardia \"feroce\" o a chi non tollera i peli in casa durante la muta.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Leonberger",
+    "post_excerpt": "Il Leonberger è un cane di taglia gigante, creato nella città tedesca di Leonberg. Nonostante la mole imponente, è noto come un \"gigante gentile\": calmo, equilibrato e straordinariamente paziente con i bambini. È un eccellente cane da famiglia e da salvataggio in acqua, che richiede spazio e un proprietario consapevole.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "leonberger",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Leonberger"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Leonberger.jpg",
+      "filename": "Leonberger.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Leonberg)",
+      "colorazioni": "Giallo leone (fulvo), Rosso, Sabbia (crema), con maschera nera.",
+      "temperamento_breve": "Gigante gentile, Calmo, Equilibrato, Leale, Protettivo",
+      "descrizione_generale": "<p>Il Leonberger è un cane di taglia gigante, maestoso e potente, ma la cui caratteristica più apprezzata è il suo temperamento eccezionalmente equilibrato. È il \"gigante gentile\" per antonomasia, un cane che combina la forza di un molosso con la calma e l'affidabilità di un cane da famiglia.</p><p>Nato con l'ambizione di creare un cane che assomigliasse al leone simbolo della città di Leonberg, è diventato uno dei migliori cani da compagnia per famiglie, noto per la sua pazienza infinita con i bambini e la sua natura protettiva ma mai aggressiva. È anche un eccezionale nuotatore, utilizzato con successo nel salvataggio in acqua.</p>",
+      "origini_storia": "<p>La storia del Leonberger è unica, poiché la sua creazione è attribuita a un uomo specifico: Heinrich Essig, un consigliere comunale di Leonberg, in Germania. A partire dal 1846, Essig dichiarò di voler creare un cane che assomigliasse al leone sullo stemma della città. Per farlo, incrociò una femmina di Terranova (tipo Landseer) con un maschio di San Bernardo.</p><p>Successivamente, per affinare la razza, introdusse sangue del Cane da Montagna dei Pirenei. Il risultato fu questo cane imponente, che divenne rapidamente popolare tra le corti reali e le celebrità (come l'Imperatrice Sissi d'Austria e il Re Umberto I d'Italia). La razza fu quasi spazzata via dalle due guerre mondiali, ma fu salvata da allevatori devoti.</p>",
+      "aspetto_fisico": "<p>Il Leonberger è un cane molto grande e muscoloso. L'altezza al garrese per i maschi va dai 72 agli 80 cm, per le femmine dai 65 ai 75 cm. Il peso è notevole: i maschi possono pesare dai 50 ai 75 kg, le femmine dai 45 ai 65 kg. Nonostante la mole, deve mantenere un movimento elegante e sciolto.</p><p>Ha un mantello folto, semi-lungo o lungo, e impermeabile, con un abbondante sottopelo. I maschi sviluppano una pronunciata criniera. I colori ammessi sono il giallo leone (fulvo), il rosso, il sabbia e tutte le combinazioni intermedie. Caratteristica fondamentale è la maschera nera sul muso.</p>",
+      "carattere_temperamento": "<p>Il temperamento è il punto forte del Leonberger. È un cane calmo, sicuro di sé, estremamente docile e paziente. È incredibilmente affettuoso con la sua famiglia e sviluppa un legame fortissimo, specialmente con i bambini, verso i quali mostra una delicatezza sorprendente.</p><p>È un guardiano vigile, la cui sola mole funge da deterrente, ma non è aggressivo. È riservato con gli estranei, ma li accetta se introdotti dalla famiglia. È intelligente e sensibile, ma non iperattivo. Ama l'acqua ed è un nuotatore potente.</p>",
+      "salute_cura": "<p>Come tutte le razze giganti, il Leonberger ha un'aspettativa di vita purtroppo breve, che si attesta mediamente sugli 8-10 anni. È soggetto a diverse patologie:</p><ul><li><b>Displasia dell'anca e del gomito:</b> Fondamentali i controlli sui riproduttori.</li><li><b>Torsione gastrica (Bloat):</b> Un'emergenza veterinaria letale, comune nelle razze a torace profondo.</li><li><b>Patologie cardiache:</b> Come la cardiomiopatia dilatativa.</li><li><b>Polineuropatia ereditaria (LPN):</b> Una malattia neurologica per cui esistono test genetici.</li></ul><p>Il mantello folto perde molto pelo e richiede spazzolate regolari (più volte a settimana) per evitare nodi, specialmente dietro le orecchie e sulle frange.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane che richiede corse estenuanti, ma ha bisogno di passeggiate quotidiane e, soprattutto, di spazio. Non è assolutamente adatto alla vita in un piccolo appartamento. Il nuoto è l'attività fisica ideale per lui.</p><p>L'addestramento è relativamente facile grazie alla sua intelligenza e al suo desiderio di compiacere. Tuttavia, data la sua mole, l'addestramento all'obbedienza di base e alla condotta al guinzaglio è obbligatorio e deve iniziare da cucciolo. Risponde male ai metodi duri, essendo molto sensibile.</p>",
+      "ideale_per": "<p>È il cane ideale per famiglie, anche con bambini piccoli, che hanno molto spazio (casa con giardino recintato) e cercano un compagno leale, protettivo e calmo. È adatto a proprietari consapevoli dei costi e dell'impegno richiesti da una razza gigante.</p><p>È **sconsigliato** a chi vive in appartamento, a chi è ossessionato dalla pulizia (perde molto pelo e sbava moderatamente), e a proprietari insicuri o fisicamente non in grado di gestire un cane di tale stazza. Non è un cane per chi è assente tutto il giorno.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Levriero afgano",
+    "post_excerpt": "Il Levriero Afghano è un'antica razza da caccia a vista, simbolo di eleganza e nobiltà. Famoso per il suo mantello lungo e setoso, ha un carattere fiero, indipendente e distaccato, quasi \"felino\". Richiede un impegno estremo nella toelettatura e un proprietario esperto che ne rispetti la natura.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "levriero-afgano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Levriero afgano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Levriero-afgano.jpg",
+      "filename": "Levriero-afgano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Afghanistan (Patrocinio: Gran Bretagna)",
+      "colorazioni": "Tutti i colori sono ammessi.",
+      "temperamento_breve": "Indipendente, Distaccato, Elegante, Sensibile",
+      "descrizione_generale": "<p>Il Levriero Afghano è una delle razze canine più antiche e riconoscibili al mondo. È un cane da caccia a vista (sighthound), allevato per millenni nelle regioni montuose e desertiche dell'Afghanistan per cacciare prede veloci come lepri, gazzelle e persino leopardi delle nevi. La sua caratteristica più evidente è il mantello lungo, fine e setoso, che lo proteggeva dai climi estremi.</p><p>Sotto questa apparenza glamour da \"re delle passerelle\" si nasconde un cane dal carattere primitivo: fiero, indipendente, distaccato e spesso descritto come \"felino\". Non è un cane per tutti; è un compagno leale per chi ne comprende e rispetta la natura, ma è notoriamente difficile da addestrare.</p>",
+      "origini_storia": "<p>Le origini del Levriero Afghano si perdono nella notte dei tempi, ed è considerato un \"cane basale\", ovvero una delle razze geneticamente più antiche. È stato allevato dalle tribù nomadi dell'Afghanistan, del Pakistan e dell'India settentrionale per secoli, molto prima dell'inizio della cinofilia ufficiale.</p><p>La razza fu introdotta in Gran Bretagna alla fine del XIX secolo e all'inizio del XX secolo da ufficiali militari di ritorno dalla frontiera indiana. Esistevano due tipi principali: il tipo \"da montagna\" (più folto) e il tipo \"da deserto\" (più slanciato). Lo standard moderno, curato dagli inglesi, li ha fusi. La razza divenne estremamente popolare in Occidente negli anni '70.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, che esprime velocità e potenza con eleganza. L'altezza al garrese ideale è 68-74 cm per i maschi e 63-69 cm per le femmine. Il peso si aggira sui 20-27 kg. La sua struttura è caratterizzata da una linea dorsale dritta, fianchi prominenti e una testa lunga e nobile, portata con fierezza.</p><p>Il mantello è lungo e setoso su tutto il corpo, ad eccezione della \"sella\" (una zona sul dorso) e del muso, dove è corto. Sulla testa presenta un caratteristico ciuffo lungo (\"top-knot\"). Lo standard FCI ammette tutti i colori e le combinazioni di colori.</p>",
+      "carattere_temperamento": "<p>Il Levriero Afghano non è un cane che cerca di compiacere. È un pensatore indipendente, selezionato per cacciare da solo e prendere decisioni. È distaccato e riservato con gli estranei, ma con la sua famiglia può essere estremamente affettuoso e persino giocherellone, in modo quasi clownesco.</p><p>È molto sensibile e non risponde assolutamente ai metodi di addestramento duri, che lo portano a chiudersi. Ha un istinto predatorio elevatissimo; qualsiasi cosa piccola e in movimento verrà inseguita. Non è un cane affidabile senza guinzaglio in aree aperte.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza relativamente sana, ma è nota per la sua **bassa tolleranza al dolore** e la sua **sensibilità all'anestesia** (comune nei levrieri). Può essere soggetto a cataratta e displasia dell'anca, anche se non sono diffuse.</p><p>La toelettatura è l'impegno più gravoso. Il mantello lungo e setoso richiede **ore di spazzolatura settimanale** (spesso quotidiana durante l'adolescenza) per prevenire la formazione di nodi dolorosi. Necessita di bagni regolari con prodotti specifici. Molti proprietari non agonisti optano per una tosatura, ma questo ne altera la natura.</p>",
+      "attivita_addestramento": "<p>Ha un bisogno fondamentale: correre. Non necessita di ore di esercizio estenuante, ma di sessioni quotidiane di corsa libera ad alta velocità. Questo deve avvenire **esclusivamente in aree ampie e recintate in modo sicuro**, poiché è un corridore velocissimo e il suo richiamo è inaffidabile. È il re del Lure Coursing.</p><p>L'addestramento all'obbedienza è notoriamente difficile. È considerato una delle razze meno addestrabili, non perché sia stupido, ma perché è troppo indipendente e si annoia facilmente. L'addestramento deve essere paziente, creativo e basato sul rinforzo positivo, senza aspettarsi un'obbedienza da Pastore Tedesco.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di levrieri o cani primitivi, che ne amano il carattere indipendente e sono disposti a dedicare un impegno enorme alla toelettatura. È adatto a chi ha accesso a grandi aree recintate e sicure per la corsa.</p><p>È **assolutamente sconsigliato** ai proprietari principianti, a chi desidera un cane obbediente, a chi non ha tempo o pazienza per la toelettatura quotidiana, e a chi ha gatti o altri piccoli animali domestici. Non è un cane da lasciare senza guinzaglio.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Levriero polacco",
+    "post_excerpt": "Il Levriero Polacco (Chart Polski) è una razza da caccia a vista di taglia grande, potente e muscolosa, più robusta degli altri levrieri. È un cane coraggioso e tenace, un tempo usato per cacciare i lupi. Protettivo e leale con la famiglia, è riservato con gli estranei e richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "levriero-polacco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Levriero polacco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/levriero-polacco-.jpg",
+      "filename": "levriero-polacco-.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Polonia",
+      "colorazioni": "Tutti i colori sono ammessi.",
+      "temperamento_breve": "Coraggioso, Protettivo, Riservato, Tenace",
+      "descrizione_generale": "<p>Il Levriero Polacco, o Chart Polski, è un cane da caccia a vista di taglia grande, le cui origini si ritiene risalgano ai levrieri asiatici. A differenza della maggior parte dei levrieri, il Chart Polski non è solo veloce, ma anche incredibilmente potente, muscoloso e tenace, con un mantello più ruvido che lo protegge dal clima rigido polacco.</p><p>Storicamente utilizzato dalla nobiltà polacca per la caccia a prede difficili come lepri, volpi e persino lupi, è un cane che unisce la velocità del levriero a un forte istinto protettivo e territoriale. È un compagno leale ma esigente, adatto solo a proprietari esperti.</p>",
+      "origini_storia": "<p>La presenza di levrieri in Polonia è documentata fin dal Medioevo. Si ritiene che i loro antenati siano i levrieri asiatici (come il Saluki) arrivati nell'area con le migrazioni dei popoli. Per secoli, la nobiltà polacca li ha selezionati per la caccia nelle vaste pianure del paese, privilegiando la forza e la resistenza oltre alla velocità.</p><p>La razza subì un declino devastante dopo le due guerre mondiali, specialmente sotto il regime comunista, che vedeva questi cani come un simbolo dell'aristocrazia decaduta. La razza fu salvata dall'estinzione negli anni '70 grazie al lavoro di pochi allevatori, come Stanisław Czerniakowski. La FCI ha riconosciuto la razza nel 1989.</p>",
+      "aspetto_fisico": "<p>Il Chart Polski è un levriero potente e imponente. L'altezza al garrese per i maschi è 70-80 cm, per le femmine 68-75 cm. Il peso è considerevole per un levriero, riflettendo la sua muscolatura. È più forte e massiccio del Greyhound.</p><p>Il mantello è corto ma ruvido e duro al tatto, con un sottopelo discreto in inverno. Può essere leggermente più lungo sul garrese e sulla coda (formando una \"frangia\"). Lo standard FCI ammette tutti i colori e le combinazioni di colori.</p>",
+      "carattere_temperamento": "<p>Il Levriero Polacco ha un carattere forte. È coraggioso, sicuro di sé e molto protettivo nei confronti della sua famiglia e del suo territorio. A differenza di molti levrieri, ha un marcato istinto da guardia ed è molto riservato, se non apertamente diffidente, verso gli estranei.</p><p>Con la sua famiglia è leale e affettuoso, ma mantiene un'indole indipendente. Può essere dominante e rissoso con altri cani, specialmente dello stesso sesso. Ha un istinto predatorio estremamente sviluppato. Richiede una socializzazione precoce e molto attenta.</p>",
+      "salute_cura": "<p>Essendo una razza ricostruita da un pool genetico ristretto, è generalmente robusta, ma è fondamentale affidarsi ad allevatori seri. L'aspettativa di vita è di 10-12 anni. Come tutti i levrieri, può essere sensibile all'anestesia. La displasia dell'anca è da monitorare, data la taglia.</p><p>La cura del mantello è molto semplice. Il pelo corto e ruvido richiede solo una spazzolata settimanale per rimuovere il pelo morto. Soffre il freddo meno di altri levrieri a pelo raso, ma necessita comunque di protezione in inverno.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, che deve includere la possibilità di correre ad alta velocità. Come per tutti i levrieri, questo deve avvenire in aree ampie e perfettamente recintate. È un eccellente atleta nel Lure Coursing.</p><p>L'addestramento è difficile. È un cane intelligente ma indipendente e dominante. Richiede un proprietario esperto, paziente e autorevole, che sappia imporsi come leader con metodi giusti e coerenti. L'addestramento alla socializzazione è prioritario.</p>",
+      "ideale_per": "<p>Questo cane è adatto **esclusivamente a proprietari esperti** di levrieri o di razze dal carattere forte. È ideale per chi vive in campagna, con un ampio terreno recintato in modo sicuro, e cerca un cane da guardia e da compagnia che sia anche un atleta.</p><p>È **assolutamente sconsigliato** ai proprietari principianti, a chi vive in appartamento, a chi cerca un cane socievole con tutti (persone e cani), e a chi ha piccoli animali domestici. Richiede una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Lhasa apso",
+    "post_excerpt": "Il Lhasa Apso è un antico cane di piccola taglia originario del Tibet, allevato nei monasteri come cane da sentinella. Dal carattere fiero, indipendente e leale, è un ottimo cane da allarme. Il suo lungo e folto mantello richiede una toelettatura quotidiana molto impegnativa.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "lhasa-apso",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Lhasa apso"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Lhasa-apso.jpg",
+      "filename": "Lhasa-apso.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Tibet (Patrocinio: Gran Bretagna)",
+      "colorazioni": "Dorato, Sabbia, Miele, Grigio scuro, Ardesia, Fumo, Nero, Bianco, Marrone, Bicolore.",
+      "temperamento_breve": "Leale, Indipendente, Fiero, Vigile",
+      "descrizione_generale": "<p>Il Lhasa Apso è un'antica razza canina di piccola taglia originaria delle montagne del Tibet. Per migliaia di anni, è stato allevato nei monasteri e nei palazzi come cane da compagnia e, soprattutto, come cane da sentinella. Il suo nome tibetano, \"Apso Seng Kye\", si traduce in \"cane sentinella che abbaia come un leone\".</p><p>Sotto il suo magnifico mantello lungo e fluente, che lo isolava dal clima rigido, si nasconde un cane robusto, dal carattere fiero, indipendente e molto sicuro di sé. È un compagno leale e affettuoso con la sua famiglia, ma estremamente riservato e diffidente verso gli estranei, mantenendo intatto il suo antico istinto da allarme.</p>",
+      "origini_storia": "<p>Le origini del Lhasa Apso risalgono ad almeno 2000 anni fa, nella città sacra di Lhasa, in Tibet. Erano considerati cani sacri, portatori di fortuna, e non potevano essere venduti, ma solo donati come segno di grande onore (il Dalai Lama era solito regalarli agli imperatori cinesi).</p><p>La razza arrivò in Occidente all'inizio del XX secolo, quando alcuni esemplari furono donati a diplomatici e militari britannici. In particolare, il Colonnello Sir Francis Younghusband e il Colonnello Frederick Marshman Bailey furono fondamentali per la sua introduzione in Gran Bretagna. Il Kennel Club inglese riconobbe la razza nel 1902.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, robusto e ben bilanciato, più lungo che alto. L'altezza al garrese ideale è di circa 25 cm, con un peso che varia dai 5 ai 8 kg. La sua struttura è solida, non fragile. Ha una testa con cranio moderatamente stretto e un muso di media lunghezza (non è brachicefalo come il Pechinese), con un leggero prognatismo.</p><p>Il mantello è la sua gloria: è lungo, pesante, dritto e duro, non lanoso né setoso, con un moderato sottopelo. Copre tutto il corpo, inclusi gli occhi (anche se non deve ostacolare la vista). Sono ammessi molti colori, tra cui dorato, sabbia, miele, grigio, ardesia, nero, bianco o marrone.</p>",
+      "carattere_temperamento": "<p>Il Lhasa Apso ha una personalità forte, ben lontana da quella di un \"cane da grembo\". È fiero, indipendente e testardo. È molto intelligente ma non servile; obbedisce se ne vede il motivo. È estremamente leale e affettuoso con la sua famiglia, ma non è espansivo con tutti.</p><p>Il suo ruolo ancestrale di sentinella è ancora molto presente: è vigile, attento e molto diffidente verso gli estranei, che annuncerà con un abbaio acuto e deciso. Richiede una socializzazione precoce per evitare che diventi eccessivamente sospettoso. Non ama essere trattato bruscamente e non è sempre paziente con i bambini piccoli.</p>",
+      "salute_cura": "<p>È una razza molto longeva, con un'aspettativa di vita di 14-18 anni, e spesso anche di più. È generalmente sano, ma è predisposto ad alcune patologie:</p><ul><li><b>Problemi oculari:</b> Come l'Atrofia Progressiva della Retina (PRA) e il \"cherry eye\" (prolasso della ghiandola della terza palpebra).</li><li><b>Problemi cutanei:</b> Può soffrire di allergie e dermatiti, spesso nascoste dal lungo pelo.</li><li><b>Displasia renale:</b> Una grave condizione ereditaria.</li></ul><p>La toelettatura è **estremamente impegnativa**. Il mantello richiede una spazzolatura quotidiana fino alla pelle per evitare la formazione di feltri. Molti proprietari scelgono una tosatura \"puppy cut\" per praticità.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta perfettamente alla vita in appartamento ed è felice con passeggiate quotidiane e sessioni di gioco in casa. Non ha bisogno di attività fisica intensa, ma apprezza la stimolazione mentale.</p><p>L'addestramento richiede pazienza e senso dell'umorismo. È testardo e indipendente, quindi le sessioni devono essere brevi, divertenti e basate sul rinforzo positivo. L'addestramento alla pulizia in casa può richiedere più tempo del solito. Risponde molto male ai metodi coercitivi.</p>",
+      "ideale_per": "<p>È un cane ideale per persone adulte, coppie o anziani che cercano un cane da compagnia leale, un buon cane da allarme e che sono disposti a dedicare un impegno quotidiano alla toelettatura (o a sostenere i costi di una toelettatura professionale regolare).</p><p>È **sconsigliato** a famiglie con bambini molto piccoli e irruenti, a proprietari principianti che desiderano un cane facile e obbediente, e a chi non ha tempo o voglia di gestire il suo mantello. Non è un cane che dà affetto indiscriminato a chiunque.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Magyar agar",
+    "post_excerpt": "Il Magyar Agár, o Levriero Ungherese, è un'antica razza da caccia a vista, più robusta e resistente del Greyhound. Nato per accompagnare i cavalieri Magiari, è un atleta instancabile. Calmo e riservato in casa, è un cane da corsa che richiede spazio e un proprietario attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "magyar-agar",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Magyar agar"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Magyar-agar.jpg",
+      "filename": "Magyar-agar.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Ungheria",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammessi, tranne quelli \"blu\", marrone, tricolore e nero focato.",
+      "temperamento_breve": "Resistente, Veloce, Riservato, Calmo (in casa)",
+      "descrizione_generale": "<p>Il Magyar Agár, o Levriero Ungherese, è un'antica razza da caccia a vista, discendente dei cani che accompagnavano i popoli Magiari nelle loro migrazioni dall'Asia centrale. A differenza di altri levrieri, selezionati per la velocità pura su brevi distanze, l'Agár è stato allevato per la resistenza, capace di seguire i cacciatori a cavallo per lunghe distanze.</p><p>È un cane robusto, con un'ossatura più forte e un mantello più folto rispetto al Greyhound. In casa è un compagno calmo, discreto e affettuoso con la famiglia, ma all'esterno si trasforma in un atleta instancabile con un potente istinto predatorio. È una razza versatile, adatta sia alla corsa (lure coursing) che alla compagnia.</p>",
+      "origini_storia": "<p>Il Magyar Agár arrivò nel bacino dei Carpazi (l'attuale Ungheria) con le tribù Magiare nel IX secolo. Per oltre un millennio, è stato il cane da caccia della nobiltà e dei contadini, utilizzato per cacciare lepri e cervi nella vasta pianura ungherese (la Puszta). La sua selezione era basata sulla resistenza e sulla capacità di lavorare in tandem con i cavalli.</p><p>Nel XIX secolo, per aumentarne la velocità, fu incrociato con il Greyhound. Questo portò quasi alla scomparsa del tipo originale, più robusto. Dopo le due guerre mondiali, la razza fu salvata dal declino e recuperata nella sua forma più tradizionale. La FCI l'ha riconosciuta ufficialmente nel 1966.</p>",
+      "aspetto_fisico": "<p>È un levriero di taglia grande, che esprime forza e resistenza. L'altezza al garrese per i maschi è 65-70 cm, per le femmine 62-67 cm. Il peso varia dai 22 ai 31 kg. La sua struttura è solida, con un'ossatura forte e muscoli ben sviluppati, più robusto di un Greyhound ma sempre elegante.</p><p>Il mantello è corto, fitto, ruvido e aderente. In inverno sviluppa un sottopelo denso, che gli permette di sopportare il freddo molto meglio di altri levrieri. Lo standard ammette tutti i colori e le combinazioni, ad eccezione del blu, marrone, nero focato e tricolore. Le orecchie sono \"a rosa\" e la testa è a forma di cuneo.</p>",
+      "carattere_temperamento": "<p>Come molti levrieri, l'Agár ha una doppia personalità. In casa è un cane estremamente calmo, tranquillo, pulito e quasi invisibile. È affettuoso e leale con la sua famiglia, ma riservato e distaccato con gli estranei, senza essere aggressivo.</p><p>All'esterno, il suo istinto predatorio è potente. È un cacciatore nato e inseguirà qualsiasi cosa si muova velocemente. È meno indipendente di altri levrieri e più addestrabile, mostrando una buona capacità di apprendimento. È generalmente socievole con gli altri cani, specialmente se levrieri.</p>",
+      "salute_cura": "<p>È considerata una delle razze di levriero più sane e robuste, con un'aspettativa di vita di 12-14 anni. Non ha particolari predisposizioni genetiche note, grazie alla sua storia di cane da lavoro. Come tutti i levrieri, può essere sensibile all'anestesia.</p><p>La cura del mantello è minima. Il pelo corto e ruvido richiede solo una spazzolata settimanale per rimuovere il pelo morto. La sua capacità di sviluppare un sottopelo lo rende molto resistente alle intemperie.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono elevate e specifiche. Come tutti i levrieri, ha bisogno di correre. Non necessita di ore di passeggiata, ma di sessioni regolari di corsa libera ad alta velocità. Questo deve avvenire in aree sicure e recintate. È un atleta nato per il Lure Coursing e le corse in pista.</p><p>L'addestramento è più facile rispetto ad altri levrieri. È intelligente e più desideroso di compiacere, ma rimane un cane da caccia a vista. Il richiamo non sarà mai affidabile al 100% in presenza di stimoli. Risponde bene a metodi positivi e gentili.</p>",
+      "ideale_per": "<p>È un cane ideale per gli amanti dei levrieri che cercano un compagno un po' più robusto e resistente. È perfetto per chi pratica Lure Coursing o corse. Si adatta alla vita in appartamento, a condizione che gli venga garantita la possibilità di correre quotidianamente in sicurezza.</p><p>È **sconsigliato** a chi cerca un cane da lasciare libero in campagna (il suo istinto predatorio è troppo forte). Non è adatto a famiglie con gatti o altri piccoli animali, a meno che non sia cresciuto con loro fin da cucciolo.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Maltese",
+    "post_excerpt": "Il Maltese è un'antica razza da compagnia di origine mediterranea, noto per il suo splendido mantello bianco, lungo e setoso. Vivace, affettuoso e molto intelligente, è un cane \"velcro\" che si lega profondamente al proprietario. Adatto alla vita d'appartamento, richiede però una toelettatura quotidiana rigorosa.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "maltese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Maltese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Maltese.jpg",
+      "filename": "Maltese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Bacino del Mediterraneo (Patrocinio: Italia)",
+      "colorazioni": "Bianco puro (ammessa una sfumatura avorio pallido)",
+      "temperamento_breve": "Affettuoso, Vivace, Intelligente, Vigile",
+      "descrizione_generale": "<p>Il Maltese è una delle razze da compagnia più antiche della storia, con origini che risalgono a migliaia di anni fa nel bacino del Mediterraneo. È un cane di taglia piccola, elegante e aristocratico, la cui unica caratteristica è lo splendido mantello bianco, lungo e setoso, che cade a terra senza formare sottopelo.</p><p>È il cane da compagnia per eccellenza: vivace, intelligente, estremamente affettuoso e profondamente legato al suo proprietario. È un cane \"velcro\" che ama essere al centro dell'attenzione e soffre molto la solitudine. Nonostante l'aspetto delicato, è un cane robusto e un ottimo cane da allarme, sempre vigile.</p>",
+      "origini_storia": "<p>Il nome \"Maltese\" non indica necessariamente un'origine dall'isola di Malta, ma deriva probabilmente dal termine semitico \"màlat\", che significa porto o rifugio. I suoi antenati vivevano nei porti delle città marittime del Mediterraneo, cacciando topi e ratti. Aristotele fu il primo a menzionare questi cani (circa 384-322 a.C.), chiamandoli \"Canes Melitenses\".</p><p>Era già un cane da compagnia apprezzato nell'Antica Roma, amato dalle matrone. Per secoli è stato il favorito della nobiltà europea. L'Italia è il paese di patrocinio della razza, che è stata selezionata per il suo colore bianco puro e il suo carattere da compagnia.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo e longilineo, con un tronco più lungo dell'altezza al garrese. L'altezza per i maschi è 21-25 cm, per le femmine 20-23 cm. Il peso si attesta sui 3-4 kg. La sua andatura è fluida ed elegante.</p><p>Il mantello è la sua caratteristica distintiva: è bianco puro (è ammessa solo una leggera sfumatura avorio), molto lungo, setoso, lucente e pesante. È privo di sottopelo, il che lo rende un cane che perde pochissimo pelo (spesso considerato ipoallergenico), ma che richiede cure costanti. La pigmentazione di tartufo, labbra e palpebre deve essere rigorosamente nera.</p>",
+      "carattere_temperamento": "<p>Il Maltese è vivace, intelligente e molto furbo. È un cane che impara velocemente, sia i comandi che i \"vizi\". Sviluppa un legame quasi simbiotico con il suo proprietario e soffre enormemente la solitudine, potendo sviluppare ansia da separazione.</p><p>È un cane vigile e un ottimo avvisatore, che abbaierà al minimo rumore sospetto. È giocherellone e generalmente socievole, anche se a volte può essere testardo. Sebbene affettuoso, la sua piccola taglia lo rende fragile e non sempre adatto a bambini troppo piccoli o irruenti.</p>",
+      "salute_cura": "<p>È una razza molto longeva, con un'aspettativa di vita di 12-15 anni, e spesso anche di più. Tuttavia, è soggetto ad alcune problematiche:</p><ul><li><b>Lussazione della rotula:</b> Un problema comune nelle razze toy.</li><li><b>Problemi dentali:</b> A causa della piccola bocca, è soggetto ad accumulo di tartaro e malattia parodontale. Richiede igiene orale costante.</li><li><b>Macchie da lacrimazione (tear staining):</b> La lacrimazione eccessiva può macchiare di rosso il pelo sotto gli occhi, richiedendo una pulizia quotidiana.</li><li><b>Malformazione di Chiari e Siringomielia:</b> Condizioni neurologiche da monitorare.</li></ul><p>La toelettatura è l'impegno maggiore: il mantello deve essere spazzolato quotidianamente per evitare la formazione di nodi. </p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. Si adatta perfettamente alla vita in appartamento. Brevi passeggiate quotidiane e sessioni di gioco in casa sono sufficienti per mantenerlo felice e in forma.</p><p>L'addestramento è relativamente facile grazie alla sua intelligenza, ma la sua furbizia può trasformarsi in testardaggine. Può essere difficile da addestrare alla pulizia in casa. Risponde magnificamente ai metodi di rinforzo positivo, ai complimenti e ai premietti. Eccelle in sport come l'agility per cani piccoli e il rally-o.</p>",
+      "ideale_per": "<p>È il cane da compagnia ideale per persone che passano molto tempo in casa, come anziani, single o famiglie tranquille. È perfetto per chi vive in appartamento e cerca un cane affettuoso e partecipe. È adatto a chi è disposto a dedicare tempo quotidiano alla sua toelettatura.</p><p>È **sconsigliato** a chi lavora fuori casa tutto il giorno (soffre troppo la solitudine). Non è ideale per famiglie con bambini molto piccoli che potrebbero ferirlo involontariamente, o per chi cerca un cane \"a bassa manutenzione\".</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Manchester terrier",
+    "post_excerpt": "Il Manchester Terrier è un elegante terrier inglese, creato nel XIX secolo per la caccia ai topi (rat-baiting). Veloce e tenace, è un cane leale e intelligente. Esiste in due taglie (Standard e Toy). È un cane da compagnia attivo, dal pelo corto e di facile manutenzione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "manchester-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Manchester terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Manchester-terrier.jpg",
+      "filename": "Manchester-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Nero focato (Black and Tan)",
+      "temperamento_breve": "Intelligente, Vivace, Leale, Tenace, Vigile",
+      "descrizione_generale": "<p>Il Manchester Terrier è un cane di tipo terrier elegante, snello e atletico, noto per il suo mantello nero e focato, corto e liscissimo. Questa razza è stata sviluppata nell'Inghilterra del XIX secolo ed era rinomata per la sua abilità nel \"rat-baiting\", uno sport popolare dell'epoca che consisteva nell'uccidere topi in un'arena.</p><p>Oggi è un compagno di famiglia vivace, intelligente e devoto. Mantiene il suo istinto da terrier: è vigile, tenace e ha un forte istinto predatorio. Esiste in due varietà di taglia, la Standard (più grande e robusta) e la Toy (molto piccola), che condividono lo stesso carattere energico.</p>",
+      "origini_storia": "<p>La razza nacque a Manchester, in Inghilterra, durante la Rivoluzione Industriale. Le città sovraffollate erano infestate dai ratti, e la caccia ai topi (sia per disinfestazione che per \"sport\") era una necessità. Un allevatore di nome John Hulme, negli anni '20 del XIX secolo, decise di creare il cane da topi definitivo.</p><p>Per farlo, incrociò il Black and Tan Terrier (un tenace cacciatore di topi) con il Whippet (per aumentarne la velocità e l'agilità). Il risultato fu un successo immediato: un cane fulmineo e letale nel \"pit\" dei ratti. La razza divenne così popolare a Manchester da prenderne il nome. Fu una delle prime razze registrate dal Kennel Club inglese nel 1873.</p>",
+      "aspetto_fisico": "<p>Il Manchester Terrier è un cane compatto ed elegante. La varietà <strong>Standard</strong> (quella a cui si riferisce lo standard FCI) ha un peso tra i 5,4 e i 10 kg e un'altezza di circa 38-41 cm. È muscoloso ma slanciato. La varietà <strong>Toy</strong> (molto popolare in America) è significativamente più piccola, sotto i 5,4 kg.</p><p>Il mantello è la sua caratteristica distintiva: è corto, nero corvino e lucido come la seta, con intense focature color mogano (tan) distribuite in punti precisi (muso, sopra gli occhi, petto, zampe). La testa è lunga e a forma di cuneo, con occhi scuri e attenti.</p>",
+      "carattere_temperamento": "<p>Il Manchester è un terrier nel cuore, ma con l'eleganza di un levriero. È intelligente, vivace, spiritoso e molto leale alla sua famiglia. È un eccellente cane da allarme, vigile e pronto ad abbaiare per avvisare, ma è generalmente riservato con gli estranei.</p><p>Conserva un altissimo istinto predatorio. Non è un cane affidabile con piccoli animali domestici come roditori, conigli o gatti (a meno che non sia cresciuto con loro). È un cane sensibile che non risponde bene ai metodi duri, ma impara velocemente con l'addestramento positivo. Può essere testardo, come ogni terrier.</p>",
+      "salute_cura": "<p>È una razza generalmente sana e molto longeva, con un'aspettativa di vita di 15-17 anni. Tuttavia, è predisposta ad alcune patologie genetiche:</p><ul><li><b>Malattia di Von Willebrand (vWD):</b> Un disturbo della coagulazione del sangue.</li><li><b>Lussazione della rotula:</b> Comune nelle razze più piccole.</li><li><b>Cardiomiopatia dilatativa giovanile:</b> Una grave condizione cardiaca, soprattutto nella varietà Toy.</li><li><b>Malattia di Legg-Perthes:</b> Degenerazione della testa del femore.</li></ul><p>La cura del mantello è minima. Il pelo corto e liscio richiede solo una passata settimanale con un panno o una spazzola morbida. Soffre il freddo e necessita di un cappotto in inverno.</p>",
+      "attivita_addestramento": "<p>Ha un'energia da terrier e richiede un moderato-alto livello di esercizio. Ha bisogno di almeno 30-60 minuti di attività quotidiana, che includa passeggiate e, idealmente, la possibilità di correre in un'area sicura. Eccelle in sport come l'agility, il flyball e l'earthdog.</p><p>L'addestramento è necessario per gestire la sua esuberanza e il suo istinto. È intelligente e desideroso di compiacere, ma il suo lato terrier richiede coerenza e pazienza. L'addestramento positivo e basato sul gioco dà i migliori risultati.</p>",
+      "ideale_per": "<p>È un ottimo cane per famiglie attive, anche con bambini più grandi e rispettosi. È ideale per chi vive in appartamento (specialmente la taglia Toy) ma è disposto a garantire l'esercizio quotidiano. È un'ottima scelta per chi cerca un cane da compagnia vigile, a bassa manutenzione di pelo.</p><p>È **sconsigliato** a famiglie con piccoli roditori o gatti. Non è adatto a chi cerca un cane calmo e sedentario, o a chi vive in climi molto freddi e intende lasciare il cane all'esterno.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Mastiff",
+    "post_excerpt": "Il Mastiff, o Mastino Inglese, è un cane di taglia gigante, noto per la sua mole imponente e il suo carattere da \"gigante buono\". È un cane da guardia calmo, leale e molto paziente, specialmente con i bambini. Richiede spazio, ma ha esigenze di esercizio moderate. La sua vita è purtroppo breve.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "mastiff",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Mastiff"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Mastiff.jpg",
+      "filename": "Mastiff.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Fulvo, Albicocca, Tigrato (con maschera nera)",
+      "temperamento_breve": "Gigante buono, Calmo, Protettivo, Leale, Paziente",
+      "descrizione_generale": "<p>Il Mastiff, spesso chiamato Mastino Inglese, è una delle razze più antiche e pesanti del mondo. È un cane di taglia gigante, la cui mole imponente era originariamente destinata alla guardia delle proprietà, alla guerra e ai combattimenti nelle arene. La sua testa larga e massiccia, con la caratteristica maschera nera, incute timore.</p><p>Tuttavia, il Mastiff moderno è l'esatto opposto della sua antica reputazione. È un \"gigante buono\", un cane dal temperamento eccezionalmente calmo, paziente e docile. È un cane da famiglia leale e protettivo, famoso per la sua dolcezza con i bambini, anche se le sue esigenze di spazio e i suoi costi di mantenimento sono altrettanto giganti.</p>",
+      "origini_storia": "<p>Le origini del Mastiff risalgono ad almeno 2.500 anni fa. Si ritiene che i suoi antenati siano stati i molossi asiatici portati in Britannia dai commercianti Fenici. Quando i Romani invasero l'isola nel 55 a.C., rimasero impressionati da questi potenti cani da guerra e li portarono a Roma per combattere nelle arene contro leoni e gladiatori (li chiamavano \"Pugnaces Britanniae\").</p><p>Nel Medioevo, in Inghilterra, erano usati per la guardia dei castelli e la caccia alla grossa selvaggina. La razza moderna è stata definita nel XIX secolo, ma ha rischiato l'estinzione dopo la Seconda Guerra Mondiale, quando si stima che solo una quindicina di esemplari fossero sopravvissuti in Inghilterra. La razza fu salvata grazie a importazioni dagli Stati Uniti.</p>",
+      "aspetto_fisico": "<p>Il Mastiff è un cane di taglia gigante, che unisce potenza e massa. Lo standard FCI non pone un limite massimo di taglia, ma richiede proporzione. L'altezza al garrese è generalmente 70-91 cm, e il peso può variare enormemente, dai 68 kg fino a superare i 100 kg. È fondamentale che il cane sia massiccio e muscoloso, non grasso.</p><p>Ha un mantello corto e fitto, con un sottopelo denso. I colori ammessi sono l'albicocca, il fulvo e il tigrato. In tutti i casi, il muso, le orecchie e il tartufo devono essere neri, formando la caratteristica \"maschera\".</p>",
+      "carattere_temperamento": "<p>Il temperamento del Mastiff è calmo, dignitoso e bonario. È un cane che osserva la situazione prima di reagire. È estremamente leale e affettuoso con la sua famiglia, verso cui sviluppa un legame profondo. È rinomato per la sua incredibile pazienza e delicatezza con i bambini (sempre sotto supervisione, data la mole).</p><p>È un cane da guardia istintivo: non abbaia molto, ma la sua sola presenza è un deterrente. È riservato con gli estranei, ma non aggressivo, a meno che non percepisca una minaccia diretta per la sua famiglia. Non è un cane che richiede attenzioni costanti, ma ama stare vicino ai suoi proprietari.</p>",
+      "salute_cura": "<p>La taglia gigante comporta una salute delicata e un'aspettativa di vita breve, mediamente 6-10 anni. Le principali preoccupazioni sono:</p><ul><li><b>Torsione gastrica (Bloat):</b> Un'emergenza letale. È fondamentale dare pasti piccoli e frequenti ed evitare l'esercizio dopo mangiato.</li><li><b>Displasia dell'anca e del gomito:</b> Praticamente onnipresente. I controlli sono obbligatori.</li><li><b>Patologie cardiache:</b> Come la cardiomiopatia dilatativa.</li><li><b>Cistinuria:</b> Un problema renale.</li></ul><p>La cura del mantello è facile (spazzolate settimanali), ma perde molto pelo. Sbava notevolmente.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono sorprendentemente basse per la sua taglia. Non è un cane da jogging. Passeggiate quotidiane e moderate sono sufficienti. Ha bisogno di spazio, ma più per \"esistere\" che per correre. Non è adatto alla vita in un piccolo appartamento.</p><p>L'addestramento è necessario per la gestione di un cane così grande. È intelligente ma testardo. Risponde bene a un addestramento gentile e coerente, ma è sensibile e non tollera metodi duri. L'addestramento alla socializzazione da cucciolo è fondamentale.</p>",
+      "ideale_per": "<p>È ideale per famiglie o persone che hanno molto spazio (casa con giardino), uno stile di vita tranquillo e sono consapevoli dei grandi costi di mantenimento (cibo, veterinario). È per proprietari che cercano un guardiano calmo e un compagno leale, e che sanno gestire un cane gigante.</p><p>È **sconsigliato** a chi vive in appartamento, ai maniaci della pulizia (per pelo e bava), e a chi cerca un cane attivo e sportivo. L'aspettativa di vita breve è un fattore emotivo da considerare.</p>",
+      "energia_e_livelli_di_attivita": 1.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Mastino dei pirenei",
+    "post_excerpt": "Il Mastino dei Pirenei è un cane da guardia del bestiame di taglia gigante, originario dei Pirenei spagnoli. Utilizzato per proteggere le greggi da lupi e orsi, è un cane coraggioso, leale e molto protettivo. È calmo con la famiglia ma diffidente con gli estranei. Richiede spazio e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "mastino-dei-pirenei",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Mastino dei pirenei"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Mastino-dei-pirenei.jpg",
+      "filename": "Mastino-dei-pirenei.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Aragona, Pirenei)",
+      "colorazioni": "Bianco (colore di base) con macchie grigie, dorate, marroni o nere. Maschera sempre presente.",
+      "temperamento_breve": "Protettivo, Calmo, Coraggioso, Indipendente",
+      "descrizione_generale": "<p>Il Mastino dei Pirenei (Mastín del Pirineo) è un cane da montagna di taglia gigante, originario del versante spagnolo dei Pirenei, in particolare della regione dell'Aragona. È un classico cane da guardia del bestiame (LGD), il cui compito storico era proteggere le greggi durante la transumanza, difendendole da predatori temibili come lupi e orsi.</p><p>È un cane dalla mole impressionante, robusto e potente, ma che non deve apparire linfatico. Combina un temperamento calmo e nobile con la sua famiglia, a una natura di guardiano impavido e diffidente verso gli estranei. Non deve essere confuso con il \"Cane da Montagna dei Pirenei\", che è la razza francese (bianca) del versante opposto.</p>",
+      "origini_storia": "<p>Come molti grandi molossi europei, si ritiene discenda dai cani asiatici portati in Europa dai Fenici. La sua presenza sui Pirenei spagnoli è antichissima, legata indissolubilmente alla pastorizia e alla transumanza. Per secoli, la sua selezione è stata puramente funzionale: solo i cani più forti, coraggiosi e adatti a sopravvivere in condizioni difficili potevano riprodursi.</p><p>Con la scomparsa dei grandi predatori (lupi e orsi) e il declino della transumanza a metà del XX secolo, la razza rischiò seriamente l'estinzione. Negli anni '70, un gruppo di appassionati spagnoli, guidati da Rafael Malo Alcrudo, iniziò un difficile programma di recupero, cercando gli ultimi esemplari rimasti nelle campagne. La razza è stata ufficialmente riconosciuta dalla FCI nel 1982.</p>",
+      "aspetto_fisico": "<p>Il Mastino dei Pirenei è un cane di taglia gigante. L'altezza minima al garrese è di 77 cm per i maschi e 72 cm per le femmine (ma si preferiscono esemplari più grandi). Il peso è proporzionato, spesso superando gli 80-100 kg. È un cane muscoloso, con ossatura forte e un caratteristico doppio sperone sugli arti posteriori.</p><p>Il mantello è folto, lungo (6-9 cm) e ruvido, con un sottopelo denso. Il colore di base è sempre il bianco, con macchie ben definite (che formano una \"maschera\" sulla testa) di colore grigio, dorato, marrone, nero o sabbia. Le orecchie sono sempre macchiate.</p>",
+      "carattere_temperamento": "<p>È un tipico LGD: calmo, equilibrato e molto sicuro di sé. Con la sua famiglia è estremamente leale, affettuoso, nobile e sorprendentemente paziente con i bambini. Sviluppa un legame fortissimo con il suo \"gregge\" umano.</p><p>Verso gli estranei e le minacce, mostra un carattere completamente diverso: è un guardiano impavido, coraggioso e molto diffidente. Non è inutilmente aggressivo, ma valuta la situazione e interviene senza esitazione se lo ritiene necessario. È un pensatore indipendente, non un cane da obbedienza cieca.</p>",
+      "salute_cura": "<p>Data la taglia gigante, l'aspettativa di vita è di 8-11 anni. È una razza rustica, ma soggetta alle patologie dei cani giganti: displasia dell'anca e del gomito (controlli fondamentali) e torsione gastrica (Bloat). La crescita del cucciolo deve essere lenta e controllata per non caricare le articolazioni.</p><p>Il mantello folto richiede spazzolate regolari (più volte a settimana) per evitare la formazione di nodi e per gestire l'imponente muta stagionale. Sbava moderatamente, soprattutto dopo aver bevuto.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. Non è un cane da corsa, ma un cane da \"pattugliamento\". Ha un bisogno assoluto di spazio: una casa con un grande giardino recintato è il minimo indispensabile. Non è assolutamente adatto alla vita in appartamento.</p><p>L'addestramento all'obbedienza è difficile. È intelligente, ma testardo e indipendente, selezionato per prendere decisioni da solo. L'addestramento deve focalizzarsi sulla socializzazione (fondamentale fin da cucciolo, per insegnargli a gestire la sua diffidenza) e sulla gestione, non sull'esecuzione di comandi.</p>",
+      "ideale_per": "<p>È un cane **esclusivamente per proprietari esperti** di molossi o LGD. È ideale per chi vive in un contesto rurale o in una villa con un grande terreno recintato e cerca un cane da guardia naturale, calmo ma efficace. Richiede un proprietario consapevole dei costi e dell'impegno di un cane gigante.</p><p>È **sconsigliato** ai proprietari principianti, a chi vive in città o in appartamento, e a chi cerca un cane socievole con tutti. La sua gestione richiede competenza e responsabilità.</p>",
+      "energia_e_livelli_di_attivita": 2.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.0
+    }
+  }
+]

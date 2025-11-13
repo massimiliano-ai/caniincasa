@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Carlino",
+    "post_excerpt": "Il Carlino è un antico cane da compagnia cinese, noto per il suo muso schiacciato (brachicefalo) e il carattere da pagliaccio. Affettuoso e giocherellone, è un cane da appartamento ideale. Richiede poche esercizio ma molta attenzione alla salute (respirazione, occhi, pieghe della pelle).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "carlino",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Carlino"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Carlino.jpg",
+      "filename": "Carlino.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Cina (Patronato: Regno Unito)",
+      "colorazioni": "Fulvo (con maschera nera), Albicocca (con maschera nera), Argento, Nero",
+      "temperamento_breve": "Affettuoso, Testardo, Giocherellone, Socievole",
+      "descrizione_generale": "<p>Il Carlino, o Pug, è una delle razze da compagnia più antiche e riconoscibili al mondo. Con la sua faccia rugosa, il muso schiacciato, gli occhi grandi ed espressivi e la coda arricciata, è un cane che suscita immediata simpatia. Il suo motto è \"Multum in Parvo\" (molto in poco), che descrive perfettamente la sua personalità enorme racchiusa in un corpo piccolo e compatto.</p><p>È un cane nato per la compagnia: è affettuoso, giocherellone, un vero pagliaccio che ama essere al centro dell'attenzione. Non è un cane che richiede molto esercizio, adattandosi perfettamente alla vita in appartamento. Tuttavia, la sua struttura brachicefala lo rende estremamente vulnerabile ai colpi di calore e richiede una gestione attenta della salute.</p>",
+      "origini_storia": "<p>Le origini del Carlino sono antichissime e risalgono alla Cina imperiale, dove cani a muso corto erano allevati come compagni preziosi dai nobili, forse già durante la dinastia Shang (1600 a.C.). Erano cani da grembo molto amati e custoditi gelosamente. Questi cani arrivarono in Europa nel XVI secolo grazie ai commercianti della Compagnia Olandese delle Indie Orientali.</p><p>Divennero immensamente popolari nei Paesi Bassi, dove diventarono il simbolo della Casa d'Orange (si narra che un Carlino di nome Pompey salvò la vita al Principe Guglielmo il Taciturno avvisandolo di un attentato nel 1572). Da lì, si diffusero in Inghilterra e in tutta Europa, diventando i favoriti di re e regine, come Giuseppina Bonaparte e la Regina Vittoria. Lo standard moderno è stato definito in Inghilterra.</p>",
+      "aspetto_fisico": "<p>Il Carlino è un cane piccolo, quadrato e molto compatto, \"multum in parvo\". Il peso ideale è tra 6,3 e 8,1 kg. Nonostante la taglia, è muscoloso e solido. La testa è grande, rotonda, con un muso molto corto e schiacciato (brachicefalo). Le rughe sul muso sono una caratteristica, ma non devono essere eccessive.</p><p>Gli occhi sono grandi, scuri, rotondi e sporgenti. Le orecchie sono piccole, sottili e vellutate, portate \"a rosa\" o \"a bottone\" (quest'ultima preferita). La coda è attaccata alta e arricciata il più strettamente possibile sul dorso (il doppio giro è molto desiderato). Il mantello è corto, liscio e lucido. I colori sono fulvo, albicocca, argento o nero, sempre con una maschera e orecchie nere ben definite (tranne nel nero solido).</p>",
+      "carattere_temperamento": "<p>Il Carlino è un cane da compagnia puro. È affettuoso, estroverso, socievole e ama tutti. Non è un cane da guardia, anzi, saluterà gli estranei con entusiasmo. È un pagliaccio nato, ama giocare ed essere al centro dell'attenzione, ma sa anche essere un compagno calmo e da grembo.</p><p>È noto per essere molto testardo. È intelligente, ma non sempre desideroso di compiacere. L'addestramento richiede pazienza, coerenza e molto rinforzo positivo (è molto motivato dal cibo). È generalmente buono con i bambini (purché delicati) e altri animali domestici.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni, ma è una razza afflitta da seri problemi di salute legati alla sua conformazione. Essendo brachicefalo, soffre di sindrome brachicefalica (BOAS), che causa difficoltà respiratorie. È estremamente intollerante al caldo e all'esercizio fisico intenso.</p><p>Gli occhi sporgenti sono vulnerabili a ulcere e traumi. Le pieghe della pelle sul muso devono essere pulite quotidianamente per prevenire infezioni (dermatiti). È molto incline all'obesità. Perde molto pelo, nonostante il mantello corto. Richiede un'attenta igiene dentale.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. Brevi passeggiate quotidiane in orari freschi sono sufficienti. L'esercizio deve essere sempre moderato per evitare il surriscaldamento. È un cane da appartamento perfetto.</p><p>L'addestramento, specialmente quello alla pulizia in casa, può essere lento e difficile a causa della sua testardaggine. Non risponde ai metodi duri. È fondamentale un addestramento gentile e costante, basato sul cibo come ricompensa.</p>",
+      "ideale_per": "<p>Il Carlino è ideale per chi vive in appartamento, per persone anziane o per chi cerca un cane da compagnia affettuoso e con basse esigenze di esercizio. È per proprietari che sono molto presenti in casa e che sono disposti a gestire le sue numerose esigenze di salute (pulizia delle rughe, gestione del caldo).</p><p>Non è assolutamente adatto a persone molto attive, a chi vive in climi caldi, o a chi è fuori casa tutto il giorno. Non è un cane per chi è ossessionato dalla pulizia (perde molto pelo). Richiede un proprietario consapevole dei suoi limiti fisici.</p>",
+      "energia_e_livelli_di_attivita": 2.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Cavalier king charles spaniel",
+    "post_excerpt": "Cane da compagnia per eccellenza, il Cavalier King è dolce, affettuoso e socievole. Si adatta perfettamente alla vita da appartamento ed è ottimo con bambini e anziani. È un \"cane velcro\" che soffre la solitudine. Purtroppo, è soggetto a gravi problemi cardiaci.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cavalier-king-charles-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cavalier king charles spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cavalier-king-charles-spaniel.jpg",
+      "filename": "Cavalier-king-charles-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Blenheim (bianco e castano), Tricolore (bianco, nero e focato), Black and Tan (nero focato), Ruby (rosso mogano)",
+      "temperamento_breve": "Affettuoso, Socievole, Gentile, Vivace",
+      "descrizione_generale": "<p>Il Cavalier King Charles Spaniel è l'epitome del cane da compagnia. È un cane toy elegante, noto per i suoi grandi occhi scuri e dolci, le lunghe orecchie setose e il suo carattere invariabilmente allegro e affettuoso. È un \"cane velcro\" per eccellenza, il cui unico desiderio è stare con la sua famiglia, che sia sul divano o a passeggio.</p><p>È un cane estremamente socievole, che ama tutti: bambini, anziani, estranei e altri animali. La sua natura gentile e la sua addestrabilità lo rendono una scelta ideale per i proprietari alla prima esperienza. Tuttavia, soffre molto la solitudine e, purtroppo, è gravato da seri problemi di salute ereditari.</p>",
+      "origini_storia": "<p>Gli Spaniel toy sono stati i preferiti della nobiltà europea per secoli, presenti già in dipinti del XVI secolo. Erano i cani da grembo di Re Carlo I e, soprattutto, di Re Carlo II d'Inghilterra, da cui prendono il nome. Questi cani originali avevano un muso più lungo. Nel XIX secolo, con la moda dei cani a muso corto, questi spaniel furono incrociati con razze asiatiche (come il Carlino), dando origine al King Charles Spaniel (noto in USA come English Toy Spaniel), con il muso piatto.</p><p>La razza \"Cavalier\" come la conosciamo oggi è una \"ricostruzione\". Negli anni '20, l'americano Roswell Eldridge offrì un premio in denaro alla mostra canina Crufts per chi fosse riuscito a ricreare gli spaniel \"vecchio tipo\" (con il muso più lungo) visti nei dipinti antichi. Un gruppo di allevatori accettò la sfida, selezionando i cani con il muso più lungo, e nel 1945 il Kennel Club inglese riconobbe il \"Cavalier\" come razza separata.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, armonioso e ben proporzionato. Il peso è compreso tra 5,4 e 8 kg. La testa è quasi piatta tra le orecchie, con un muso non eccessivamente corto e uno stop leggero. Gli occhi sono grandi, scuri, rotondi ma non sporgenti. Le orecchie sono lunghe, attaccate alte e molto frangiate.</p><p>Il mantello è lungo, setoso e privo di ricci, con abbondanti frange. I quattro colori sono:\n<ul>\n<li><b>Blenheim:</b> Fondo bianco perla con macchie castano (rosso) ben definite.</li>\n<li><b>Tricolore:</b> Fondo bianco perla con macchie nere e focature (tan).</li>\n<li><b>Black and Tan:</b> Nero corvino con focature (tan).</li>\n<li><b>Ruby:</b> Rosso mogano unicolore.</li>\n</ul></p>",
+      "carattere_temperamento": "<p>Il temperamento del Cavalier è quasi perfetto. È affettuoso, gentile, paziente e non aggressivo. È un cane da famiglia ideale, eccezionale con i bambini e gli anziani. È socievole con tutti e si adatta facilmente a nuovi ambienti e persone.</p><p>È un cane vivace e giocherellone, che conserva un leggero istinto da spaniel (può inseguire uccelli), ma è principalmente un cane da grembo. La sua più grande infelicità è la solitudine; ha un bisogno costante di compagnia umana e può sviluppare ansia da separazione.</p>",
+      "salute_cura": "<p>Purtroppo, la razza è gravata da seri problemi di salute. La principale e più devastante è la Malattia della Valvola Mitralica (MVD), una patologia cardiaca degenerativa che colpisce la maggior parte dei Cavalier in età avanzata (e molti in età giovane). È fondamentale lo screening cardiaco annuale.</p><p>Un'altra patologia grave è la Siringomielia (SM), una condizione neurologica dolorosa causata da una malformazione del cranio (Chiari-like malformation). Sono comuni anche problemi oculari (occhio secco, cataratta) e otiti. Il mantello richiede spazzolate regolari per evitare nodi.</p>",
+      "attivita_addestramento": "<p>Si adatta perfettamente alla vita in appartamento. Le esigenze di esercizio sono moderate: passeggiate quotidiane e sessioni di gioco sono sufficienti. È un cane che ama stare comodo, ma è anche abbastanza sportivo da partecipare a brevi escursioni o a corsi di agility leggeri.</p><p>È molto facile da addestrare. È intelligente, desideroso di compiacere e risponde magnificamente al rinforzo positivo. È un cane sensibile che non va mai sgridato aspramente.</p>",
+      "ideale_per": "<p>È il cane ideale per proprietari alla prima esperienza, famiglie con bambini, o persone anziane. È perfetto per chi vive in appartamento e cerca un compagno affettuoso, socievole e sempre presente. È una prima scelta per la pet therapy.</p><p>Non è adatto a chi è fuori casa tutto il giorno. Non è un cane per chi cerca un atleta ad alte prestazioni. I proprietari devono essere consapevoli e pronti a sostenere i potenziali (e probabili) costi veterinari legati ai problemi cardiaci e neurologici della razza.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 5.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 5.0,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 1.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Chesapeake bay retriever",
+    "post_excerpt": "Il \"Chessie\" è un retriever americano potente e robusto, nato per il riporto in acqua gelida (Baia di Chesapeake). È un cane da lavoro tenace e protettivo, leale alla famiglia ma riservato con gli estranei. Richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "chesapeake-bay-retriever",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Chesapeake bay retriever"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Chesapeake-bay-retriever.jpg",
+      "filename": "Chesapeake-bay-retriever.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America (Maryland, Baia di Chesapeake)",
+      "colorazioni": "Marrone (Brown), Morta Erba (Deadgrass), Canna (Sedge) - Tutte le sfumature",
+      "temperamento_breve": "Protettivo, Tenace, Intelligente, Leale",
+      "descrizione_generale": "<p>Il Chesapeake Bay Retriever, o \"Chessie\", è un cane da riporto di taglia grande, potente e muscoloso, l'unico retriever sviluppato interamente negli Stati Uniti. È stato selezionato dai cacciatori di anatre della Baia di Chesapeake per un compito durissimo: recuperare centinaia di uccelli dall'acqua gelida dell'Atlantico, rompendo il ghiaccio.</p><p>È un cane da lavoro eccezionale, con una tenacia e una resistenza leggendarie. A differenza dei Labrador o dei Golden, il Chessie non è amichevole con tutti. È un cane \"per un solo padrone\", leale e affettuoso con la famiglia, ma protettivo e molto riservato con gli estranei. Richiede un proprietario esperto e attivo.</p>",
+      "origini_storia": "<p>La storia della razza è ben documentata. Inizia nel 1807, quando una nave inglese naufragò al largo delle coste del Maryland. L'equipaggio e due cuccioli di cane tipo Terranova (ou St. John) di colore rosso, chiamati \"Sailor\" e \"Canton\", furono salvati. Questi due cani si dimostrarono retriever eccezionali.</p><p>Furono incrociati con i cani da caccia locali, probabilmente Coonhound, Irish Water Spaniel e altri retriever. I cacciatori della Baia di Chesapeake selezionarono per decenni non per l'aspetto, ma solo per la capacità di lavorare in condizioni estreme (acqua gelida, vento). Il risultato fu questo cane resistente, con un mantello unico. L'AKC riconobbe la razza nel 1884.</p>",
+      "aspetto_fisico": "<p>È un cane forte e potente. L'altezza al garrese per i maschi è 58–66 cm (peso 29,5–36,5 kg), per le femmine 53–61 cm (peso 25–32 kg). È un cane robusto, con un petto profondo.</p><p>Il mantello è la sua caratteristica unica: è corto, spesso, con un sottopelo denso e lanoso. Il pelo di copertura è ruvido e molto oleoso (al tatto, deve sembrare quasi unto). Questa combinazione lo rende quasi completamente impermeabile. I colori sono quelli che si mimetizzano con l'ambiente autunnale della baia: \"Morta Erba\" (Deadgrass, dal crema al paglierino), \"Canna\" (Sedge, un rosso-fulvo) e \"Marrone\" (Brown, dal chiaro allo scuro). Gli occhi sono chiari, giallo-ambra.</p>",
+      "carattere_temperamento": "<p>Il Chessie è un cane da lavoro serio. È intelligente, tenace e molto determinato. È famoso per la sua \"memoria\" nel riporto. Con la sua famiglia è leale, affettuoso e molto protettivo. È un cane da guardia naturale, molto vigile e diffidente con gli estranei. Non è aggressivo, ma valuta attentamente le situazioni.</p><p>È un cane \"per un solo padrone\" e può essere testardo e indipendente. Può essere dominante e reattivo con altri cani se non socializzato fin da cucciolo. Ha un'energia enorme e una passione viscerale per l'acqua.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. È una razza robusta, ma soggetta a displasia dell'anca e del gomito. Sono comuni anche le malattie oculari (PRA, cataratta). Alcune linee sono soggette a Mielopatia Degenerativa (DM).</p><p>Il mantello oleoso non deve essere lavato spesso (per non rimuovere il grasso protettivo), ma richiede spazzolate settimanali. Perde moderatamente. Le orecchie richiedono pulizia.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da lavoro che ha bisogno di un compito. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate, corsa e, soprattutto, di nuoto. Il nuoto è fondamentale per la sua felicità.</p><p>L'addestramento è per esperti. È intelligente ma testardo e sensibile. Richiede un proprietario coerente, paziente e che usi il rinforzo positivo, ma che sappia essere un leader. Non risponde bene alla durezza.</p>",
+      "ideale_per": "<p>È un cane ideale per cacciatori di uccelli acquatici o per proprietari molto attivi che vivono in campagna, specialmente vicino all'acqua. È per chi cerca un cane da lavoro leale, protettivo e ha esperienza nel gestire cani dal carattere forte.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi cerca un cane \"amico di tutti\" come un Labrador. La sua diffidenza e la sua energia richiedono una gestione competente.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Chien d’artois",
+    "post_excerpt": "Antico segugio francese (Basset d'Artois), quasi estinto e ricostruito. È un cane da caccia alla lepre, di taglia media, robusto e vocale. È un cane da lavoro tenace, non da compagnia, riservato ai cacciatori.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "chien-dartois",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Chien d’artois"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Chien-dartois.jpg",
+      "filename": "Chien-dartois.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione dell'Artois)",
+      "colorazioni": "Tricolore (Bianco, Nero, Focato scuro)",
+      "temperamento_breve": "Tenace, Vocale, Energico, Socievole (in muta)",
+      "descrizione_generale": "<p>Il Chien d'Artois è un'antica razza di segugio francese, originaria della regione dell'Artois. È un cane da seguita di taglia media, robusto e ben costruito, discendente diretto dell'antico Chien de Saint Hubert (Bloodhound). È un cane da caccia specializzato nella caccia alla lepre e al coniglio, noto per la sua tenacia e la sua voce potente.</p><p>È un cane da lavoro puro, che caccia in muta. È energico, testardo e con un istinto predatorio dominante. Non è un cane da compagnia ed è estremamente raro, anche in Francia.</p>",
+      "origini_storia": "<p>La razza era molto apprezzata nel XV secolo e fu usata dalla nobiltà francese. Era considerata una delle migliori razze da muta. Tuttavia, la Rivoluzione Francese e l'introduzione di razze inglesi (come il Foxhound) portarono la razza quasi all'estinzione nel XIX secolo.</p><p>All'inizio del XX secolo, un gruppo di allevatori, in particolare Ernest Leviez e suo nipote M. Mallard, si dedicarono al recupero della razza, che allora era conosciuta come \"Basset d'Artois\" (anche se non era un vero basset). La razza fu quasi nuovamente spazzata via dalla Seconda Guerra Mondiale. È stata riconosciuta dalla FCI nel 1955 (Standard N° 28).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, forte e muscoloso. L'altezza al garrese è 52–58 cm. Il peso è 28–30 kg. La testa è larga e potente, con orecchie lunghe e pendenti, che mostrano la sua discendenza dal Bloodhound.</p><p>Il mantello è corto, fitto e aderente. Il colore è tricolore: fondo bianco, con grandi macchie nere (sella) e focature (tan) di colore scuro (rosso-lepre) sulla testa e sugli arti.</p>",
+      "carattere_temperamento": "<p>È un cane da muta. È energico, tenace, vocale e socievole con altri cani. È docile con l'uomo, ma non è un cane da famiglia. È un lavoratore con un istinto predatorio assoluto. È testardo e segue solo il suo naso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Essendo una razza molto rara, il pool genetico è ristretto, ma è generalmente un cane da lavoro robusto. Le orecchie lunghe richiedono pulizia per prevenire otiti.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve cacciare in muta per ore. Non è adatto alla vita in appartamento. L'addestramento è solo venatorio. È totalmente inadatto a qualsiasi altro contesto.</p>",
+      "ideale_per": "<p>Esclusivamente per cacciatori (specialmente di lepre) che lavorano in muta e vivono in campagna. È un cane per specialisti. Non è un cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Chihuahua",
+    "post_excerpt": "Il cane più piccolo del mondo, originario del Messico (Stato di Chihuahua). È un cane toy coraggioso, vivace e molto leale, un \"cane velcro\" che non tollera la solitudine. Si adatta all'appartamento ma è fragile e soffre il freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "chihuahua",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Chihuahua"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Chihuahua.jpg",
+      "filename": "Chihuahua.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Messico (Stato di Chihuahua)",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammessi (tranne il merle)",
+      "temperamento_breve": "Vivace, Leale, Coraggioso, Vigile",
+      "descrizione_generale": "<p>Il Chihuahua è famoso per essere il cane più piccolo del mondo. È un cane toy originario del Messico, che prende il nome dallo stato di Chihuahua, dove fu scoperto. È un cane dalla personalità enorme, \"un cane grande in un corpo piccolo\", noto per il suo coraggio, la sua vivacità e la sua devozione assoluta al proprietario.</p><p>È un cane da compagnia e da allerta per eccellenza. Si adatta perfettamente alla vita in appartamento, ma richiede un proprietario molto presente, poiché soffre la solitudine. È un cane fragile, che soffre il freddo e richiede una socializzazione attenta per evitare che diventi eccessivamente \"abbaione\" o timoroso.</p>",
+      "origini_storia": "<p>Le origini del Chihuahua sono antiche e avvolte nel mistero. Si ritiene che discenda dal \"Techichi\", un piccolo cane da compagnia allevato dalla civiltà Tolteca in Messico già nel IX secolo d.C. Questi cani erano parte integrante della cultura azteca, utilizzati in cerimonie religiose e talvolta sepolti con i loro proprietari per guidarli nell'aldilà.</p><p>Dopo la conquista spagnola, il Techichi quasi scomparve. La razza moderna fu riscoperta intorno al 1850 dai viaggiatori americani nello stato di Chihuahua, da cui prese il nome. Questi piccoli cani furono portati negli Stati Uniti, dove furono selezionati per la taglia ancora più piccola. L'AKC riconobbe la razza nel 1904.</p>",
+      "aspetto_fisico": "<p>È un cane toy, compatto e aggraziato. Il peso è l'unico parametro di taglia: idealmente tra 1,5 e 3 kg. La testa è una caratteristica chiave: è a forma di \"mela\" (apple dome), con un muso corto e uno stop molto pronunciato. Gli occhi sono grandi, rotondi ma non sporgenti. Le orecchie sono molto grandi, erette e portate aperte.</p><p>Esistono due varietà di pelo:\n<ul>\n<li><b>Pelo Corto:</b> Liscio, lucido e aderente.</li>\n<li><b>Pelo Lungo:</b> Fine, setoso, con frange su orecchie, collo, arti e coda.</li>\n</ul>\nTutti i colori e le combinazioni sono ammessi, tranne il merle (che è associato a gravi problemi di salute).</p>",
+      "carattere_temperamento": "<p>Il Chihuahua è un cane \"personale\". Sceglie un proprietario (o due) a cui dedica un'adorazione assoluta. È un \"cane velcro\" che vuole essere sempre in braccio o a contatto. È vivace, curioso e coraggioso, spesso ignaro della sua taglia (sindrome del cane piccolo).</p><p>È un cane da allerta eccezionale: è molto vigile, territoriale e abbaia prontamente a qualsiasi rumore o estraneo. Senza una socializzazione precoce, questa diffidenza può trasformarsi in paura o reattività (specialmente verso cani grandi). È noto per preferire la compagnia di altri Chihuahua.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è molto lunga, 14-18 anni. È un cane fragile. La lussazione della rotula e il collasso tracheale sono estremamente comuni. Sono anche soggetti a ipoglicemia (bassi livelli di zucchero nel sangue), specialmente da cuccioli.</p><p>Molti Chihuahua nascono con la \"molera\", una fontanella aperta sul cranio che può non chiudersi mai, rendendo la testa vulnerabile. Richiedono un'igiene dentale costante, poiché sono molto inclini al tartaro. Soffrono terribilmente il freddo.</p>",
+      "attivita_addestramento": "<p>È un cane da appartamento perfetto. Le esigenze di esercizio sono minime: brevi passeggiate (con cappotto se fa freddo) e molto gioco in casa sono sufficienti. L'addestramento alla pulizia (potty training) è notoriamente molto difficile e richiede pazienza e coerenza (spesso si preferisce la traversina).</p><p>L'addestramento all'obbedienza è una sfida. Sono intelligenti ma testardi e poco motivati. Rispondono solo a metodi gentili e positivi. La socializzazione è l'aspetto più importante.</p>",
+      "ideale_per": "<p>È ideale per persone che vivono in appartamento, anziani, o chi cerca un cane da grembo piccolo e devoto. È per proprietari che sono sempre a casa e possono proteggerlo fisicamente (dal freddo, da altri cani, da cadute).</p><p>Non è assolutamente adatto a famiglie con bambini piccoli (è troppo fragile e può mordere se spaventato). Non è un cane per chi è fuori casa tutto il giorno o per chi vive in climi rigidi. Richiede un proprietario paziente per l'addestramento alla pulizia.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 1.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Chin",
+    "post_excerpt": "Antico cane da grembo della nobiltà giapponese. Elegante, con un muso corto e un mantello setoso. È un cane da compagnia calmo, \"felino\" e affettuoso. Si adatta all'appartamento, ma è fragile e soffre il caldo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "chin",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Chin"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Chin.jpg",
+      "filename": "Chin.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Origini cinesi/coreane)",
+      "colorazioni": "Bianco e Nero, Bianco e Rosso (inclusi limone e arancio)",
+      "temperamento_breve": "Affettuoso, Calmo, Sensibile, \"Felino\"",
+      "descrizione_generale": "<p>Il Chin Giapponese (Japanese Chin) è un cane da compagnia toy di antichissima origine, allevato per secoli esclusivamente come cane da grembo per la nobiltà imperiale giapponese. È un cane elegante, dall'aspetto aristocratico, con un muso corto, occhi grandi e un mantello lungo e setoso, specialmente su orecchie e coda.</p><p>Il suo carattere è spesso descritto come \"felino\": è calmo, pulito (si lava le zampe), aggraziato e ama stare in posti alti. È un compagno affettuoso e sensibile, devoto al suo proprietario, ma più riservato di altri cani toy. Si adatta perfettamente alla vita in appartamento.</p>",
+      "origini_storia": "<p>Le origini del Chin sono cinesi o coreane. Cani simili erano doni preziosi scambiati tra le corti imperiali. Si ritiene che siano arrivati in Giappone come dono dall'imperatore cinese (o dai sovrani coreani) alla corte imperiale giapponese, forse già nel 732 d.C. Questi cani sono gli antenati sia del Chin che del Pechinese.</p><p>In Giappone, il Chin fu allevato per secoli in isolamento, diventando un cane da grembo sempre più piccolo e raffinato, custodito gelosamente dall'aristocrazia (gli Shogun). Erano così preziosi che venivano tenuti in gabbie di bambù come uccelli. La razza arrivò in Occidente nel 1853, quando il Commodoro Matthew Perry ne portò alcuni esemplari negli Stati Uniti e in Inghilterra.</p>",
+      "aspetto_fisico": "<p>È un cane toy, elegante e quadrato. L'altezza al garrese è circa 25 cm, ma il peso è molto leggero, 2-5 kg. La testa è grande, con un cranio largo e un muso molto corto (brachicefalo). Gli occhi sono grandi, scuri e sporgenti.</p><p>Il mantello è lungo, setoso, dritto e monostrato (senza sottopelo). Forma una criniera sul collo e frange abbondanti su orecchie, arti e coda (che è portata piumata sulla schiena). I colori sono sempre bicolori: Bianco e Nero o Bianco e Rosso (che include tutte le sfumature di rosso, arancio e limone).</p>",
+      "carattere_temperamento": "<p>Il Chin è un cane da compagnia calmo e sensibile. Non è iperattivo. È affettuoso con la sua famiglia, ma in modo dignitoso e riservato, non esuberante. È noto per le sue abitudini \"feline\": è molto pulito, silenzioso e ama arrampicarsi sui mobili per osservare dall'alto.</p><p>È intelligente ma testardo. È riservato con gli estranei, ma non abbaia molto (è un cane da allerta discreto). È un cane fragile che non ama il gioco rude.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. Essendo una razza toy e brachicefala, è soggetta a molti problemi. Soffre di sindrome brachicefalica (difficoltà respiratorie) e soffre moltissimo il caldo. Gli occhi sporgenti sono vulnerabili a traumi e ulcere.</p><p>Sono comuni la lussazione della rotula e problemi cardiaci (Malattia della Valvola Mitralica). Il mantello lungo, pur non avendo sottopelo, richiede una spazzolatura quotidiana per evitare nodi.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono minime. È un cane da appartamento perfetto. Brevi passeggiate e gioco in casa sono tutto ciò che serve. L'esercizio deve essere evitato con il caldo. L'addestramento richiede pazienza; sono sensibili e testardi.</p>",
+      "ideale_per": "<p>È ideale per persone anziane, single o coppie che vivono in un ambiente tranquillo e in appartamento. È per chi cerca un cane da grembo calmo, pulito e affettuoso, e che è molto presente in casa. Richiede un proprietario attento alle sue esigenze di salute.</p><p>Non è assolutamente adatto a famiglie con bambini piccoli (è troppo fragile) o a chi vive in climi caldi. Non è un cane per persone attive che cercano un partner sportivo.</p>",
+      "energia_e_livelli_di_attivita": 2.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 1.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Chinese crested dog",
+    "post_excerpt": "Cane da compagnia unico, disponibile in due varietà: \"Nudo\" (con ciuffi su testa, zampe e coda) e \"Powderpuff\" (pelo lungo). È un cane toy affettuoso, sensibile e giocherellone. La varietà nuda richiede cure intensive della pelle.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "chinese-crested-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Chinese crested dog"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Chinese-crested-dog.jpg",
+      "filename": "Chinese-crested-dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Cina (Patronato: Regno Unito)",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammessi",
+      "temperamento_breve": "Affettuoso, Vivace, Sensibile, Giocherellone",
+      "descrizione_generale": "<p>Il Chinese Crested Dog (Cane Nudo Cinese) è un cane toy da compagnia famoso per il suo aspetto esotico. La razza si presenta in due varietà distinte, che nascono spesso nella stessa cucciolata: la varietà \"Hairless\" (Nudo) e la varietà \"Powderpuff\" (Piumino da Cipria).</p>\n<ul>\n<li><b>Hairless (Nudo):</b> Ha la pelle nuda e morbida, con ciuffi di pelo setoso solo sulla testa (cresta), sulla coda (pennacchio) e sui piedi (\"calzini\").</li>\n<li><b>Powderpuff (Piumino):</b> È completamente ricoperto da un doppio mantello lungo, soffice e setoso.</li>\n</ul>\n<p>Entrambe le varietà sono cani da compagnia eccezionali: affettuosi, sensibili, vivaci e molto legati al proprietario. Sono cani da grembo che soffrono la solitudine. La varietà nuda, in particolare, richiede cure intensive per la pelle (scottature, freddo, acne).</p>",
+      "origini_storia": "<p>Nonostante il nome, l'origine esatta è incerta. Si ritiene che i cani nudi siano apparsi in Africa (African Sand Dog) o in Messico (Xoloitzcuintle). Cani nudi cinesi sono documentati da secoli, usati dai marinai cinesi sulle navi per cacciare i topi. Questi cani furono scambiati nei porti di tutto il mondo.</p><p>La razza moderna è stata sviluppata negli Stati Uniti, in particolare dall'allevatrice Debora Wood (negli anni '50), e in Gran Bretagna. La FCI ha riconosciuto la razza nel 1987 (Standard N° 288, con patronato britannico). Il gene della nudità è dominante e letale se omozigote; per questo i nudi (eterozigoti) vengono incrociati con i Powderpuff (omozigoti recessivi) per mantenere la razza in salute.</p>",
+      "aspetto_fisico": "<p>È un cane toy, piccolo e aggraziato. L'altezza al garrese è 28–33 cm (maschi) e 23–30 cm (femmine). Il peso non supera i 5,5 kg. La struttura è fine e slanciata (\"tipo cervo\") o più robusta (\"tipo pony\").</p><p>Nella varietà Nuda, la pelle è morbida e calda al tatto. Nella varietà Powderpuff, il pelo è lungo e setoso. Tutti i colori e le combinazioni sono ammessi. Il gene della nudità è legato a una dentizione incompleta (i cani nudi hanno spesso denti mancanti o a forma di zanna, mentre i Powderpuff hanno denti normali).</p>",
+      "carattere_temperamento": "<p>È un cane da compagnia allegro, vivace e molto affettuoso. È un \"cane velcro\" che si lega profondamente a una persona e soffre molto la solitudine. È sensibile e non risponde bene ai modi bruschi. È giocherellone e ama intrattenere.</p><p>È riservato con gli estranei, il che lo rende un buon cane da allerta (anche se non abbaia eccessivamente). È generalmente socievole con altri animali. È noto per la sua natura \"felina\", amando stare in posti alti.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 13-15 anni. La varietà Powderpuff è generalmente molto sana. La varietà Nuda richiede cure specifiche:\n<ul>\n<li><b>Pelle:</b> È vulnerabile a scottature solari (richiede protezione), secchezza (richiede idratazione), acne e punti neri.</li>\n<li><b>Freddo:</b> È estremamente sensibile al freddo e deve indossare cappotti.</li>\n<li><b>Denti:</b> I cani nudi soffrono di problemi dentali (perdita precoce dei denti, tartaro) dovuti al gene della nudità. Richiedono un'igiene orale costante.</li>\n</ul>\nEntrambe le varietà possono soffrire di lussazione della rotula e problemi oculari (PRA).</p>",
+      "attivita_addestramento": "<p>È un cane da appartamento perfetto. Le esigenze di esercizio sono basse. Brevi passeggiate e molto gioco in casa sono sufficienti. Sono sorprendentemente agili e possono eccellere nell'agility.</p><p>Sono intelligenti e desiderosi di compiacere, rendendoli facili da addestrare con metodi positivi. L'addestramento alla pulizia può essere lento.</p>",
+      "ideale_per": "<p>Ideale per chi vive in appartamento, per persone che sono sempre a casa e cercano un cane da grembo affettuoso e sensibile. La varietà Powderpuff è più facile da gestire e più adatta ai principianti. La varietà Nuda è per chi è disposto a dedicare tempo quotidiano alla cura della pelle.</p><p>Non è adatto a famiglie con bambini piccoli (è fragile) o a chi è fuori casa tutto il giorno. La varietà nuda non è adatta a climi freddi.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Chow-chow",
+    "post_excerpt": "Antico cane cinese di tipo Spitz, famoso per la sua lingua blu-nera e l'aspetto leonino. È un cane indipendente, fiero e riservato. È un eccellente cane da guardia, leale alla famiglia ma molto diffidente con gli estranei.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "chow-chow",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Chow-chow"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Chow-chow.jpg",
+      "filename": "Chow-chow.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Cina (Patronato: Regno Unito)",
+      "colorazioni": "Rosso, Nero, Blu, Crema, Bianco (Unicolore)",
+      "temperamento_breve": "Indipendente, Leale, Riservato, Fiero",
+      "descrizione_generale": "<p>Il Chow Chow è una delle razze canine più antiche del mondo, un cane di tipo Spitz originario della Cina settentrionale. È immediatamente riconoscibile per il suo aspetto leonino (specialmente la varietà a pelo lungo), la sua lingua di colore blu-nero e la sua andatura rigida. È un cane di taglia media, compatto e molto potente.</p><p>Non è un cane espansivo. È una razza primitiva, con un carattere fiero, indipendente, riservato e quasi \"felino\". È incredibilmente leale alla sua famiglia, ma estremamente diffidente e territoriale con gli estranei, il che lo rende un cane da guardia eccellente e silenzioso. Richiede un proprietario esperto e una socializzazione precoce.</p>",
+      "origini_storia": "<p>Le origini del Chow Chow si perdono nella Cina di oltre 2000 anni fa. Si ritiene sia uno dei cani più antichi, come confermato da analisi del DNA. È stato un cane \"tuttofare\": veniva usato per la caccia (lupi, orsi), per la guardia ai templi e alle case, per il traino di slitte e, purtroppo, anche come fonte di cibo e pelliccia.</p><p>La sua lingua blu-nera è una caratteristica che condivide solo con lo Shar Pei. Arrivò in Inghilterra alla fine del XVIII secolo, ma divenne noto solo alla fine del XIX secolo, quando la Regina Vittoria ne prese interesse. Fu in Inghilterra che la razza fu raffinata per l'aspetto leonino che conosciamo oggi. La FCI ha riconosciuto la razza nel 1957 (Standard N° 205).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, compatto e robusto. L'altezza al garrese per i maschi è 48–56 cm, per le femmine 46–51 cm. Il peso è 20–32 kg. La testa è larga, con un muso relativamente corto. La lingua, le gengive e il palato devono essere blu-neri.</p><p>Esistono due varietà di pelo:\n<ul>\n<li><b>Pelo Lungo (Rough):</b> Il più comune. Pelo folto, dritto e abbondante, che forma una criniera leonina.</li>\n<li><b>Pelo Corto (Smooth):</b> Pelo corto, fitto e felpato.</li>\n</ul>\nEntrambe le varietà hanno un sottopelo lanoso. I colori sono unicolori: rosso, nero, blu, crema o bianco. L'andatura è rigida e \"a pendolo\" a causa dei garretti dritti.</p>",
+      "carattere_temperamento": "<p>Il Chow Chow è un cane per un solo padrone (o una sola famiglia). È leale, ma non in modo servile. È indipendente, riservato e molto dignitoso. Non è un cane giocherellone o espansivo. È noto per essere molto pulito, quasi come un gatto.</p><p>È un cane da guardia eccezionale. È territoriale e molto diffidente con gli estranei. Non è un cane che accetta facilmente ospiti. Può essere molto dominante e aggressivo con altri cani dello stesso sesso. La socializzazione precoce e intensiva è fondamentale per mitigare la sua natura sospettosa.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-12 anni. È soggetto a diversi problemi di salute. La displasia dell'anca e del gomito è molto comune. È anche soggetto a entropion (palpebre arrotolate all'interno), che irrita l'occhio.</p><p>Il mantello folto (specialmente nel pelo lungo) richiede una spazzolatura costante per evitare nodi e una toelettatura professionale. Perde molto pelo. Soffre terribilmente il caldo (rischio di colpo di calore) a causa del mantello e del muso corto.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane sportivo. Passeggiate quotidiane tranquille, in orari freschi, sono sufficienti. Si adatta alla vita in appartamento, purché non faccia troppo caldo.</p><p>L'addestramento è molto difficile. È una delle razze più testarde e meno motivate a compiacere. Richiede un proprietario esperto, paziente e che usi metodi basati sul rispetto, non sulla coercizione. La socializzazione da cucciolo è obbligatoria.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di razze primitive o Spitz, che cercano un cane da guardia leale e indipendente. È per chi vive in un ambiente tranquillo, in un clima fresco, e apprezza un cane \"felino\" e non invadente.</p><p>Non è assolutamente un cane per principianti, per famiglie con bambini piccoli (è poco paziente), o per chi cerca un cane socievole e obbediente. È sconsigliato a chi vive in climi caldi.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Cimarron uruguayo",
+    "post_excerpt": "Molosso nazionale dell'Uruguay, è un cane da bestiame (pastore e guardiano) e da caccia grossa (cinghiale). Equilibrato, coraggioso e protettivo. È un cane da lavoro rustico, che richiede un proprietario esperto, socializzazione e spazio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cimarron-uruguayo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cimarron uruguayo"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cimarron-uruguayo.jpg",
+      "filename": "Cimarron-uruguayo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Uruguay",
+      "colorazioni": "Tigrato (Brindle), Fulvo (Bay), in tutte le tonalità, con o senza maschera",
+      "temperamento_breve": "Equilibrato, Coraggioso, Protettivo, Intelligente",
+      "descrizione_generale": "<p>Il Cimarrón Uruguayo è l'unica razza canina autoctona dell'Uruguay. È un cane molossoide di taglia grande, forte, agile e resistente. Il suo nome deriva dagli animali (o schiavi) fuggiti e tornati allo stato selvatico (\"cimarrón\"). È un cane da lavoro \"tuttofare\" per eccellenza, utilizzato per la conduzione del bestiame (mandriano), la guardia alla proprietà e la caccia alla grossa selvaggina (cinghiale).</p><p>È una razza dal carattere molto equilibrato: è coraggioso, intelligente e sicuro di sé. È un cane da guardia innato, molto protettivo della sua famiglia e diffidente con gli estranei, ma senza aggressività ingiustificata. Richiede un proprietario esperto e un ambiente rurale.</p>",
+      "origini_storia": "<p>La razza discende dai molossi e dai levrieri da caccia (come l'Alano) portati in Uruguay dai conquistatori spagnoli e portoghesi nel XVII e XVIII secolo. Questi cani furono abbandonati o fuggirono, tornando allo stato selvatico (\"cimarrones\") e sopravvivendo per secoli nelle pianiane uruguaiane attraverso la selezione naturale.</p><p>Divennero così numerosi da essere considerati un flagello, e il governo ne ordinò lo sterminio. Tuttavia, alcuni allevatori nelle regioni di Cerro Largo e Treinta y Tres riconobbero il loro valore e iniziarono a catturarli e addomesticarli, selezionandoli per il lavoro con il bestiame. L'Associazione degli allevatori di Cimarrón (ACCU) è stata fondata nel 1989. La FCI ha riconosciuto la razza in via provvisoria nel 2006 e definitiva nel 2017 (Standard N° 353).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, forte e muscoloso. L'altezza al garrese per i maschi è 58–61 cm (peso 38–45 kg), per le femmine 55–58 cm (peso 33–40 kg). La struttura è agile e resistente. Le orecchie vengono tradizionalmente tagliate corte a forma di \"orecchio di puma\" nel suo paese d'origine (pratica vietata in Italia).</p><p>Il mantello è corto, liscio e con un buon sottopelo. I colori sono il tigrato (brindle) in tutte le sue sfumature e il fulvo (bayo), con o senza maschera scura. Il bianco è ammesso solo in piccole aree.</p>",
+      "carattere_temperamento": "<p>Il Cimarrón è un cane da lavoro equilibrato. È molto intelligente, coraggioso e sicuro di sé. È un cane da guardia istintivo, molto vigile e protettivo del suo territorio e della sua famiglia. È diffidente con gli estranei, ma valuta la situazione prima di reagire.</p><p>È un cane da pastore che lavora con il bestiame, quindi è addestrabile, ma anche dominante. Richiede un proprietario che sia un leader chiaro e coerente. Ha un forte istinto predatorio. La socializzazione precoce è fondamentale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. Essendo una razza \"naturale\" e da lavoro, è estremamente sana e robusta. La displasia dell'anca e del gomito è monitorata, ma ha un'incidenza bassa. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un cane da lavoro che deve muoversi. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un ranch dove poter correre e \"lavorare\" (anche solo pattugliare). È un ottimo cane da canicross o escursionismo.</p><p>L'addestramento è per proprietari esperti. È intelligente ma dominante. Richiede un addestramento basato sul rispetto e sulla coerenza ferrea. La socializzazione deve essere costante.</p>",
+      "ideale_per": "<p>È un cane ideale per proprietari esperti di molossi o cani da lavoro, che vivono in un ambiente rurale con molto spazio. È perfetto per chi cerca un cane da guardia equilibrato e un compagno di lavoro per la gestione del bestiame o la caccia.</p><p>Non è un cane per principianti, per la vita in città, o per chi non sa essere un leader autorevole. La sua dominanza e il suo istinto di guardia richiedono una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 4.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Ciobanesc romanesc de bucovina",
+    "post_excerpt": "Potente cane da pastore guardiano (LGD) rumeno, originario dei Carpazi (Bucovina). È un cane calmo, coraggioso e molto protettivo del bestiame e della famiglia. Diffidente con gli estranei e molto vocale. Richiede spazio rurale e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "ciobanesc-romanesc-de-bucovina",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Ciobanesc romanesc de bucovina"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Ciobanesc-romanesc-de-bucovina.jpg",
+      "filename": "Ciobanesc-romanesc-de-bucovina.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Romania (Regione della Bucovina)",
+      "colorazioni": "Bianco (con o senza macchie nere, grigie o tigrate), Tigrato (su fondo bianco)",
+      "temperamento_breve": "Protettivo, Calmo, Coraggioso, Indipendente",
+      "descrizione_generale": "<p>Il Ciobanesc Romanesc de Bucovina (Cane da Pastore Rumeno di Bucovina) è un cane da pastore guardiano (LGD) di taglia grande e imponente, originario delle montagne dei Carpazi, nella regione della Bucovina (Romania). È un cane rustico, selezionato per secoli per un solo scopo: proteggere le greggi e le proprietà dai grandi predatori (lupi, orsi, linci).</p><p>È un cane dal carattere equilibrato e calmo, ma con un istinto di guardia innato. È molto coraggioso, leale alla sua famiglia e protettivo. È noto per il suo abbaio profondo e potente, che usa per avvertire gli intrusi. È un cane da lavoro, non da appartamento, che richiede spazio e un proprietario esperto.</p>",
+      "origini_storia": "<p>Questa razza è un cane da montagna \"naturale\", discendente dagli antichi molossi arrivati in Europa con le migrazioni dei popoli. Si è sviluppato in isolamento nelle montagne della Bucovina (Romania nord-orientale), dove i pastori lo hanno sempre utilizzato per la protezione del bestiame. La selezione è stata puramente funzionale.</p><p>È una delle quattro razze da pastore rumene. Il primo standard è stato redatto nel 1982 e aggiornato nel 2001. La razza è stata riconosciuta provvisoriamente dalla FCI nel 2009 e in via definitiva nel 2019 (Standard N° 357). È un cane da lavoro molto apprezzato in patria.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, massiccio e imponente. L'altezza al garrese per i maschi è 68–78 cm, per le femmine 64–72 cm. Il peso è proporzionato alla taglia, solitamente 50-80 kg. La struttura è potente e rustica.</p><p>Il mantello è doppio, folto e lungo (6-9 cm), con un sottopelo denso. Forma una criniera sul collo. Il colore principale è il bianco, con grandi macchie nere, grigie o tigrate. Esistono anche esemplari unicolore bianchi o grigi, ma sono meno comuni.</p>",
+      "carattere_temperamento": "<p>È un cane da guardiania classico. È calmo, stabile ed equilibrato, ma sempre vigile (specialmente di notte). È coraggioso, indipendente e abituato a prendere decisioni. È molto protettivo del suo territorio e della sua famiglia, in particolare dei bambini.</p><p>È estremamente diffidente verso gli estranei e ha un abbaio molto forte. Può essere dominante con altri cani, specialmente i maschi. Richiede una socializzazione precoce e un proprietario che sia un leader calmo e autorevole.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza molto rustica e sana, selezionata per la sopravvivenza. Come tutti i giganti, è soggetto a displasia dell'anca e del gomito e a torsione gastrica (gonfiore). Il mantello folto richiede spazzolate regolari, specialmente durante le abbondanti mute stagionali.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane da corsa, ma da pattugliamento. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. L'addestramento all'obbedienza è difficile; è un cane indipendente. L'addestramento deve focalizzarsi sulla socializzazione e sulla gestione.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di LGD, che vivono in un ambiente rurale, in una casa con un grande terreno recintato. È ideale per chi cerca un cane da guardia serio, calmo e protettivo.</p><p>Non è un cane per principianti, per la vita in città, o per chi ha molti ospiti. La sua natura protettiva e la sua vocalità richiedono una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 1.5
+    }
+  }
+]

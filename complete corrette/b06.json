@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Bracco di burgos",
+    "post_excerpt": "Il Bracco di Burgos (Perdiguero de Burgos) è un cane da ferma spagnolo di taglia grande. Robusto e resistente, è un cacciatore metodico e calmo, specializzato in selvaggina da piuma. È un cane docile e leale in famiglia, ma richiede molto esercizio e preferisce la vita in campagna.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-di-burgos",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco di burgos"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-di-burgos.jpg",
+      "filename": "Bracco-di-burgos.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Provincia di Burgos)",
+      "colorazioni": "Fegato e bianco (principalmente picchiettato, roano o macchiato)",
+      "temperamento_breve": "Calmo, Tenace, Docile, Riservato, Resistente",
+      "descrizione_generale": "<p>Il Bracco di Burgos, conosciuto in patria come Perdiguero de Burgos, è una delle razze da ferma spagnole più antiche e rustiche. È un cane di taglia grande, dall'aspetto robusto e potente, ma con un'espressione nobile e leggermente malinconica, accentuata dalle lunghe orecchie pendenti.</p><p>Nato come cane da caccia versatile, oggi è un eccellente cane da ferma per la selvaggina da piuma (in particolare la pernice). È noto per la sua eccezionale resistenza e il suo temperamento calmo. In famiglia è un compagno docile e leale, anche se la sua natura di cacciatore richiede ampi spazi e molto movimento.</p>",
+      "origini_storia": "<p>Le origini del Perdiguero de Burgos sono antichissime e si perdono nella storia della penisola iberica. Si ritiene discenda dagli antichi segugi iberici, incrociati forse con il Bracco di Navarra. Era un cane molto apprezzato per la caccia alla grossa selvaggina, come il cervo, prima di essere adattato alla caccia da piuma con l'avvento delle armi da fuoco.</p><p>La razza si è sviluppata principalmente nella regione di Castiglia e León, in particolare nella provincia di Burgos. Come molte razze da lavoro, ha rischiato seriamente l'estinzione dopo la Guerra Civile Spagnola (1936-1939). Fu salvata da un attento programma di recupero negli anni '50 e '60, che ha permesso di preservare questo cane robusto e funzionale.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande e struttura solida. L'altezza al garrese per i maschi è 62-67 cm, per le femmine 59-64 cm. Il peso si aggira tra i 25 e i 30 kg. La testa è grande, con un cranio largo e uno stop moderato. Le orecchie sono lunghe, cadenti e morbide.</p><p>Il mantello è corto, fitto e liscio. Il colore è molto caratteristico: una base bianca con macchie fegato (marroni) e una forte picchiettatura (roano) fegato, che spesso dà al cane un aspetto uniformemente marrone chiaro da lontano. La testa e le orecchie sono solitamente di colore fegato solido.</p>",
+      "carattere_temperamento": "<p>Il Bracco di Burgos è noto per il suo temperamento eccezionalmente calmo ed equilibrato. È un cane serio, docile e molto intelligente. Sul campo, è un cacciatore tenace e metodico, non un fulmine, ma un corridore di resistenza con un fiuto eccellente.</p><p>In famiglia, è un compagno leale e gentile, molto paziente con i bambini. Tuttavia, mantiene un'indole da cane da ferma: è riservato con gli estranei (senza essere aggressivo) e ha un forte istinto predatorio. È un cane che ha bisogno di un proprietario calmo e coerente.</p>",
+      "salute_cura": "<p>È una razza generalmente rustica e sana, con un'aspettativa di vita media di 12-14 anni. Data la sua taglia, può essere soggetto a displasia dell'anca e del gomito. Il punto debole più comune sono le sue lunghe orecchie pendenti, che richiedono una pulizia costante per prevenire otiti e infezioni.</p><p>La cura del mantello corto è minima: è sufficiente una spazzolata settimanale per rimuovere il pelo morto. La perdita di pelo è moderata.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane iperattivo, ma un atleta di resistenza. Non è adatto alla vita in appartamento; ha bisogno di un giardino e, soprattutto, di lunghe e costanti passeggiate quotidiane, jogging o escursioni in campagna.</p><p>L'addestramento richiede pazienza. È intelligente e docile, ma come molti bracchi può essere testardo e indipendente. Risponde bene a un addestramento gentile e positivo, ma non a metodi duri. La socializzazione precoce è importante per mitigare la sua riservatezza.</p>",
+      "ideale_per": "<p>Questo cane è ideale per **cacciatori** che cercano un cane da ferma resistente e metodico. È adatto anche a famiglie molto attive che vivono in campagna, con un grande giardino, e che amano fare lunghe escursioni. È per chi cerca un cane calmo in casa ma energico all'esterno.</p><p>È **fortemente sconsigliato** a persone sedentarie, a chi vive in un piccolo appartamento e ai proprietari principianti che non sono in grado di gestire un cane da caccia con alte esigenze di esercizio e una vena di testardaggine.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bracco francese",
+    "post_excerpt": "Il Bracco Francese (Braque Français) è un cane da ferma versatile ed energico, diviso in due tipi: Gascogne (più grande) e Pyrénées (più piccolo). È un cacciatore appassionato, ma noto per la sua docilità e facilità di addestramento. Un ottimo compagno per famiglie di cacciatori o molto attive.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-francese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco francese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/bracco-francese4-1280x720-1.jpg",
+      "filename": "bracco-francese4-1280x720-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Pirenei e Guascogna)",
+      "colorazioni": "Bianco e marrone (a macchie, picchiettato o roano), Marrone solido.",
+      "temperamento_breve": "Docile, Intelligente, Energico, Affettuoso, Addestrabile",
+      "descrizione_generale": "<p>Il Bracco Francese (Braque Français) è un'antica razza da ferma originaria del sud-ovest della Francia. È considerato uno dei progenitori di molti moderni cani da ferma. Esiste in due varietà distinte, che differiscono principalmente per la taglia:</p>\n<ul>\n  <li><b>Tipo Gascogne:</b> Più grande, pesante e dall'aspetto più \"molossoide\", con pelle più lassa.</li>\n  <li><b>Tipo Pyrénées:</b> Più piccolo, leggero, agile e veloce. È la varietà più diffusa oggi.</li>\n</ul>\n<p>Entrambi sono cacciatori eccezionali, ma si distinguono da molti altri bracchi per il loro carattere particolarmente docile, la loro intelligenza e la relativa facilità di addestramento. Sono compagni affettuosi in famiglia, pur mantenendo un'energia da cacciatore.</p>",
+      "origini_storia": "<p>Le origini del Bracco Francese sono antichissime, discendendo probabilmente da cani da ferma spagnoli o italiani (come l'antico Bracco Italiano) introdotti in Francia secoli fa. Erano già molto apprezzati nel XVII secolo per la caccia con la rete e poi con il fucile. Per molto tempo, non ci fu una distinzione netta tra le varietà regionali.</p><p>Alla fine del XIX secolo, la razza rischiò di scomparire, soppiantata dai pointer inglesi. Fu salvata da allevatori appassionati che, all'inizio del XX secolo, decisero di separare e standardizzare i due tipi. Il Dr. Castets fu fondamentale per la selezione del tipo Pyrénées, più leggero e adatto ai gusti moderni, mentre il tipo Gascogne rappresenta la forma più antica e pesante.</p>",
+      "aspetto_fisico": "<p>La differenza principale è la taglia. Il <b>Tipo Gascogne</b> è alto 58-69 cm (maschi) e 56-68 cm (femmine). Il <b>Tipo Pyrénées</b> è più piccolo, con maschi a 47-58 cm e femmine a 47-56 cm, ed è molto più agile.</p><p>Entrambi hanno un mantello corto, fine e fitto. I colori più comuni sono:</p>\n<ul>\n  <li>Marrone solido.</li>\n  <li>Bianco e marrone a macchie.</li>\n  <li>Bianco e marrone picchiettato (roano).</li>\n</ul>\n<p>Hanno la classica testa da bracco, con orecchie lunghe e pendenti e un'espressione dolce e intelligente.</p>",
+      "carattere_temperamento": "<p>Il punto forte del Bracco Francese (specialmente il tipo Pyrénées) è il suo carattere. È un cane da caccia con un'alta energia e un forte istinto predatorio, ma è anche eccezionalmente docile, facile da addestrare (per uno standard da caccia) e molto desideroso di compiacere il proprietario. È sensibile e non richiede metodi duri.</p><p>In famiglia, è un compagno affettuoso, leale e molto paziente con i bambini. È generalmente socievole con gli altri cani. È un cane che ha bisogno di vivere a stretto contatto con la famiglia e soffre se lasciato solo.</p>",
+      "salute_cura": "<p>È una razza rustica e generalmente molto sana, con un'aspettativa di vita di 12-14 anni. I problemi principali sono quelli comuni ai cani da caccia sportivi: displasia dell'anca e del gomito. Le lunghe orecchie pendenti richiedono una pulizia regolare e attenta per prevenire le otiti.</p><p>La cura del mantello corto è minima. È sufficiente una spazzolata settimanale per mantenere il pelo pulito e rimuovere quello morto.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un atleta che ha bisogno di correre quotidianamente. Non è un cane da appartamento se non viene portato fuori per attività intense (corsa, canicross, escursioni). È fondamentale per lui poter usare il fiuto.</p><p>L'addestramento è il suo punto di forza. È considerato uno dei cani da ferma più facili da addestrare grazie alla sua intelligenza, sensibilità e voglia di collaborare. Risponde magnificamente al rinforzo positivo. È una buona scelta per un cacciatore o un proprietario sportivo alla prima esperienza con un cane da ferma.</p>",
+      "ideale_per": "<p>È il cane ideale per **cacciatori** che desiderano un cane da ferma efficace ma anche un eccellente compagno di famiglia. È ottimo per famiglie molto attive, che praticano sport (corsa, escursionismo) e vivono in campagna o in una casa con un grande giardino.</p><p>È **sconsigliato** a persone sedentarie, a chi vive in un piccolo appartamento e non ha tempo da dedicargli. Nonostante la docilità, la sua alta energia da cacciatore deve essere sfogata.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bracco italiano",
+    "post_excerpt": "Il Bracco Italiano è un antico e nobile cane da ferma italiano. Potente ma docile, è noto per la sua espressione pensierosa e il suo caratteristico trotto. È un compagno leale e sensibile, ma anche un cacciatore tenace. Richiede esercizio, un proprietario paziente e sbava molto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-italiano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco italiano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-italiano.jpg",
+      "filename": "Bracco-italiano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Piemonte e Lombardia)",
+      "colorazioni": "Bianco-arancio, Roano-marrone (Marrone e bianco picchiettato)",
+      "temperamento_breve": "Docile, Sensibile, Intelligente, Calmo (in casa), Testardo",
+      "descrizione_generale": "<p>Il Bracco Italiano è una delle razze da ferma più antiche d'Europa, un cane nobile e potente che incarna secoli di storia venatoria italiana. È un cane di taglia grande, robusto e muscoloso, noto per la sua testa cesellata, le lunghe orecchie pendenti e un'espressione quasi \"pensierosa\" o malinconica.</p><p>Sebbene sia un cacciatore instancabile e resistente sul campo, famoso per il suo caratteristico trotto veloce e ampio, in casa è un compagno sorprendentemente calmo, docile e incredibilmente affettuoso. È un cane sensibile che richiede un proprietario attento, molto esercizio e una certa tolleranza alla bava.</p>",
+      "origini_storia": "<p>Le origini del Bracco Italiano sono antichissime. Cani simili sono raffigurati in affreschi del XIV secolo e descritti in testi rinascimentali, dove erano i cani da ferma preferiti dalla nobiltà, come i Medici e i Gonzaga. Si ritiene che discenda da un incrocio tra l'antico Segugio Italiano e il Molosso asiatico.</p><p>Per secoli esistevano due varietà distinte: il Bracco \"Lombardo\" (più pesante, di colore roano-marrone) e il Bracco \"Piemontese\" (più leggero, di colore bianco-arancio). La razza rischiò l'estinzione all'inizio del XX secolo. Fu salvata da un gruppo di appassionati, tra cui spicca il nome di Paolo Ciceri, fondatore della S.A.B.I. (Società Amatori Bracco Italiano) nel 1949, che unificò i due tipi nello standard moderno.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande e atletico. L'altezza al garrese è 58-67 cm per i maschi e 55-62 cm per le femmine. Il peso varia dai 25 ai 40 kg. La sua struttura è potente, con un torace profondo e una muscolatura ben sviluppata. La testa è grande, con labbra pendenti (che causano bava) e lunghe orecchie.</p><p>Il mantello è corto, fitto e lucido. I colori ammessi sono solo due:</p>\n<ul>\n  <li><b>Bianco-arancio:</b> Fondo bianco con macchie arancio o ambra.</li>\n  <li><b>Roano-marrone:</b> Fondo bianco picchiettato di marrone (roano), con o senza macchie marroni più grandi.</li>\n</ul>",
+      "carattere_temperamento": "<p>Il Bracco Italiano è un cane dalla doppia personalità: un lavoratore tenace all'esterno e un compagno calmo e quasi pigro all'interno. È estremamente docile, sensibile e desideroso di compiacere, ma è anche un \"pensatore\": è intelligente e può essere molto testardo se ritiene un comando inutile.</p><p>È incredibilmente affettuoso con la sua famiglia, con cui crea un legame profondo. È generalmente paziente con i bambini. È riservato con gli estranei, ma non aggressivo. Non risponde assolutamente a metodi di addestramento duri, che possono \"spezzare\" il suo carattere sensibile.</p>",
+      "salute_cura": "<p>È una razza generalmente robusta, con un'aspettativa di vita di 10-12 anni. Le sue dimensioni e la sua struttura lo predispongono a:</p>\n<ul>\n  <li><b>Displasia dell'anca e del gomito.</b></li>\n  <li><b>Torsione gastrica (Bloat):</b> Un rischio per tutti i cani a torace profondo.</li>\n  <li><b>Otiti e infezioni auricolari:</b> Le sue lunghe orecchie pendenti richiedono una pulizia costante e rigorosa.</li>\n  <li><b>Problemi oculari:</b> Come l'entropion e l'ectropion.</li>\n</ul>\n<p>La cura del pelo è minima, ma è un cane che **sbava molto**.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. È un atleta di resistenza che ha bisogno di lunghe passeggiate, corse e, idealmente, di lavorare in campagna. Il suo trotto veloce è un'andatura che può mantenere per ore.</p><p>L'addestramento richiede pazienza, coerenza e gentilezza. La sua sensibilità lo rende facile da traumatizzare, mentre la sua intelligenza lo rende testardo. Il rinforzo positivo è l'unica via. La socializzazione precoce è fondamentale.</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** che apprezzano un cane da ferma metodico e resistente, o per famiglie molto attive che vivono in campagna. È per persone che cercano un cane calmo in casa ma energico fuori, e che apprezzano un cane sensibile e intelligente.</p><p>È **fortemente sconsigliato** ai maniaci della pulizia (sbava molto!), a chi vive in un piccolo appartamento, a persone sedentarie e a proprietari impazienti o che usano metodi di addestramento duri.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Bracco portoghese",
+    "post_excerpt": "Il Bracco Portoghese (Perdigueiro Português) è un cane da ferma di taglia media, entusiasta e incredibilmente affettuoso. Noto per la sua testa quadrata e il colore fulvo, è un cacciatore versatile. È un \"cane velcro\", devoto alla famiglia, ma che richiede molto esercizio e soffre la solitudine.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-portoghese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco portoghese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-portoghese.jpg",
+      "filename": "Bracco-portoghese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Portogallo",
+      "colorazioni": "Fulvo (giallo) o marrone, monocolore o con macchie bianche.",
+      "temperamento_breve": "Affettuoso (Velcro), Energico, Intelligente, Docile",
+      "descrizione_generale": "<p>Il Bracco Portoghese (Perdigueiro Português) è un cane da ferma di taglia media, noto per la sua vitalità, la sua robustezza e la sua incredibile devozione al proprietario. È un cacciatore appassionato, specializzato nella pernice (Perdigueiro), ma si distingue per il suo carattere eccezionalmente affettuoso.</p><p>È spesso descritto come un \"cane velcro\", poiché sviluppa un legame quasi simbiotico con la sua famiglia e soffre profondamente la solitudine. È un cane energico, intelligente e addestrabile, che richiede un proprietario attivo e molto presente. La sua testa quadrata e l'espressione dolce sono i suoi marchi di fabbrica.</p>",
+      "origini_storia": "<p>Come altri bracchi iberici, le sue origini sono antiche, risalendo ai cani da ferma presenti in Portogallo fin dal Medioevo. È un parente stretto del Bracco di Burgos. Per secoli è stato il cane da caccia preferito dalla nobiltà portoghese, specialmente durante il regno di Re D. Sebastião nel XVI secolo.</p><p>Come molte razze, subì un declino, ma fu recuperato all'inizio del XX secolo, preservando le sue caratteristiche uniche. È una razza che combina l'abilità venatoria con un temperamento da cane da compagnia quasi senza pari nel gruppo dei bracchi.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, proporzionato e robusto. L'altezza al garrese è di 52-60 cm (maschi 56 cm, femmine 52 cm di media). Il peso è di 20-27 kg per i maschi e 16-22 kg per le femmine. La caratteristica più distintiva è la testa, che deve essere quadrata, con uno stop ben definito.</p><p>Il mantello è corto, fitto e resistente. I colori ammessi sono il giallo (fulvo) e il marrone (fegato), sia in versione monocolore sia con macchie bianche (su testa, collo, petto, piedi).</p>",
+      "carattere_temperamento": "<p>Il Bracco Portoghese è un cane da caccia esuberante e appassionato sul campo, ma la sua caratteristica dominante è l'affettuosità. È estremamente legato al proprietario e alla famiglia, ha un bisogno costante di contatto fisico e non tollera la solitudine. È un \"cane velcro\" che vi seguirà ovunque.</p><p>È molto intelligente, docile e addestrabile, anche se la sua esuberanza da cucciolo può essere impegnativa. È un cane da allarme vigile, ma generalmente socievole con tutti se ben socializzato. È ottimo con i bambini.</p>",
+      "salute_cura": "<p>È una razza generalmente sana, con un'aspettativa di vita di 12-14 anni. Può essere soggetto a displasia dell'anca e, come tutti i bracchi, a infezioni alle orecchie (otiti), anche se le sue orecchie sono più corte e attaccate più in alto rispetto ad altri bracchi, il che riduce leggermente il rischio.</p><p>La cura del mantello corto è minima. Richiede una spazzolata settimanale. È un cane che perde moderatamente pelo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un atleta che ha bisogno di correre e lavorare. Non è un cane da appartamento per persone sedentarie. Richiede lunghe passeggiate quotidiane, corsa, e preferibilmente attività olfattive o di caccia per essere felice.</p><p>L'addestramento è facilitato dalla sua intelligenza e dal suo enorme desiderio di compiacere. Impara velocemente e risponde bene al rinforzo positivo. La sua esuberanza richiede un addestramento precoce alla calma e all'autocontrollo.</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** o famiglie **molto attive** che cercano un cane da lavoro che sia anche un compagno di vita incredibilmente affettuoso. È perfetto per chi è molto presente in casa (lavora da casa, pensionato attivo) e può soddisfare il suo bisogno di contatto.</p><p>È **assolutamente sconsigliato** a chi è fuori casa tutto il giorno. Soffre di ansia da separazione in modo molto marcato. Non è adatto a persone sedentarie.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Bracco saint germain",
+    "post_excerpt": "Il Bracco Saint Germain è un elegante cane da ferma francese, riconoscibile per il suo mantello bianco e arancio. Nato dall'incrocio con il Pointer Inglese, è un cacciatore veloce e raffinato. È un cane sensibile e affettuoso, adatto a cacciatori o famiglie molto attive, ma è una razza rara.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-saint-germain",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco saint germain"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-saint-germain.jpg",
+      "filename": "Bracco-saint-germain.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Parigi)",
+      "colorazioni": "Bianco e Arancio (fulvo-arancio)",
+      "temperamento_breve": "Elegante, Veloce, Sensibile, Affettuoso",
+      "descrizione_generale": "<p>Il Bracco Saint Germain (Braque Saint-Germain) è un cane da ferma francese di taglia grande, noto per la sua eleganza e il suo splendido mantello bianco e arancio. È una razza più leggera e raffinata rispetto ad altri bracchi francesi, un risultato diretto dell'incrocio con il Pointer Inglese.</p><p>È un cacciatore versatile, veloce e appassionato, ma con un carattere estremamente dolce, sensibile e affettuoso in famiglia. È un cane facile da addestrare, che combina l'abilità venatoria con un eccellente temperamento da compagnia. È una razza molto rara, anche in Francia.</p>",
+      "origini_storia": "<p>La storia del Bracco Saint Germain è precisa. La razza nacque intorno al 1830. Il re Carlo X di Francia ricevette in dono due Pointer inglesi, che furono portati nelle scuderie reali nella foresta di Saint-Germain-en-Laye, vicino a Parigi. Questi Pointer furono incrociati con i Bracchi Francesi (probabilmente il tipo Gascogne) già presenti.</p><p>Questo incrocio creò un cane da ferma più veloce e raffinato, che divenne molto popolare. Il primo club di razza fu fondato nel 1913. Come molte razze francesi, rischiò l'estinzione dopo le due guerre mondiali, ma fu salvato da allevatori devoti. Rimane una razza rara, apprezzata per la sua bellezza e il suo carattere.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, atletico ed elegante. L'altezza al garrese per i maschi è 56-62 cm, per le femmine 54-59 cm. Il peso varia dai 18 ai 26 kg. È più leggero e slanciato di un Bracco Francese di Gascogna, mostrando l'influenza del Pointer.</p><p>Il mantello è corto, fine e non troppo duro. Il colore è molto distintivo: fondo bianco con macchie arancio (fulvo-arancio). La picchiettatura (roano) è tollerata ma non desiderata, per distinguerlo dall'Epagneul Breton.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia energico e appassionato, ma il suo tratto distintivo è la sensibilità e la dolcezza. È molto affettuoso con la sua famiglia, desideroso di compiacere e facile da addestrare. È un cane che soffre la solitudine e ha bisogno di vivere a stretto contatto con le persone.</p><p>È un cane da ferma socievole, generalmente buono con i bambini e altri cani. La sua sensibilità lo rende inadatto a metodi di addestramento duri o a proprietari nervosi. È un compagno leale che unisce l'eleganza alla funzionalità.</p>",
+      "salute_cura": "<p>Essendo una razza molto rara, ha un pool genetico ristretto, ma è generalmente considerata sana. L'aspettativa di vita è di 12-14 anni. Le preoccupazioni principali sono la displasia dell'anca e le infezioni alle orecchie (otiti), un classico dei cani con orecchie pendenti.</p><p>La cura del mantello corto è minima. Una spazzolata settimanale è sufficiente per mantenerlo pulito e lucido.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un atleta che ha bisogno di correre. Non è un cane da appartamento. Richiede lunghe passeggiate quotidiane, corsa libera in aree sicure e stimolazione mentale. È un ottimo cane per la caccia o per sport come il canicross.</p><p>L'addestramento è relativamente facile. La sua intelligenza e la sua natura sensibile lo rendono molto recettivo al rinforzo positivo. Impara velocemente e lavora in stretta collaborazione con il proprietario. È fondamentale essere gentili e coerenti.</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** che cercano un cane da ferma elegante, veloce e facile da gestire. È anche un ottimo cane per famiglie molto attive che vivono in campagna e cercano un compagno affettuoso per le loro attività all'aperto.</p><p>È **sconsigliato** a persone sedentarie, a chi vive in città e non ha tempo per l'esercizio fisico, e a proprietari che usano metodi di addestramento severi. La sua rarità lo rende molto difficile da trovare.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Bracco slovacco",
+    "post_excerpt": "Il Bracco Slovacco a Pelo Ruvido (Slovenský Hrubosrstý Stavač) è una razza da ferma moderna, creata in Slovacchia. È un cacciatore versatile e tenace, con un mantello duro color grigio. Energico e intelligente, è un cane da lavoro che richiede un proprietario esperto e attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-slovacco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco slovacco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-Slovacco-A-Pelo-Duro.jpg",
+      "filename": "Bracco-Slovacco-A-Pelo-Duro.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Slovacchia",
+      "colorazioni": "Grigio (in varie tonalità, dal silver al grigio-marrone), con o senza macchie bianche.",
+      "temperamento_breve": "Tenace, Intelligente, Versatile, Energico, Protettivo",
+      "descrizione_generale": "<p>Il Bracco Slovacco a Pelo Ruvido, noto in patria come Slovenský Hrubosrstý Stavač (SHS), è una razza da ferma (Stavač) a pelo duro (Hrubosrstý) sviluppata in Slovacchia nel secondo dopoguerra. È un cane da caccia polivalente, progettato per lavorare su terreni difficili e in condizioni climatiche avverse.</p><p>È un cane robusto, di taglia grande, con un caratteristico mantello \"fil di ferro\" color grigio. È un lavoratore instancabile, tenace e con un eccellente fiuto, capace di fermare, seguire la traccia e riportare. È un cane da lavoro serio, leale ma impegnativo, non per principianti.</p>",
+      "origini_storia": "<p>Questa è una razza di creazione moderna. Il suo sviluppo iniziò negli anni '50 in Slovacchia (allora parte della Cecoslovacchia) da un allevatore di nome Koloman Slimák. L'obiettivo era creare un cane da ferma a pelo duro che fosse perfetto per le foreste e le montagne slovacche e che avesse il distintivo colore grigio.</p><p>Per crearlo, Slimák incrociò diverse razze: il Bracco di Weimar (per il colore e l'abilità), il Český Fousek (Bracco Boemo a pelo duro, per la rusticità) e il Deutsch Drahthaar (Bracco Tedesco a pelo duro, per la versatilità). Il risultato fu questo cane da lavoro tenace. La razza è stata riconosciuta dalla FCI nel 1983.</p>",
+      "aspetto_fisico": "<p>È un cane da ferma di taglia grande, forte e dall'aspetto nobile. L'altezza al garrese per i maschi è 62-68 cm, per le femmine 57-64 cm. Il peso varia dai 25 ai 35 kg. La sua struttura è solida e resistente.</p><p>Il mantello è \"a pelo duro\": è ruvido, fitto e lungo circa 4 cm, con un sottopelo corto e lanoso. Sulla testa forma baffi, barba e sopracciglia pronunciate. Il colore è il suo marchio di fabbrica: **grigio** (chiamato \"šedivá\"), in varie tonalità, dal grigio argento al grigio-marrone. Sono ammesse piccole macchie bianche.</p>",
+      "carattere_temperamento": "<p>Il Bracco Slovacco è un cane da lavoro serio, intelligente e molto energico. È un cacciatore tenace, che non si tira indietro di fronte a terreni difficili o prede combattive. È molto leale e protettivo nei confronti del suo proprietario, ma è naturalmente riservato e diffidente con gli estranei, il che lo rende un buon cane da guardia.</p><p>È un cane che ha bisogno di un \"lavoro\". È addestrabile, ma ha un carattere forte e può essere testardo. Richiede un proprietario esperto che sappia essere un leader coerente. Ha un forte istinto predatorio.</p>",
+      "salute_cura": "<p>Essendo una razza da lavoro moderna e relativamente rara, è generalmente molto sana. L'aspettativa di vita è di 12-14 anni. La displasia dell'anca è da monitorare, come in tutte le razze grandi e attive. Il mantello a pelo duro offre un'eccellente protezione.</p><p>La cura del mantello richiede una spazzolata settimanale per rimuovere lo sporco e il pelo morto. Per mantenere la tessitura corretta e impermeabile, necessita di **stripping** manuale 1-2 volte l'anno. Non va tosato.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un atleta che ha bisogno di correre e lavorare ogni giorno. È ideale per la caccia, ma eccelle anche in sport cinofili che richiedono fiuto e resistenza (es. mantrailing). Non è un cane da appartamento.</p><p>L'addestramento è per esperti. È intelligente, ma la sua tenacia e il suo carattere forte richiedono un proprietario che sappia imporsi con metodi positivi ma fermi. La socializzazione precoce è fondamentale per gestire la sua diffidenza.</p>",
+      "ideale_per": "<p>È un cane ideale **esclusivamente per cacciatori** o per persone molto esperte di cani da lavoro che vivono in campagna e praticano sport cinofili ad alto livello. È per chi cerca un cane da ferma robusto, versatile e protettivo.</p><p>È **sconsigliato** ai proprietari principianti, alle persone sedentarie e a chi vive in città. La sua energia, il suo istinto predatorio e la sua diffidenza lo rendono inadatto alla vita da semplice cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bracco ungherese",
+    "post_excerpt": "Il Bracco Ungherese, o Vizsla, è un cane da ferma elegante e atletico, famoso per il suo mantello \"oro-ruggine\". È un cane \"velcro\", incredibilmente affettuoso e sensibile. Energico e addestrabile, è un ottimo cane da caccia e da famiglia, ma soffre la solitudine.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-ungherese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco ungherese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-ungherese.jpg",
+      "filename": "Bracco-ungherese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Ungheria",
+      "colorazioni": "Fulvo dorato (Oro-ruggine). Piccole macchie bianche ammesse.",
+      "temperamento_breve": "Affettuoso (Velcro), Energico, Sensibile, Intelligente",
+      "descrizione_generale": "<p>Il Bracco Ungherese, o Magyar Vizsla, è un cane da ferma di taglia media, rinomato per la sua bellezza aristocratica, il suo atletismo e il suo caratteristico mantello color \"oro-ruggine\" (fulvo dorato). È una razza da caccia polivalente, capace di lavorare su campo, in foresta e in acqua.</p><p>Ciò che lo distingue è il suo temperamento: è un cane \"velcro\", incredibilmente affettuoso e sensibile, che sviluppa un legame quasi simbiotico con il suo proprietario. È un compagno di famiglia eccezionale, ma la sua alta energia e il suo bisogno di contatto umano lo rendono impegnativo. Esiste in due varietà: Pelo Corto (la più comune) e Pelo Duro.</p>",
+      "origini_storia": "<p>Le origini del Vizsla sono antichissime. I suoi antenati erano i cani da caccia che accompagnavano le tribù Magiare nomadi nelle pianure ungheresi, già nel IX secolo. Per secoli è stato il cane da caccia della nobiltà ungherese, selezionato per la sua velocità, il suo fiuto e il suo colore mimetico nella steppa.</p><p>La razza, come molte in Europa, ha rischiato l'estinzione dopo le due guerre mondiali. Pochi esemplari furono portati via dall'Ungheria dopo l'invasione sovietica, salvando la razza. La varietà a Pelo Duro fu creata negli anni '30 incrociando il Pelo Corto con il Bracco Tedesco a Pelo Duro (Drahthaar).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, elegante, robusto ma leggero. L'altezza al garrese per i maschi è 58-64 cm, per le femmine 54-60 cm. Il peso varia dai 20 ai 30 kg. È un cane asciutto, con muscoli ben definiti e un'espressione intelligente e vivace.</p><p>Il mantello si distingue:</p>\n<ul>\n  <li><b>Pelo Corto:</b> Corto, fitto, liscio e duro al tatto, senza sottopelo.</li>\n  <li><b>Pelo Duro:</b> \"Fil di ferro\", ruvido, lungo 2-3 cm, con baffi e barba. Ha un sottopelo invernale.</li>\n</ul>\n<p>Il colore è il suo marchio di fabbrica: fulvo dorato (oro-ruggine) in varie sfumature. Il colore del naso, delle labbra e delle unghie si abbina a quello del mantello.</p>",
+      "carattere_temperamento": "<p>Il Vizsla è un cane ad alta energia e alta sensibilità. È un cacciatore entusiasta, ma soprattutto un compagno devoto. È il \"cane velcro\" per eccellenza: ha un bisogno fisico di stare a contatto con il proprietario e soffre terribilmente la solitudine. Non è un cane da giardino.</p><p>È estremamente intelligente, addestrabile e desideroso di compiacere. È anche molto sensibile e non risponde ai metodi duri. È un ottimo cane da allarme (molto vocale) ma è generalmente amichevole con tutti. È un \"cucciolo\" per tutta la vita, molto giocherellone.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza generalmente sana, ma può essere soggetta a displasia dell'anca, epilessia, ipotiroidismo e alcune allergie cutanee. La cura del mantello corto è minima. Il pelo duro richiede uno stripping occasionale.</p><p>Essendo privo di sottopelo (il pelo corto), soffre il freddo e l'umidità e necessita di un cappotto in inverno. Le sue orecchie pendenti richiedono controlli regolari per le otiti.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane iperattivo che ha bisogno di almeno 2 ore di attività fisica intensa al giorno. È un compagno ideale per jogging, canicross, escursionismo e, soprattutto, nuoto. Ha bisogno anche di molta stimolazione mentale.</p><p>È molto facile da addestrare per un proprietario esperto e gentile. Impara velocemente ed eccelle in obedience, agility, e prove di caccia. La sua sensibilità richiede un addestramento esclusivamente positivo. La gestione della sua energia è la sfida principale.</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** o **famiglie/persone estremamente attive e sportive**. È perfetto per chi lavora da casa o può portare il cane con sé, data la sua incapacità di stare solo. È per chi cerca un partner di sport e un compagno affettuoso.</p><p>È **assolutamente sconsigliato** a persone sedentarie, a chi vive in un piccolo appartamento senza tempo per l'esercizio, e a chi è fuori casa per molte ore. Se annoiato o lasciato solo, diventa distruttivo e molto vocale (ulula).</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Briquet griffon vendeen",
+    "post_excerpt": "Il Briquet Griffon Vendéen è un segugio francese di taglia media, rustico e tenace. Con un mantello \"griffone\" (duro), è un cacciatore appassionato e molto vocale, specializzato in lepre e cinghiale. È un cane da lavoro energico, non adatto alla vita in città.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "briquet-griffon-vendeen",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Briquet griffon vendeen"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Briquet-griffon-vendeen.jpg",
+      "filename": "Briquet-griffon-vendeen.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Vandea)",
+      "colorazioni": "Fulvo, Sabbia, Bianco e Arancio, Bianco e Nero, Grigio, Tricolore.",
+      "temperamento_breve": "Tenace, Energico, Vocale, Testardo, Rustico",
+      "descrizione_generale": "<p>Il Briquet Griffon Vendéen è un cane da seguita di taglia media (un \"Briquet\" in francese) originario della regione della Vandea. È essenzialmente una versione più piccola e compatta del Grand Griffon Vendéen, ma più grande del Petit Basset. È un cane da caccia rustico, con il tipico mantello \"griffone\" (duro e ispido).</p><p>È un cacciatore appassionato, coraggioso e tenace, utilizzato in muta per la caccia alla lepre, alla volpe e, sempre più spesso, al cinghiale. È un cane da lavoro puro, con un'energia inesauribile, una voce potente e un carattere molto indipendente. Non è un cane da compagnia per principianti.</p>",
+      "origini_storia": "<p>Le origini del Briquet risalgono ai cani da caccia della Vandea, selezionati per la loro capacità di lavorare nel sottobosco fitto e spinoso. È il discendente diretto del Grand Griffon, selezionato per una taglia più gestibile. La razza fu sviluppata prima della Prima Guerra Mondiale, ma, come molte razze francesi, fu quasi spazzata via dai conflitti.</p><p>La razza è stata ufficialmente ricostruita nel dopoguerra, a partire dal 1946, da un gruppo di allevatori francesi. Rimane una razza primariamente da lavoro, apprezzata dai cacciatori per la sua resistenza e la sua voce, ma rara al di fuori dei circuiti venatori.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, forte e ben proporzionato, dall'aspetto rustico e \"arruffato\". L'altezza al garrese è 50-55 cm per i maschi e 48-53 cm per le femmine. Il peso si aggira sui 22-25 kg.</p><p>Il mantello è \"griffone\": lungo (ma non eccessivamente), duro, ispido e con un buon sottopelo. Ha baffi e sopracciglia evidenti. I colori sono vari: fulvo (dal grano al rosso), sabbia, bianco e arancio, bianco e nero, grigio o tricolore.</p>",
+      "carattere_temperamento": "<p>È un segugio al 100%. È energico, tenace e incredibilmente testardo. È un cane da muta, quindi è generalmente socievole con gli altri cani, ma ha un istinto predatorio altissimo e non è affidabile con altri animali.</p><p>È noto per essere molto vocale (\"un cantante\") e usa la sua voce potente in caccia. In famiglia può essere affettuoso, ma il suo primo amore è la caccia. È un cane indipendente che non cerca di compiacere, ma di seguire il suo naso. È un noto fuggitivo.</p>",
+      "salute_cura": "<p>È una razza rustica da lavoro, molto sana. L'aspettativa di vita è di 12-14 anni. Non ha particolari patologie genetiche note. I rischi principali sono legati all'attività venatoria (ferite) e alle orecchie pendenti, che richiedono controlli per le otiti.</p><p>Il mantello duro è di facile manutenzione. Richiede una spazzolata settimanale per rimuovere lo sporco e il pelo morto. Non necessita di toelettature complesse.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve correre per ore, preferibilmente nel bosco. È assolutamente inadatto alla vita in appartamento o in città. Ha bisogno di un giardino recintato a prova di fuga.</p><p>L'addestramento all'obbedienza è molto difficile. È intelligente, ma la sua indipendenza da segugio lo rende sordo ai comandi quando è su una traccia. Il richiamo è quasi impossibile da ottenere. È un cane da addestrare per la caccia, non per l'obedience.</p>",
+      "ideale_per": "<p>Questo cane è adatto **esclusivamente ai cacciatori** che lavorano in muta, specialmente su terreni difficili, per la caccia alla lepre o al cinghiale. È per chi vive in campagna e capisce la mentalità di un segugio vocale e indipendente.</p><p>È **fortemente sconsigliato** a chiunque cerchi un cane da compagnia. Non è per principianti, non è per la città, non è per chi ha vicini sensibili al rumore.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Broholmer",
+    "post_excerpt": "Il Broholmer è un \"gigante gentile\" danese, un antico cane di tipo Mastiff. Un tempo guardiano di castelli, oggi è un cane da famiglia calmo, protettivo e sicuro di sé. Richiede spazio, un proprietario esperto nella gestione di molossi e una socializzazione precoce.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "broholmer",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Broholmer"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Broholmer.jpg",
+      "filename": "Broholmer.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Danimarca",
+      "colorazioni": "Fulvo (con maschera nera), Giallo-oro, Nero.",
+      "temperamento_breve": "Calmo, Protettivo, Sicuro di sé, Leale",
+      "descrizione_generale": "<p>Il Broholmer è un cane di tipo Mastiff di taglia gigante, originario della Danimarca. È una razza antica, nota per il suo aspetto imponente, la sua testa massiccia e il suo temperamento da \"gigante buono\". È un cane da guardia naturale, calmo e sicuro di sé.</p><p>Originariamente utilizzato per la caccia al cervo e, successivamente, come cane da guardia per i grandi castelli e le tenute della nobiltà danese, oggi è un apprezzato cane da famiglia e da guardia. È devoto ai suoi proprietari, ma la sua mole e il suo istinto protettivo richiedono un proprietario esperto.</p>",
+      "origini_storia": "<p>Le origini del Broholmer risalgono al Medioevo, discendendo dai cani di tipo Mastiff portati in Danimarca dai Vichinghi o importati dall'Inghilterra. Divenne famoso come il cane preferito di re e nobili. La sua forma moderna fu definita nel XVIII secolo dal Conte Niels Frederik Sehested, nella sua tenuta di Broholm (da cui la razza prende il nome).</p><p>La razza, un tempo molto diffusa, fu decimata da epidemie e dalle due guerre mondiali, arrivando sull'orlo dell'estinzione. Negli anni '70, un gruppo di appassionati, guidati da Niels Frederiksen (discendente del conte) e con il supporto del Kennel Club Danese, avviò un meticoloso programma di recupero. La razza fu salvata ed è oggi un simbolo nazionale danese.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia gigante, potente e massiccio, ma senza essere goffo. L'altezza al garrese per i maschi è circa 75 cm, per le femmine circa 70 cm. Il peso varia dai 50 ai 70 kg. Ha una testa grande e larga, con un muso potente e una giogaia moderata.</p><p>Il mantello è corto e fitto, con un buon sottopelo. I colori ammessi sono il fulvo (giallo-oro) con maschera nera, il rosso-dorato e il nero. Sono ammesse piccole macchie bianche su petto, piedi e punta della coda.</p>",
+      "carattere_temperamento": "<p>Il Broholmer ha il classico temperamento del molosso da guardia: è calmo, equilibrato e molto sicuro di sé. È un cane da \"bassa energia\" in casa, che ama osservare. È incredibilmente leale e affettuoso con la sua famiglia, inclusi i bambini, verso cui è protettivo.</p><p>È un guardiano istintivo, naturalmente riservato e diffidente verso gli estranei, che avviserà con un abbaio profondo. Non è inutilmente aggressivo, ma interverrà se percepisce una minaccia. Richiede una socializzazione precoce e costante per gestire la sua diffidenza.</p>",
+      "salute_cura": "<p>Come tutti i cani di taglia gigante, ha un'aspettativa di vita di 8-10 anni. È una razza robusta, ma soggetta a:</p>\n<ul>\n  <li><b>Displasia dell'anca e del gomito:</b> I controlli sono obbligatori per la riproduzione.</li>\n  <li><b>Torsione gastrica (Bloat):</b> Un rischio elevato.</li>\n  <li><b>Problemi cardiaci.</b></li>\n</ul>\n<p>La cura del mantello corto è minima, richiede solo spazzolate settimanali. Perde moderatamente pelo. Sbava, ma meno di altri mastiff.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane da corsa. Ha bisogno di passeggiate quotidiane e di un grande giardino recintato dove poter pattugliare. Non è adatto alla vita in appartamento. L'esercizio da cucciolo deve essere molto controllato.</p><p>L'addestramento è necessario per la gestione. È intelligente ma testardo e dominante. Richiede un proprietario esperto, calmo e autorevole, che sappia essere un leader. Risponde bene al rinforzo positivo, ma non alle imposizioni.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di molossi che cercano un cane da guardia calmo, sicuro di sé e un compagno di famiglia leale. Richiede molto spazio (casa con giardino) e la consapevolezza dei costi e della breve vita di un cane gigante.</p><p>È **sconsigliato** ai proprietari principianti, a chi vive in appartamento, e a chi non è in grado di gestire un cane così grande e potente. La socializzazione è un impegno a vita.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Bull terrier inglese",
+    "post_excerpt": "Il Bull Terrier Inglese, noto per la sua iconica testa \"a uovo\", è un terrier unico nel suo genere. È un cane \"clown\", esuberante, testardo e molto affettuoso. Ex cane da combattimento, oggi è un compagno leale, ma richiede un proprietario esperto e molta socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bull-terrier-inglese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bull terrier inglese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bull-terrier-inglese.jpg",
+      "filename": "Bull-terrier-inglese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Bianco (ammesse macchie sulla testa), Colorato (Tigrato, Fulvo, Nero, Tricolore).",
+      "temperamento_breve": "Esuberante, Testardo, Comico (Clown), Leale, Coraggioso",
+      "descrizione_generale": "<p>Il Bull Terrier Inglese è una delle razze più inconfondibili, famoso per la sua testa unica a forma di \"uovo\" (downface) e gli occhi piccoli e triangolari. È un cane muscoloso, potente e agile, che rientra nel gruppo dei terrier. Nonostante il suo passato da cane da combattimento, oggi è un compagno di famiglia esuberante e comico.</p><p>È noto come il \"clown del mondo canino\" per la sua personalità giocosa, quasi infantile, e la sua energia travolgente. È incredibilmente affettuoso con la sua famiglia, ma è anche estremamente testardo e richiede un proprietario esperto, paziente e con un grande senso dell'umorismo. Esiste anche la varietà Miniature.</p>",
+      "origini_storia": "<p>La razza fu creata in Inghilterra intorno al 1860 da un allevatore di nome James Hinks, di Birmingham. Il suo obiettivo era creare un cane da combattimento che fosse anche un \"gentiluomo\", un \"Cavaliere Bianco\". Per farlo, Hinks incrociò l'Old English Bulldog (ora estinto) con il White English Terrier (anch'esso estinto), aggiungendo forse sangue di Dalmata o Pointer per l'eleganza.</p><p>Il risultato fu un cane agile e potente che eccelleva nelle arene, ma che Hinks selezionò anche per un aspetto più raffinato. La caratteristica testa a uovo senza stop fu sviluppata ulteriormente all'inizio del XX secolo. Divenne un cane da compagnia alla moda, perdendo la sua funzione originaria.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, ma incredibilmente massiccio e muscoloso per la sua altezza. Lo standard non pone limiti di altezza o peso, ma richiede un'impressione di \"massima sostanza\" in proporzione alla taglia. Generalmente, il peso è tra i 22 e i 38 kg. La sua caratteristica unica è la testa: vista di profilo, è una curva convessa perfetta dalla sommità del cranio al tartufo, senza stop.</p><p>Il mantello è corto, piatto e duro al tatto. Esiste in due varietà di colore principali:</p>\n<ul>\n  <li><b>Bianco:</b> Bianco puro. Le macchie sulla testa sono ammesse.</li>\n  <li><b>Colorato:</b> Qualsiasi colore (tigrato è preferito, fulvo, nero, tricolore) con il colore che predomina sul bianco.</li>\n</ul>",
+      "carattere_temperamento": "<p>Il Bull Terrier è un cane esuberante, giocherellone e spesso comico. È un \"cucciolo\" per tutta la vita, pieno di energia. È anche incredibilmente testardo, con una forte personalità. È molto leale e affettuoso con la sua famiglia, ma ha bisogno di regole chiare.</p><p>Il suo passato da combattente emerge nella sua potenziale **aggressività verso altri cani** (dog-aggression), specialmente dello stesso sesso. La socializzazione precoce e costante è fondamentale, ma non sempre risolutiva. Ha un altissimo istinto predatorio verso i piccoli animali. È riservato con gli estranei, ma non un cane da guardia nel senso classico.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. La razza è soggetta a diversi problemi genetici seri:</p>\n<ul>\n  <li><b>Sordità:</b> Molto comune nella varietà bianca (sordità unilaterale o bilaterale).</li>\n  <li><b>Problemi renali:</b> Come la nefrite ereditaria.</li>\n  <li><b>Problemi cardiaci:</b> Come la stenosi aortica.</li>\n  <li><b>Problemi cutanei:</b> Allergie e dermatiti sono molto frequenti.</li>\n  <li><b>Lussazione della rotula.</b></li>\n</ul><p>Il mantello corto è facile da curare, ma la pelle è delicata. Perde molto pelo.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio. È un cane potente che ha bisogno di sfogare la sua energia (fisica e mentale) ogni giorno. Passeggiate, giochi di forza (es. tiro alla fune) e corse in aree sicure sono necessari. Se annoiato, diventa molto distruttivo.</p><p>L'addestramento è una sfida. È intelligente, ma tra i cani più testardi. Non risponde bene ai comandi, ma al gioco e al cibo. Richiede un proprietario esperto, molto paziente e coerente, che usi il rinforzo positivo e sappia quando \"chiudere un occhio\" sulla sua testardaggine.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di terrier o cani \"bull\", che ne amano la personalità comica e sanno gestire la sua testardaggine e la sua potenziale aggressività verso altri animali. È per persone attive, con un giardino sicuro, che possono essere un leader fermo ma affettuoso.</p><p>È **assolutamente sconsigliato** ai proprietari principianti, alle persone sedentarie, e a chi ha già altri cani (specialmente dello stesso sesso) o piccoli animali. Richiede un impegno enorme nella socializzazione e nella gestione.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  }
+]

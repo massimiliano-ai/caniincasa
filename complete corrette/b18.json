@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Irish terrier",
+    "post_excerpt": "L'Irish Terrier, o Terrier Irlandese, è un cane da lavoro di taglia media, famoso per il suo carattere impavido e il suo mantello rosso fuoco. Nato come cane \"tuttofare\" nelle fattorie irlandesi, è un eccellente cane da guardia e un compagno leale. Energico e tenace, richiede un proprietario attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "irish-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Irish terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Irish-terrier.jpg",
+      "filename": "Irish-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda",
+      "colorazioni": "Rosso, Rosso grano (Wheaten), Rosso-giallastro. (Il colore deve essere solido)",
+      "temperamento_breve": "Coraggioso, Temerario, Leale, Energico",
+      "descrizione_generale": "L'Irish Terrier è una delle razze di terrier più antiche, un cane versatile e robusto originario dell'Irlanda. Soprannominato \"Daredevil\" (temerario), è famoso per il suo temperamento focoso, il suo coraggio indomito e la sua incrollabile lealtà verso la famiglia. Il suo mantello \"fil di ferro\" di un colore rosso acceso è il suo marchio di fabbrica. Originariamente un cane da fattoria tuttofare, utilizzato per la caccia ai parassiti (ratting), la guardia e persino la conduzione di piccolo bestiame, oggi è un compagno di famiglia energico e protettivo. È un cane che combina una forte personalità con una grande intelligenza e un aspetto distintivo.",
+      "origini_storia": "L'Irish Terrier è considerato uno dei terrier irlandesi più antichi, con radici che si perdono nelle campagne della Contea di Cork. A differenza di molti terrier, non è stato selezionato per un unico scopo, ma era il guardiano e il cacciatore generico della fattoria irlandese. La sua popolarità crebbe enormemente alla fine del XIX secolo. La razza fu presentata per la prima volta in una mostra a Dublino nel 1873. Il club di razza fu fondato nel 1879 e lavorò per standardizzare il tipo e promuovere il colore rosso solido, eliminando gli altri colori (come il nero focato) che erano comuni all'epoca. La sua reputazione di coraggio si consolidò durante la Prima Guerra Mondiale, dove fu ampiamente utilizzato come cane messaggero nelle trincee, dimostrando un'incredibile resilienza.",
+      "aspetto_fisico": "È un cane di taglia media, agile e muscoloso, costruito per la velocità e la resistenza. L'altezza al garrese si attesta intorno ai 46-48 cm, con un peso che varia dai 11 ai 12 kg. La sua silhouette è elegante, con un corpo leggermente più lungo che alto. Il mantello è la sua caratteristica distintiva: è duro, fitto e \"fil di ferro\" (wire), con un sottopelo più morbido. Il pelo è volutamente tenuto non troppo lungo, per mostrare le linee pulite del cane. Il colore è sempre solido e varia dal rosso brillante, al rosso grano (wheaten) o al rosso-giallastro. Una piccola macchia bianca sul petto è ammessa, ma non desiderata.",
+      "carattere_temperamento": "L'Irish Terrier ha un carattere forte e impavido. È estremamente leale e protettivo nei confronti della sua famiglia, ma mantiene un forte istinto da terrier. È curioso, energico e sempre pronto all'azione. La sua reputazione di \"temerario\" deriva dalla sua totale noncuranza del pericolo quando si sente minacciato. È generalmente buono con i bambini della sua famiglia, ma la sua natura da terrier può portarlo ad essere rissoso con altri cani, specialmente dello stesso sesso. Ha un forte istinto predatorio verso i piccoli animali. È intelligente ma anche testardo, e richiede un proprietario con polso fermo e coerente.",
+      "salute_cura": "È una razza molto robusta e generalmente sana, con un'aspettativa di vita di 13-15 anni. Non ha molte patologie ereditarie diffuse, anche se alcuni esemplari possono soffrire di ipercheratosi digitale (indurimento dei cuscinetti plantari) e cistinuria. Il mantello \"fil di ferro\" non perde molto pelo, ma richiede cure specifiche per mantenere la sua tessitura e il colore brillante. Deve essere strippato (strappato a mano) due o tre volte l'anno. La tosatura è sconsigliata perché rovina il mantello, rendendolo morbido e sbiadito.",
+      "attivita_addestramento": "Questo cane ha un livello di energia molto elevato. Ha bisogno di almeno un'ora di esercizio intenso al giorno, che includa corsa e gioco. È un ottimo compagno per l'escursionismo o il canicross. Ha anche bisogno di stimolazione mentale per non annoiarsi. L'addestramento richiede pazienza e coerenza. È molto intelligente e impara in fretta, ma la sua testardaggine da terrier può essere una sfida. Risponde bene al rinforzo positivo e a sessioni brevi e divertenti. La socializzazione precoce, specialmente con altri cani, è assolutamente fondamentale.",
+      "ideale_per": "È il cane ideale per un proprietario attivo, esperto di terrier, che cerca un compagno leale e un buon cane da allarme. È adatto a famiglie dinamiche con un giardino ben recintato (è un buon saltatore). Richiede un proprietario che apprezzi un cane con una forte personalità. È fortemente sconsigliato ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento senza tempo da dedicargli, e a chi ha già altri piccoli animali domestici (come roditori o gatti). Non è un cane per chi non è disposto a gestire il suo carattere dominante con altri cani.",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Irish water spaniel",
+    "post_excerpt": "L'Irish Water Spaniel è il più grande e antico degli spaniel, noto per il suo folto mantello riccio color fegato-violaceo e la sua \"coda da topo\". È un cane da riporto eccezionale, specializzato in acqua, energico e intelligente. Richiede molta attività, toelettatura e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "irish-water-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Irish water spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Irish-water-spaniel.jpg",
+      "filename": "Irish-water-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda",
+      "colorazioni": "Fegato scuro (Liver) con una caratteristica sfumatura violacea (Puce)",
+      "temperamento_breve": "Intelligente, Energico, Giocherellone, Leale",
+      "descrizione_generale": "L'Irish Water Spaniel è una razza da caccia distintiva, la più alta di tutti gli spaniel, famosa per due caratteristiche uniche: il suo folto mantello di riccioli fitti color fegato, che contrasta con la pelle liscia del muso e della coda, e la sua \"coda da topo\" (o \"rat tail\"), spessa alla base e coperta di ricci solo per pochi centimetri, per poi assottigliarsi nuda fino alla punta. È un cane da riporto di prim'ordine, selezionato per il lavoro instancabile nelle fredde acque irlandesi. È un cane estremamente intelligente, energico e con un senso dell'umorismo quasi clownesco. È un lavoratore devoto, ma richiede un proprietario attivo e disposto a impegnarsi nella toelettatura.",
+      "origini_storia": "Le origini esatte dell'Irish Water Spaniel sono avvolte nel mistero, poiché i suoi creatori non hanno lasciato registri. È considerato una delle razze irlandesi più antiche, forse discendente da cani da acqua persiani o da incroci tra Barbet, Poodle e Spaniel locali. La razza moderna come la conosciamo oggi fu standardizzata negli anni '30 del XIX secolo da un appassionato di Dublino, Justin McCarthy. Il capostipite della razza moderna è considerato il cane di McCarthy, \"Boatswain\", nato nel 1834. Questo cane ebbe un'influenza così profonda che tutti i moderni Irish Water Spaniel discendono da lui. Divenne immensamente popolare come cane da riporto (gundog) in Irlanda e in Inghilterra prima dell'avvento del Labrador Retriever.",
+      "aspetto_fisico": "È un cane di taglia grande, forte e ben costruito. L'altezza al garrese per i maschi è 53-59 cm, per le femmine 51-56 cm. Il peso varia dai 25 ai 30 kg per i maschi e dai 20 ai 26 kg per le femmine. Il mantello è la sua gloria: è composto da riccioli fitti e impermeabili che coprono tutto il corpo, ad eccezione del muso (pelo corto e liscio) e della caratteristica coda. Sulla testa forma un \"top-knot\" (ciuffo) di riccioli lunghi. Il colore è un fegato (liver) molto scuro e ricco, con una particolare sfumatura violacea nota come \"puce liver\".",
+      "carattere_temperamento": "L'Irish Water Spaniel è un cane molto intelligente, attivo e curioso. È estremamente leale alla sua famiglia, ma a differenza di molti spaniel, tende ad essere riservato e diffidente con gli estranei, il che lo rende un buon cane da guardia e avvisatore. Con i suoi proprietari, è affettuoso e spesso \"clownesco\", amando intrattenere. È un cane da lavoro nato e ha bisogno di stimolazione mentale. Se annoiato, può diventare distruttivo e rumoroso. Ha un forte istinto per il riporto e un amore innato per l'acqua. Richiede una socializzazione precoce per gestire la sua diffidenza.",
+      "salute_cura": "È una razza generalmente sana, con un'aspettativa di vita di 12-14 anni. Può essere soggetto a displasia dell'anca e del gomito, problemi oculari (come la cataratta) e allergie cutanee. Alcuni esemplari possono essere sensibili a certi farmaci (come l'Ivermectina). La toelettatura è impegnativa. Il mantello riccio non perde pelo (è considerato ipoallergenico), ma deve essere spazzolato a fondo più volte a settimana per evitare la formazione di nodi e feltri. Necessita inoltre di una tosatura professionale ogni 6-8 settimane per mantenere il pelo gestibile.",
+      "attivita_addestramento": "Questa è una razza ad alta energia. Ha bisogno di almeno un'ora di esercizio intenso al giorno, preferibilmente con attività che coinvolgano l'acqua e il riporto. Eccelle negli sport cinofili come il dock diving, il retrieving, l'agility e l'obedience. L'addestramento è fondamentale. È molto intelligente e impara velocemente, ma può anche essere testardo e indipendente. Richiede un proprietario esperto che usi metodi di rinforzo positivo e sappia essere un leader coerente. Si annoia facilmente con la ripetizione.",
+      "ideale_per": "È ideale per proprietari esperti e molto attivi, in particolare cacciatori di acquatici o persone che vivono vicino all'acqua (laghi, mare). È adatto a chi cerca un cane da sport ipoallergenico ed è disposto a dedicare molto tempo alla toelettatura e all'attività fisica. È sconsigliato ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento e a chi non è disposto a gestire un mantello così impegnativo. La sua diffidenza verso gli estranei richiede una gestione attenta.",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Irish wolfhound",
+    "post_excerpt": "L'Irish Wolfhound, o Levriero Irlandese, è il cane più alto del mondo. Un \"gigante gentile\" dal passato antico, un tempo usato per cacciare lupi e cervi. Oggi è un cane da compagnia calmo, paziente e maestoso. Richiede spazio, ma la sua aspettativa di vita è purtroppo molto breve.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "irish-wolfhound",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Irish wolfhound"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Irish-wolfhound.jpg",
+      "filename": "Irish-wolfhound.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda",
+      "colorazioni": "Grigio, Tigrato (Brindle), Rosso, Nero, Bianco puro, Fulvo (Fawn) e tutti i colori ammessi per il Deerhound.",
+      "temperamento_breve": "Gigante gentile, Calmo, Maestoso, Paziente",
+      "descrizione_generale": "L'Irish Wolfhound è una razza canina di taglia gigante, rinomata per essere la più alta tra tutte le razze riconosciute. Nonostante la sua mole imponente e il suo passato da temibile cacciatore di lupi e selvaggina di grossa taglia, il Wolfhound moderno è l'epitome del \"gigante gentile\". Conosciuto per la sua natura calma, paziente e dignitosa, è un cane da compagnia eccezionale per chi ha lo spazio e le risorse per gestirlo. La sua famosa espressione \"Lambs at home, lions in the chase\" (Agnelli a casa, leoni a caccia) descrive perfettamente la sua doppia natura: un compagno dolce in famiglia, ma un potente atleta all'esterno.",
+      "origini_storia": "Le origini del Levriero Irlandese sono antichissime. I \"Grandi Cani d'Irlanda\" sono menzionati in leggi e testi irlandesi che risalgono a prima del V secolo. Erano i cani dei re e della nobiltà, usati in guerra per trascinare i cavalieri e in pace per la caccia al lupo e al cervo gigante irlandese. La loro fama era tale che venivano inviati come doni preziosi alle corti reali di tutta Europa. Con l'estinzione del lupo in Irlanda (intorno al 1786) e la fine delle grandi cacce, la razza perse il suo scopo e scivolò sull'orlo dell'estinzione. Fu salvata nella seconda metà del XIX secolo dal Capitano George Augustus Graham, che raccolse i pochi esemplari rimasti e li incrociò con Deerhound, Alani e Borzoi per ricostruire la razza nella sua forma maestosa attuale.",
+      "aspetto_fisico": "Il Wolfhound è un cane imponente, ma non deve essere pesante o goffo; è costruito per la velocità e la potenza. L'altezza minima al garrese per i maschi è 79 cm, per le femmine 71 cm, ma molti esemplari sono significativamente più alti. Il peso minimo è di 54,5 kg per i maschi e 40,5 kg per le femmine, ma possono superare gli 80 kg. Ha un mantello duro, ruvido e ispido (\"wire\"), specialmente sulla testa (barba e sopracciglia). I colori ammessi sono vari: grigio, tigrato (brindle), rosso, nero, bianco puro o fulvo (fawn).",
+      "carattere_temperamento": "Il temperamento è il punto forte della razza. È un cane calmo, equilibrato, paziente e incredibilmente dolce. È famoso per la sua affidabilità con i bambini, anche se la sua mole richiede supervisione. Non è un cane da guardia nel senso tradizionale; non è aggressivo e tende ad essere amichevole con tutti, anche se la sua taglia è un deterrente. Conserva l'istinto da levriero: ha un forte istinto predatorio verso ciò che si muove velocemente e ama correre. È un cane sensibile che ha bisogno di vivere a stretto contatto con la famiglia, non isolato in un giardino.",
+      "salute_cura": "La taglia gigante porta purtroppo a un'aspettativa di vita molto breve, mediamente 6-8 anni. Le cause di morte più comuni sono: Cancro (in particolare Osteosarcoma): Una delle principali cause di mortalità. Patologie cardiache: Specialmente la Cardiomiopatia Dilatativa. Torsione gastrica (Bloat): Un'emergenza letale. È soggetto anche a displasia dell'anca e polmonite. La cura del mantello è moderata: il pelo duro va spazzolato settimanalmente e può richiedere uno stripping leggero per rimuovere il pelo morto.",
+      "attivita_addestramento": "Contrariamente a quanto si possa pensare, non è un cane iperattivo. Da adulto, si accontenta di una o due lunghe passeggiate al giorno, ma ha un bisogno fondamentale di poter correre libero in un'area ampia e sicura. Non è assolutamente adatto alla vita in appartamento. L'addestramento all'obbedienza di base è essenziale data la taglia. È intelligente e sensibile, ma non è un cane da obbedienza da competizione. Risponde bene ai metodi gentili. Il richiamo può essere inaffidabile se vede una preda.",
+      "ideale_per": "È ideale per famiglie o persone che hanno molto spazio (casa con grande giardino recintato) e uno stile di vita tranquillo. È per proprietari consapevoli della sua breve aspettativa di vita e degli ingenti costi di mantenimento (cibo, cure veterinarie). È sconsigliato a chi vive in appartamento, a chi è alla prima esperienza con un cane gigante, e a chi cerca un cane da guardia \"feroce\". La sua breve vita è un impegno emotivo che non tutti sono pronti ad affrontare.",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Jack russell terrier",
+    "post_excerpt": "Il Jack Russell Terrier è un piccolo ma tenace cane da lavoro, selezionato per la caccia alla volpe. È un \\\"concentrato di energia\\\", intelligenza e coraggio. Con un forte istinto predatorio e una grande personalità, richiede un proprietario esperto, attivo e capace di gestire il suo carattere esuberante.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "jack-russell-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Jack russell terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Jack-russell-terrier.jpg",
+      "filename": "Jack-russell-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra) / Sviluppo: Australia",
+      "colorazioni": "Bianco (colore predominante) con macchie nere, marroni (tan) o tricolore.",
+      "temperamento_breve": "Energico, Tenace, Intelligente, Coraggioso, Vocale",
+      "descrizione_generale": "Il Jack Russell Terrier è un piccolo cane da terrier, famoso per la sua personalità esuberante e il suo livello di energia inesauribile. Nonostante la taglia ridotta, è un cane da lavoro robusto, coraggioso e incredibilmente tenace, selezionato originariamente per la caccia alla volpe in tana. È un cane con un'intelligenza acuta e un carattere forte, spesso testardo. Ha un istinto predatorio molto sviluppato e un'elevata propensione ad abbaiare e scavare. È un compagno leale e divertente per un proprietario attivo ed esperto, ma può essere una vera sfida per un principiante.",
+      "origini_storia": "Come il Parson Russell, il Jack Russell discende dai cani da caccia del Reverendo John Russell nel Devon, in Inghilterra, nel XIX secolo. L'obiettivo era creare un terrier che potesse seguire i cavalli e stanare le volpi dalla tana. Dopo la morte di Russell, si svilupparono due tipi distinti: uno a zampe più lunghe (il Parson Russell) e uno a zampe più corte e corpo più lungo, ideale per certi tipi di tana. Questa seconda varietà fu esportata in Australia, dove venne ulteriormente sviluppata e selezionata. È grazie agli sforzi del Jack Russell Terrier Club of Australia (fondato nel 1972) che la razza è stata standardizzata e ha ottenuto il riconoscimento FCI nel 2000, con l'Australia come paese di sviluppo.",
+      "aspetto_fisico": "Il Jack Russell Terrier è un cane piccolo, ma forte e flessibile. L'altezza al garrese ideale è compresa tra 25 e 30 cm. Il peso è circa 1 kg per ogni 5 cm di altezza (quindi 5-6 kg). A differenza del Parson (quadrato), il Jack Russell è più lungo che alto. Il mantello è prevalentemente bianco (almeno 51%) con macchie nere e/o marroni (tan). Esiste in tre varietà di pelo: Smooth (Liscio): Pelo corto e piatto. Broken (Spezzato): Pelo corto e ruvido, con accenno di barba e sopracciglia. Rough (Ruvido): Pelo più lungo e duro.",
+      "carattere_temperamento": "Il Jack Russell è un \"grande cane in un corpo piccolo\". È estremamente energico, intelligente, curioso e impavido. Il suo istinto da terrier è fortissimo: è un cacciatore nato, un abile scavatore e molto vocale. Inseguirà qualsiasi cosa si muova. È molto affettuoso con la sua famiglia, ma richiede regole chiare e coerenza, altrimenti tenterà di prendere il sopravvento. Può essere rissoso con altri cani e non è affidabile con piccoli animali domestici. È un cane che ha bisogno costante di stimolazione fisica e mentale per non diventare distruttivo.",
+      "salute_cura": "È una razza molto longeva, con un'aspettativa di vita di 13-16 anni. Tuttavia, è soggetta a diverse patologie genetiche ereditarie, molte delle quali condivide con il Parson Russell: Lussazione Primaria del Cristallino (PLL): Che porta alla cecità. Atassia a Insorgenza Tardiva (LOA) e Atassia Spino-Cerebellare (SCA): Malattie neurologiche. Lussazione della rotula: Comune nelle razze piccole. Malattia di Legg-Perthes: Necrosi della testa del femore. La cura del mantello varia: il liscio perde molto pelo e richiede spazzolate, il ruvido e il broken perdono meno ma necessitano di stripping periodico.",
+      "attivita_addestramento": "Le esigenze di esercizio sono estreme per un cane così piccolo. Richiede almeno 1-1.5 ore di attività intensa al giorno. Non è un cane da grembo; è un atleta. Eccelle in agility, flyball, disc dog e, ovviamente, earthdog (prove in tana). È molto intelligente e impara velocemente, ma la sua testardaggine e la sua capacità di distrarsi (specialmente con gli odori) rendono l'addestramento una sfida. Il richiamo è notoriamente difficile. Richiede un proprietario esperto, paziente e con un grande senso dell'umorismo, che usi metodi positivi.",
+      "ideale_per": "È ideale per proprietari di terrier esperti, molto attivi, che cercano un compagno piccolo ma instancabile per sport e avventure. Richiede un giardino a prova di fuga (scava e salta) e un impegno costante nella gestione del suo carattere. È assolutamente sconsigliato ai proprietari principianti, alle persone anziane o sedentarie, e a chi cerca un \"cagnolino da borsetta\" calmo. Non è affidabile con gatti o roditori. Se annoiato, è uno dei cani più distruttivi e rumorosi che esistano.",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Jamthund",
+    "post_excerpt": "Lo Jämthund, o Cane da Alce Svedese, è la più grande delle razze da caccia nordiche di tipo Spitz. Originario della provincia di Jämtland, è un cane coraggioso e tenace, specializzato nella caccia all'alce. È un cane da lavoro indipendente, che richiede un proprietario esperto e ampi spazi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "jamthund",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Jamthund"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Jamthund.jpg",
+      "filename": "Jamthund.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia (Provincia di Jämtland)",
+      "colorazioni": "Grigio (in varie tonalità, da chiaro a scuro), con caratteristiche macchie chiare su muso, gola, petto e zampe.",
+      "temperamento_breve": "Coraggioso, Tenace, Indipendente, Calmo",
+      "descrizione_generale": "Lo Jämthund, noto anche come Cane da Alce Svedese, è un cane da caccia di tipo Spitz di taglia grande, considerato il cane nazionale della Svezia. È una razza antica, selezionata per secoli nella provincia dello Jämtland per il compito più difficile: la caccia alla grande selvaggina nordica, in particolare l'alce (moose), ma anche l'orso e la lince. È un cane potente, resistente e dal coraggio eccezionale. A differenza di molti cani da caccia, ha un temperamento sorprendentemente calmo ed equilibrato in casa, ma sul lavoro è un cacciatore indipendente e instancabile. È una razza specialistica, non adatta alla vita urbana.",
+      "origini_storia": "Lo Jämthund è un cane di tipo Spitz indigeno della Svezia settentrionale, presente fin dalla preistoria. Per secoli è stato allevato dai cacciatori locali, ma non è stato riconosciuto come razza a sé stante fino a tempi recenti. Per molto tempo, infatti, è stato confuso e raggruppato con il più piccolo Elkhound Norvegese. Fu solo grazie alla pressione degli allevatori dello Jämtland che si iniziò a riconoscerne l'unicità in termini di taglia, colore e stile di caccia (più silenzioso e strategico). La razza è stata ufficialmente riconosciuta in Svezia solo nel 1946. La FCI l'ha riconosciuta nel 1953.",
+      "aspetto_fisico": "È uno Spitz di taglia grande, potente ma agile, con una costruzione rettangolare. L'altezza al garrese per i maschi è 57-65 cm, per le femmine 52-60 cm. Il peso varia dai 25 ai 35 kg. Ha la classica testa da lupo, orecchie erette e una coda portata arricciata sul dorso. Il mantello è doppio: il pelo di copertura è ruvido e dritto, mentre il sottopelo è corto, soffice e di colore chiaro. Il colore è il grigio in varie tonalità (più scuro sul dorso, collo e fianchi), con le caratteristiche macchie grigio chiaro o crema su muso (\"maschera\"), gola, petto, ventre e zampe.",
+      "carattere_temperamento": "Lo Jämthund ha una doppia natura. In casa è un cane calmo, leale, equilibrato e molto pulito. È affettuoso con la sua famiglia, ma non è un cane \"velcro\"; mantiene una certa indipendenza da Spitz. Sul lavoro, è un cacciatore coraggioso, tenace e molto intelligente. È selezionato per lavorare da solo, lontano dal cacciatore, usando la sua voce (abbaio) solo per tenere ferma la preda. È naturalmente dominante con altri cani e ha un istinto predatorio molto forte. È riservato con gli estranei.",
+      "salute_cura": "È una razza estremamente robusta e sana, forgiata dal clima artico. L'aspettativa di vita è di 12-14 anni. È soggetto a displasia dell'anca, come molte razze grandi, ma l'incidenza non è particolarmente alta. Alcune forme di epilessia sono state segnalate. Il mantello è relativamente facile da curare. Richiede una buona spazzolata settimanale, ma durante le due massicce mute stagionali (primavera e autunno), la perdita di pelo è enorme e richiede spazzolate quotidiane per rimuovere il sottopelo.",
+      "attivita_addestramento": "Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. È un cane da lavoro che ha bisogno di vivere in campagna o in montagna, con accesso a grandi spazi. Richiede lunghe escursioni quotidiane, preferibilmente in aree boschive dove possa usare il suo fiuto. L'addestramento è una sfida. È molto intelligente, ma la sua indipendenza è un tratto fondamentale della razza. Non è un cane da obbedienza cieca. Richiede un proprietario esperto, calmo e autorevole, che sappia costruire un rapporto basato sul rispetto reciproco. Il richiamo in presenza di selvaggina è inaffidabile.",
+      "ideale_per": "È un cane ideale esclusivamente per cacciatori di grande selvaggina o per persone molto esperte di Spitz nordici che vivono in un contesto rurale o montano, con molto spazio. È per chi cerca un compagno per lunghe escursioni nella natura. È assolutamente sconsigliato ai proprietari principianti, a chi vive in città o in appartamento, e a chi cerca un cane da compagnia facile e obbediente. Il suo istinto predatorio e la sua dominanza richiedono una gestione competente.",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Kai",
+    "post_excerpt": "Il Kai, o Kai Ken, è una rara razza giapponese di tipo Spitz, originaria delle montagne di Kai. Noto per il suo splendido mantello tigrato (\"Tora Inu\"), è un cacciatore agile e tenace, specializzato in selvaggina come cinghiali e cervi. È un cane primitivo, leale ma indipendente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "kai",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Kai"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Kai.jpg",
+      "filename": "Kai.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Prefettura di Yamanashi)",
+      "colorazioni": "Tigrato (Brindle): Nero Tigrato (Kuro-tora), Rosso Tigrato (Aka-tora), Tigrato (Chu-tora)",
+      "temperamento_breve": "Intelligente, Agile, Primitivo, Leale, Vigile",
+      "descrizione_generale": "Il Kai, noto anche come Kai Ken o Tora Inu (\"Cane Tigre\"), è una delle sei antiche razze giapponesi di tipo Spitz ed è considerato un \"Monumento Naturale\" del Giappone. Proviene dalla remota provincia di Kai (l'attuale Prefettura di Yamanashi), una regione montuosa e isolata dove la razza si è mantenuta pura. È un cane di taglia media, rinomato per il suo splendido mantello tigrato (brindle), che gli forniva mimetismo durante la caccia. È un cane da lavoro agile e coraggioso, utilizzato per la caccia al cinghiale e al cervo. È un cane primitivo, estremamente leale al suo padrone, ma riservato e indipendente.",
+      "origini_storia": "Il Kai è una razza indigena delle montagne isolate della Prefettura di Yamanashi. La sua purezza è stata preservata dall'isolamento geografico della regione. Veniva utilizzato dai cacciatori locali (i \"Matagi\") in mute per la caccia alla selvaggina di montagna. La sua agilità, la sua capacità di arrampicarsi e il suo coraggio erano leggendari. A differenza di altre razze giapponesi, non era un cane da compagnia della nobiltà, ma un puro cane da lavoro. La razza fu scoperta e portata all'attenzione nazionale negli anni '20. Nel 1934, il Kai fu designato come \"Monumento Naturale\" in Giappone per preservarne l'antico lignaggio. È una razza molto rara, anche nel suo paese d'origine.",
+      "aspetto_fisico": "È un cane di taglia media, forte e muscoloso, con una struttura adatta all'agilità in montagna. L'altezza al garrese per i maschi è 47-53 cm, per le femmine 42-48 cm. Il peso si aggira sui 14-20 kg. Ha orecchie erette e una coda arricciata o a falce sul dorso. Il mantello è la sua caratteristica distintiva: è doppio, con pelo di copertura ruvido e dritto e un sottopelo soffice. I colori sono sempre tigrati (brindle): Kuro-tora: Nero Tigrato (base nera con strisce fulve). Chu-tora: Tigrato (base rossa con strisce nere). Aka-tora: Rosso Tigrato (base fulva chiara con strisce nere). Curiosamente, molti cuccioli nascono neri e sviluppano le striature crescendo.",
+      "carattere_temperamento": "Il Kai è un cane primitivo. È estremamente intelligente, vigile e incredibilmente leale al suo proprietario, verso il quale sviluppa un legame profondo e protettivo. È un cane da \"branco\" e si integra bene nella famiglia, ma tende a scegliere un unico capofamiglia. È naturalmente riservato e diffidente verso gli estranei, il che lo rende un eccellente cane da guardia. Ha un forte istinto predatorio e una notevole agilità (è noto per arrampicarsi sugli alberi). Richiede una socializzazione precoce e attenta per gestire la sua natura diffidente e il suo istinto.",
+      "salute_cura": "Essendo una razza \"naturale\" e non manipolata, il Kai è eccezionalmente sano e robusto, con un'aspettativa di vita di 14-16 anni. Non ha particolari patologie ereditarie note, se non quelle comuni a tutti i cani come la displasia dell'anca, che però è rara. Il mantello è molto pulito (spesso si lava da solo come un gatto) e di facile manutenzione. Richiede una spazzolata settimanale, più intensa durante le due abbondanti mute stagionali.",
+      "attivita_addestramento": "È un cane energico che richiede un'attività fisica quotidiana. Lunghe passeggiate, escursioni in montagna e giochi di attivazione mentale sono fondamentali. Non è un cane da appartamento se non gli si dedica molto tempo all'esterno. L'addestramento richiede un proprietario esperto di cani primitivi. È intelligente, ma anche indipendente e testardo. Non risponde ai metodi coercitivi. L'addestramento deve essere basato sulla fiducia reciproca, sulla coerenza e sul rinforzo positivo. Il richiamo è difficile.",
+      "ideale_per": "È ideale per proprietari esperti di Spitz o cani primitivi, che vivono in un contesto rurale o semi-rurale. È per chi cerca un cane da escursione leale e vigile, e apprezza una natura indipendente. Richiede un giardino ben recintato (è un ottimo scalatore). È sconsigliato ai proprietari principianti, a chi vive in un piccolo appartamento in città, e a chi cerca un cane socievole e obbediente con tutti. Il suo istinto predatorio lo rende inadatto alla convivenza con piccoli animali.",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Kerry blue terrier",
+    "post_excerpt": "Il Kerry Blue Terrier è un cane da fattoria \"tuttofare\" irlandese, noto per il suo splendido mantello blu-grigio, morbido e ondulato, che nasce nero. È un terrier di taglia media, intelligente e vivace, con un forte istinto protettivo. Richiede toelettatura e un proprietario esperto e attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "kerry-blue-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Kerry blue terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Kerry-blue-terrier.jpg",
+      "filename": "Kerry-blue-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Irlanda (Contea di Kerry)",
+      "colorazioni": "Blu (qualsiasi tonalità di blu-grigio, dal chiaro all'ardesia scuro)",
+      "temperamento_breve": "Vivace, Intelligente, Protettivo, Testardo",
+      "descrizione_generale": "Il Kerry Blue Terrier è un cane da lavoro di taglia media originario della Contea di Kerry, in Irlanda. È un cane \"all-around\", utilizzato storicamente per qualsiasi compito: dalla caccia ai parassiti (ratting), alla caccia alla piccola selvaggina, fino alla conduzione del bestiame e alla guardia della proprietà. La sua caratteristica più famosa è il mantello: i cuccioli nascono neri e, con la crescita (un processo chiamato \"clearing\"), il pelo schiarisce fino a raggiungere la tipica tonalità blu-grigia. È un cane intelligente, spiritoso e molto protettivo, ma con un forte carattere da terrier che richiede un proprietario esperto.",
+      "origini_storia": "Le origini esatte del Kerry Blue sono avvolte nel folklore. È senza dubbio un cane da fattoria irlandese, presente da secoli nel sud-ovest dell'isola. Leggende locali narrano di un cane blu sopravvissuto a un naufragio dell'Armada spagnola, che si sarebbe accoppiato con i terrier locali. Più realisticamente, si pensa discenda da incroci tra l'antico Irish Terrier, il Soft Coated Wheaten Terrier e forse il Bedlington Terrier. È emerso come cane nazionale dell'Irlanda durante i movimenti per l'indipendenza, diventando un simbolo di orgoglio irlandese. La razza è stata ufficialmente riconosciuta dal Kennel Club irlandese nel 1922, e nello stesso anno è stato fondato il club di razza.",
+      "aspetto_fisico": "È un terrier ben costruito, muscoloso e di taglia media. L'altezza al garrese per i maschi è 45,5-49,5 cm, per le femmine 44,5-48 cm. Il peso varia dai 15 ai 18 kg. Ha una testa lunga, forte, con barba e baffi caratteristici. Il mantello è unico: è morbido, setoso al tatto, ondulato o riccio, e non ha sottopelo. La caratteristica più importante è il colore: i cuccioli nascono neri e devono \"schiarire\" (clearing) entro i 18 mesi, raggiungendo una tonalità di blu-grigio (dall'ardesia scuro al grigio perla). Perde pochissimo pelo (ipoallergenico).",
+      "carattere_temperamento": "Il Kerry Blue è un terrier energico, intelligente e molto testardo. È estremamente leale e protettivo nei confronti della sua famiglia, diventando un cane da guardia formidabile, molto diffidente verso gli estranei. Con i suoi proprietari è affettuoso e spesso clownesco. Conserva un forte istinto predatorio e, storicamente, è noto per essere rissoso con gli altri cani, specialmente i maschi. Questo tratto richiede una socializzazione precoce, intensiva e continua per tutta la vita, oltre a una gestione attenta. È un cane che ha bisogno di un proprietario che sappia imporsi come leader.",
+      "salute_cura": "È una razza generalmente sana, con un'aspettativa di vita di 12-15 anni. Tuttavia, è predisposta ad alcune patologie genetiche, tra cui: Atassia cerebellare (Abiotrofia Neuronale Cerebellare - C.A.): Una grave malattia neurologica degenerativa. Malattia di Von Willebrand (vWD): Un disturbo della coagulazione. Problemi cutanei: Come cisti e dermatiti, spesso nascoste dal pelo. Displasia dell'anca. Il mantello non perde pelo, ma richiede una toelettatura professionale (tosatura) ogni 6-8 settimane. Necessita anche di spazzolate settimanali per evitare nodi e la pulizia quotidiana della barba.",
+      "attivita_addestramento": "È un cane ad alta energia che ha bisogno di molto esercizio fisico e mentale. Lunghe passeggiate, corsa e giochi di attivazione sono necessari. Eccelle in sport come l'agility, l'obedience (se motivato) e le prove di lavoro per terrier. L'addestramento è una sfida. È intelligentissimo e impara i comandi, ma la sua testardaggine da terrier lo porta a chiedersi \"perché\" dovrebbe obbedire. Si annoia facilmente. Richiede un proprietario esperto, paziente e che usi metodi positivi ma molto coerenti.",
+      "ideale_per": "È ideale per proprietari di terrier esperti, attivi, che cercano un cane da guardia leale e un compagno per lo sport. È adatto a chi è disposto a impegnarsi seriamente nella socializzazione e nella toelettatura professionale. È una buona scelta per chi cerca un cane ipoallergenico di taglia media. È sconsigliato ai proprietari principianti, alle persone sedentarie e a chi non è in grado di gestire un cane potenzialmente rissoso con altri cani o con un forte istinto predatorio. Richiede una leadership forte.",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "King charles spaniel",
+    "post_excerpt": "Il King Charles Spaniel è un antico cane da compagnia di taglia toy, amato dalla nobiltà inglese (diverso dal Cavalier). È un cane brachicefalo, dal muso corto e la testa a cupola. Affettuoso e calmo, è un cane da grembo ideale per la vita d'appartamento, ma con salute delicata.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "king-charles-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "King charles spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/King-charles-spaniel.jpg",
+      "filename": "King-charles-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Black and Tan (Nero focato), Ruby (Rosso rubino), Blenheim (Bianco e rosso), Tricolore (Bianco, nero e focato)",
+      "temperamento_breve": "Affettuoso, Calmo, Riservato, Gentile",
+      "descrizione_generale": "Il King Charles Spaniel (noto in America come English Toy Spaniel) è una razza da compagnia di taglia toy, spesso confusa con il suo cugino più popolare, il Cavalier King Charles Spaniel. Il King Charles è la varietà più antica, caratterizzata da un muso decisamente più corto (brachicefalo), una testa a cupola e un aspetto più \"imbronciato\". È un cane da grembo per eccellenza: calmo, gentile, affettuoso e con un'energia moderata. È un compagno devoto, ideale per la vita in appartamento e per persone anziane. Tuttavia, la sua struttura brachicefala lo rende molto delicato e soggetto a problemi di salute.",
+      "origini_storia": "Le origini di questi piccoli spaniel risalgono almeno al XVI secolo, dove erano i favoriti della nobiltà inglese e venivano usati per la caccia alla piccola selvaggina e come \"scaldini\". Divennero famosi grazie a Re Carlo II (King Charles II) di Stuart, che raramente si separava dai suoi amati spaniel neri e focati. Nel corso dell'epoca vittoriana, la moda cinofila cambiò. Gli allevatori iniziarono a selezionare cani con musi sempre più corti e teste a cupola, probabilmente incrociandoli con razze asiatiche come il Carlino o il Chin Giapponese. Questo portò alla creazione del King Charles moderno. Il tipo più vecchio, con il muso più lungo, quasi scomparve, per poi essere ricreato nel XX secolo con il nome di \"Cavalier\".",
+      "aspetto_fisico": "È un cane piccolo e compatto, con un peso che varia dai 3,6 ai 6,3 kg. La sua caratteristica distintiva è la testa, che deve essere grande rispetto al corpo, con una fronte a cupola (domed) e un muso molto corto, schiacciato e rivolto all'insù (brachicefalo). Il mantello è lungo, setoso e dritto, con abbondanti frange su orecchie, zampe e coda. Non ha sottopelo. Esiste in quattro varietà di colore distinte: Black and Tan: Nero corvino con focature mogano. Ruby: Rosso rubino intenso e solido. Blenheim: Fondo bianco perla con macchie rosso castano. Tricolore: Fondo bianco e nero con focature.",
+      "carattere_temperamento": "Il King Charles è un cane da compagnia calmo e gentile. È meno esuberante del Cavalier. È molto affettuoso e si lega profondamente al suo proprietario, amando passare le giornate accoccolato in grembo. È un cane che richiede attenzioni e soffre la solitudine. È generalmente riservato con gli estranei, ma non aggressivo. È un cane sensibile e tranquillo, adatto a un ambiente domestico calmo. Data la sua fragilità e la sua natura poco paziente, non è sempre la scelta migliore per famiglie con bambini piccoli e turbolenti.",
+      "salute_cura": "L'aspettativa di vita è di 10-12 anni. La sua struttura brachicefala estrema causa molti problemi di salute: BAOS (Sindrome Ostruttiva delle Vie Aeree Superiori): Difficoltà respiratorie croniche. Soffre terribilmente il caldo e non può fare esercizio intenso. Problemi oculari: Occhi sporgenti soggetti a ulcere, secchezza (KCS) e proptosi. Malattia della Valvola Mitralica (MVD): Un problema cardiaco molto comune. Siringomielia (SM) e Malformazione di Chiari (CM): Gravi patologie neurologiche. Il mantello lungo richiede una spazzolatura quotidiana per evitare nodi. Le pieghe del muso e gli occhi richiedono pulizia costante.",
+      "attivita_addestramento": "Le esigenze di esercizio sono minime. È un perfetto cane da appartamento. Brevi e lentissime passeggiate al guinzaglio (sempre con pettorina, mai collare) e gioco moderato in casa sono tutto ciò di cui ha bisogno. L'attività fisica deve essere nulla quando fa caldo. È intelligente, ma come molti cani toy, può essere testardo, specialmente nell'addestramento alla pulizia. Risponde solo a metodi gentili e positivi. Non è un cane per sport cinofili.",
+      "ideale_per": "È ideale per persone anziane, single o coppie molto tranquille che vivono in appartamento e desiderano un cane da grembo affettuoso e che richiede poche uscite. È per proprietari consapevoli dei gravi problemi di salute della razza e dei relativi costi veterinari. È assolutamente sconsigliato a famiglie con bambini piccoli, a persone attive o sportive, a chi vive in climi molto caldi, e a chi è alla prima esperienza e non è preparato a gestire una razza così delicata e soggetta a patologie costose.",
+      "energia_e_livelli_di_attivita": 1.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 1.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 1.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Kishu",
+    "post_excerpt": "Il Kishu è una rara razza giapponese di tipo Spitz, originaria delle montagne di Kishu (Wakayama). Un tempo cacciatore silenzioso di cinghiali, oggi è un cane calmo, leale e vigile. È una razza primitiva, riservata con gli estranei, che richiede un proprietario esperto e socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "kishu",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Kishu"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Kishu.jpg",
+      "filename": "Kishu.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone (Regione di Kishu / Prefettura di Wakayama)",
+      "colorazioni": "Bianco, Rosso (Aka), Sesamo (Goma)",
+      "temperamento_breve": "Leale, Primitivo, Silenzioso, Vigile, Coraggioso",
+      "descrizione_generale": "Il Kishu (o Kishu Ken) è una delle sei antiche razze giapponesi di tipo Spitz, originaria della regione montuosa di Kishu (oggi Prefettura di Wakayama). Come il Kai, è stato designato \"Monumento Naturale\" del Giappone nel 1934 per preservarne la purezza. È un cane di taglia media, forte e muscoloso, allevato per secoli come un cacciatore silenzioso e coraggioso, specializzato nella caccia al cinghiale e al cervo. È un cane primitivo, estremamente devoto al suo proprietario, ma con un carattere indipendente, calmo e molto riservato. È una razza molto rara al di fuori del Giappone.",
+      "origini_storia": "Il Kishu è una razza autoctona che esiste da migliaia di anni nelle montagne della penisola di Kii. Era il cane dei cacciatori \"Matagi\", che lo apprezzavano per la sua capacità di cacciare in silenzio, stanare la preda e tenerla a bada (abbaiando solo per segnalare) fino all'arrivo del cacciatore. La sua agilità e il suo coraggio erano fondamentali per affrontare i cinghiali. Originariamente, la razza presentava vari colori, tra cui il sesamo (goma) e il rosso (aka). Tuttavia, a partire dagli anni '30, il colore bianco divenne predominante e fu selezionato attivamente, poiché rendeva il cane più visibile nel bosco e più facile da distinguere dalla preda. Oggi, la maggior parte dei Kishu è bianca.",
+      "aspetto_fisico": "È un cane di taglia media, ben proporzionato e muscoloso. L'altezza al garrese per i maschi è 49-55 cm, per le femmine 46-52 cm. Il peso si aggira sui 15-25 kg. Ha una struttura forte, orecchie erette e una coda arricciata o a falce portata sul dorso. Il mantello è doppio, tipico dello Spitz: pelo di copertura corto, dritto e ruvido, con un sottopelo soffice e denso. I colori ammessi sono il bianco (il più comune), il rosso (aka) e il sesamo (goma - peli neri e rossi mescolati). La pelle è di solito rosa sotto il pelo bianco.",
+      "carattere_temperamento": "Il Kishu è un cane primitivo, molto legato al suo \"branco\" familiare, ma non è un cane espansivo. È calmo, dignitoso e molto pulito (spesso si lava come un gatto). È incredibilmente leale e protettivo, ma lo dimostra in modo discreto. È un cane da \"una sola persona\" o \"una sola famiglia\". È estremamente riservato e diffidente verso gli estranei, il che lo rende un ottimo (ma silenzioso) cane da guardia. Ha un forte istinto predatorio e può essere dominante con altri cani, specialmente dello stesso sesso. Richiede una socializzazione precoce e intensiva.",
+      "salute_cura": "Essendo una razza \"naturale\", il Kishu è eccezionalmente sano e robusto, con un'aspettativa di vita di 13-15 anni. Non ha particolari patologie ereditarie diffuse, se non una certa predisposizione alla displasia dell'anca (rara) e, in alcuni casi, ad allergie cutanee. Il mantello è di facile manutenzione. Richiede una spazzolata settimanale per rimuovere il pelo morto. Le due mute stagionali (primavera e autunno) sono molto abbondanti e richiedono cure quotidiane in quel periodo.",
+      "attivita_addestramento": "È un cane energico che ha bisogno di un'attività fisica quotidiana significativa. Non è iperattivo, ma richiede lunghe passeggiate, escursioni e la possibilità di correre in un'area sicura. Ha bisogno di un giardino ben recintato, poiché è agile e ha un forte istinto venatorio. L'addestramento è una sfida per proprietari non esperti. È intelligente, ma testardo e indipendente. Non è un cane che obbedisce ciecamente. L'addestramento deve essere basato sulla coerenza, sulla pazienza e sulla creazione di un forte legame di rispetto. Il richiamo è inaffidabile.",
+      "ideale_per": "È un cane per proprietari esperti di cani primitivi o Spitz giapponesi. È ideale per chi vive in un contesto tranquillo, rurale o semi-rurale, con un giardino sicuro. È per persone che cercano un compagno leale e vigile, ma che ne rispettano l'indipendenza. È sconsigliato ai proprietari principianti, a chi vive in un piccolo appartamento in città, e a chi desidera un cane socievole con tutti (persone e cani). Il suo istinto predatorio lo rende inadatto a case con piccoli animali.",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Komondor",
+    "post_excerpt": "Il Komondor è un imponente cane da guardia del bestiame ungherese, famoso per il suo straordinario mantello cordato bianco, simile a \"dreadlocks\". È un cane coraggioso, protettivo e indipendente, selezionato per proteggere le greggi dai lupi. Richiede un proprietario esperto, spazio e cure del mantello specifiche.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "komondor",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Komondor"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Komondor-1-1.jpg",
+      "filename": "Komondor-1-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Ungheria",
+      "colorazioni": "Bianco (Avorio)",
+      "temperamento_breve": "Protettivo, Coraggioso, Indipendente, Serio",
+      "descrizione_generale": "Il Komondor è un cane da guardia del bestiame (LGD) di taglia grande, originario dell'Ungheria. È una delle razze più riconoscibili al mondo grazie al suo mantello unico: un pesante strato di corde bianche, simili a feltri o \"dreadlocks\", che lo fa assomigliare a una pecora, fornendogli mimetismo e protezione dai morsi dei predatori. Sotto questo mantello si nasconde un cane potente, muscoloso e incredibilmente coraggioso, selezionato per secoli per prendere decisioni in autonomia e proteggere le greggi da lupi e orsi. È un cane da lavoro serio, leale alla famiglia ma estremamente diffidente con gli estranei. Non è un cane per principianti.",
+      "origini_storia": "Il Komondor è un cane di discendenza asiatica, arrivato nelle pianure ungheresi (la Puszta) insieme ai Magiari nomadi provenienti dalle steppe asiatiche, oltre 1.000 anni fa. Si ritiene che discenda dagli antichi cani da pastore tibetani. In Ungheria, è stato selezionato esclusivamente per la sua capacità di guardia, vivendo 24 ore su 24 con il gregge. Il suo mantello cordato si è evoluto come adattamento perfetto: lo proteggeva dal clima rigido e lo rendeva quasi indistinguibile dalle pecore, sorprendendo i lupi che attaccavano il gregge. È considerato un tesoro nazionale in Ungheria. La FCI l'ha riconosciuto nel 1954.",
+      "aspetto_fisico": "È un cane di taglia grande e imponente, con un'ossatura forte. L'altezza al garrese per i maschi è di almeno 70 cm (spesso supera gli 80), per le femmine almeno 65 cm. Il peso per i maschi è 50-60 kg, per le femmine 40-50 kg. Il mantello cordato lo fa apparire ancora più massiccio. Il mantello è la sua caratteristica chiave. È composto da pelo di copertura ruvido e sottopelo fine che si intrecciano formando corde lunghe e pesanti, che possono raggiungere il suolo. Le corde iniziano a formarsi intorno ai 9-10 mesi di vita. Il colore del mantello è sempre bianco (avorio).",
+      "carattere_temperamento": "Il Komondor è un LGD nel senso più puro. È calmo, serio e molto sicuro di sé. Di giorno tende a riposare, osservando, ma di notte diventa un guardiano vigile e attivo. È incredibilmente coraggioso e non esiterà a difendere la sua famiglia o la sua proprietà da qualsiasi minaccia percepita. È devoto al suo \"gregge\" umano, ma non è un cane espansivo o giocherellone. È un pensatore indipendente, non un cane da obbedienza. È estremamente diffidente verso gli estranei e può essere aggressivo se non socializzato e gestito correttamente. È dominante con altri cani.",
+      "salute_cura": "È una razza robusta per la sua taglia, con un'aspettativa di vita di 10-12 anni. È soggetto a displasia dell'anca (comune nei cani grandi) e torsione gastrica (Bloat). Il mantello pesante può causare problemi dermatologici (dermatiti) se non viene asciugato correttamente. La toelettatura è estremamente impegnativa e specifica. Il mantello non va mai spazzolato. Le corde devono essere separate a mano regolarmente fino alla pelle per evitare che si trasformino in un unico blocco di feltro. Il bagno è un'operazione che richiede ore, e l'asciugatura può richiedere 24-48 ore (deve essere completa per evitare muffe).",
+      "attivita_addestramento": "Le esigenze di esercizio sono basse. È un cane da pattugliamento, non da corsa. Ha bisogno di una grande proprietà recintata (in modo molto sicuro) dove poter sorvegliare. È totalmente inadatto alla vita in appartamento o in città. L'addestramento è estremamente difficile. È selezionato per non obbedire, ma per decidere. L'addestramento tradizionale è inutile. Il lavoro deve concentrarsi sulla socializzazione intensiva fin da cucciolo e sulla gestione. Richiede un proprietario esperto, calmo e autorevole che capisca la mentalità LGD.",
+      "ideale_per": "È un cane esclusivamente per proprietari molto esperti di cani da guardia del bestiame. È ideale per chi vive in un contesto rurale isolato, con una grande proprietà da proteggere. È per chi è disposto a dedicare un impegno enorme alla manutenzione del mantello. È assolutamente sconsigliato a chiunque altro. Non è un cane da compagnia per famiglie, non è per la città, non è per principianti. La sua gestione richiede una responsabilità e una competenza enormi.",
+      "energia_e_livelli_di_attivita": 2.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 4.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 5.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 2.0
+    }
+  }
+]

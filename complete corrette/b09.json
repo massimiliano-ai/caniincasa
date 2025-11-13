@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Cane da pastore dell’asia centrale",
+    "post_excerpt": "Antico cane da guardiania (LGD) originario dell'Asia Centrale. È un cane massiccio, coraggioso e indipendente, selezionato per proteggere le greggi dai lupi. Estremamente territoriale e protettivo, richiede un proprietario esperto e un ambiente rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-dellasia-centrale",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore dell’asia centrale"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-dellasia-centrale.jpg",
+      "filename": "Cane-da-pastore-dellasia-centrale.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Asia Centrale (Patronato: Russia)",
+      "colorazioni": "Tutti i colori sono ammessi, tranne il blu genetico, il marrone genetico e il mantello nero con focature.",
+      "temperamento_breve": "Indipendente, Protettivo, Coraggioso, Calmo",
+      "descrizione_generale": "<p>Il Cane da Pastore dell'Asia Centrale, noto anche come Alabai o Volkodav (\"schiaccia-lupi\"), è una delle razze canine più antiche del mondo, un molossoide di tipo mastino. È un cane da guardiania (LGD) massiccio, potente e rustico, selezionato per millenni dai popoli nomadi dell'Asia Centrale (Turkmenistan, Uzbekistan, Kazakistan, ecc.) per un compito vitale: proteggere le greggi e le carovane dai predatori, inclusi i lupi.</p><p>Non è un cane per tutti. È una razza primitiva, caratterizzata da un'assoluta indipendenza, un coraggio estremo e un innato istinto territoriale. È calmo e sicuro di sé, ma incredibilmente protettivo della sua famiglia e proprietà. Richiede un proprietario esperto e un ambiente rurale.</p>",
+      "origini_storia": "<p>Le origini di questa razza si perdono nella notte dei tempi, con una storia che copre oltre 4000 anni. È una \"landrace\", una razza plasmata dalla selezione naturale e funzionale, non dall'estetica. Si è evoluto nelle vaste steppe e montagne tra il Mar Caspio e la Cina. Era il cane indispensabile dei pastori nomadi, l'unico in grado di difendere le greggi dai lupi e dai leopardi delle nevi.</p><p>In Unione Sovietica, la razza fu \"scoperta\" e iniziò un tentativo di selezione controllata, in particolare per l'uso militare e come cane da guardia nelle fabbriche. Tuttavia, la sua natura indipendente lo rendeva difficile da addestrare per l'obbedienza. Il patronato della razza è stato assegnato dalla FCI alla Russia (Standard N° 335).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande e massiccia, che esprime potenza e rusticità. L'altezza al garrese per i maschi è di almeno 70 cm, per le femmine almeno 65 cm. Il peso varia dai 50 agli 80 kg, ma può essere anche superiore. La struttura è potente, con un'ossatura pesante e una testa massiccia.</p><p>Il mantello è doppio, con un pelo di copertura dritto e ruvido e un sottopelo molto fitto. Esiste sia una varietà a pelo corto (3-5 cm) che una a pelo lungo (7-10 cm). Sono ammessi quasi tutti i colori: bianco, nero, fulvo, grigio, tigrato, pezzato. Le orecchie e la coda venivano tradizionalmente tagliate corte (pratica ora vietata in Italia).</p>",
+      "carattere_temperamento": "<p>L'Asia Centrale è un guardiano puro. È calmo, equilibrato e molto sicuro di sé. Risparmia le sue energie e osserva. È incredibilmente protettivo del suo territorio e della sua famiglia, che difende con coraggio e determinazione. È molto diffidente con gli estranei e non accetta facilmente intrusioni.</p><p>È un cane dominante e indipendente, che non risponde all'addestramento tradizionale. Richiede un proprietario che sia un leader calmo, autorevole e che guadagni il suo rispetto. Può essere molto reattivo con altri cani, specialmente dello stesso sesso. È un cane da lavoro, non un cane da compagnia espansivo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-14 anni, notevole per una razza così grande. Essendo una razza rustica e \"naturale\", è generalmente molto sana. Come tutti i cani di taglia gigante, la displasia dell'anca e del gomito è la preoccupazione principale. Può essere soggetto a torsione gastrica (gonfiore).</p><p>Il mantello richiede una buona spazzolata settimanale, che diventa quotidiana durante le abbondanti mute stagionali. Soffre il caldo e ha bisogno di un riparo adeguato.</p>",
+      "attivita_addestramento": "<p>Non è un cane da obbedienza. L'addestramento deve essere focalizzato sulla socializzazione e sulla gestione. Richiede un proprietario esperto di LGD che capisca la psicologia di un cane primitivo e dominante.</p><p>Le esigenze di esercizio sono moderate. Non è un cane da corsa, ma un cane da pattugliamento. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. Lunghe passeggiate (al guinzaglio) sono sufficienti.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di molossi da guardia, che vivono in un ambiente rurale, con un ampio terreno ben recintato. È ideale per chi cerca un cane da guardia serio, indipendente e potente, per la protezione della proprietà o del bestiame.</p><p>È assolutamente sconsigliato ai principianti, alla vita in città, o a chi cerca un cane socievole e obbediente. La sua gestione richiede competenza, responsabilità e un contesto adeguato.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Cane da pastore della russia meridionale",
+    "post_excerpt": "Imponente cane da pastore guardiano russo (LGD), dal lungo mantello bianco e lanoso. È un protettore feroce, reattivo e dominante. Non è un cane per famiglie, ma un cane da lavoro puro, che richiede un proprietario esperto e spazio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-della-russia-meridionale",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore della russia meridionale"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-della-russia-meridionale.jpg",
+      "filename": "Cane-da-pastore-della-russia-meridionale.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Russia (Steppe della Russia meridionale, Ucraina)",
+      "colorazioni": "Bianco (più comune), Bianco e Giallo, Grigio (cenere), Bianco con macchie grigie",
+      "temperamento_breve": "Protettivo (estremo), Dominante, Reattivo, Indipendente",
+      "descrizione_generale": "<p>Il Cane da Pastore della Russia Meridionale (Yuzhnorusskaya Ovcharka) è un cane da pastore guardiano (LGD) di taglia grande, noto per il suo aspetto da \"orso polare\" dovuto al lungo mantello bianco, folto e lanoso. È una razza da lavoro pura, selezionata nelle steppe ucraine e russe per difendere le greggi di pecore Merinos dai lupi e dai ladri.</p><p>È un cane dal carattere estremamente forte. È coraggioso, reattivo, dominante e feroce nella difesa. A differenza di altri LGD, è un cane più \"reattivo\" che \"dissuasivo\". È leale al suo pastore, ma non è un cane da famiglia. Richiede un proprietario esperto in cani da guardia dominanti e un ambiente di lavoro rurale.</p>",
+      "origini_storia": "<p>La razza si è sviluppata alla fine del XVIII secolo nelle steppe meridionali dell'Impero Russo (principalmente l'odierna Ucraina). Si ritiene che sia stata creata incrociando i cani da pastore locali (tipo Borzoi da pastore) con i molossi da guardiania, in particolare il Mastino Spagnolo, importato insieme alle pecore Merinos.</p><p>Il risultato fu un cane grande, veloce e feroce, con un mantello che lo mimetizzava con le pecore e lo proteggeva. La razza era molto diffusa, ma la Rivoluzione Russa e le due guerre mondiali la portarono sull'orlo dell'estinzione, poiché erano visti come cani \"borghesi\" o venivano abbattuti. La razza è stata salvata da allevamenti statali sovietici. È stata riconosciuta dalla FCI nel 1952 (Standard N° 326).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto ma agile. L'altezza al garrese per i maschi è di almeno 65 cm, per le femmine almeno 62 cm. Il peso è 35–50 kg. La struttura è forte e muscolosa.</p><p>Il mantello è la sua caratteristica: è lungo (10-15 cm), folto, ruvido e ondulato, con un sottopelo molto sviluppato. Copre tutto il corpo, inclusa la testa (formando una frangia). I colori più comuni sono il bianco, il bianco-giallo o il grigio cenere. Il mantello richiede molta cura.</p>",
+      "carattere_temperamento": "<p>È un cane da guardia puro. È dominante, indipendente e molto reattivo. È estremamente diffidente verso gli estranei e ha una reazione di difesa attiva e feroce. Non è un cane che tollera estranei nel suo territorio. È leale al suo proprietario, ma richiede una gestione ferma.</p><p>È molto aggressivo con altri cani. La socializzazione è fondamentale, ma non cambierà la sua natura innata di guardiano reattivo. Non è un cane da compagnia né da famiglia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-11 anni. È una razza rustica. La displasia dell'anca è una preoccupazione. Il mantello lungo e folto richiede una toelettatura intensiva: spazzolate frequenti per evitare che si infeltrisca (formando \"corde\" dolorose) e protezione dal caldo estremo. Perde molto pelo.</p>",
+      "attivita_addestramento": "<p>L'addestramento è solo per professionisti. È un cane che non risponde all'obbedienza tradizionale. Richiede un proprietario esperto, dominante (in senso autorevole) e che sappia gestire un cane da guardia ad alta reattività.</p><p>Ha bisogno di spazio rurale e di un lavoro (la guardia). Non è un cane da appartamento né da città.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti di cani da guardia dominanti, che vivono in un ambiente rurale isolato e hanno bisogno di un cane da protezione serio. È un cane da lavoro, non da compagnia.</p><p>Totalmente inadatto a proprietari principianti, famiglie, vita urbana, o a chiunque cerchi un cane socievole.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 2.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 1.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 1.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Cane da pastore di beauce",
+    "post_excerpt": "Cane da pastore francese (Beauceron), nero focato o arlecchino. È un cane da lavoro intelligente, coraggioso e protettivo, con un forte istinto di conduzione e guardia. Richiede un proprietario esperto, addestramento e molta attività fisica.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-di-beauce",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore di beauce"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-beauce.jpg",
+      "filename": "Cane-da-pastore-di-beauce.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione della Beauce)",
+      "colorazioni": "Nero focato (Bas Rouge), Arlecchino (Grigio, nero e focato)",
+      "temperamento_breve": "Intelligente, Protettivo, Coraggioso, Leale",
+      "descrizione_generale": "<p>Il Cane da Pastore di Beauce, o Beauceron, è un grande e antico cane da pastore francese. È un cane \"tuttofare\", selezionato per secoli sia per condurre (herding) che per proteggere (guardian) le greggi di pecore e i bovini nelle pianiere della Beauce, vicino a Parigi. È noto per il suo mantello corto, i colori nero focato (Bas Rouge) o arlecchino, e i caratteristici doppi speroni sulle zampe posteriori.</p><p>È un cane da lavoro eccezionale, con un'intelligenza acuta, un grande coraggio e un forte istinto protettivo. È leale alla sua famiglia, ma molto riservato e diffidente con gli estranei. Non è un cane per principianti: richiede un proprietario esperto, addestramento coerente e molta attività fisica e mentale.</p>",
+      "origini_storia": "<p>Le origini del Beauceron sono antiche e legate ai cani da pastore che popolavano le pianure francesi. Per molto tempo, il Beauceron (a pelo corto) e il Pastore di Brie (Briard, a pelo lungo) erano considerati la stessa razza, distinti solo dal mantello. L'abate Rozier, nel suo \"Cours d'agriculture\" del 1809, fu il primo a descrivere questi due tipi di cani da pastore francesi.</p><p>La distinzione ufficiale avvenne nel 1896, grazie al lavoro di Pierre Mégnin. Il primo club di razza fu fondato nel 1911. Il Beauceron è stato ampiamente utilizzato dall'esercito francese durante le due guerre mondiali come cane da trincea, portaordini e cane da ricerca.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, solido, potente e muscoloso, ma senza essere pesante. L'altezza al garrese per i maschi è 65–70 cm, per le femmine 61–68 cm. Il peso è 30–45 kg. La testa è lunga e ben cesellata. Le orecchie, se integre, sono semi-erette o pendenti (in passato venivano tagliate).</p><p>La caratteristica distintiva sono i doppi speroni (due dita in più) sulle zampe posteriori, che devono essere ben formati. Il mantello è corto (3-4 cm), fitto e duro, con un sottopelo. I colori sono:\n<ul>\n<li><b>Nero focato (Bas Rouge):</b> Nero con focature color \"scoiattolo\" (rosse).</li>\n<li><b>Arlecchino (Harlequin):</b> Grigio, nero e focato (macchie nere su fondo grigio, con focature).</li>\n</ul></p>",
+      "carattere_temperamento": "<p>Il Beauceron è un cane da pastore e da guardia. È molto intelligente, addestrabile e desideroso di lavorare con il proprietario. È coraggioso, sicuro di sé e molto protettivo della sua famiglia e del suo territorio. È naturalmente diffidente verso gli estranei.</p><p>È un cane \"per un solo padrone\", che si lega profondamente. È noto per la sua maturazione lenta (rimane \"cucciolo\" mentalmente per 2-3 anni). Può essere dominante con altri cani, specialmente i maschi. Richiede una socializzazione precoce e un addestramento costante per gestire il suo forte carattere.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza robusta, ma soggetta a displasia dell'anca (molto comune). Può soffrire di problemi cardiaci (cardiomiopatia dilatativa) e di torsione gastrica (gonfiore), data la taglia e il petto profondo. Il mantello corto richiede poche cure, solo una spazzolata settimanale.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un cane da lavoro che deve essere stimolato fisicamente e mentalmente ogni giorno. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate, corsa e, idealmente, di un lavoro.</p><p>L'addestramento è per proprietari esperti. È intelligente e impara velocemente, ma è anche testardo e sensibile alla durezza. Richiede un leader calmo, giusto e coerente. Eccelle negli sport di obbedienza, agility, herding e negli sport di difesa (IPO/Schutzhund).</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di cani da pastore o da lavoro, che cercano un cane protettivo, intelligente e un partner sportivo. È per chi vive in una casa con giardino e ha molto tempo da dedicare all'addestramento e all'esercizio.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi vive in un piccolo appartamento. La sua diffidenza e il suo istinto di protezione richiedono una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Cane da pastore di brie",
+    "post_excerpt": "Antico cane da pastore francese (Briard), dal caratteristico pelo lungo, secco e \"caprino\". È un cane da conduzione e guardia, intelligente, leale e protettivo. Richiede toelettatura intensiva, socializzazione e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-di-brie",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore di brie"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-brie.jpg",
+      "filename": "Cane-da-pastore-di-brie.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione della Brie)",
+      "colorazioni": "Nero, Fulvo, Grigio (Ardesia), Blu",
+      "temperamento_breve": "Leale, Protettivo, Intelligente, Testardo",
+      "descrizione_generale": "<p>Il Cane da Pastore di Brie, o Briard, è un grande e antico cane da pastore francese, famoso per il suo lungo mantello \"caprino\" (secco e ruvido) e per i baffi e la barba che gli coprono il muso. È, come il Beauceron, un cane \"tuttofare\", selezionato per condurre e, soprattutto, proteggere le greggi dai lupi e dai ladri.</p><p>È un cane da lavoro intelligente, coraggioso e con un istinto protettivo molto sviluppato. È incredibilmente leale e devoto alla sua famiglia, ma molto riservato e diffidente con gli estranei. Richiede un proprietario esperto, una socializzazione intensiva e un impegno enorme nella toelettatura del mantello.</p>",
+      "origini_storia": "<p>Le origini del Briard sono antichissime. Cani da pastore a pelo lungo sono presenti in Francia da secoli, e si dice che Carlo Magno ne possedesse. Per molto tempo, è stato confuso con il Beauceron (a pelo corto), e venivano chiamati entrambi \"Cani da pastore francesi\".</p><p>L'abate Rozier, nel 1809, fu il primo a distinguere il \"Cane di Brie\" (a pelo lungo) dal \"Cane di Beauce\" (a pelo corto). La selezione moderna iniziò alla fine del XIX secolo, nella regione della Brie. La razza fu utilizzata ampiamente dall'esercito francese come cane da sentinella e portaordini durante la Prima Guerra Mondiale, guadagnandosi grande fama. Il Club francese della razza fu fondato nel 1897.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto e muscoloso. L'altezza al garrese per i maschi è 62–68 cm, per le femmine 56–64 cm. Il peso è 30–40 kg. Come il Beauceron, deve avere i doppi speroni sulle zampe posteriori.</p><p>Il mantello è la sua caratteristica: è lungo (almeno 7 cm), secco (non lanoso, \"pelo di capra\"), e forma una leggera ondulazione. Ha un sottopelo leggero. Il pelo forma baffi, barba e una frangia che copre leggermente gli occhi. I colori sono unicolori: nero, fulvo (in varie tonalità), grigio o blu. Il bianco non è ammesso.</p>",
+      "carattere_temperamento": "<p>Il Briard è un cane da pastore e da guardia. È molto intelligente, ma anche testardo e indipendente. È estremamente leale e protettivo della sua famiglia, che considera il suo \"gregge\", ed è spesso diffidente e riservato con gli estranei. È un guardiano vigile.</p><p>Può essere dominante con altri cani. Richiede una socializzazione precoce e costante per gestire il suo forte istinto protettivo. È un cane che matura lentamente. Soffre la solitudine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È soggetto a displasia dell'anca e torsione gastrica (gonfiore). La principale preoccupazione genetica è l'Atrofia Progressiva della Retina (PRA) e, in alcune linee, la Cecità Notturna Stazionaria Congenita (CSNB).</p><p>La cura del mantello è un impegno enorme. Non perde molto pelo (il pelo morto rimane impigliato), ma deve essere spazzolato a fondo per ore, più volte a settimana, per prevenire la formazione di feltri dolorosi. È un cane che porta molta sporcizia in casa.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento. Ha bisogno di esercizio quotidiano e stimolazione mentale. Eccelle nell'herding (conduzione), nell'agility e nell'obedience, ma si annoia facilmente.</p><p>L'addestramento è per esperti. È intelligente ma testardo. Richiede un proprietario paziente, coerente e che usi il rinforzo positivo, ma che sappia essere un leader autorevole. La socializzazione è la chiave.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di cani da pastore, che vivono in una casa con giardino e hanno molto tempo da dedicare alla toelettatura e all'addestramento. È per chi cerca un cane da guardia leale e intelligente.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi è ossessionato dalla pulizia (il pelo lungo porta sporco). La sua gestione richiede molto impegno.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Cane da pastore di ciarplanina",
+    "post_excerpt": "Potente cane da pastore guardiano (LGD) dei monti Šar (Ciarplanina), ex-Jugoslavia. È un cane coraggioso, indipendente e protettivo, selezionato per difendere le greggi dai lupi. Richiede un proprietario esperto, spazio rurale e socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-di-ciarplanina",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore di ciarplanina"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-ciarplanina.jpg",
+      "filename": "Cane-da-pastore-di-ciarplanina.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Macedonia del Nord e Serbia (Regione dei Monti Šar/Ciarplanina)",
+      "colorazioni": "Grigio (ferro, scuro), Fulvo (preferibilmente carbonato). Unicolore.",
+      "temperamento_breve": "Protettivo, Indipendente, Calmo, Coraggioso",
+      "descrizione_generale": "<p>Il Cane da Pastore di Ciarplanina (Sarplaninac) è un antico cane da pastore guardiano (LGD) originario della catena montuosa di Šar (Ciarplanina), che segna il confine tra Macedonia del Nord, Serbia e Kosovo. È un molossoide robusto, di taglia grande, selezionato per secoli per difendere le greggi di pecore dai lupi e dagli orsi.</p><p>È un cane dal carattere tipico del guardiano: calmo, equilibrato, ma incredibilmente coraggioso, indipendente e protettivo. È devoto alla sua famiglia, ma estremamente diffidente verso gli estranei. Non è un cane per principianti, ma un cane da lavoro che richiede un ambiente rurale e un proprietario esperto.</p>",
+      "origini_storia": "<p>Questa razza è una delle più antiche dei Balcani, discendente dai molossi asiatici portati in Europa con le migrazioni. Si è sviluppato in isolamento nelle aspre montagne di Šar, dove la selezione naturale e funzionale (solo i cani più forti e coraggiosi sopravvivevano e si riproducevano) ha forgiato il suo carattere.</p><p>Per secoli è stato solo un cane da lavoro dei pastori. La razza divenne nota quando fu adottata dall'esercito jugoslavo come cane militare da guardia. La FCI ha riconosciuto la razza nel 1939 (inizialmente come \"Pastore dell'Illiria\"). Dopo la dissoluzione della Jugoslavia, il patronato della razza è stato assegnato a Serbia e Macedonia del Nord (Standard N° 41).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, forte e robusto. L'altezza al garrese per i maschi è 62 cm (media), per le femmine 58 cm (media). Il peso è 35–45 kg (maschi) e 30–40 kg (femmine). È un cane potente, ma non pesante come altri molossi.</p><p>Il mantello è doppio, lungo (10-12 cm), folto e piuttosto ruvido. Forma una criniera sul collo e frange sulle zampe. Il sottopelo è molto denso. I colori sono unicolori: grigio ferro (il più comune), grigio scuro, o fulvo/sabbia, spesso con carbonature (punte nere) che danno un aspetto \"selvatico\".</p>",
+      "carattere_temperamento": "<p>È un cane da guardia calmo e riflessivo. È indipendente e abituato a prendere decisioni. È incorruttibile, coraggioso e molto protettivo del suo territorio e della sua famiglia, che difende con determinazione. È molto diffidente con gli estranei e non dà confidenza.</p><p>È un cane dominante, specialmente con altri cani dello stesso sesso. Non è un cane da obbedienza, ma un partner di lavoro. Richiede una socializzazione precoce e un proprietario che sia un leader calmo e autorevole.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. È una razza estremamente rustica e sana. La displasia dell'anca è la preoccupazione principale, data la taglia. Il mantello folto richiede spazzolate regolari, specialmente durante le abbondanti mute stagionali. Soffre il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. È un cane da pattugliamento, non da corsa. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. L'addestramento all'obbedienza è difficile; l'addestramento deve focalizzarsi sulla socializzazione e la gestione.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di LGD, che vivono in un ambiente rurale con molto spazio recintato. È ideale per la guardia alla proprietà o al bestiame. È un cane da lavoro, non un semplice cane da compagnia.</p><p>Non è adatto a principianti, alla vita in città, o a chi non sa gestire un cane dominante e indipendente.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Cane da pastore di karst",
+    "post_excerpt": "Antico cane da pastore guardiano (LGD) della Slovenia (Carso). È un cane robusto, grigio ferro, selezionato per difendere le greggi. È un protettore coraggioso e indipendente, leale alla famiglia ma diffidente con gli estranei. Richiede un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-di-karst",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore di karst"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-karst.jpg",
+      "filename": "Cane-da-pastore-di-karst.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Slovenia (Regione del Carso/Karst)",
+      "colorazioni": "Grigio ferro (con carbonature, maschera scura)",
+      "temperamento_breve": "Protettivo, Indipendente, Coraggioso, Leale",
+      "descrizione_generale": "<p>Il Cane da Pastore del Carso (Kraški Ovčar) è un cane da pastore guardiano (LGD) di taglia grande, originario della regione del Carso, in Slovenia. È un cane rustico, robusto e dal caratteristico mantello grigio ferro, lungo e folto. È strettamente imparentato con il Ciarplanina, ma è generalmente un po' più basso e massiccio.</p><p>Come tutti i cani da guardiania, è stato selezionato per proteggere le greggi dai predatori. È un cane dal carattere forte, indipendente, coraggioso e molto protettivo. È leale alla sua famiglia, ma molto diffidente con gli estranei. È una razza rara, che richiede un proprietario esperto e un ambiente rurale.</p>",
+      "origini_storia": "<p>È una razza autoctona della Slovenia, discendente dai molossi che migrarono con le tribù illiriche. Per secoli, questi cani hanno protetto le greggi sull'altopiano del Carso. La sua storia è parallela a quella del Ciarplanina (Pastore dell'Illiria), con cui condivide l'origine.</p><p>La razza fu descritta per la prima volta nel 1689 dal barone Janez Vajkard Valvasor. Inizialmente, nel 1939, fu riconosciuto dalla FCI insieme al Ciarplanina con il nome unico di \"Pastore dell'Illiria\". Solo nel 1968 la FCI separò le due razze, dando al cane sloveno il nome di Cane da Pastore del Carso (Standard N° 278).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto e muscoloso. L'altezza al garrese per i maschi è 57–63 cm, per le femmine 54–60 cm. Il peso è 30–42 kg (maschi) e 25–37 kg (femmine). È leggermente più lungo che alto.</p><p>Il mantello è doppio, lungo (circa 10 cm), folto e liscio, con un sottopelo molto denso. Forma una criniera sul collo. Il colore è invariabilmente il grigio ferro, specialmente sul dorso. Sono presenti carbonature (ombreggiature nere) e una maschera scura. Il colore non deve essere unicolore nero o marrone.</p>",
+      "carattere_temperamento": "<p>È un guardiano puro. Calmo, equilibrato, coraggioso e indipendente. È molto protettivo del suo territorio e della sua famiglia, e molto diffidente con gli estranei. È un cane da guardia che \"pensa\" prima di agire, ma è determinato.</p><p>È leale al proprietario, ma non servile. È un cane dominante, specialmente con altri cani. Richiede una socializzazione precoce e un proprietario che sia un leader calmo e autorevole. Non è un cane da obbedienza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. È una razza molto rustica e sana, grazie al suo pool genetico ristretto ma ben gestito. La displasia dell'anca è la preoccupazione principale. Il mantello folto richiede spazzolate regolari, specialmente durante le abbondanti mute stagionali. Soffre il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. È un cane da pattugliamento, non da corsa. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. L'addestramento all'obbedienza è difficile; l'addestramento deve focalizzarsi sulla socializzazione e la gestione.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di LGD, che vivono in un ambiente rurale con molto spazio recintato. È ideale per la guardia alla proprietà o al bestiame. È un cane da lavoro, non un semplice cane da compagnia.</p><p>Non è adatto a principianti, alla vita in città, o a chi non sa gestire un cane dominante e indipendente.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Cane da pastore di picardia",
+    "post_excerpt": "Antico cane da pastore francese (Piccardia), dall'aspetto rustico e \"arruffato\". È un cane da conduzione intelligente, energico e testardo. Leale e giocherellone in famiglia, ma riservato con gli estranei. Richiede esercizio e stimolazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-di-picardia",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore di picardia"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-picardia.jpg",
+      "filename": "Cane-da-pastore-di-picardia.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione della Piccardia)",
+      "colorazioni": "Fulvo, Fulvo carbonato, Grigio, Tigrato",
+      "temperamento_breve": "Intelligente, Energico, Testardo, Leale",
+      "descrizione_generale": "<p>Il Cane da Pastore di Picardia, o Berger Picard, è un antico cane da pastore francese, noto per il suo aspetto rustico, \"arruffato\" e quasi preistorico. È un cane di taglia media, con un mantello duro e \"griffonato\", orecchie erette e un'espressione intelligente e attenta. È un cane da conduzione (herding), non un guardiano di greggi.</p><p>È un cane molto intelligente, energico e con un grande senso dell'umorismo, ma anche estremamente testardo e indipendente. È leale alla sua famiglia, ma riservato e diffidente con gli estranei. È una razza rara, quasi estinta dopo le guerre mondiali, che richiede un proprietario esperto.</p>",
+      "origini_storia": "<p>È considerata la più antica delle razze da pastore francesi. Si ritiene che i suoi antenati siano arrivati in Piccardia con le invasioni celtiche nel IX secolo. Per secoli è stato il cane da pastore delle pianure della Piccardia, lavorando a stretto contatto con l'uomo. È imparentato con il Pastore Olandese e il Pastore Belga (in particolare il Laekenois).</p><p>La razza fu quasi completamente spazzata via dai combattimenti nelle pianure della Somme durante la Prima Guerra Mondiale. Il suo recupero nel dopoguerra fu lento e difficile, e la Seconda Guerra Mondiale lo portò di nuovo sull'orlo dell'estinzione. La razza è stata riconosciuta dalla FCI nel 1964 (Standard N° 176) e rimane rara.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, muscoloso ma elegante. L'altezza al garrese per i maschi è 60–65 cm, per le femmine 55–60 cm. La struttura è solida ma agile. La testa è espressiva, con orecchie erette (naturali) e baffi e barba evidenti.</p><p>Il mantello è caratteristico: è ruvido, duro, di media lunghezza (5-6 cm) e \"spettinato\". Ha un leggero sottopelo. I colori sono il fulvo, il fulvo carbonato (con punte nere), il tigrato e il grigio (spesso una miscela di peli neri e bianchi).</p>",
+      "carattere_temperamento": "<p>È un cane da pastore: intelligente, energico, vigile e molto vocale. È leale e affettuoso con la sua famiglia, ma non è un cane per tutti. È molto testardo, indipendente e ha un forte istinto di conduzione (potrebbe tentare di \"radunare\" i bambini).</p><p>È molto riservato e diffidente con gli estranei, il che lo rende un ottimo cane da allerta. Richiede una socializzazione precoce e intensiva per non diventare timoroso o reattivo. È un cane sensibile che non risponde alla durezza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. Essendo una razza rara, il pool genetico è ristretto. Le principali preoccupazioni sono la displasia dell'anca e le malattie oculari (come la PRA). Il mantello ruvido non richiede cure eccessive, una spazzolata settimanale è sufficiente per evitare nodi. Non perde molto pelo.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un cane da lavoro che ha bisogno di esercizio e stimolazione mentale. Non è un cane da appartamento. Eccelle nell'herding, nell'agility e nell'obedience, ma si annoia facilmente.</p><p>L'addestramento è una sfida. È intelligente ma testardo. Richiede un proprietario esperto, paziente e con senso dell'umorismo, che usi metodi positivi e vari. La socializzazione è la chiave.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di cani da pastore, che cercano un cane da lavoro intelligente, energico e con carattere. È ideale per chi vive in campagna e pratica sport cinofili. Richiede un impegno serio nella socializzazione.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi cerca un cane dall'obbedienza facile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Cane da pastore mallorquin",
+    "post_excerpt": "Cane da pastore spagnolo (Maiorca), di colore nero. È un cane da conduzione e guardia, rustico, intelligente e molto indipendente. È un cane \"per un solo padrone\", protettivo e diffidente. Richiede un proprietario esperto e rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-mallorquin",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore mallorquin"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-mallorquin.jpeg",
+      "filename": "Cane-da-pastore-mallorquin.jpeg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Isola di Maiorca, Baleari)",
+      "colorazioni": "Esclusivamente Nero (ammessa una macchia bianca sul petto)",
+      "temperamento_breve": "Protettivo, Indipendente, Leale (al padrone), Intelligente",
+      "descrizione_generale": "<p>Il Cane da Pastore Mallorquin (Ca de Bestiar) è una razza da pastore autoctona dell'isola di Maiorca, nelle Baleari. È un cane rustico, di taglia grande e di un caratteristico colore nero. È un cane da lavoro \"tuttofare\", utilizzato per secoli per condurre e proteggere le greggi, le mucche e persino i tacchini, e come guardiano delle fattorie.</p><p>È un cane primitivo, noto per essere un \"cane per un solo padrone\". È incredibilmente leale e devoto al suo proprietario, ma altrettanto indipendente, testardo e molto diffidente con gli estranei. È un cane da guardia eccezionale, che richiede un proprietario esperto e un ambiente rurale.</p>",
+      "origini_storia": "<p>Le origini di questo cane da pastore sono antiche e legate ai cani portati sull'isola di Maiorca da diverse popolazioni, probabilmente incrociati con cani da guardia locali. La sua selezione è stata puramente funzionale, per creare un cane resistente al clima caldo dell'isola e capace di lavorare in autonomia.</p><p>La razza è rimasta isolata sull'isola per secoli. La selezione moderna è iniziata negli anni '70 per salvare la razza dall'estinzione, dovuta all'importazione di razze straniere. Il primo standard ufficiale è stato redatto nel 1980. La FCI ha riconosciuto la razza nel 1982 (Standard N° 321).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, forte e muscoloso, ma agile. L'altezza al garrese per i maschi è 66–73 cm, per le femmine 62–68 cm. Il peso è circa 40 kg. Esistono due varietà di pelo:\n<ul>\n<li><b>Pelo Corto:</b> Il più comune. Corto e aderente.</li>\n<li><b>Pelo Lungo:</b> Raro. Lungo, morbido e leggermente ondulato.</li>\n</ul>\nIl colore è esclusivamente nero (corvino o pece). È ammessa solo una piccola macchia bianca sul petto. Le orecchie sono triangolari e pendenti lateralmente.</p>",
+      "carattere_temperamento": "<p>È un cane da pastore e da guardia. È molto intelligente, ma indipendente e testardo. È un \"cane per un solo padrone\", a cui obbedisce ciecamente, mentre tende a ignorare gli altri membri della famiglia. È incredibilmente protettivo e territoriale.</p><p>È estremamente diffidente e riservato con gli estranei, e può essere aggressivo se percepisce una minaccia. È anche molto dominante e rissoso con altri cani dello stesso sesso. Richiede una socializzazione precoce e intensiva.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. È una razza estremamente rustica e sana, selezionata dalla natura. La displasia dell'anca è la preoccupazione principale. Il pelo corto è facile da curare, ma il colore nero lo rende vulnerabile al caldo intenso. Il pelo lungo richiede più spazzolate.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. È un cane da lavoro che ha bisogno di spazio e di un compito. Non è un cane da appartamento. Ha bisogno di un grande giardino da pattugliare e di lunghe passeggiate.</p><p>L'addestramento è solo per esperti. È difficile a causa della sua indipendenza. Richiede un proprietario autorevole, che sappia guadagnarsi il suo rispetto. La socializzazione è fondamentale.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti, che vivono in un ambiente rurale isolato. È ideale per la guardia alla proprietà o per la conduzione del bestiame. È per chi cerca un cane da guardia \"per un solo padrone\".</p><p>Non è un cane per principianti, per la vita in città, o per famiglie. La sua natura diffidente e dominante richiede una gestione molto competente.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Cane da pastore maremmano abruzzese",
+    "post_excerpt": "Antico cane da pastore guardiano (LGD) italiano, famoso per il suo mantello bianco. È un cane indipendente, coraggioso e protettivo, selezionato per difendere le greggi dai lupi. Richiede un proprietario esperto, spazio rurale e socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-maremmano-abruzzese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore maremmano abruzzese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-maremmano-abruzzese.jpg",
+      "filename": "Cane-da-pastore-maremmano-abruzzese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Abruzzo e Maremma)",
+      "colorazioni": "Esclusivamente Bianco (ammesso avorio o sfumature arancio pallido)",
+      "temperamento_breve": "Indipendente, Protettivo, Coraggioso, Leale",
+      "descrizione_generale": "<p>Il Cane da Pastore Maremmano-Abruzzese è un'antica razza da guardiania (LGD) italiana. È un cane di taglia grande, maestoso e dal caratteristico mantello bianco e folto. Non è un cane da conduzione, ma un protettore: il suo compito per millenni è stato quello di difendere le greggi di pecore dai predatori, in particolare dal lupo, sugli Appennini.</p><p>È un cane dal carattere forte, indipendente e molto coraggioso. È calmo e riflessivo, ma estremamente protettivo del suo territorio e della sua famiglia (il suo \"gregge\"). È molto diffidente con gli estranei. Non è un cane per tutti, ma richiede un proprietario esperto e un ambiente rurale.</p>",
+      "origini_storia": "<p>È una delle razze da pastore più antiche. Discende dai grandi cani da pastore bianchi dell'Asia Centrale, arrivati in Europa migliaia di anni fa. In Italia, questi cani sono stati selezionati per secoli, come descritto già da autori romani come Varrone e Columella, che raccomandavano cani bianchi per distinguerli dai lupi di notte.</p><p>La razza si è sviluppata seguendo la transumanza tra l'Abruzzo (dove passava l'estate) e la Maremma tosco-laziale (dove svernavano le greggi). Questo ha portato alla fusione dei due tipi (il Maremmano, più leggero, e l'Abruzzese, più massiccio) in un'unica razza. Lo standard fu unificato nel 1958.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto e dall'aspetto rustico. L'altezza al garrese per i maschi è 65–73 cm (peso 35–45 kg), per le femmine 60–68 cm (peso 30–40 kg). La struttura è potente ma agile. La testa è grande, conica, simile a quella di un orso bianco.</p><p>Il mantello è doppio, lungo, folto e ruvido al tatto, con un sottopelo molto denso. Forma una criniera sul collo. Il colore è esclusivamente bianco. Sfumature avorio o arancio pallido sono tollerate, ma non desiderate.</p>",
+      "carattere_temperamento": "<p>È un guardiano puro. È indipendente, coraggioso e abituato a prendere decisioni da solo. È calmo e molto equilibrato, ma sempre vigile. È incredibilmente protettivo e leale alla sua famiglia e al suo territorio. È dolce con i membri del suo \"gregge\", inclusi bambini e altri animali della famiglia.</p><p>È estremamente diffidente e riservato con gli estranei. Non è un cane da attacco, ma un deterrente che abbaia (specialmente di notte) e si interpone. Non è un cane da obbedienza tradizionale. Richiede una socializzazione precoce.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. È una razza straordinariamente rustica e sana, selezionata dalla natura. La displasia dell'anca è la preoccupazione principale, data la taglia. Il mantello folto, sebbene autopulente, richiede spazzolate regolari, specialmente durante le abbondanti mute stagionali. Soffre il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. È un cane da pattugliamento, non da corsa. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. L'addestramento all'obbedienza è difficile; l'addestramento deve focalizzarsi sulla socializzazione e la gestione.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di LGD, che vivono in un ambiente rurale, con un ampio terreno ben recintato. È ideale per la guardia alla proprietà o al bestiame. È un cane da lavoro, non un semplice cane da compagnia.</p><p>Non è adatto a principianti, alla vita in città, o a chi non sa gestire un cane dominante e indipendente. Il suo abbaio notturno può essere un problema per i vicini.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Cane da pastore olandese",
+    "post_excerpt": "Cane da pastore olandese versatile, disponibile in tre varietà di pelo (corto, lungo, ruvido). È un cane da lavoro intelligente, energico e protettivo. Eccellente nell'addestramento (IPO, sport), richiede un proprietario esperto e attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-pastore-olandese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da pastore olandese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-olandese.jpg",
+      "filename": "Cane-da-pastore-olandese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi",
+      "colorazioni": "Tigrato (Brindle) su fondo oro o argento (per pelo corto e lungo). Blu-grigio, Sale e Pepe, Tigrato (per pelo ruvido).",
+      "temperamento_breve": "Intelligente, Protettivo, Energico, Leale",
+      "descrizione_generale": "<p>Il Cane da Pastore Olandese (Hollandse Herdershond) è un cane da pastore versatile, originario dei Paesi Bassi. È un cane da lavoro \"tuttofare\" delle fattorie olandesi, usato per condurre le greggi, fare la guardia e trainare piccoli carri. È strettamente imparentato con il Pastore Belga, da cui si distingue principalmente per il colore.</p><p>È un cane estremamente intelligente, energico, leale e con un forte istinto protettivo. È un atleta eccezionale, molto apprezzato negli sport di difesa (IPO/Schutzhund) e nell'agility. Non è un cane per principianti: richiede un proprietario esperto, addestramento e molta stimolazione mentale.</p>",
+      "origini_storia": "<p>Come il Pastore Belga, l'Olandese discende dai cani da pastore comuni che popolavano le campagne del Belgio e dei Paesi Bassi. Per secoli, la selezione è stata puramente funzionale. Quando, alla fine del XIX secolo, i pastori belgi decisero di standardizzare le loro razze (creando Malinois, Tervueren, ecc.), gli olandesi fecero lo stesso.</p><p>Il Club di razza olandese fu fondato nel 1898. Inizialmente, erano ammessi tutti i colori, ma per distinguersi dai cugini belgi, si decise di concentrarsi sul colore tigrato (brindle) come marchio di fabbrica della razza. È una razza rara, anche nei Paesi Bassi, ma molto apprezzata da chi pratica sport di utilità.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, muscoloso e ben proporzionato. L'altezza al garrese per i maschi è 57–62 cm, per le femmine 55–60 cm. Il peso è 23–32 kg. La struttura è forte ma agile. Esiste in tre varietà di pelo:\n<ul>\n<li><b>Pelo Corto:</b> Il più comune, specialmente negli sport. Pelo corto, duro e fitto.</li>\n<li><b>Pelo Lungo:</b> Lungo, dritto e ruvido, con frange.</li>\n<li><b>Pelo Ruvido (Wirehaired):</b> Raro. Pelo \"fil di ferro\", denso e arruffato, con barba.</li>\n</ul>\nIl colore per Pelo Corto e Lungo è il Tigrato (Brindle) su fondo oro (più comune) o argento. Per il Pelo Ruvido sono ammessi blu-grigio, sale e pepe e tigrato.</p>",
+      "carattere_temperamento": "<p>È un cane da lavoro. È molto intelligente, energico, attento e ha un forte desiderio di lavorare con il proprietario. È un cane da pastore e da guardia, quindi è protettivo, territoriale e riservato con gli estranei. È molto leale alla sua famiglia.</p><p>Ha un'alta \"drive\" (motivazione) e un forte istinto predatorio. Richiede una socializzazione precoce per gestire la sua diffidenza. Se non stimolato mentalmente, può diventare nevrotico, distruttivo e abbaiare eccessivamente. È un cane che deve lavorare.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-14 anni. È una razza generalmente molto sana e robusta, specialmente la varietà a pelo corto. La displasia dell'anca è monitorata. La varietà a pelo ruvido (la più rara) ha un pool genetico ristretto e può essere soggetta a più problemi.</p><p>La cura del pelo corto è minima. Il pelo lungo e il pelo ruvido (che richiede stripping) necessitano di più cure.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un atleta che ha bisogno di lavoro fisico e mentale ogni giorno. Non è un cane da appartamento. È ideale per l'addestramento sportivo.</p><p>L'addestramento è per proprietari esperti. È incredibilmente intelligente e apprende velocemente, ma è anche sensibile e può essere testardo. Richiede un proprietario coerente, attivo e che usi metodi positivi per incanalare la sua energia. Eccelle in IPO, agility, obedience e herding.</p>",
+      "ideale_per": "<p>È un cane ideale per proprietari esperti di cani da lavoro (pastori tedeschi, malinois) che praticano sport cinofili (IPO, agility, obedience) a livello agonistico. È per chi cerca un cane da guardia serio, intelligente e un partner sportivo.</p><p>Non è assolutamente un cane per principianti, per persone sedentarie, o per la vita in appartamento. È un cane da lavoro ad alte prestazioni, non un semplice cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.5
+    }
+  }
+]

@@ -1,0 +1,483 @@
+
+[
+  {
+    "post_title": "Stabyhound",
+    "post_excerpt": "Lo Stabyhoun è un versatile cane da ferma olandese, originario della Frisia. Di taglia media, è un compagno leale (\"Stabij\" significa \"stai con me\") ma anche un cacciatore tenace (specialmente di talpe). Richiede esercizio e un proprietario attivo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "stabyhound",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Stabyhound"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Stabyhound.jpg",
+      "filename": "Stabyhound.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi (Frisia)",
+      "colorazioni": "Nero e bianco (con o senza pezzature/roanature), Arancio e bianco (con o senza pezzature/roanature), Marrone e bianco (con o senza pezzature/roanature)",
+      "temperamento_breve": "Leale, Intelligente, Tenace, Sensibile",
+      "descrizione_generale": "<p>Lo Stabyhoun, o Stabij, è una delle razze canine più rare al mondo, originaria della provincia della Frisia, nei Paesi Bassi. È un cane da caccia versatile, classificato come cane da ferma, ma storicamente utilizzato come cane tuttofare nelle fattorie. Il suo nome frisone, Stabijhoun, significa \"cane stai con me\", sottolineando il suo profondo legame con la famiglia.</p><p>È un cane di taglia media, robusto ma elegante, con un mantello setoso nero e bianco (o marrone/arancio e bianco). Sebbene sia un compagno affettuoso, è un cane da lavoro nel cuore, con un forte istinto venatorio e una specializzazione unica: la caccia alle talpe. Richiede un proprietario attivo che possa stimolarlo mentalmente e fisicamente.</p>",
+      "origini_storia": "<p>Le origini dello Stabyhoun si trovano nelle foreste della Frisia (Fryske Wâlden). È un cane autoctono che esiste da secoli, probabilmente discendente da spaniel portati dagli spagnoli durante l'occupazione (XVI-XVII secolo) e incrociati con cani locali. Per generazioni è stato il cane del \"piccolo uomo\" (contadini e braccianti), che non potevano permettersi cani diversi per scopi diversi.</p><p>Il suo utilizzo era vario: cane da ferma per la selvaggina da piuma, cacciatore di piccola selvaggina (volpi, martore) e, in particolare, un efficientissimo cacciatore di talpe, un lavoro per cui i contadini venivano pagati. La razza fu ufficialmente riconosciuta dal Kennel Club olandese (Raad van Beheer) nel 1942. Resta una razza estremamente rara al di fuori dei Paesi Bassi.</p>",
+      "aspetto_fisico": "<p>Lo Stabyhoun è un cane di taglia media, ben proporzionato e potente. L'altezza ideale al garrese è di 53 cm per i maschi e 49 cm per le femmine. Il mantello è lungo e liscio (mai riccio o troppo ondulato), con frange su petto, orecchie, zampe e coda. È un mantello autopulente che respinge lo sporco.</p><p>I colori più comuni sono il nero e bianco, il marrone e bianco, e il più raro arancio e bianco. Sono comuni la pezzatura (macchie) o la roanatura (peli misti). La testa è asciutta, con orecchie pendenti e un'espressione dolce ma vigile. La coda è lunga e portata a falce.</p>",
+      "carattere_temperamento": "<p>Lo Stabyhoun ha un carattere leale e affettuoso, come suggerisce il nome, ma è anche un cane da caccia tenace e indipendente. È molto intelligente ma noto per la sua testardaggine \"frisona\"; non è un cane dall'obbedienza cieca e tende a riflettere prima di eseguire un comando.</p><p>È un eccellente cane da guardia, molto vigile e pronto ad abbaiare per segnalare novità, ma non è aggressivo. È generalmente buono con i bambini e altri animali domestici se socializzato correttamente, ma il suo istinto predatorio verso piccoli animali (come roditori o uccelli) rimane molto forte.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 13-15 anni. Essendo una razza con un pool genetico molto ristretto, gli allevatori responsabili sono estremamente attenti ai test genetici. Le patologie da monitorare includono la displasia dell'anca e del gomito, l'epilessia e il Dotto Arterioso Pervio (PDA), una cardiopatia congenita.</p><p>Il mantello, pur essendo lungo, non è difficile da gestire. Richiede una buona spazzolata settimanale per prevenire nodi, specialmente dietro le orecchie. Perde pelo moderatamente, con picchi stagionali. Le orecchie pendenti richiedono controlli regolari per evitare infezioni.</p>",
+      "attivita_addestramento": "<p>Questo cane ha bisogno di un lavoro da fare. Non è adatto alla vita sedentaria in appartamento. Richiede esercizio quotidiano, non solo passeggiate al guinzaglio, ma anche stimolazione mentale. È un eccellente nuotatore e ama il riporto.</p><p>L'addestramento richiede pazienza, coerenza e un approccio positivo. Si annoia facilmente con la ripetizione e non risponde bene ai metodi duri. Eccelle in attività come il nosework, l'agility, l'obedience e, naturalmente, la caccia. La socializzazione precoce è importante per gestire la sua riservatezza.</p>",
+      "ideale_per": "<p>Lo Stabyhoun è ideale per proprietari attivi, preferibilmente con esperienza, che vivono in un ambiente rurale o suburbano con giardino. È un cane eccellente per cacciatori, per chi pratica sport cinofili o per famiglie che amano le lunghe escursioni. Richiede un proprietario che apprezzi la sua intelligenza indipendente.</p><p>Non è un cane per principianti, per persone sedentarie o per chi vive in un piccolo appartamento in città. Soffre la solitudine e non è adatto a chi cerca un cane puramente ornamentale. Il suo istinto predatorio deve essere gestito.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Staffordshire bull terrier",
+    "post_excerpt": "Lo Staffordshire Bull Terrier è un cane muscoloso di taglia media, noto per il suo coraggio e la sua incredibile devozione alla famiglia. Sebbene abbia origini da combattente, è rinomato come \"nanny dog\" per la sua pazienza con i bambini.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "staffordshire-bull-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Staffordshire bull terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Staffordshire-bull-terrier.jpg",
+      "filename": "Staffordshire-bull-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Rosso, Fulvo, Bianco, Nero, Blu, Tigrato (o ognuno di questi colori con bianco)",
+      "temperamento_breve": "Affettuoso, Coraggioso, Leale, Tenace",
+      "descrizione_generale": "<p>Lo Staffordshire Bull Terrier, affettuosamente noto come \"Staffy\" o \"Staffie\", è un cane di taglia media, compatto, muscoloso e incredibilmente agile. Descritto come \"un concentrato di potenza\", questo cane è famoso per il suo carattere duale: un coraggio e una tenacia da gladiatore, combinati con un'assoluta e impareggiabile devozione per gli esseri umani.</p><p>Sebbene le sue origini siano legate ai combattimenti tra cani, la selezione moderna ha enfatizzato la sua stabilità e la sua incredibile dolcezza con la famiglia. È una delle poche razze a cui lo standard del Kennel Club richiede specificamente di essere \"totalmente affidabile\" e \"particolarmente affettuoso con i bambini\", guadagnandosi il soprannome di \"nanny dog\" (cane tata).</p>",
+      "origini_storia": "<p>La storia dello Staffy inizia nel XIX secolo nel \"Black Country\" dell'Inghilterra, in particolare a Staffordshire e Birmingham. È il discendente diretto dei \"Bull and Terrier\", cani creati incrociando l'Old English Bulldog (usato per il bull-baiting) con terrier locali, come il Black and Tan Terrier.</p><p>Dopo che la legge sulla crudeltà verso gli animali del 1835 vietò i combattimenti con i tori, l'attenzione si spostò verso i combattimenti tra cani (pit fighting). Lo Staffy fu selezionato per questa triste attività, il che richiedeva coraggio ma anche una totale affidabilità verso gli handler umani (cani che mordevano l'uomo venivano abbattuti). Fu solo nel 1935 che gli appassionati riuscirono a far riconoscere la razza dal The Kennel Club (UK), spostando definitivamente il suo scopo verso la compagnia e le esposizioni.</p>",
+      "aspetto_fisico": "<p>Lo Staffy è un cane compatto e muscoloso. L'altezza al garrese è di 35,5–40,5 cm, e il peso è di 12,7–17 kg per i maschi e 11–15,4 kg per le femmine. Deve dare un'impressione di grande forza per la sua taglia. La testa è corta e larga, con muscoli mascellari molto pronunciati.</p><p>Il mantello è corto, liscio e fitto. I colori ammessi sono rosso, fulvo, bianco, nero o blu, oppure tigrato. Ognuno di questi colori può essere pezzato di bianco. Le orecchie sono portate \"a rosa\" o semi-erette e non devono essere tagliate.</p>",
+      "carattere_temperamento": "<p>Il tratto distintivo dello Staffy è l'amore per le persone. È estroverso, leale e cerca costantemente il contatto fisico. Soffre molto la solitudine e può sviluppare ansia da separazione. È incredibilmente paziente e tollerante con i bambini della sua famiglia.</p><p>Tuttavia, il suo passato riemerge nel rapporto con gli altri cani. Può mostrare una forte reattività o aggressività verso altri cani (dog aggression), specialmente se non socializzato intensamente fin da cucciolo. Non è un cane da guardia (è troppo amichevole con gli estranei), ma è un coraggioso difensore della sua famiglia se percepisce una minaccia reale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza robusta, ma soggetta a due specifiche malattie genetiche ereditarie: L-2-HGA (L-2-idrossiglutarico aciduria) e HC (cataratta ereditaria). È fondamentale che gli allevatori testino i riproduttori per queste patologie.</p><p>Sono anche molto comuni le allergie cutanee (atopia), che richiedono una gestione alimentare e ambientale attenta. Il mantello corto richiede una toelettatura minima, ma la pelle è sensibile. Soffre il freddo e il caldo eccessivo.</p>",
+      "attivita_addestramento": "<p>Lo Staffy ha un alto livello di energia e necessita di esercizio quotidiano. Non è un cane iperattivo, ma ha bisogno di sfogare la sua forza fisica con passeggiate vigorose e sessioni di gioco. Amano attività come il traino (weight pull) o l'agility.</p><p>L'addestramento richiede coerenza. Sono intelligenti ma anche testardi. Rispondono bene al rinforzo positivo. La socializzazione precoce e continua con altri cani è l'aspetto più critico della loro educazione, e deve essere gestita con responsabilità per tutta la vita del cane (i parchi per cani sono spesso sconsigliati).</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive o persone che desiderano un compagno canino totalmente devoto e partecipe. Si adatta bene alla vita in appartamento, a condizione che gli venga fornito ampio sfogo quotidiano. È per chi è consapevole della sua storia e può gestire responsabilmente la sua interazione con altri cani.</p><p>Non è un cane per chi cerca un cane da guardia distaccato, per chi vuole un cane da lasciare libero al parco senza preoccupazioni, o per chi è fuori casa tutto il giorno. L'impegno nella socializzazione e la gestione della sua reattività verso altri cani sono fondamentali.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Sussex spaniel",
+    "post_excerpt": "Raro spaniel inglese, lungo, basso e massiccio, dal caratteristico colore fegato dorato. È un cane da caccia metodico e vocale (\"dà la lingua\"), dal temperamento calmo e leale in famiglia. Soffre la solitudine ed è a rischio di estinzione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "sussex-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Sussex spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Sussex-spaniel.jpg",
+      "filename": "Sussex-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra, Sussex)",
+      "colorazioni": "Esclusivamente Fegato (Liver) dorato intenso",
+      "temperamento_breve": "Calmo, Leale, Vocale, Metodico",
+      "descrizione_generale": "<p>Il Sussex Spaniel è una razza da caccia antica e molto rara, originaria della contea del Sussex, in Inghilterra. È unico tra gli spaniel per la sua struttura \"massiccia e bassa\" e il suo splendido mantello di un colore fegato dorato intenso. È un cane da caccia specializzato, più lento e metodico dei suoi cugini.</p><p>La sua caratteristica distintiva sul campo è quella di \"dare la lingua\" (abbaiare) mentre lavora nel sottobosco fitto, permettendo al cacciatore di seguirlo. In casa, è un compagno calmo, dignitoso e molto leale, anche se tende a soffrire di ansia da separazione. È una delle razze autoctone britanniche più a rischio di estinzione.</p>",
+      "origini_storia": "<p>La razza fu sviluppata quasi interamente da un singolo uomo: Augustus Elliot Fuller, della tenuta di Rosehill Park nel Sussex. A partire dagli anni 1790, Fuller iniziò a selezionare un cane da caccia robusto, basso e con un mantello color fegato, che fosse in grado di penetrare i rovi più fitti e che abbaiasse sulla traccia (un tratto insolito per gli spaniel).</p><p>Fuller allevò questi cani per quasi 50 anni. La razza divenne popolare tra l'aristocrazia terriera, ma la sua popolarità crollò. La Seconda Guerra Mondiale fu devastante per la razza. Si ritiene che solo 8 cani siano sopravvissuti alla guerra, tutti grazie agli sforzi dell'allevatrice inglese Joy Freer. Tutti i Sussex Spaniel moderni discendono da quei pochi sopravvissuti.</p>",
+      "aspetto_fisico": "<p>Il Sussex Spaniel è lungo, basso e robusto, con un'andatura dondolante. L'altezza al garrese è di 38–41 cm, ma il peso è notevole per la taglia, attestandosi tra i 16 e i 20 kg. È un cane massiccio e muscoloso.</p><p>Il mantello è piatto o leggermente ondulato, con un buon sottopelo e frange moderate. Il colore è l'unico ammesso: un intenso fegato (liver) dorato, con il pelo che assume una sfumatura dorata sulla punta. Le orecchie sono lunghe, setose e pendenti. L'espressione è spesso descritta come \"seria\" o \"preoccupata\".</p>",
+      "carattere_temperamento": "<p>A differenza di altri spaniel esuberanti, il Sussex è più calmo, serio e dignitoso in casa. È estremamente leale e affettuoso con la sua famiglia, creando un legame molto forte e soffrendo se lasciato solo per lunghi periodi. Può essere soggetto ad ansia da separazione.</p><p>Sul campo, è un lavoratore tenace e metodico. È famoso per essere molto vocale, un tratto selezionato per la caccia. È riservato con gli estranei, ma non aggressivo. Può essere testardo e richiede un addestramento paziente. Generalmente è socievole con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Il pool genetico estremamente ridotto è la principale preoccupazione per la salute. È soggetto a displasia dell'anca e a problemi spinali (IVDD - malattia del disco intervertebrale) a causa della sua schiena lunga e del peso.</p><p>Possono verificarsi cardiopatie (come la PDA) e una condizione chiamata Sindrome da Disfunzione Piastrinica del Sussex Spaniel. Le orecchie pendenti richiedono una pulizia costante per prevenire otiti. Il mantello necessita di spazzolate regolari.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo, ma richiede passeggiate quotidiane costanti per mantenere il peso forma e stimolare la sua mente. Non è un corridore, ma un cane da \"trekking\" con grande resistenza. Si adatta alla vita in appartamento se gli viene garantito lo sfogo necessario.</p><p>L'addestramento richiede pazienza. Sono intelligenti ma testardi e sensibili. Il rinforzo positivo è d'obbligo; la durezza li porta a chiudersi. L'addestramento deve essere focalizzato sulla gestione della sua vocalità.</p>",
+      "ideale_per": "<p>È un cane ideale per proprietari che apprezzano una razza storica e rara e che sono disposti a gestire le sue peculiarità. È adatto a famiglie tranquille o persone che sono molto presenti in casa. È per chi cerca un compagno leale e calmo, ma non è infastidito da un cane vocale.</p><p>Non è adatto a proprietari inesperti, a chi cerca un cane \"facile\", o a chi è fuori casa tutto il giorno. Il suo piccolo pool genetico può comportare costi veterinari. Non è la scelta giusta per chi desidera un cane silenzioso.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Svensk lapphund",
+    "post_excerpt": "Lo Svensk Lapphund è un antico Spitz svedese, cane da lavoro del popolo Sami. Dal caratteristico mantello nero, è un cane da pastore (per renne) vivace, intelligente e molto vocale. Richiede un proprietario attivo e climi freschi.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "svensk-lapphund",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Svensk lapphund"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Svensk-lapphund.jpg",
+      "filename": "Svensk-lapphund.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia (Lapponia)",
+      "colorazioni": "Nero (unicolore, ammesse piccole macchie bianche)",
+      "temperamento_breve": "Vivace, Intelligente, Vocale, Leale",
+      "descrizione_generale": "<p>Lo Svensk Lapphund, o Cane da Lapponia Svedese, è una delle razze nazionali della Svezia e una delle più antiche. È un cane di tipo Spitz, robusto e di taglia media, caratterizzato dal suo folto mantello nero e dalla coda arricciata. È il cane da lavoro tradizionale del popolo Sami, nella regione della Lapponia.</p><p>Originariamente utilizzato per la caccia, si è poi specializzato come cane da pastore per la conduzione delle renne, un lavoro che svolge con agilità e, soprattutto, con la voce. È un cane vivace, intelligente, molto vocale e devoto alla sua famiglia, ma anche indipendente e vigile. Richiede un proprietario attivo e soffre molto il caldo.</p>",
+      "origini_storia": "<p>Questa razza ha accompagnato il popolo Sami (Lapponi) nel nord della Svezia per migliaia di anni. Reperti archeologici di cani Spitz in quella regione risalgono a oltre 7000 anni fa. Inizialmente, il Lapphund era un cane da caccia (orso, alce) e un guardiano contro i predatori.</p><p>Quando i Sami passarono da una cultura di cacciatori-raccoglitori a quella di pastori nomadi di renne, il cane si adattò. Il suo compito divenne quello di radunare e guidare le mandrie di renne, utilizzando il suo abbaio acuto e persistente per indirizzare gli animali. Con la modernizzazione, la razza rischiò l'estinzione all'inizio del XX secolo. Il Kennel Club svedese avviò programmi di recupero per salvare questo patrimonio nazionale.</p>",
+      "aspetto_fisico": "<p>Lo Svensk Lapphund è un tipico Spitz, leggermente più basso che lungo. L'altezza ideale al garrese è di 48 cm per i maschi e 43 cm per le femmine. È muscoloso e agile.</p><p>Il mantello è doppio e magnificamente folto, adattato ai climi artici. Il pelo di copertura è lungo e dritto, mentre il sottopelo è denso e lanoso. Forma una criniera pronunciata sul collo. Il colore è il nero solido. Sono ammesse piccole macchie bianche su petto, piedi e punta della coda. La coda è portata arricciata sul dorso.</p>",
+      "carattere_temperamento": "<p>Il Lapphund è un cane energico, intelligente e molto desideroso di imparare. È estremamente leale e affettuoso con la sua famiglia, ma, come molti Spitz, è riservato e diffidente verso gli estranei, il che lo rende un eccellente cane da allerta.</p><p>La sua caratteristica comportamentale più evidente è la vocalità. È stato selezionato per abbaiare durante il lavoro di pastorizia e userà la sua voce per tutto: allerta, noia, eccitazione, gioco. È indipendente e può essere testardo, ma risponde bene a un addestramento positivo e vario.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto robusta e sana. La displasia dell'anca è presente ma non molto diffusa. L'atrofia progressiva della retina (PRA) è la principale malattia genetica da monitorare, per cui esistono test.</p><p>Il mantello richiede una spazzolatura regolare (1-2 volte a settimana) per evitare nodi. La muta stagionale è estremamente abbondante (\"esplosione di pelo\") e richiede cure quotidiane. Soffre terribilmente il caldo e deve essere protetto dai colpi di calore.</p>",
+      "attivita_addestramento": "<p>Questa razza ha bisogno di un lavoro e di molto esercizio. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate, escursioni e, soprattutto, di stimolazione mentale. Se annoiato, diventa distruttivo e abbaia incessantemente.</p><p>Eccelle in molti sport cinofili: agility (è molto agile), obedience, rally-o e, naturalmente, herding. L'addestramento deve essere divertente e basato sul rinforzo positivo per mantenere la sua attenzione e gestire la sua indipendenza.</p>",
+      "ideale_per": "<p>È ideale per proprietari attivi che vivono in climi freddi o temperati, preferibilmente in campagna o con un grande giardino. È perfetto per chi ama gli Spitz e gli sport cinofili ed è disposto a gestire un cane molto vocale. È un ottimo compagno di trekking.</p><p>Non è assolutamente adatto a persone sedentarie, a chi vive in climi caldi, o a chi è infastidito dall'abbaio. Non è un cane da lasciare solo per molte ore. Richiede un proprietario che sappia essere un leader positivo.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Taiwan dog",
+    "post_excerpt": "Il Taiwan Dog, o Cane di Formosa, è un'antica razza primitiva asiatica. Cane da caccia versatile, è estremamente leale alla famiglia, ma diffidente e territoriale. Richiede socializzazione intensiva e un proprietario esperto di razze primitive.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "taiwan-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Taiwan dog"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Taiwan-dog.jpg",
+      "filename": "Taiwan-dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Taiwan",
+      "colorazioni": "Nero, Tigrato, Fulvo, Bianco, Bianco e nero, Bianco e fulvo, Bianco e tigrato",
+      "temperamento_breve": "Leale, Primitivo, Vigile, Agile",
+      "descrizione_generale": "<p>Il Taiwan Dog, noto anche come Cane di Formosa o Tung-Kuo, è un cane di tipo primitivo (pariah) originario delle regioni montuose di Taiwan. È un cane di taglia media, atletico, agile e incredibilmente resistente. Per migliaia di anni, è stato il compagno indispensabile delle tribù aborigene, servendo come cacciatore, guardiano e compagno.</p><p>Ha un carattere tipicamente primitivo: è estremamente devoto e leale al suo nucleo familiare, ma altrettanto diffidente, riservato e territoriale verso gli estranei. È un cane da guardia eccezionale, molto intelligente ma indipendente. È una razza che richiede una socializzazione intensiva e un proprietario esperto.</p>",
+      "origini_storia": "<p>Si ritiene che il Taiwan Dog discenda dagli antichi cani da caccia del sud-est asiatico, arrivati sull'isola migliaia di anni fa. Per secoli ha vissuto in isolamento nelle foreste montane, sviluppandosi come una \"landrace\" (razza naturale) perfettamente adattata all'ambiente. Veniva utilizzato dalle tribù aborigene per la caccia a selvaggina impegnativa, come il cinghiale di Formosa e il cervo muntjac.</p><p>Durante il XX secolo, l'occupazione giapponese e successivamente l'arrivo dei cinesi nazionalisti portarono a una massiccia importazione di cani stranieri. Il Taiwan Dog puro rischiò l'estinzione a causa degli incroci indiscriminati. Negli anni '70, studiosi come il Dr. Chen Ming-nan avviarono un programma di ricerca e salvataggio, individuando gli ultimi esemplari puri nei villaggi più remoti. La FCI ha riconosciuto la razza in via definitiva nel 2015.</p>",
+      "aspetto_fisico": "<p>Il Taiwan Dog è un cane di taglia media, asciutto e muscoloso. L'altezza al garrese per i maschi è 48–52 cm (peso 14–18 kg), per le femmine 43–47 cm (peso 12–16 kg). La sua struttura è agile e pronta allo scatto.</p><p>La testa è triangolare, con orecchie erette e occhi a mandorla. La lingua presenta spesso delle macchie. La coda è a forma di falce, portata alta. Il mantello è corto (1,5-3 cm), duro e ben aderente, perfetto per il clima subtropicale. I colori ammessi sono molti, tra cui nero, tigrato, fulvo e varie combinazioni con il bianco.</p>",
+      "carattere_temperamento": "<p>Questo cane è un guardiano e un cacciatore nel profondo. È incredibilmente leale e protettivo verso la sua famiglia, ma non è un cane espansivo. È diffidente e territoriale con gli estranei. È molto coraggioso, energico e ha un istinto predatorio estremamente sviluppato.</p><p>È un cane molto intelligente, ma la sua natura primitiva lo rende indipendente e non facile da addestrare. Richiede una socializzazione precoce e massiccia per imparare a gestire gli estranei e altre situazioni. È noto per la sua agilità e la sua abilità nel salto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-13 anni. Essendo una razza sviluppatasi naturalmente, è estremamente robusta e sana. Non ha particolari predisposizioni genetiche note, se non quelle che possono colpire qualsiasi cane. Il mantello corto richiede una toelettatura minima, solo una spazzolata occasionale.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento. Ha bisogno di correre, esplorare e usare il suo cervello. È un compagno ideale per l'escursionismo, il trail running o l'agility. Ha bisogno di un giardino con recinzioni molto alte, poiché è un saltatore eccezionale.</p><p>L'addestramento è una sfida. Richiede un proprietario esperto di razze primitive, che utilizzi metodi basati sul rispetto e sul rinforzo positivo. Non risponderà mai con obbedienza cieca. La socializzazione è l'aspetto più importante.</p>",
+      "ideale_per": "<p>È un cane adatto esclusivamente a proprietari esperti, che comprendono la mentalità di un cane primitivo e da caccia. È ideale per chi vive in un ambiente rurale o suburbano, ha un terreno sicuro e recintato e uno stile di vita molto attivo. È un compagno di una lealtà senza pari per la persona giusta.</p><p>Non è assolutamente adatto ai principianti, a chi vive in città, a famiglie con bambini piccoli o altri animali domestici (soprattutto gatti o roditori). La sua diffidenza e il suo istinto predatorio richiedono una gestione esperta.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 4.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Terranova",
+    "post_excerpt": "Il Terranova è un \"gigante gentile\" canadese, famoso per il suo istinto di salvataggio in acqua. Dolce, paziente e leale, è un cane da famiglia eccezionale, specialmente con i bambini. Richiede spazio, soffre il caldo e ha costi di gestione elevati.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "terranova",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Terranova"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Terranova.jpg",
+      "filename": "Terranova.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Canada (Isola di Terranova)",
+      "colorazioni": "Nero, Bianco e Nero (Landseer), Marrone",
+      "temperamento_breve": "Dolce, Paziente, Protettivo, Calmo",
+      "descrizione_generale": "<p>Il Terranova è una razza canina di taglia gigante, originaria del Canada, rinomata in tutto il mondo per il suo carattere eccezionalmente dolce e il suo innato istinto per il salvataggio in acqua. Soprannominato il \"gigante gentile\", è un cane massiccio e potente, con un mantello folto e impermeabile e zampe palmate, che lo rendono un nuotatore impareggiabile.</p><p>Sebbene la sua mole possa intimidire, il Terranova è un cane da famiglia per eccellenza, noto per la sua pazienza e protettività, specialmente nei confronti dei bambini. Non è un cane da guardia aggressivo, ma un protettore benevolo. La sua gestione richiede spazio, impegno nella toelettatura e attenzione alla salute.</p>",
+      "origini_storia": "<p>Il Terranova si è sviluppato sull'isola omonima, dove era il cane da lavoro indispensabile dei pescatori. Le sue origini precise sono dibattute, ma si ritiene discenda da cani autoctoni dell'isola (come il Cane d'acqua di St. John, antenato del Labrador) incrociati con molossi come il Cane da Montagna dei Pirenei, portati dai pescatori baschi e portoghesi già nel XVI secolo.</p><p>Il suo compito non era la caccia, ma il lavoro in acqua: era abituato a trainare le reti da pesca fuori dall'acqua gelida, a trasportare le cime tra le barche e persino a trainare carretti di pesce. Il suo istinto di salvataggio deriva da questo lavoro. L'artista Sir Edwin Landseer immortalò la varietà bianca e nera, che da allora prese il suo nome. La razza subì un duro colpo in patria a causa delle restrizioni fiscali nel 1780 e fu salvata da appassionati inglesi.</p>",
+      "aspetto_fisico": "<p>Il Terranova è un cane massiccio e muscoloso. L'altezza media al garrese per i maschi è di 71 cm (peso 60–70 kg), per le femmine 66 cm (peso 45–55 kg). La struttura è potente e ben bilanciata.</p><p>Il mantello è doppio e idrorepellente: il pelo di copertura è lungo e oleoso, mentre il sottopelo è denso e soffice. Questa combinazione lo isola dall'acqua gelida. I colori ammessi sono:<ul><li><b>Nero:</b> Il colore tradizionale.</li><li><b>Bianco e Nero (Landseer):</b> Fondo bianco con macchie nere.</li><li><b>Marrone (Cioccolato):</b> Meno comune.</li></ul>Caratteristica fondamentale sono le zampe palmate, che lo rendono un nuotatore potente.</p>",
+      "carattere_temperamento": "<p>Il temperamento è il marchio di fabbrica della razza. È calmo, paziente, docile e di una dolcezza proverbiale. È un cane da famiglia che adora i bambini e ha un istinto protettivo innato. Non è mai aggressivo, ma la sua sola presenza è un deterrente.</p><p>È molto socievole con altri cani e animali. Il suo istinto di salvataggio è così forte che può tentare di \"salvare\" i membri della famiglia dall'acqua (piscine, mare) anche se non sono in pericolo. È un cane che ha bisogno di stare con la sua famiglia e soffre la solitudine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita, come per molte razze giganti, è breve: 8-10 anni. È predisposto a diverse patologie gravi. Le principali sono la displasia dell'anca e del gomito, e problemi cardiaci, in particolare la Stenosi Subaortica (SAS). È anche soggetto a torsione gastrica (bloat).</p><p>Una malattia genetica specifica è la Cistinuria, che causa calcoli vescicali. Il mantello folto richiede spazzolate frequenti (più volte a settimana) per evitare nodi e una toelettatura professionale. Perde molto pelo e sbava notevolmente. Soffre terribilmente il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Nonostante la mole, non è un cane iperattivo, ma ha bisogno di passeggiate quotidiane e, soprattutto, di nuotare. Il nuoto è l'attività ideale per lui. Si adatta male alla vita in appartamento a causa della taglia e della perdita di pelo.</p><p>L'addestramento è relativamente facile perché è intelligente e desidera compiacere. Tuttavia, è sensibile e non risponde bene alla durezza. L'addestramento deve essere gentile e coerente. Eccelle nelle attività di salvataggio in acqua (SICS).</p>",
+      "ideale_per": "<p>È il cane ideale per famiglie con bambini che hanno molto spazio (una casa con giardino) e vivono in un clima temperato o fresco. È perfetto per chi vive vicino all'acqua (lago, mare) e può soddisfare il suo bisogno di nuotare. Richiede un proprietario disposto a gestire la toelettatura, la bava e i costi veterinari di una razza gigante.</p><p>È assolutamente sconsigliato a chi vive in piccoli appartamenti, in climi caldi, o a chi è ossessionato dalla pulizia. Non è un cane da lasciare solo in giardino.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 1.0
+    }
+  },
+  {
+    "post_title": "Terrier boemo",
+    "post_excerpt": "Il Terrier Boemo, o Cesky Terrier, è il cane nazionale ceco. Creato da František Horák, è un terrier da tana calmo e setoso, meno rissoso dei suoi cugini. Si adatta all'appartamento ma richiede toelettatura (clipping) regolare.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "terrier-boemo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Terrier boemo"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cesky-terrier.jpg",
+      "filename": "Cesky-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Repubblica Ceca (Boemia)",
+      "colorazioni": "Grigio-blu (nato nero), Caffè chiaro (nato cioccolato)",
+      "temperamento_breve": "Calmo, Intelligente, Leale, Non rissoso",
+      "descrizione_generale": "<p>Il Terrier Boemo, noto nel mondo come Cesky Terrier, è il cane nazionale della Repubblica Ceca. È una razza unica nel gruppo dei terrier, essendo stata creata deliberatamente per essere un cane da tana efficace ma dal temperamento più calmo e meno rissoso rispetto ad altri terrier, per poter cacciare in branco.</p><p>Caratterizzato da un corpo lungo e basso e da un magnifico mantello setoso che dal nero (alla nascita) vira al grigio-blu, è un cane da compagnia affettuoso e un vigile cane da allerta. Si adatta bene alla vita in appartamento, ma il suo mantello richiede una toelettatura (clipping) regolare e non lo stripping.</p>",
+      "origini_storia": "<p>Il Cesky Terrier è una \"razza d'autore\", creata da un unico uomo: il genetista e cacciatore ceco František Horák, a Praga. Il suo lavoro iniziò nel 1949, nel pieno dell'era comunista. Horák voleva un terrier che potesse lavorare nelle fitte foreste della Boemia, abbastanza piccolo da entrare nelle tane, ma meno largo e rissoso del Sealyham Terrier, per poter cacciare in muta.</p><p>Per ottenere il suo scopo, incrociò metodicamente un maschio di Sealyham Terrier con una femmina di Scottish Terrier. Il risultato fu un cane con il corpo del Sealyham ma più snello, e un mantello setoso (a differenza del filo di ferro dello Scottie). La razza fu riconosciuta dalla FCI nel 1963, un raro successo cinofilo per un paese al di là della cortina di ferro.</p>",
+      "aspetto_fisico": "<p>È un cane basso sugli arti e lungo, ma ben muscoloso. L'altezza al garrese è di 25–32 cm, e il peso varia tra i 6 e i 10 kg. La sua testa è lunga, con baffi, barba e sopracciglia folte. Le orecchie sono triangolari e pendenti.</p><p>Il mantello è la sua caratteristica: è lungo, fine, setoso e leggermente ondulato. Non viene sottoposto a stripping, ma tosato (clipping) per creare la sua \"gonna\" e le frange tipiche. I colori sono due:<ul><li><b>Grigio-blu:</b> I cuccioli nascono neri e il mantello schiarisce gradualmente.</li><li><b>Caffè chiaro:</b> I cuccioli nascono color cioccolato e schiariscono.</li></ul><Gli occhi sono marroni o gialli a seconda del colore del mantello.</p>",
+      "carattere_temperamento": "<p>Il Cesky è un terrier atipico. È molto più calmo, dolce e addestrabile rispetto alla media del gruppo 3. È stato selezionato per non essere rissoso e generalmente è socievole con gli altri cani. È molto leale e affettuoso con la sua famiglia, ma riservato con gli estranei, il che lo rende un ottimo cane da allerta.</p><p>Mantiene un istinto predatorio da terrier, quindi non è affidabile con piccoli animali domestici. È un cane intelligente che risponde bene all'addestramento positivo, ma conserva una vena di testardaggine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza generalmente sana, ma il pool genetico è ristretto. Può essere soggetto a una condizione neurologica (generalmente innocua) chiamata \"Scottie Cramp\", ereditata dallo Scottish Terrier, che causa crampi muscolari temporanei sotto stress.</p><p>La cura del mantello è impegnativa. Non perde molto pelo, ma il pelo setoso si annoda facilmente e richiede spazzolate frequenti. Deve essere tosato (clipping) professionalmente ogni 6-8 settimane per mantenere la forma corretta. Le orecchie e la barba richiedono pulizia regolare.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta perfettamente alla vita in appartamento. È un cane da compagnia che si accontenta di passeggiate quotidiane e di sessioni di gioco. Non ha l'energia esplosiva di un Jack Russell, ma ama le lunghe camminate e le attività di fiuto.</p><p>È uno dei terrier più facili da addestrare. È intelligente e risponde bene. Eccelle in attività come l'Earthdog (prove in tana) o l'agility. Come tutti i terrier, ama scavare.</p>",
+      "ideale_per": "<p>È un cane eccellente per chi desidera un terrier ma è scoraggiato dal temperamento focoso o dalla toelettatura (stripping) delle altre razze del gruppo. È ideale per la vita in appartamento, per gli anziani attivi o come primo cane per chi è disposto a impegnarsi nella toelettatura (clipping).</p><p>Non è adatto a chi cerca un cane \"zero manutenzione\" (il pelo è impegnativo) o a chi ha piccoli animali domestici. La sua riservatezza richiede una buona socializzazione.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Terrier brazileiro",
+    "post_excerpt": "Il Terrier Brazileiro, o \"Fox Paulistinha\", è un cane da fattoria brasiliano, vivace ed energico. Simile a un Jack Russell, è un instancabile cacciatore di roditori e un eccellente cane da allerta. Richiede molto esercizio e stimolazione mentale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "terrier-brazileiro",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Terrier brazileiro"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Terrier-brazileiro-1.jpg",
+      "filename": "Terrier-brazileiro-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Brasile",
+      "colorazioni": "Tricolore (fondo bianco con macchie nere e focate/tan)",
+      "temperamento_breve": "Energico, Vivace, Vigile, Amichevole (con la famiglia)",
+      "descrizione_generale": "<p>Il Terrier Brazileiro, noto in patria come \"Fox Paulistinha\" (piccolo Fox Terrier di San Paolo), è un cane di taglia piccola, agile, snello e pieno di energia. È il cane da fattoria (fazenda) per eccellenza del Brasile, un tuttofare instancabile. Il suo aspetto ricorda molto quello di un Jack Russell Terrier, con cui condivide probabilmente gli antenati.</p><p>È un cane con un temperamento da terrier al 100%: è vivace, coraggioso, instancabilmente attivo e un cacciatore di roditori implacabile. È anche un eccellente cane da allerta, molto vocale, e un compagno di giochi divertente per la famiglia. Richiede un proprietario che possa tenere il passo con la sua energia.</p>",
+      "origini_storia": "<p>Esistono due teorie principali sulla sua origine. La più accreditata suggerisce che la razza si sia sviluppata all'inizio del XX secolo. I figli dei ricchi agricoltori brasiliani, che andavano a studiare in Europa (specialmente in Francia e Inghilterra), tornavano a casa portando con sé piccoli terrier europei, come il Fox Terrier e il Jack Russell Terrier.</p><p>Questi cani furono incrociati con i cani da fattoria locali (cani \"da eira\") già presenti nelle *fazendas* dello stato di San Paolo. La selezione naturale e funzionale creò un cane perfettamente adattato al clima brasiliano e al lavoro di derattizzazione e guardia. La razza è stata riconosciuta dalla FCI nel 1995 (provvisorio) e nel 2007 (definitivo).</p>",
+      "aspetto_fisico": "<p>È un cane snello, quadrato e ben proporzionato. L'altezza al garrese è di 35–40 cm per i maschi e 33–38 cm per le femmine. Il peso è compreso tra 6,5 e 10 kg.</p><p>Il mantello è corto, liscio, fine e aderente. Il colore è sempre tricolore: un fondo bianco predominante con macchie nere e focate (tan). Le focature sono presenti sopra gli occhi, ai lati del muso e all'interno delle orecchie. La testa è triangolare con orecchie semi-erette (piegate in avanti). La coda può essere lunga o naturalmente corta (brachiuria).</p>",
+      "carattere_temperamento": "<p>Il Terrier Brazileiro è un concentrato di energia. È sempre in movimento, vigile e pronto all'azione. È molto intelligente e giocherellone. Con la sua famiglia è affettuoso e leale, ma è un cane da allerta molto serio: è riservato con gli estranei e abbaia prontamente a qualsiasi rumore.</p><p>Ha un istinto predatorio estremamente elevato. È stato selezionato per cacciare topi, serpenti e altra piccola selvaggina, e non è affidabile con piccoli animali domestici (criceti, conigli). Può essere rissoso con altri cani se non ben socializzato. Ama scavare.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza rustica e generalmente molto sana, con pochi problemi genetici noti. Possono verificarsi lussazione della rotula e problemi dentali, comuni nelle razze piccole. Il mantello corto richiede una toelettatura minima, solo una spazzolata occasionale. Soffre il freddo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento, a meno che il proprietario non sia estremamente attivo. Ha bisogno di correre, giocare e di stimolazione mentale. Se annoiato, diventa distruttivo, abbaione e tenterà di scavare per uscire.</p><p>È intelligente e impara velocemente, ma è anche un terrier testardo. L'addestramento deve essere divertente, veloce e basato sul rinforzo positivo. Eccelle in sport come l'agility, il flyball e il nosework, che incanalano la sua energia e intelligenza.</p>",
+      "ideale_per": "<p>È il cane ideale per proprietari di terrier esperti e molto attivi. È perfetto per chi vive in campagna o ha un giardino sicuro (a prova di scavo) e cerca un cane da allerta instancabile e un compagno di sport. È un ottimo compagno di giochi per famiglie con bambini più grandi.</p><p>Non è assolutamente adatto a persone sedentarie, a proprietari principianti, o a chi vive in un piccolo appartamento e lavora tutto il giorno. Non è affidabile con piccoli animali domestici. La sua vocalità deve essere gestita.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 4.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Terrier giapponese",
+    "post_excerpt": "Il Terrier Giapponese (Nihon Teria) è una razza toy rara, allevata per la compagnia. Vivace e affettuoso, ha un mantello cortissimo (bianco con testa nera) che lo rende un cane da grembo ideale per l'appartamento, ma estremamente sensibile al freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "terrier-giapponese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Terrier giapponese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Terrier-giapponese.jpg",
+      "filename": "Terrier-giapponese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone",
+      "colorazioni": "Tricolore (testa nera, bianca e tan) con corpo bianco puro (o bianco con piccole macchie nere/tan)",
+      "temperamento_breve": "Vivace, Affettuoso, Sensibile, Pulito",
+      "descrizione_generale": "<p>Il Terrier Giapponese, o Nihon Teria, è una razza toy estremamente rara, anche nel suo paese d'origine. A differenza della maggior parte dei terrier, non è stato selezionato per la caccia, ma esclusivamente come cane da grembo e da compagnia. È un cane elegante, dal corpo bianco e la testa tricolore, noto per il suo mantello cortissimo e la sua natura vivace.</p><p>È un cane allegro, sensibile e molto affettuoso, che si lega profondamente al suo proprietario. È un compagno ideale da appartamento, pulito e con esigenze di esercizio minime. Il suo mantello raso lo rende, tuttavia, estremamente vulnerabile ai climi freddi.</p>",
+      "origini_storia": "<p>La storia del Terrier Giapponese inizia nel XVIII secolo, nel porto di Nagasaki. Si ritiene che i suoi antenati siano i Fox Terrier a pelo liscio, portati in Giappone da marinai olandesi. Questi cani furono incrociati con cani da compagnia locali di piccola taglia (probabilmente simili al Chin).</p><p>L'obiettivo non era il lavoro, ma la creazione di un piccolo ed elegante cane da compagnia. La selezione continuò e la razza, chiamata \"Kobe Terrier\" o \"Mikado Terrier\", divenne popolare nei porti di Kobe e Yokohama. La razza fu quasi spazzata via dalla Seconda Guerra Mondiale e rimane una delle razze più rare al mondo.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, compatto e quadrato. L'altezza al garrese è di circa 30–33 cm, e il peso varia dai 2 ai 4 kg. L'aspetto è elegante e pulito.</p><p>La caratteristica più distintiva è il mantello: è estremamente corto (circa 2 mm), liscio, denso e lucido, quasi come la pelle di un cavallo. Il colore è molto specifico: il corpo è prevalentemente bianco (con o senza piccole macchie), mentre la testa è tricolore (nera, tan e bianca).</p>",
+      "carattere_temperamento": "<p>Il Nihon Teria ha un temperamento da terrier \"annacquato\". È vivace, curioso e giocherellone, ma non ha l'energia esplosiva o l'istinto predatorio esasperato dei suoi cugini da lavoro. È un cane da compagnia sensibile, che ama stare in braccio e dormire sotto le coperte.</p><p>È un buon cane da allerta, che abbaia per avvisare, ma non è eccessivamente rumoroso. È generalmente socievole se ben socializzato, ma può mostrare una certa testardaggine da terrier. Soffre la solitudine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. Essendo una razza molto rara, il pool genetico è limitato, ma non si segnalano malattie ereditarie gravi. La lussazione della rotula è il problema più comune, come in molte razze toy.</p><p>La cura è particolare: il mantello corto non richiede spazzolatura, ma la pelle è esposta. Soffre terribilmente il freddo e l'umidità e necessita di cappotti e maglioni per la maggior parte dell'anno. È anche sensibile alle scottature solari. Richiede una buona igiene dentale.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono minime. È un cane da appartamento per eccellenza. Brevi passeggiate quotidiane e molto gioco in casa sono sufficienti. Non è un cane adatto a lunghe escursioni o attività sportive intense.</p><p>È intelligente e relativamente facile da addestrare per essere un terrier. Risponde bene al rinforzo positivo. L'addestramento deve essere gentile, data la sua natura sensibile. L'addestramento alla pulizia può richiedere pazienza.</p>",
+      "ideale_per": "<p>È il cane ideale per chi vive in appartamento, per persone anziane o per chi cerca un cane da grembo affettuoso e con poca necessità di esercizio. È adatto a chi vive in climi temperati o è disposto a proteggerlo costantemente dal freddo.</p><p>Non è adatto a famiglie con bambini piccoli (è fragile), a chi vive in climi freddi, o a chi cerca un cane robusto per attività all'aperto. È una razza per veri amatori, data la sua estrema rarità.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Terrier nero russo",
+    "post_excerpt": "Il Terrier Nero Russo, o \"Perla Nera\", è un cane da lavoro gigante creato in Russia. Non è un vero terrier. È un guardiano potente, intelligente e protettivo. Richiede un proprietario esperto, socializzazione intensiva e toelettatura professionale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "terrier-nero-russo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Terrier nero russo"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Terrier-nero-russo.jpg",
+      "filename": "Terrier-nero-russo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Russia (URSS)",
+      "colorazioni": "Esclusivamente Nero (ammessi peli grigi sparsi)",
+      "temperamento_breve": "Coraggioso, Intelligente, Protettivo, Dominante",
+      "descrizione_generale": "<p>Il Terrier Nero Russo (Tchiorny Terrier), noto anche come \"Perla Nera di Russia\" o \"Cane di Stalin\", è una razza da lavoro di taglia grande e gigante. Nonostante il nome, non è un terrier nel senso tradizionale del termine, ma un cane da guardia e servizio creato per scopi militari. È un cane potente, robusto e ricoperto da un folto mantello nero e ruvido.</p><p>È un cane estremamente intelligente, calmo e sicuro di sé, ma con un istinto protettivo e territoriale molto sviluppato. È devoto alla sua famiglia, ma diffidente con gli estranei. Questa è una razza da lavoro seria, che richiede un proprietario esperto, un addestramento costante e una socializzazione massiccia.</p>",
+      "origini_storia": "<p>La razza è una \"creazione a tavolino\" del governo sovietico. Dopo la Seconda Guerra Mondiale, l'URSS aveva bisogno di un cane da servizio (militare, polizia, guardia carceraria) che fosse grande, robusto, addestrabile e in grado di resistere ai climi siberiani più estremi. Il lavoro fu affidato al canile militare \"Stella Rossa\" (Red Star Kennel), vicino a Mosca, negli anni '40.</p><p>Il colonnello G.P. Medvedev guidò il progetto. Non esistendo una razza adatta, ne crearono una. La razza fu costruita su un complesso incrocio di oltre 17 razze. Le fondamenta principali furono:<ul><li><b>Schnauzer Gigante:</b> Per l'intelligenza, l'addestrabilità e il mantello.</li><li><b>Rottweiler:</b> Per la massa e l'istinto di guardia.</li><li><b>Airedale Terrier:</b> Per la tenacia e il coraggio.</li><li><b>Terranova:</b> Per la stazza e la resistenza al freddo.</li></ul>Il primo standard fu pubblicato nel 1958. La FCI ha riconosciuto la razza nel 1983.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande e massiccio, con ossatura e muscolatura pesanti. L'altezza al garrese per i maschi è 72–76 cm (peso 50–60 kg), per le femmine 68–72 cm (peso 45–50 kg). La struttura è robusta e potente.</p><p>Il mantello è doppio, ruvido, denso e resistente alle intemperie, lungo 5–15 cm. Forma baffi, barba e sopracciglia folte sul muso. L'unico colore ammesso è il nero, o nero con peli grigi sparsi. Il mantello non perde molto pelo, ma richiede una toelettatura (clipping) professionale e costante.</p>",
+      "carattere_temperamento": "<p>Il Terrier Nero Russo è calmo, sicuro di sé e molto equilibrato. È un cane da guardia per natura: osserva, valuta ed è pronto a reagire. È profondamente leale e protettivo verso la sua famiglia, ma è estremamente diffidente e riservato con gli estranei. Non è un cane che dà confidenza.</p><p>È molto intelligente e addestrabile, ma anche dominante. Richiede un proprietario che sia un leader indiscusso, calmo e coerente. La socializzazione precoce e continua è vitale per insegnargli a gestire la sua diffidenza e il suo istinto protettivo in un contesto civile.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. Come razza gigante, è soggetta a displasia dell'anca e del gomito (testare i riproduttori è d'obbligo). Sono comuni anche i problemi cardiaci (stenosi aortica) e la torsione gastrica (bloat). Possono soffrire di otiti a causa delle orecchie pelose.</p><p>La cura del mantello è un impegno enorme. Non fa la muta stagionale come gli altri cani, ma il pelo cresce continuamente. Richiede spazzolate profonde più volte a settimana e una toelettatura (clipping) professionale ogni 6-10 settimane, altrimenti il pelo si infeltrisce in modo doloroso.</p>",
+      "attivita_addestramento": "<p>Questa è una razza da lavoro. Ha bisogno di esercizio fisico e, soprattutto, di un lavoro mentale. Non è un cane da lasciare in giardino. Richiede lunghe passeggiate e sessioni di addestramento. Eccelle nell'obedience avanzata, negli sport di protezione (Schutzhund/IPO) e nel traino.</p><p>L'addestramento è per esperti. È un cane che impara velocemente, ma la sua intelligenza e la sua dominanza possono essere usate per manipolare un proprietario insicuro. L'addestramento deve essere basato sul rispetto e sulla coerenza ferrea.</p>",
+      "ideale_per": "<p>È un cane adatto esclusivamente a proprietari esperti, con esperienza in cani da lavoro, da guardia o da protezione. È per chi ha spazio, tempo e il budget per gestire un cane gigante (cibo, veterinario, toelettatura). È ideale per chi cerca un cane da guardia serio e un compagno leale in un contesto rurale o suburbano.</p><p>Non è assolutamente un cane per principianti, per la vita in appartamento, o per chi cerca un \"animale domestico\" socievole. È un cane da lavoro e un guardiano, e deve essere gestito come tale.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.0
+    }
+  }
+]
