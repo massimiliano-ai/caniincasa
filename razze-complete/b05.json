@@ -1,0 +1,482 @@
+[
+  {
+    "post_title": "Bouledogue francese",
+    "post_excerpt": "Piccolo molossoide da compagnia, icona da appartamento. Il Bouledogue Francese è un cane brachicefalo, giocherellone e molto affettuoso. È un "pagliaccio" che richiede poco esercizio ma soffre il caldo e ha bisogno di cure specifiche per pelle e respirazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bouledogue-francese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bouledogue francese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bouledogue-francese.jpg",
+      "filename": "Bouledogue-francese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia",
+      "colorazioni": "Fulvo (solido o tigrato), Tigrato (Bringé), Bianco e Tigrato (Caille), Fulvo e Bianco (Fauve et Blanc)",
+      "temperamento_breve": "Giocherellone, Affettuoso, Testardo, Socievole",
+      "descrizione_generale": "<p>Il Bouledogue Francese è una delle razze da compagnia più popolari al mondo. È un piccolo molossoide, compatto e muscoloso, immediatamente riconoscibile per le sue orecchie erette "a pipistrello" (bat ears) e il muso corto e schiacciato (brachicefalo). È un cane dalla personalità enorme, un vero "pagliaccio" che ama intrattenere la sua famiglia.</p><p>È un cane esclusivamente da compagnia, selezionato per vivere a stretto contatto con l'uomo. È incredibilmente affettuoso, giocherellone e si adatta perfettamente alla vita in appartamento. Tuttavia, la sua popolarità e la sua struttura fisica estrema lo rendono soggetto a numerosi problemi di salute, in particolare respiratori, che richiedono un proprietario molto attento e consapevole.</p>",
+      "origini_storia": "<p>Le origini del Bouledogue Francese sono complesse. Discende dai Bulldog inglesi, in particolare dalla varietà "toy" (più piccola) che era popolare tra gli artigiani del pizzo di Nottingham. Quando la Rivoluzione Industriale mise in crisi il loro lavoro, molti di questi artigiani emigrarono in Francia (principalmente a Parigi) negli anni '60 del 1800, portando con sé i loro piccoli bulldog.</p><p>A Parigi, questi cani furono incrociati con terrier locali (forse il Terrier Boule) e forse con il Carlino, dando origine a una nuova razza. Divenne il cane preferito del "demi-monde" parigino: artisti, prostitute, cocchieri e la borghesia emergente. Il suo tratto distintivo, le orecchie "a pipistrello", fu fissato dagli allevatori francesi, nonostante l'iniziale opposizione degli americani. Il primo club di razza fu fondato a Parigi nel 1880.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo ma molto muscoloso e solido. Il peso non deve essere inferiore a 8 kg né superiore a 14 kg. La struttura è compatta e "cobby" (corta). La testa è larga e quadrata, con un muso estremamente corto e prognato. Le orecchie sono erette, larghe alla base e arrotondate in punta ("a pipistrello").</p><p>Il mantello è corto, liscio e lucido. I colori ammessi sono il fulvo (dal chiaro al scuro), il tigrato (bringé), e le combinazioni con il bianco (Caille, che è tigrato su fondo bianco, e Fulvo e Bianco). Il blu, il cioccolato o il merle non sono ammessi dallo standard FCI. La coda è naturalmente corta e attorcigliata o rotta.</p>",
+      "carattere_temperamento": "<p>Il Bouledogue Francese è un cane da compagnia al 100%. È affettuoso, socievole e ama essere al centro dell'attenzione. È un pagliaccio nato, molto giocherellone e divertente. Si lega profondamente alla sua famiglia e soffre la solitudine. Non è un cane da lasciare in giardino.</p><p>È anche molto testardo. È intelligente, ma non sempre desideroso di compiacere. L'addestramento richiede pazienza. Generalmente è buono con i bambini e altri cani, ma può essere possessivo con il cibo o i giochi. Non abbaia molto, ma è un buon cane da allerta (grugnisce e sbuffa).</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-12 anni. È una razza con gravi problemi di salute legati alla sua struttura. La Sindrome Brachicefalica (BOAS) è universale e causa problemi respiratori; non può fare esercizio intenso e soffre terribilmente il caldo (rischio di colpo di calore fatale). Non sa nuotare.</p><p>Sono comuni le allergie cutanee (dermatiti) e le infezioni nelle pieghe della pelle (che vanno pulite quotidianamente). Soffre spesso di problemi alla colonna vertebrale (come emivertebre) e lussazione della rotula. La riproduzione richiede spesso l'inseminazione artificiale e il parto cesareo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto basse. È il cane da appartamento per eccellenza. Brevi e tranquille passeggiate nelle ore fresche sono tutto ciò di cui ha bisogno. L'attività fisica intensa è pericolosa per lui.</p><p>L'addestramento è difficile a causa della sua testardaggine. L'addestramento alla pulizia (potty training) è notoriamente lento. Risponde solo al rinforzo positivo e al cibo, ma si annoia facilmente.</p>",
+      "ideale_per": "<p>È ideale per chi vive in appartamento, per persone sedentarie o anziani. È per proprietari che sono molto presenti in casa, cercano un compagno affettuoso e "da divano" e vivono in un clima temperato. Richiede un proprietario consapevole e disposto a sostenere costi veterinari potenzialmente molto alti.</p><p>Non è assolutamente adatto a persone attive, a chi fa jogging, a chi vive in climi caldi, o a chi cerca un cane "a bassa manutenzione". È una razza che richiede un impegno sanitario ed economico significativo.</p>",
+      "energia_e_livelli_di_attivita": 2.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Bovaro del bernese",
+    "post_excerpt": "Maestoso cane da montagna svizzero, tricolore e dal pelo lungo. Nato come cane da fattoria (traino, guardia), oggi è un "gigante gentile" da famiglia. Leale, calmo e affettuoso. Richiede spazio, soffre il caldo e ha un'aspettativa di vita breve.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bovaro-del-bernese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bovaro del bernese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bovaro-del-bernese.jpg",
+      "filename": "Bovaro-del-bernese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svizzera (Cantone di Berna)",
+      "colorazioni": "Tricolore (Nero intenso con focature marrone-rosso e macchie bianche)",
+      "temperamento_breve": "Calmo, Affettuoso, Leale, Equilibrato",
+      "descrizione_generale": "<p>Il Bovaro del Bernese è una delle quattro razze di Bovari Svizzeri, l'unica a pelo lungo. È un cane di taglia grande, maestoso e incredibilmente bello, con il suo caratteristico mantello tricolore setoso. Nato come cane da fattoria "tuttofare" nelle Prealpi bernesi, era usato per la guardia, la conduzione del bestiame e, soprattutto, per il traino di carretti di latte e formaggio.</p><p>Oggi è uno dei cani da famiglia più amati al mondo, un vero "gigante gentile". È calmo, equilibrato, sicuro di sé e incredibilmente affettuoso e leale con la sua famiglia. È eccezionale con i bambini. Tuttavia, soffre il caldo, ha bisogno di spazio e, purtroppo, è afflitto da una aspettativa di vita molto breve.</p>",
+      "origini_storia": "<p>Il Bernese è un cane da montagna di origini antiche. Si ritiene discenda dai molossi portati nelle Alpi dai Romani, incrociati con i cani da pastore locali. Per secoli, è stato il cane da lavoro indispensabile dei contadini del Cantone di Berna, in particolare nella regione di Dürrbach (da cui il suo nome originale, "Dürrbächler").</p><p>Alla fine del XIX secolo, con l'avvento di altre razze, il Bernese rischiò l'estinzione. Fu salvato da un gruppo di allevatori svizzeri, guidati da Franz Schertenleib, che nel 1892 iniziarono a cercare gli ultimi esemplari nelle valli. Il club di razza fu fondato nel 1907 a Burgdorf. La sua popolarità come cane da famiglia è esplosa a livello mondiale negli ultimi decenni.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto e muscoloso. L'altezza al garrese per i maschi è 64–70 cm, per le femmine 58–66 cm. Il peso è 40–55 kg (maschi) e 35–45 kg (femmine). La struttura è potente e ben bilanciata.</p><p>Il mantello è lungo, setoso e leggermente ondulato. Il colore è tricolore: un nero intenso come base, con focature (tan) di colore marrone-rosso intenso sulle guance, sopra gli occhi, sul petto e sugli arti. Le macchie bianche sono obbligatorie e simmetriche: una lista sul muso, una "croce svizzera" sul petto, piedi bianchi e punta della coda bianca.</p>",
+      "carattere_temperamento": "<p>Il Bernese ha un temperamento eccezionale. È calmo, sicuro di sé, equilibrato e non aggressivo. È un cane da guardia vigile (abbaia per avvisare), ma amichevole con gli ospiti, una volta accettati. È incredibilmente leale e affettuoso con la sua famiglia, un "cane velcro" che ha bisogno di contatto umano.</p><p>È noto per essere particolarmente paziente e protettivo con i bambini. È generalmente socievole con altri cani e animali domestici. È un cane sensibile che matura lentamente. Soffre molto la solitudine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è purtroppo molto breve, 7-10 anni. La razza è devastata da un'altissima incidenza di tumori aggressivi, in particolare l'istiocitosi maligna e l'emangiosarcoma. È la principale causa di morte.</p><p>Come cane di taglia grande, è anche soggetto a displasia dell'anca e del gomito, e a torsione gastrica (gonfiore). Il mantello lungo richiede spazzolate regolari (più volte a settimana) e perde moltissimo pelo. Soffre terribilmente il caldo e deve essere protetto dai colpi di calore.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo. Lunghe passeggiate quotidiane sono sufficienti. Ama le escursioni in montagna (in climi freschi) e il traino (carting). Non è un cane da appartamento, ha bisogno di un giardino e di vivere in un clima fresco.</p><p>È intelligente e desideroso di compiacere, ma anche sensibile e testardo. L'addestramento deve essere gentile, paziente e coerente. Risponde magnificamente al rinforzo positivo. Non sopporta i metodi duri.</p>",
+      "ideale_per": "<p>È un cane da famiglia ideale per chi vive in una casa con giardino, in un clima temperato o freddo. È perfetto per famiglie con bambini. Richiede un proprietario consapevole della sua breve aspettativa di vita e pronto ad affrontare i potenziali (e probabili) costi veterinari, specialmente oncologici.</p><p>Non è assolutamente adatto a chi vive in climi caldi, in piccoli appartamenti, o per chi è ossessionato dalla pulizia (perde tonnellate di pelo). Non è un cane da lasciare solo in giardino.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 5.0,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Bovaro dell’appenzell",
+    "post_excerpt": "Il più raro dei Bovari Svizzeri, è un cane da fattoria tricolore, vivace ed energico. Noto per la sua coda arricciata ("corno di postiglione"). È un cane da lavoro intelligente e vocale, che richiede un proprietario attivo ed esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bovaro-dellappenzell",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bovaro dell’appenzell"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bovaro-dellappenzell.jpg",
+      "filename": "Bovaro-dellappenzell.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svizzera (Regione dell'Appenzell)",
+      "colorazioni": "Tricolore (Nero con focature e macchie bianche) o Avana (Marrone con focature e bianco)",
+      "temperamento_breve": "Vivace, Intelligente, Vocale, Protettivo",
+      "descrizione_generale": "<p>Il Bovaro dell'Appenzell (Appenzeller Sennenhund) è una delle quattro razze di Bovari Svizzeri (insieme al Bernese, all'Entlebuch e al Grande Svizzero) ed è probabilmente la più rara. È un cane da pastore di taglia media, muscoloso e agile, con il tipico mantello tricolore e una caratteristica coda arricciata a "corno di postiglione" portata sul dorso.</p><p>È un cane da lavoro "tuttofare", usato per la conduzione del bestiame (spesso mordicchiando i garretti), la guardia alla fattoria e il traino. È un cane estremamente energico, intelligente, vivace e molto vocale. È leale alla famiglia ma diffidente con gli estranei. Richiede un proprietario esperto e molto attivo.</p>",
+      "origini_storia": "<p>Come gli altri bovari svizzeri, discende dagli antichi molossi romani incrociati con i cani da pastore locali delle Alpi. Si è sviluppato in isolamento nella regione dell'Appenzell, nella Svizzera nord-orientale. La prima menzione certa della razza risale al 1853, nel libro "Tierleben der Alpenwelt" (Vita animale nel mondo alpino).</p><p>Alla fine del XIX secolo, il famoso promotore delle razze svizzere, il Prof. Albert Heim, si interessò alla razza. Grazie ai suoi sforzi e a quelli di Max Siber, la razza fu distinta dagli altri bovari. Il club di razza fu fondato nel 1906, e lo standard fu fissato nel 1914. Rimane una razza rara, allevata principalmente per il lavoro.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, compatto e muscoloso. L'altezza al garrese per i maschi è 52–56 cm, per le femmine 50–54 cm. Il peso è 22–32 kg. La struttura è quasi quadrata. La testa è forte, con orecchie triangolari pendenti.</p><p>La caratteristica distintiva è la coda, che è folta e portata arricciata strettamente sul dorso, a lato. Il mantello è corto (stockhaar), fitto e lucido, con un sottopelo denso. I colori sono il nero o l'avana (marrone cioccolato), entrambi con focature (tan) e macchie bianche simmetriche (lista, petto, piedi).</p>",
+      "carattere_temperamento": "<p>L'Appenzell è un cane da lavoro ad alta energia. È vivace, agile, coraggioso e molto intelligente. È un cane da conduzione e da guardia, quindi è estremamente vocale (abbaia molto, con voce acuta) e molto diffidente con gli estranei. È un eccellente cane da allerta.</p><p>È leale e affettuoso con la sua famiglia, ma ha un forte istinto di "radunare" (potrebbe mordicchiare i talloni dei bambini). Può essere dominante con altri cani. Richiede una socializzazione precoce e un addestramento costante per gestire la sua energia e la sua diffidenza.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto robusta e sana. La displasia dell'anca è monitorata. Non ha particolari predisposizioni genetiche note, grazie alla sua gestione attenta come razza rara. Il mantello corto richiede poche cure, solo una spazzolata settimanale.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento. Ha bisogno di un lavoro da fare. Richiede molto esercizio fisico (corsa, escursioni) e mentale. Se annoiato, diventa distruttivo e abbaia incessantemente.</p><p>L'addestramento è per proprietari esperti. È intelligente e impara velocemente, ma è anche testardo e indipendente. Risponde bene al rinforzo positivo e alla varietà. Eccelle in agility, obedience e herding.</p>",
+      "ideale_per": "<p>È un cane ideale per proprietari esperti di cani da pastore, molto attivi, che vivono in campagna. È perfetto per chi pratica sport cinofili ad alto livello (agility) e cerca un cane energico, intelligente e reattivo.</p><p>Non è assolutamente adatto a proprietari principianti, a persone sedentarie, o alla vita in città (è troppo vocale). La sua diffidenza e il suo istinto di conduzione richiedono una gestione competente.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Bovaro dell’entlebuch",
+    "post_excerpt": "Il più piccolo dei Bovari Svizzeri. È un cane da conduzione (bovini) tricolore, energico e compatto. Noto per la coda naturalmente corta (bobtail). È un guardiano vigile e vocale, ma un compagno leale. Richiede un proprietario attivo ed esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bovaro-dellentlebuch",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bovaro dell’entlebuch"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bovaro-dellentlebuch.jpg",
+      "filename": "Bovaro-dellentlebuch.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svizzera (Valle dell'Entlebuch, Cantoni di Lucerna e Berna)",
+      "colorazioni": "Tricolore (Nero con focature e macchie bianche)",
+      "temperamento_breve": "Vivace, Intelligente, Protettivo, Testardo",
+      "descrizione_generale": "<p>Il Bovaro dell'Entlebuch (Entlebucher Sennenhund) è il più piccolo delle quattro razze di Bovari Svizzeri. È un cane di taglia media, compatto, muscoloso e tricolore. È un cane da pastore "tuttofare", originario della valle dell'Entlebuch, usato per la conduzione del bestiame (bovini) e la guardia.</p><p>È un cane pieno di energia, intelligente, sicuro di sé e molto leale alla sua famiglia. È un cane da guardia eccezionale, molto vigile e vocale, con una spiccata diffidenza verso gli estranei. Richiede un proprietario esperto, attivo e una socializzazione precoce per gestire il suo forte temperamento.</p>",
+      "origini_storia": "<p>Come gli altri bovari, discende dagli antichi molossi romani incrociati con cani locali. Si è sviluppato nella valle dell'Entlebuch (Cantoni di Lucerna e Berna). Per molto tempo, è stato confuso con il Bovaro dell'Appenzell. La prima descrizione che li distingue risale al 1889.</p><p>La razza fu quasi estinta all'inizio del XX secolo. Fu salvata dal Prof. Albert Heim e da Franz Schertenleib (lo stesso che salvò il Bernese), che trovarono gli ultimi esemplari. Il Club svizzero fu fondato nel 1926. Rimane una razza relativamente rara.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, compatto e leggermente allungato. L'altezza al garrese per i maschi è 44–50 cm, per le femmine 42–48 cm. Il peso è 20–30 kg. È robusto e muscoloso. Una sua caratteristica è la coda: nasce spesso con una coda naturalmente corta (brachiuria, "bobtail"), anche se la coda lunga è ammessa.</p><p>Il mantello è corto (stockhaar), duro, lucido e con un sottopelo denso. Il colore è unicamente tricolore: nero con focature (tan) e macchie bianche simmetriche (lista, petto, piedi).</p>",
+      "carattere_temperamento": "<p>L'Entlebuch è un cane da lavoro con un'alta energia. È intelligente, vivace e sicuro di sé. È un eccellente cane da guardia, molto territoriale e diffidente con gli estranei. Abbaia prontamente.</p><p>È molto leale alla sua famiglia, ma è un cane da pastore: è testardo e ha un forte istinto di conduzione (può mordicchiare i talloni). Può essere dominante con altri cani. Richiede una socializzazione precoce e un proprietario che sia un leader indiscusso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Il pool genetico è ristretto. La displasia dell'anca è una preoccupazione. La principale malattia genetica è l'Atrofia Progressiva della Retina (PRA), per cui esistono test. Può soffrire di problemi cardiaci. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento. Ha bisogno di esercizio fisico intenso (corsa, escursioni) e di stimolazione mentale. È un atleta nato per l'agility.</p><p>L'addestramento è per proprietari esperti. È intelligente e impara, ma la sua testardaggine e il suo istinto da bovaro richiedono un addestramento coerente, fermo ma positivo. La socializzazione è fondamentale.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di cani da pastore, molto attivi, che vivono in campagna. È ideale per chi pratica sport cinofili (agility, herding) e cerca un cane da guardia reattivo.</p><p>Non è un cane per principianti, per persone sedentarie, o per la vita in appartamento. La sua diffidenza e la sua vocalità richiedono una gestione competente.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Bovaro delle ardenne",
+    "post_excerpt": "Rarissimo cane da pastore belga, rustico e a pelo duro. Nato per la conduzione del bestiame (bovini, maiali) nelle Ardenne. È un cane da lavoro tenace, testardo e protettivo. Richiede un proprietario esperto e un ambiente rurale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bovaro-delle-ardenne",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bovaro delle ardenne"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bovaro-delle-ardenne.jpg",
+      "filename": "Bovaro-delle-ardenne.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Belgio (Regione delle Ardenne)",
+      "colorazioni": "Tutti i colori sono ammessi (più comune Fulvo, Grigio, Tigrato)",
+      "temperamento_breve": "Tenace, Coraggioso, Protettivo, Rustico",
+      "descrizione_generale": "<p>Il Bovaro delle Ardenne (Bouvier des Ardennes) è una razza da pastore belga estremamente rara, quasi estinta. È un cane rustico, di taglia media, con un mantello ruvido e "spettinato" che gli dà un aspetto fiero. È un cane da lavoro puro, selezionato per la conduzione e la guardia del bestiame (in particolare bovini e maiali) nel clima rigido e sui terreni difficili della regione delle Ardenne.</p><p>È un cane da pastore nel senso più antico del termine: è tenace, coraggioso, molto protettivo e testardo. È un cane "per un solo padrone", diffidente con gli estranei e molto reattivo. È una razza solo per esperti che vivono in un contesto rurale.</p>",
+      "origini_storia": "<p>Questa è un'antica razza locale belga, allevata per secoli dai mandriani delle Ardenne. Era un cane "povero", selezionato solo per la sua capacità di lavorare e sopravvivere. Era noto per la sua resistenza e la sua ferocia nel difendere il bestiame dai lupi.</p><p>L'avvento dell'agricoltura moderna e la scomparsa dei grandi predatori resero il suo lavoro obsoleto, e la razza fu decimata dalle due guerre mondiali. Per decenni, il Bovaro delle Ardenne fu creduto estinto. Negli anni '80, alcuni allevatori ritrovarono degli esemplari che lavoravano ancora con il bestiame in fattorie isolate e iniziarono un difficile programma di recupero. La FCI ha riconosciuto la razza nel 1963 (Standard N° 171).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, robusto e muscoloso. L'altezza al garrese è 56–62 cm (maschi) e 52–56 cm (femmine). Il peso è 22–35 kg. La testa è forte, con baffi e barba. Nasce spesso con la coda corta (brachiuria).</p><p>Il mantello è doppio, molto ruvido, "fil di ferro", lungo circa 6 cm. È resistente alle intemperie e richiede poca manutenzione. Tutti i colori sono ammessi, anche se i più comuni sono il fulvo, il grigio, il tigrato e il nero.</p>",
+      "carattere_temperamento": "<p>È un cane da lavoro puro. È tenace, coraggioso, indipendente e molto testardo. È un guardiano eccezionale, molto territoriale e diffidente con gli estranei. È un cane "per un solo padrone", a cui è leale, ma non è un cane da famiglia affettuoso.</p><p>È molto reattivo e dominante con altri cani. Ha un forte istinto predatorio. Richiede un proprietario esperto che sappia essere un leader indiscusso.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza estremamente rustica e sana, selezionata dalla natura. Non ha malattie genetiche note, data la sua rarità. Il mantello richiede solo spazzolate occasionali.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un cane da lavoro che deve avere un compito (pastorizia, guardia). Non è un cane da appartamento. Richiede un ambiente rurale e molto spazio.</p><p>L'addestramento è solo per esperti. È testardo e non motivato a compiacere. L'addestramento deve essere basato sul rispetto e sulla gestione del suo istinto.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti di cani da pastore primitivi, che vivono in un ambiente rurale isolato e hanno bestiame da gestire. È un cane da lavoro, non da compagnia.</p><p>Non è adatto a principianti, alla vita in città, o a famiglie. È una delle razze più rare al mondo.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 2.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Bovaro delle fiandre",
+    "post_excerpt": "Grande cane da pastore (bovaro) belga, dal caratteristico mantello ruvido e "arruffato". Nato per condurre il bestiame, è un cane da guardia intelligente, coraggioso e protettivo. Richiede un proprietario esperto, socializzazione e toelettatura.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bovaro-delle-fiandre",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bovaro delle fiandre"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bovaro-delle-fiandre.jpg",
+      "filename": "Bovaro-delle-fiandre.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Belgio / Francia (Regione delle Fiandre)",
+      "colorazioni": "Fulvo, Tigrato (Brindle), Grigio, Nero (spesso con carbonature)",
+      "temperamento_breve": "Protettivo, Intelligente, Calmo, Coraggioso",
+      "descrizione_generale": "<p>Il Bovaro delle Fiandre (Bouvier des Flandres) è un cane da pastore di taglia grande, potente e dall'aspetto rustico e imponente. È famoso per il suo mantello ruvido, i folti baffi e la barba. È un "bovaro", un cane selezionato non tanto per le pecore, quanto per la conduzione e la guardia del bestiame (bovini) e per il traino di carri.</p><p>È un cane da lavoro eccezionale, intelligente, calmo ed equilibrato. È un guardiano innato, molto protettivo della sua famiglia e del suo territorio, ma non inutilmente aggressivo. È leale e affettuoso, ma richiede un proprietario esperto, addestramento coerente e una socializzazione precoce.</p>",
+      "origini_storia": "<p>La razza si è sviluppata nella regione delle Fiandre (divisa tra Belgio e Francia). È il cane da fattoria "tuttofare" dei monasteri e dei contadini fiamminghi. Veniva usato per guidare le mandrie di mucche ai mercati e per trainare i carri di burro e formaggio. Le sue origini sono incerte, ma si ritiene discenda da cani da pastore locali incrociati con molossi.</p><p>La razza fu quasi completamente spazzata via dalla Prima Guerra Mondiale, poiché le Fiandre furono teatro di battaglie devastanti. Il Bovaro fu usato come cane da trincea e portaordini. La razza fu salvata da pochissimi esemplari sopravvissuti, in particolare grazie al lavoro degli allevatori belgi. La FCI ha riconosciuto la razza nel 1965 (Standard N° 191), assegnando il patronato a Belgio e Francia.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, compatto, tarchiato e molto muscoloso. L'altezza al garrese per i maschi è 62–68 cm, per le femmine 59–65 cm. Il peso è 35–40 kg (maschi) e 27–35 kg (femmine). La testa è massiccia, con baffi e barba folti.</p><p>Il mantello è doppio, molto folto, ruvido, "fil di ferro" e arruffato. Il pelo di copertura è lungo circa 6 cm. I colori sono il grigio, il tigrato (brindle), il fulvo e il nero (spesso "sbiadito" o carbonato). Una piccola stella bianca sul petto è tollerata.</p>",
+      "carattere_temperamento": "<p>È un cane da lavoro serio. È calmo, equilibrato, intelligente e molto protettivo. È un guardiano eccellente, diffidente con gli estranei e pronto a difendere la famiglia. Non è un cane che abbaia inutilmente, ma è un deterrente efficace.</p><p>È leale e affettuoso con la sua famiglia, ma è anche testardo e dominante. Richiede un proprietario che sia un leader chiaro e coerente. Può essere reattivo con altri cani se non socializzato. È un cane che matura lentamente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza robusta, ma soggetta a displasia dell'anca e del gomito. Può soffrire di torsione gastrica (gonfiore) e di problemi oculari (cataratta, glaucoma). Alcune linee sono soggette a paralisi laringea.</p><p>Il mantello richiede una toelettatura impegnativa. Deve essere spazzolato a fondo settimanalmente per evitare feltri e richiede una toelettatura (stripping o clipping) professionale ogni 2-3 mesi. La barba deve essere pulita.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia medio-alto. Non è un cane iperattivo, ma ha bisogno di un lavoro. Lunghe passeggiate quotidiane e stimolazione mentale sono necessarie. Si adatta male all'appartamento.</p><p>L'addestramento è per esperti. È intelligente ma testardo. Richiede un addestramento costante, basato sul rispetto. Eccelle negli sport di utilità e difesa (IPO) e nel traino (carting).</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di cani da lavoro, che vivono in una casa con giardino. È per chi cerca un cane da guardia serio, equilibrato e protettivo, ed è disposto a impegnarsi nella toelettatura e nella socializzazione.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi vive in un piccolo appartamento. La sua dominanza e il suo istinto di guardia richiedono una gestione competente.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Boxer",
+    "post_excerpt": "Cane da guardia e da compagnia tedesco, muscoloso e atletico. È un "eterno cucciolo", esuberante, giocherellone e molto affettuoso. È un eccellente cane da famiglia e un protettore coraggioso. Richiede molto esercizio e soffre il caldo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "boxer",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Boxer"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Boxer.jpg",
+      "filename": "Boxer.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Monaco di Baviera)",
+      "colorazioni": "Fulvo, Tigrato (entrambi con o senza macchie bianche)",
+      "temperamento_breve": "Esuberante, Giocherellone, Leale, Protettivo",
+      "descrizione_generale": "<p>Il Boxer è un cane di taglia media-grande, muscoloso e atletico, appartenente al gruppo dei molossoidi. È famoso per il suo muso corto (brachicefalo), la sua energia esplosiva e il suo carattere da "eterno cucciolo". È un cane che combina un'esuberanza incontenibile con una grande lealtà e un forte istinto protettivo.</p><p>Nato come cane da caccia e da guardia, oggi è uno dei cani da famiglia più popolari. È un compagno di giochi instancabile, molto affettuoso e paziente con i bambini. È anche un eccellente cane da guardia. Richiede un proprietario attivo, molto esercizio e soffre il caldo.</p>",
+      "origini_storia": "<p>Il Boxer discende dal "Bullenbeisser" (morditore di tori) tedesco, un cane di tipo mastino utilizzato per la caccia alla grossa selvaggina (cinghiali, orsi) e per i combattimenti. La razza moderna fu creata a Monaco di Baviera, alla fine del XIX secolo, da un gruppo di allevatori (tra cui Friedrich Roberth, che selezionò anche lo Jagdterrier).</p><p>Incruciarono il Bullenbeisser con il Bulldog Inglese (più basso e tarchiato) per creare un cane più compatto e agile. Il nome "Boxer" deriva forse dal suo modo di usare le zampe anteriori per "boxare" durante il gioco o il combattimento. Il primo Boxer Club fu fondato a Monaco nel 1895. La razza fu usata come cane militare e poliziotto in Germania.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, quadrato, con una muscolatura asciutta e potente. L'altezza al garrese per i maschi è 57–63 cm, per le femmine 53–59 cm. Il peso è 27–32 kg. La testa è la sua caratteristica, con un muso corto e largo (brachicefalo) e un marcato prognatismo.</p><p>Il mantello è corto, liscio e lucido. I colori ammessi sono il fulvo (dal giallo chiaro al rosso cervo) e il tigrato (brindle), entrambi con una maschera nera obbligatoria. Le macchie bianche sono permesse, ma non devono superare un terzo del corpo (i boxer bianchi esistono ma non sono ammessi dallo standard FCI e sono soggetti a sordità).</p>",
+      "carattere_temperamento": "<p>Il Boxer è un cane esuberante, giocherellone e pieno di energia. È un "eterno cucciolo" che matura molto tardi (intorno ai 3 anni). È estremamente affettuoso e leale con la sua famiglia, un "cane velcro" che ha bisogno di contatto umano e soffre la solitudine.</p><p>È un cane da guardia coraggioso e protettivo, diffidente con gli estranei ma non inutilmente aggressivo. È eccezionale con i bambini, verso i quali è paziente e protettivo. Può essere rissoso con altri cani dello stesso sesso. Ha bisogno di molto sfogo fisico e mentale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-11 anni. È una razza purtroppo afflitta da seri problemi di salute. Ha un'altissima incidenza di tumori (linfoma, mastocitoma). È anche molto soggetto a problemi cardiaci (cardiomiopatia aritmogena del ventricolo destro, o "cardiomiopatia del Boxer").</p><p>Essendo brachicefalo, soffre il caldo e ha problemi respiratori. Soffre di displasia dell'anca e spondilosi. Richiede un proprietario pronto a sostenere costi veterinari.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento, a meno che il proprietario non sia molto attivo. Ha bisogno di almeno 1-2 ore di esercizio intenso al giorno (corsa, gioco). Non deve fare esercizio con il caldo.</p><p>L'addestramento è necessario per gestire la sua esuberanza. È intelligente ma anche testardo. Risponde bene al rinforzo positivo e al gioco. Non sopporta la monotonia. Eccelle negli sport di utilità e difesa (IPO) e nell'agility.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive e sportive, con esperienza. È per chi cerca un cane da guardia leale, un compagno di giochi instancabile ed è consapevole dei gravi rischi per la salute e della sua intolleranza al caldo.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi vive in climi molto caldi. La sua salute fragile e la sua esuberanza richiedono un impegno serio.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 2.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Bracco d’ariege",
+    "post_excerpt": "Raro cane da ferma francese (Bracco), originario dell'Ariège. Leggero, veloce e resistente, è un cane da caccia appassionato. Dolce e affettuoso, ma richiede un proprietario cacciatore e molto esercizio. È stato salvato dall'estinzione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-dariege",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco d’ariege"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-dariege.jpg",
+      "filename": "Bracco-dariege.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione dell'Ariège)",
+      "colorazioni": "Bianco e Arancio (pallido), Bianco e Marrone, con o senza moschettature",
+      "temperamento_breve": "Energico, Affettuoso, Addestrabile, Tenace (caccia)",
+      "descrizione_generale": "<p>Il Bracco d'Ariège (Braque de l'Ariège) è un cane da ferma francese, originario della regione pedemontana dei Pirenei. È un cane di taglia grande, più leggero e agile di altri bracchi francesi, con un caratteristico mantello bianco e arancio pallido (o marrone) e un aspetto asciutto.</p><p>È un cane da caccia appassionato, resistente e versatile, capace di lavorare su terreni difficili. È anche noto per il suo carattere affettuoso e docile in famiglia. È una razza che è stata salvata dall'estinzione nel 1990 e rimane estremamente rara.</p>",
+      "origini_storia": "<p>Questa razza discende dagli antichi cani da ferma francesi (probabilmente l'antico Bracco Francese) che, nella regione dell'Ariège, furono incrociati nel XIX secolo con i Bracchi italiani bianchi e arancio. Questo incrocio servì a dare alla razza maggiore leggerezza e un colore più chiaro.</p><p>Era un cane da caccia molto apprezzato, ma le due guerre mondiali decimarono la razza. Negli anni '80 era considerata praticamente estinta. Nel 1990, un gruppo di allevatori appassionati, guidati da Alain Deteix, iniziò un programma di recupero utilizzando i pochi cani rimasti e incrociandoli con il Bracco di Saint Germain e il Bracco Spagnolo per salvarla. La FCI riconosce la razza (Standard N° 177).</p>",
+      "aspetto_fisico": "<p>È un cane da ferma di taglia grande, atletico e asciutto. L'altezza al garrese per i maschi è 60–67 cm, per le femmine 56–65 cm. Il peso è 25–30 kg. La struttura è leggera ma resistente. La testa è nobile, con orecchie lunghe e pendenti.</p><p>Il mantello è corto, fine e lucido. I colori sono il bianco pezzato di arancio pallido (color "pesca sbiadito") o marrone. È molto comune la moschettatura (roanatura), che dà un aspetto quasi bianco-grigiastro.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia energico e tenace sul campo. È intelligente e addestrabile, con un buon desiderio di compiacere. In famiglia, è noto per essere molto affettuoso, calmo e dolce, ottimo anche con i bambini. È un cane sensibile che non risponde alla durezza.</p><p>Mantiene un forte istinto venatorio e ha bisogno di molto esercizio. Non è un cane da appartamento, richiede un ambiente rurale.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. Essendo una razza ricostruita da un pool genetico piccolissimo, la salute è una preoccupazione. Si monitorano displasia dell'anca e problemi oculari. Le orecchie lunghe richiedono pulizia. Il pelo corto è a manutenzione zero.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da caccia e ha bisogno di correre. Richiede un proprietario cacciatore o molto attivo, che viva in campagna. L'addestramento è facile (per essere un cane da caccia) se basato sulla gentilezza e la coerenza.</p>",
+      "ideale_per": "<p>È ideale per cacciatori che cercano un cane da ferma resistente, versatile e dal carattere dolce in famiglia. È adatto a chi vive in campagna e può garantirgli lo sfogo necessario. È una razza per appassionati, data la sua estrema rarità.</p><p>Non è adatto a persone sedentarie, alla vita in città, o a proprietari inesperti.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bracco d’auvergne",
+    "post_excerpt": "Antico cane da ferma francese (Alvernia), nero con moschettatura bianca ("blu"). È un cacciatore metodico, intelligente e molto affettuoso. È un cane da lavoro leale, ottimo per cacciatori e famiglie attive in campagna.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-dauvergne",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco d’auvergne"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bracco-dauvergne.jpg",
+      "filename": "Bracco-dauvergne.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione dell'Alvernia)",
+      "colorazioni": "Nero con moschettatura bianca (che dà un effetto "blu"), con o senza macchie nere",
+      "temperamento_breve": "Affettuoso, Docile, Intelligente, Metodico (caccia)",
+      "descrizione_generale": "<p>Il Bracco d'Alvernia (Braque d'Auvergne) è un antico cane da ferma francese, originario della regione montuosa dell'Alvernia. È un cane robusto e dall'aspetto nobile, riconoscibile per il suo mantello nero e bianco "moschettato" (roano blu) e la testa nera con una lista bianca. È un cacciatore versatile, metodico e resistente.</p><p>A differenza di altri cani da ferma, è noto per il suo carattere eccezionalmente affettuoso, docile e legato alla famiglia. È un cane da lavoro che si adatta meravigliosamente alla vita in casa (purché esercitato), mostrando grande intelligenza e sensibilità.</p>",
+      "origini_storia": "<p>Le origini di questa razza sono antichissime. Si ritiene che sia presente nella regione del Cantal (Alvernia) da secoli. La leggenda narra che i Cavalieri di Malta, di ritorno dalle Crociate, abbiano introdotto i suoi antenati. Più realisticamente, è un discendente degli antichi bracchi francesi, selezionato in purezza in questa regione isolata.</p><p>Era un cane da caccia molto apprezzato dalla nobiltà locale. La razza è rimasta pura grazie all'isolamento geografico. Il primo club di razza è stato fondato nel 1913. È una razza che, pur rimanendo principalmente da caccia, è molto apprezzata per il suo temperamento equilibrato.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media-grande, robusto e forte, ma senza pesantezza. L'altezza al garrese per i maschi è 57–63 cm, per le femmine 53–59 cm. Il peso è 22–30 kg. La testa è lunga, da bracco, con orecchie lunghe e pendenti.</p><p>Il mantello è corto, fine e lucido. Il colore è la sua caratteristica: il fondo è bianco, ma è così fittamente moschettato di nero da dare un colore "blu ardesia" (roano blu). Sono presenti grandi macchie nere. La testa è sempre nera, preferibilmente con una lista bianca.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia intelligente, metodico e con un ottimo fiuto. Sul campo è tenace. In casa, è calmo, molto affettuoso, leale e desideroso di compiacere. È un cane sensibile, che si lega profondamente al proprietario e ai bambini.</p><p>È un cane da allerta vigile, ma non aggressivo. È generalmente socievole con altri cani. Richiede molto esercizio per incanalare il suo istinto venatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto robusta. La displasia dell'anca è da monitorare. Le orecchie lunghe e pendenti richiedono una pulizia costante per prevenire otiti. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. Non è un cane da appartamento. Ha bisogno di lunghe passeggiate quotidiane, corsa e stimolazione mentale (fiuto). È un ottimo compagno di escursionismo.</p><p>L'addestramento è facile per un proprietario attivo. È intelligente, docile e collaborativo. Risponde molto bene all'addestramento gentile e positivo.</p>",
+      "ideale_per": "<p>È ideale per cacciatori che cercano un cane da ferma versatile e un eccellente compagno di famiglia. È adatto a famiglie attive che vivono in campagna e possono garantirgli lo sfogo fisico necessario.</p><p>Non è adatto a persone sedentarie, alla vita in città, o a proprietari inesperti che non sanno come gestire l'istinto venatorio.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Bracco del bourbonnais",
+    "post_excerpt": "Antico cane da ferma francese ("Bracco"), noto per la sua coda naturalmente corta. È un cane da caccia intelligente, metodico e molto affettuoso. È un compagno di famiglia eccellente, ma richiede esercizio e stimolazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bracco-del-bourbonnais",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bracco del bourbonnais"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/schede_razze_bracco_bourbonnais-768x465-1.jpg",
+      "filename": "schede_razze_bracco_bourbonnais-768x465-1.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Regione del Bourbonnais)",
+      "colorazioni": "Bianco e Marrone (Fegato), Bianco e Fulvo (color "lilla sbiadito" o "pesca") - Sempre moschettato/roano",
+      "temperamento_breve": "Affettuoso, Calmo, Intelligente, Versatile (caccia)",
+      "descrizione_generale": "<p>Il Bracco del Bourbonnais (Braque du Bourbonnais) è un antico cane da ferma francese, originario della provincia del Bourbonnais (centro della Francia). È un cane da caccia di taglia media, compatto e muscoloso, noto per il suo particolare mantello "moschettato" e, soprattutto, per nascere spesso con la coda naturalmente corta (brachiuria) o inesistente (anuria).</p><p>È un cane da caccia versatile, metodico e con un fiuto eccellente. Oltre al lavoro, è un compagno di famiglia eccezionale, noto per il suo carattere calmo, equilibrato, intelligente e molto affettuoso. È una razza rara, salvata dall'estinzione.</p>",
+      "origini_storia": "<p>Questa razza è antichissima, descritta già nel 1598 dallo scrittore italiano Ulisse Aldrovandi come un cane "da quaglia" francese con il mantello bianco e marrone. Per secoli è stato il cane da ferma della sua regione. La sua caratteristica coda corta era già nota e selezionata.</p><p>La razza rischiò l'estinzione dopo la Prima Guerra Mondiale. Gli allevatori del dopoguerra divennero così rigidi sui requisiti estetici (come il colore "lilla sbiadito" e la coda corta) che la razza divenne non più vitale. Il club di razza si sciolse nel 1963 e la FCI dichiarò la razza "estinta" nel 1970. Fu salvata da un allevatore, Michel Comte, che negli anni '70 ritrovò gli ultimi esemplari e ricostruì la razza. La FCI l'ha ri-riconosciuta nel 1991 (Standard N° 179).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, compatto e muscoloso. L'altezza al garrese per i maschi è 51–57 cm, per le femmine 48–55 cm. Il peso è 16–25 kg. La struttura è quasi quadrata. La testa è tipica da bracco, con orecchie pendenti.</p><p>Nasce spesso con la coda naturalmente corta (brachiuro) o assente (anuro). Il mantello è corto, fine e fitto. Il colore è sempre su fondo bianco, finemente moschettato di marrone (fegato) o fulvo (color pesca/lilla sbiadito), con o senza macchie più grandi.</p>",
+      "carattere_temperamento": "<p>È un cane da caccia intelligente, metodico e appassionato, ma con un carattere molto equilibrato. In casa è calmo, dolce, molto affettuoso e si lega profondamente alla famiglia. È un cane sensibile che desidera compiacere.</p><p>È un buon cane da allerta, ma non aggressivo. È generalmente socievole. Ha bisogno di esercizio per sfogare il suo istinto venatorio, ma è più calmo di altri cani da ferma.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. Il pool genetico è molto ristretto, ma è una razza considerata sana. La displasia dell'anca è monitorata. Il mantello corto è di facile manutenzione. Le orecchie richiedono pulizia.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto, ma gestibile. Si adatta alla vita in casa con un proprietario attivo. Richiede lunghe passeggiate quotidiane e stimolazione mentale (fiuto). È un ottimo cane da sport (agility, obedience).</p><p>L'addestramento è facile. È intelligente, sensibile e collaborativo. Risponde molto bene all'addestramento gentile e positivo.</p>",
+      "ideale_per": "<p>È un cane ideale per cacciatori che cercano un cane da ferma versatile e un eccellente compagno di famiglia. È adatto a famiglie attive, anche alla prima esperienza, che vivono in casa con giardino e possono garantirgli esercizio.</p><p>Non è adatto a persone sedentarie o a chi vive in un piccolo appartamento senza tempo per l'attività fisica. È una razza rara.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

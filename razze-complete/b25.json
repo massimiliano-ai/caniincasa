@@ -1,0 +1,497 @@
+[
+  {
+    "post_title": "Russian toy",
+    "post_excerpt": "Il Russian Toy, o Russkiy Toy, è un cane toy elegante e vivace originario della Russia. Disponibile in due varietà (pelo liscio e pelo lungo), è un compagno affettuoso e un ottimo cane da allerta. È una razza fragile che non tollera il freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "russian-toy",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Russian toy"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Russian-toy.jpg",
+      "filename": "Russian-toy.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Russia",
+      "colorazioni": "Nero focato, Marrone focato, Blu focato, Lilla focato, Rosso (in varie tonalità), Fulvo, Crema",
+      "temperamento_breve": "Vivace, Leale, Intelligente, Elegante",
+      "descrizione_generale": "<p>Il Russian Toy è una delle razze toy più piccole al mondo, noto per il suo aspetto elegante e la sua personalità esuberante. Originario della Russia, dove era il cane preferito dell'aristocrazia zarista, oggi è un compagno di famiglia vivace e incredibilmente leale. Nonostante la sua apparenza delicata, è un cane coraggioso e un eccellente cane da allerta, che abbaia prontamente per segnalare novità.</p><p>La razza esiste in due distinte varietà di mantello: il pelo liscio (originale) e il pelo lungo (con frange eleganti su orecchie e arti). È un cane da appartamento per eccellenza, ma richiede protezione dal freddo e una socializzazione attenta per gestire la sua natura talvolta timida.</p>",
+      "origini_storia": "<p>Le origini del Russian Toy risalgono ai salotti dell'aristocrazia russa del XVIII secolo. La sua base genetica è l'English Toy Terrier (il "Manchester Terrier Toy"), che era un cane da compagnia molto di moda. Questi cani furono importati in Russia e allevati in isolamento, diventando un simbolo di status per le dame di corte.</p><p>Con la Rivoluzione d'Ottobre del 1917, tutto ciò che era legato all'aristocrazia divenne inviso, e la razza fu decimata, quasi estinta. Il suo recupero iniziò solo negli anni '50 a Mosca. Gli allevatori sovietici, lavorando con i pochi sopravvissuti (spesso non di razza pura), cercarono di ricreare il "piccolo terrier russo". Nel 1958, da un incrocio tra due cani a pelo liscio, nacque un cucciolo dalle orecchie vistosamente frangiate: fu il capostipite della varietà a pelo lungo (Moscow Longhaired Toy Terrier), che divenne immensamente popolare. La FCI ha riconosciuto la razza unificata (entrambe le varietà) nel 2006 (Standard N° 352).</p>",
+      "aspetto_fisico": "<p>Il Russian Toy è un cane piccolo, fine ed elegante. L'altezza al garrese è di 22–27 cm, e il peso ideale è fino a 3 kg. La struttura è quadrata, con ossatura fine e muscoli asciutti. Le orecchie sono grandi, erette e a forma di fiamma.</p><p>Le due varietà di mantello sono:
+<ul>
+<li><b>Pelo liscio:</b> Pelo corto, lucido, aderente, senza sottopelo.</li>
+<li><b>Pelo lungo:</b> Pelo di 3-5 cm, liscio o leggermente ondulato, con lunghe e vistose frange su orecchie, coda e retro degli arti.</li>
+</ul>
+I colori ammessi sono nero focato, marrone focato, blu focato, lilla focato, o varie tonalità di rosso, fulvo o crema.</p>",
+      "carattere_temperamento": "<p>È un cane dalla personalità vivace e giocherellona. È estremamente leale e affettuoso con la sua famiglia, a cui si lega in modo quasi esclusivo. È un "cane velcro" che ama stare in braccio e seguire il proprietario ovunque.</p><p>Nonostante la taglia, è un cane da allerta coraggioso e molto vocale. È naturalmente riservato e diffidente verso gli estranei, quindi una socializzazione precoce e positiva è fondamentale per evitare che diventi timoroso o "abbaione". È intelligente ma può essere testardo, tipico di molte razze toy.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. Essendo una razza toy di taglia molto piccola, è estremamente fragile ed esposto a fratture. La patologia più comune è la lussazione della rotula (patellar luxation). Sono comuni anche i problemi dentali, come la persistenza dei denti da latte e l'accumulo di tartaro, che richiedono un'igiene orale costante.</p><p>La cura del mantello varia: il pelo liscio richiede solo una passata con un panno, mentre il pelo lungo necessita di spazzolate regolari per evitare nodi nelle frange. Entrambe le varietà sono prive di sottopelo e soffrono terribilmente il freddo, necessitando di cappotti in inverno.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono basse. È un cane da appartamento perfetto. Brevi passeggiate e molto gioco in casa sono sufficienti. Non è un cane adatto a lunghe escursioni o a un gioco rude, data la sua fragilità.</p><p>L'addestramento richiede pazienza e gentilezza. Sono intelligenti ma sensibili e testardi. Rispondono solo al rinforzo positivo. L'addestramento alla pulizia (potty training) può essere lungo e difficile, come per molte razze toy.</p>",
+      "ideale_per": "<p>Il Russian Toy è ideale per persone che vivono in appartamento, specialmente anziani o single, che desiderano un cane da grembo piccolo, leale e sempre presente. È adatto a chi vive in un ambiente tranquillo e può proteggerlo dal freddo e dai pericoli.</p><p>Non è assolutamente adatto a famiglie con bambini piccoli, che potrebbero ferirlo involontariamente. È sconsigliato a chi è fuori casa tutto il giorno, poiché soffre la solitudine, e a chi vive in climi molto freddi senza adeguate precauzioni.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 1.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Sabueso espagnol",
+    "post_excerpt": "Il Sabueso Español è un antico segugio spagnolo, noto per la sua voce potente e la sua tenacia nella caccia. Di taglia media e orecchie lunghe, è un cane da lavoro puro, specializzato nella piccola selvaggina (lepre).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "sabueso-espagnol",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Sabueso espagnol"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Sabueso-espagnol.jpeg",
+      "filename": "Sabueso-espagnol.jpeg"
+    },
+    "acf": {
+      "nazione_origine": "Spagna (Iberia)",
+      "colorazioni": "Bianco e Arancio (o Bianco e Limone)",
+      "temperamento_breve": "Tenace, Vocale, Calmo (in casa), Indipendente",
+      "descrizione_generale": "<p>Il Sabueso Español (Segugio Spagnolo) è una razza da seguita molto antica, originaria della penisola iberica. È un cane da caccia di taglia media, robusto e dall'aspetto nobile, caratterizzato dalle sue orecchie eccezionalmente lunghe e pendenti e dalla sua voce potente e malinconica.</p><p>Sebbene oggi sia specializzato nella caccia alla piccola selvaggina, in particolare la lepre, in passato era un cane da muta versatile usato anche per cinghiali, cervi e orsi. È un cane da lavoro instancabile sul campo, ma sorprendentemente calmo e affettuoso in casa. Rimane un cane da caccia, non un cane da città.</p>",
+      "origini_storia": "<p>Questo segugio ha origini antichissime, discendente probabilmente dai segugi celtici e fenici. La sua esistenza nella penisola iberica è documentata da secoli. La prima descrizione dettagliata della razza si trova nel \"Libro della Caccia\" (Libro de la Montería) scritto dal Re Alfonso XI di Castiglia nel XIV secolo (circa 1350).</p><p>Per secoli è stato il cane da caccia per eccellenza in Spagna, adattandosi a climi e terreni diversi. Esisteva una varietà più grande e pesante (oggi quasi estinta) usata per la caccia grossa, mentre la varietà più leggera e piccola, specializzata nella lepre, è quella che sopravvive oggi. La FCI ha riconosciuto la razza nel 1957 (Standard N° 204).</p>",
+      "aspetto_fisico": "<p>Il Sabueso Español è un cane di taglia media, ben proporzionato. L'altezza al garrese per i maschi è 52–57 cm, per le femmine 48–53 cm. Il peso si aggira tra i 20 e i 25 kg. La struttura è resistente, con un petto profondo per la resistenza.</p><p>La testa è la sua caratteristica: è lunga, con un cranio bombato e orecchie lunghissime, sottili e pendenti, che superano abbondantemente la punta del naso. Il mantello è corto, fine e denso. Il colore è sempre bicolore: fondo bianco con macchie arancio o limone. Le macchie arancio sono preferite e possono essere di varia intensità.</p>",
+      "carattere_temperamento": "<p>Il Sabueso è un cacciatore tenace e coraggioso sul campo, ma ha un temperamento calmo, dolce e persino un po' malinconico in casa. È molto legato al suo proprietario e alla famiglia, mostrando una grande docilità. Non è un cane aggressivo, ma è un cane da allerta vigile.</p><p>Come tutti i segugi, è indipendente e può essere testardo, specialmente quando il suo naso è attivato. Il suo istinto predatorio è molto forte. È famoso per la sua voce potente e differenziata, che "racconta" al cacciatore le varie fasi della seguita.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. È una razza rustica e molto sana, selezionata per il lavoro. Le sue orecchie eccezionalmente lunghe sono il suo unico vero punto debole: sono molto soggette a otiti, infezioni, ferite e corpi estranei. Richiedono un'ispezione e una pulizia costanti.</p><p>Il mantello corto è di facilissima manutenzione. Richiede solo una spazzolata occasionale.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da caccia che ha bisogno di correre e usare il naso per ore. Non è assolutamente adatto alla vita in appartamento o in città. L'ideale è un ambiente rurale con un proprietario cacciatore.</p><p>L'addestramento all'obbedienza è difficile. È un cane che ragiona con il naso. L'addestramento deve essere focalizzato sulla caccia e sulla gestione al guinzaglio. Il richiamo è inaffidabile.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori, in particolare di lepre. È adatto a chi vive in campagna, apprezza la natura di un segugio vocale e indipendente e cerca un cane da lavoro instancabile. È un buon compagno di famiglia solo se il suo bisogno di caccia e corsa è pienamente soddisfatto.</p><p>Non è adatto a proprietari inesperti, a persone sedentarie o alla vita urbana. Il suo abbaio potente e il suo istinto predatorio lo rendono inadatto a un contesto condominiale.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Saluki",
+    "post_excerpt": "Antico levriero persiano, il Saluki è un cacciatore a vista elegante e incredibilmente veloce. In casa è calmo, pulito e distaccato (quasi felino). È riservato con gli estranei e ha un istinto predatorio estremo. Soffre il freddo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "saluki",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Saluki"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Saluki.jpg",
+      "filename": "Saluki.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Medio Oriente (Persia/Egitto)",
+      "colorazioni": "Tutti i colori e le combinazioni sono ammesse (tranne il tigrato, che è indesiderato)",
+      "temperamento_breve": "Indipendente, Nobile, Riservato, Veloce",
+      "descrizione_generale": "<p>Il Saluki, o Levriero Persiano, è una delle razze canine più antiche al mondo, un cacciatore a vista la cui eleganza e velocità sono leggendarie. Originario della Mezzaluna Fertile, era il "Cane Reale d'Egitto" e il prezioso compagno di caccia dei nomadi beduini, che lo usavano per cacciare gazzelle e lepri nel deserto.</p><p>Il Saluki ha un carattere "felino": è indipendente, incredibilmente pulito e calmo in casa. È affettuoso con la sua famiglia, ma in modo discreto e mai servile. È molto riservato e distaccato con gli estranei. Il suo istinto predatorio è estremo e non può essere lasciato libero in aree non sicure. È una creatura sensibile che soffre il freddo.</p>",
+      "origini_storia": "<p>L'origine del Saluki si perde nella notte dei tempi. Reperti archeologici provenienti da Egitto e Persia (l'attuale Iran) datati 6000-7000 a.C. mostrano cani identici al Saluki moderno. Erano i cani dei Faraoni e della nobiltà mediorientale. I beduini li consideravano un dono di Allah ("El Hor", il nobile) e non li vendevano mai, ma li donavano come segno di massimo onore.</p><p>Venivano usati per cacciare a vista, spesso in combinazione con i falchi. Il cane inseguiva la preda (gazzella, lepre) e la bloccava fino all'arrivo del cacciatore. La razza arrivò in Inghilterra a metà del XIX secolo, portata da viaggiatori come Florence Amherst, che importò i primi esemplari dall'Egitto nel 1895. La FCI riconobbe la razza nel 1966 (Standard N° 269).</p>",
+      "aspetto_fisico": "<p>Il Saluki è l'immagine della grazia e della velocità, combinando forza e resistenza. La struttura è asciutta, con muscoli lunghi e potenti. L'altezza al garrese è di 58–71 cm. Esistono due varietà di mantello:
+<ul>
+<li><b>Frangiato (Feathered):</b> La più comune, con pelo liscio sul corpo ma lunghe frange setose su orecchie, coda e retro delle zampe.</li>
+<li><b>Pelo Liscio (Smooth):</b> Manca di tutte le frange.</li>
+</ul>
+Entrambe le varietà hanno pelo corto e fine. Tutti i colori sono ammessi: bianco, crema, fulvo, rosso, nero focato, tricolore (bianco, nero e tan) e grizzly. Il tigrato è l'unico colore non desiderato.</p>",
+      "carattere_temperamento": "<p>Il Saluki è un cane calmo, pulito e dignitoso in casa. È affettuoso con la famiglia, ma in modo distaccato, non espansivo. Non è un cane che vive per compiacere, è un partner alla pari. È molto sensibile e non sopporta i metodi duri, che lo portano a chiudersi.</p><p>È estremamente riservato e ignora gli estranei. Non è un cane da guardia. All'esterno, è un cacciatore. Il suo istinto predatorio a vista è assoluto: se vede qualcosa muoversi (un gatto, uno scoiattolo, un sacchetto di plastica), parte a velocità incredibile e diventa sordo a qualsiasi richiamo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza geneticamente sana. La principale preoccupazione, come per molti levrieri, è una certa predisposizione a problemi cardiaci in età avanzata e una sensibilità all'anestesia. La loro pelle è sottile e si tagliano facilmente.</p><p>Il mantello è molto facile da curare. Il pelo liscio non richiede quasi cure, mentre il frangiato necessita solo di una spazzolata settimanale alle frange per evitare nodi. Non ha odore e perde poco. Soffre moltissimo il freddo e necessita di cappotti.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono specifiche. Come il Whippet, ha bisogno di corse esplosive. Brevi sprint quotidiani ad alta velocità in un'area ampia e sicura (recintata altissima) sono fondamentali. Si adatta bene alla vita in appartamento se questo bisogno è soddisfatto, passando il resto del tempo a dormire.</p><p>L'addestramento è molto difficile. Sono intelligenti ma indipendenti. L'addestramento all'obbedienza è spesso visto come "al di sotto della loro dignità". Il richiamo non è affidabile. Eccellono nel lure coursing.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di levrieri, che apprezzano una natura indipendente e "felina". È ideale per chi vive in un ambiente tranquillo e ha accesso a grandi aree recintate e sicure. È per chi cerca un compagno elegante e calmo in casa, ma ne comprende l'istinto predatorio.</p><p>Non è adatto a proprietari principianti, a chi cerca un cane obbediente, o a chi vive in campagna non recintata. È un rischio altissimo per gatti e piccoli animali. Richiede protezione costante dal freddo.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 1.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 4.0,
+      "adattabilita_clima_freddo": 1.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Samoiedo",
+    "post_excerpt": "Magnifico Spitz siberiano dal mantello bianco e vaporoso, famoso per il suo "sorriso". Nato per trainare slitte e badare alle renne, è un cane amichevole, estroverso e vocale. Richiede toelettatura, esercizio e soffre il caldo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "samoiedo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Samoiedo"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Samoiedo.jpg",
+      "filename": "Samoiedo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Siberia (Russia settentrionale)",
+      "colorazioni": "Bianco puro, Crema, Bianco con piccole macchie "biscotto"",
+      "temperamento_breve": "Amichevole, Vivace, Vocale, Intelligente",
+      "descrizione_generale": "<p>Il Samoiedo è una delle razze nordiche da slitta più antiche e affascinanti. Prende il nome dal popolo Samoyedic (oggi Nenets) della Siberia, con cui ha vissuto per migliaia di anni in stretta simbiosi. È un cane di tipo Spitz di taglia media, famoso per il suo magnifico mantello bianco, folto e vaporoso, e per la sua caratteristica espressione sorridente (il "Sorriso del Samoiedo"), dovuta alla forma degli occhi e agli angoli della bocca rivolti all'insù.</p><p>Nato come cane da lavoro versatile (traino slitte, pastorizia di renne, guardia), è oggi un cane da compagnia eccezionale. È estroverso, amichevole con tutti (non è un cane da guardia), intelligente e molto vocale. È un cane che richiede impegno nella toelettatura e soffre la solitudine e il caldo.</p>",
+      "origini_storia": "<p>Il Samoiedo ha lavorato per millenni a fianco del popolo Nenets nella Siberia nord-occidentale. A differenza di altre razze nordiche, il Samoiedo non era solo un cane da lavoro, ma un membro effettivo della famiglia: dormiva nelle "choom" (tende) con i proprietari per tenerli al caldo, e faceva da "babysitter" ai bambini. Il suo compito principale era la pastorizia e la protezione delle mandrie di renne, oltre al traino delle slitte.</p><p>La razza arrivò in Inghilterra alla fine del XIX secolo, portata dall'esploratore Ernest Kilburn Scott. Questi cani artici divennero famosi per aver partecipato alle prime, eroiche spedizioni polari, inclusa quella di Roald Amundsen al Polo Sud (anche se i cani usati da Amundsen erano principalmente Groenlandesi). Il primo standard inglese fu redatto nel 1909.</p>",
+      "aspetto_fisico": "<p>Il Samoiedo è un cane di taglia media, elegante, robusto e resistente. L'altezza ideale al garrese per i maschi è 57 cm, per le femmine 53 cm (con tolleranza +/- 3 cm). Il peso si aggira tra i 20 e i 30 kg.</p><p>Il mantello è la sua gloria: è un doppio mantello artico, foltissimo e resistente alle intemperie. Il pelo di copertura è lungo, dritto e ruvido, mentre il sottopelo è corto, soffice e incredibilmente denso. I colori sono il bianco puro, il crema, o il bianco con leggere macchie color "biscotto". La coda è folta e portata arricciata sul dorso.</p>",
+      "carattere_temperamento": "<p>Il Samoiedo ha un carattere estroverso, amichevole e giocherellone. È stato selezionato per non essere aggressivo con l'uomo e generalmente ama tutti: famiglia, bambini, estranei. Non è un cane da guardia, al massimo abbaia per salutare. È molto socievole anche con gli altri cani.</p><p>È un cane intelligente ma testardo, tipico degli Spitz. È molto vocale: non solo abbaia, ma "parla", ulula e emette una vasta gamma di suoni. Soffre molto la solitudine e, se annoiato, può diventare distruttivo (scava, mastica) e abbaiare incessantemente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza robusta, ma predisposta ad alcune patologie genetiche. La più nota è la glomerulopatia ereditaria del Samoiedo (nefropatia), una grave malattia renale. Sono comuni anche la displasia dell'anca e problemi oculari (cataratta, PRA).</p><p>La cura del mantello è un impegno enorme. Il pelo è autopulente e non ha odore, ma richiede spazzolate profonde e regolari (più volte a settimana). La muta stagionale è massiccia e la perdita di pelo riempie la casa. Soffre terribilmente il caldo e deve essere protetto dai colpi di calore.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. Ha bisogno di esercizio quotidiano, non solo passeggiate. Ama le attività invernali come lo sleddog, lo skijoring, o semplicemente giocare nella neve. È un ottimo compagno di escursioni (in climi freschi). Ha bisogno di un giardino ben recintato.</p><p>L'addestramento richiede pazienza. Sono intelligenti ma si annoiano facilmente con la ripetizione. Il rinforzo positivo e il gioco sono fondamentali. Il richiamo può essere problematico a causa del suo istinto da corridore.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive che vivono in climi temperati o freddi. È perfetto per chi cerca un cane amichevole, estroverso e ha molto tempo da dedicare alla compagnia, all'esercizio e alla toelettatura. È adatto a chi non è infastidito da un cane vocale.</p><p>È sconsigliato a chi vive in climi caldi, a chi è ossessionato dalla pulizia (perde tonnellate di pelo), a persone sedentarie o a chi cerca un cane da guardia. Non è un cane da lasciare solo in giardino.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 5.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Schapendoes",
+    "post_excerpt": "Lo Schapendoes è un cane da pastore olandese, noto per il suo mantello lungo e arruffato e la sua agilità nel salto. È un cane vivace, intelligente e amichevole, eccellente per l'agility. Richiede toelettatura e molto esercizio mentale.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "schapendoes",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Schapendoes"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Schapendoes.jpg",
+      "filename": "Schapendoes.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi",
+      "colorazioni": "Tutti i colori sono ammessi. Il Blu-grigio e il nero sono preferiti.",
+      "temperamento_breve": "Vivace, Intelligente, Amichevole, Agile",
+      "descrizione_generale": "<p>Lo Schapendoes (Nederlandse Schapendoes), o Cane da Pastore Olandese, è un cane da pastore a pelo lungo originario dei Paesi Bassi. È un cane leggero, agile e instancabile, noto per la sua incredibile capacità di salto, che utilizzava per muoversi tra le greggi di pecore nelle brughiere. Il suo aspetto è caratterizzato da un lungo mantello arruffato e una testa folta di pelo, con baffi e barba.</p><p>Non è solo un cane da lavoro, ma anche un compagno di famiglia eccezionale: è amichevole, vivace, intelligente e molto affettuoso. Ha un carattere allegro e un grande senso dell'umorismo. È un cane che richiede stimolazione mentale e fisica, eccellendo negli sport come l'agility.</p>",
+      "origini_storia": "<p>Lo Schapendoes è il cane da pastore autoctono delle province settentrionali dei Paesi Bassi, in particolare della Drenthe. È imparentato con altre razze da pastore a pelo lungo europee, come il Bearded Collie, il Puli, il Pastore Bergamasco e il Briard. Per secoli è stato un cane da lavoro umile, che aiutava i pastori nella conduzione delle greggi.</p><p>La razza fu quasi completamente spazzata via durante la Seconda Guerra Mondiale. Il suo salvataggio si deve agli sforzi di P.M.C. Toepoel, considerato il "padre" della razza moderna. Egli individuò i pochi cani sopravvissuti e iniziò un attento programma di allevamento. Il Kennel Club olandese riconobbe la razza nel 1952 e la FCI nel 1971 (Standard N° 313).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, leggero e agile, più lungo che alto. L'altezza al garrese per i maschi è 43–50 cm, per le femmine 40–47 cm. Il peso si aggira sui 12-20 kg. La sua struttura leggera gli conferisce la tipica andatura elastica e la capacità di salto.</p><p>Il mantello è lungo (almeno 7 cm), folto, leggermente ondulato e ruvido al tatto. Non deve essere setoso. Ha un sottopelo denso. Il pelo lungo sulla testa forma baffi, barba e una folta frangia. Tutti i colori sono ammessi, anche se la preferenza storica va al blu-grigio e al nero.</p>",
+      "carattere_temperamento": "<p>Lo Schapendoes ha un carattere amichevole, estroverso e molto vivace. È un cane intelligente, attento e sempre pronto a lavorare o giocare con il suo proprietario. È molto affettuoso con la famiglia e generalmente eccellente con i bambini e altri cani. Non è un cane aggressivo né timido.</p><p>È un cane da pastore nel cuore: ha bisogno di un "lavoro" da fare e di molta stimolazione mentale. Se annoiato, può diventare distruttivo e abbaiare. È un cane da allerta vigile. Soffre la solitudine.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza generalmente sana. Come molte razze, può essere soggetta a displasia dell'anca e a malattie oculari come l'atrofia progressiva della retina (PRA), per cui esistono test genetici.</p><p>Il mantello lungo e arruffato richiede una spazzolatura settimanale approfondita per evitare che si formino feltri, specialmente durante la muta. È importante non spazzolarlo eccessivamente per non rovinare la tessitura rustica. Il pelo sulla testa non deve essere tagliato.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. Non è un cane da appartamento, a meno che il proprietario non sia estremamente attivo. Ha bisogno di lunghe passeggiate quotidiane, ma soprattutto di stimolazione mentale. È un cane da pastore e deve usare il cervello.</p><p>È molto facile da addestrare: è intelligente, attento e desideroso di compiacere. Risponde magnificamente al rinforzo positivo. È una star negli sport cinofili, in particolare nell'agility (grazie alla sua agilità e velocità), nell'obedience e nel flyball.</p>",
+      "ideale_per": "<p>È un cane ideale per famiglie attive, anche con bambini, che vivono in una casa con giardino. È perfetto per chi è interessato agli sport cinofili e cerca un cane intelligente, recettivo e amichevole. Richiede un proprietario disposto a dedicare tempo alla toelettatura e all'attività fisica.</p><p>Non è adatto a persone sedentarie, a chi vive in un piccolo appartamento senza tempo per l'esercizio, o a chi è fuori casa tutto il giorno. La sua intelligenza richiede impegno.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 5.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Schiller stovare",
+    "post_excerpt": "Lo Schiller Stövare è un veloce segugio svedese, nero focato, specializzato nella caccia alla volpe e alla lepre sulla neve. È un cane da lavoro tenace e vocale, dal carattere amichevole. Richiede un proprietario cacciatore e molto esercizio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "schiller-stovare",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Schiller stovare"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Schiller-stovare.jpg",
+      "filename": "Schiller-stovare.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia",
+      "colorazioni": "Nero focato (Nero con focature marrone-rossiccio)",
+      "temperamento_breve": "Tenace, Veloce, Vocale, Energico",
+      "descrizione_generale": "<p>Lo Schiller Stövare (Segugio di Schiller) è un cane da seguita svedese di taglia media, noto per il suo aspetto elegante, il mantello nero focato lucido e la sua incredibile velocità. È un cane da caccia specializzato, allevato per la caccia alla lepre e alla volpe, in particolare su terreni innevati.</p><p>È un cane da lavoro puro, con un temperamento vivace, tenace e un forte istinto predatorio. È molto vocale sulla traccia. Sebbene amichevole e leale al suo proprietario, non è un cane da compagnia per la città, ma un atleta che ha bisogno di un lavoro e di grandi spazi.</p>",
+      "origini_storia": "<p>Questa razza prende il nome dal suo creatore, il contadino svedese Per Schiller, che viveva nella contea di Västra Götaland. Nella seconda metà del XIX secolo, Schiller iniziò a selezionare un segugio veloce e resistente, incrociando i segugi svedesi locali con cani importati dalla Germania meridionale e dalla Svizzera (probabilmente segugi svizzeri e l'Harzer Hound).</p><p>Il suo obiettivo era creare un cane da caccia superiore per la lepre. I cani di Schiller divennero famosi. La razza fu esposta per la prima volta a Stoccolma nel 1886. Lo Swedish Kennel Club riconobbe lo Schiller Stövare nel 1907. È una razza molto apprezzata dai cacciatori scandinavi, ma rara altrove.</p>",
+      "aspetto_fisico": "<p>È un segugio di taglia media, leggero, veloce e muscoloso. L'altezza al garrese per i maschi è 53–61 cm, per le femmine 49–57 cm. Il peso si aggira tra i 18 e i 25 kg. La struttura è nobile e potente, costruita per la velocità.</p><p>Il mantello è corto (anche se ruvido sul dorso), fitto e lucido, con un buon sottopelo per l'inverno. Il colore è invariabilmente nero focato (tan): un mantello nero con focature di un marrone-rossiccio intenso su muso, petto, arti e sopra gli occhi. Piccole macchie bianche sono ammesse.</p>",
+      "carattere_temperamento": "<p>Lo Schiller Stövare è un cacciatore tenace e appassionato. È molto energico e vocale sul lavoro, ma è noto per essere amichevole e calmo in casa, se le sue enormi esigenze di esercizio sono soddisfatte. È leale e si lega al proprietario.</p><p>È intelligente ma indipendente, come tutti i segugi. Il suo istinto predatorio è estremo e non è affidabile con piccoli animali. È generalmente socievole con altri cani, essendo abituato a lavorare in muta.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto robusta e sana, selezionata per la funzionalità. Non ci sono malattie genetiche note e significative. Le orecchie pendenti richiedono controlli per le otiti. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane da caccia che deve correre. Non è un cane da appartamento. Richiede un proprietario cacciatore o qualcuno che possa garantirgli ore di corsa quotidiana in campagna. È un eccellente cane da canicross.</p><p>L'addestramento è focalizzato sulla caccia. È testardo e segue il suo naso. Il richiamo è inaffidabile. Richiede un proprietario esperto di segugi.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per cacciatori (lepre, volpe) che vivono in climi temperati o freddi. È adatto a persone molto sportive (es. corridori di resistenza) che vivono in campagna e possono gestire un cane vocale e dall'istinto predatorio altissimo.</p><p>Totalmente inadatto alla vita in città, a persone sedentarie o a proprietari inesperti. Non è un cane da compagnia.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Schipperkee",
+    "post_excerpt": "Lo Schipperke è un piccolo "diavolo nero" belga. Antico cane da chiatta, è un guardiano incorruttibile, vivace e molto vocale. È leale ma testardo, riservato con gli estranei e con un forte istinto predatorio verso i roditori.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "schipperkee",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Schipperkee"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Schipperkee.jpeg",
+      "filename": "Schipperkee.jpeg"
+    },
+    "acf": {
+      "nazione_origine": "Belgio (Fiandre)",
+      "colorazioni": "Esclusivamente Nero",
+      "temperamento_breve": "Vivace, Curioso, Vigile, Testardo",
+      "descrizione_generale": "<p>Lo Schipperke è un piccolo cane belga, un diavoletto nero pieno di energia e personalità. Il suo nome fiammingo significa \"piccolo capitano\" o \"piccolo pastore\", e la sua storia è legata sia alle chiatte che navigavano i canali tra Bruxelles e Anversa, sia ai calzolai del quartiere St. Géry di Bruxelles.</p><p>È un cane da guardia in formato ridotto: incorruttibile, estremamente vigile e molto vocale. È anche un derattizzatore eccezionale. È leale e affettuoso con la famiglia, ma testardo, indipendente e molto riservato con gli estranei. È un cane robusto, ma con un'energia che richiede gestione.</p>",
+      "origini_storia": "<p>Le origini dello Schipperke sono antiche. Si ritiene che discenda dallo stesso ceppo di cani da pastore neri (i Leauvenaar) da cui deriva il Groenendael (Pastore Belga). Sarebbe quindi un cane da pastore in miniatura. La sua storia documentata inizia nel XVII secolo nelle Fiandre, in particolare a Bruxelles e Anversa.</p><p>Era il cane preferito dai barcaioli (da cui \"piccolo capitano\"), che lo usavano per fare la guardia alle chiatte e per cacciare i topi a bordo. Era anche la mascotte dei calzolai di Bruxelles, che organizzavano competizioni per i loro collari di ottone. La razza divenne famosa nel 1885 quando la regina Maria Enrichetta del Belgio ne acquistò uno. È stato riconosciuto dalla FCI nel 1954 (Standard N° 83).</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, compatto e cuneiforme, con un'espressione volpina. Il peso varia molto, dai 3 ai 9 kg (lo standard FCI preferisce 4-7 kg). È noto per essere anuro (nato senza coda), anche se la coda lunga è oggi comune e ammessa.</p><p>Il mantello è la sua caratteristica: è doppio, con un pelo di copertura abbondante, dritto e duro, e un sottopelo soffice. È corto sul muso e sugli arti, ma forma una criniera distintiva (\"jabot\") sul collo, un collare e "culottes" sul retro delle cosce. L'unico colore ammesso è il nero.</p>",
+      "carattere_temperamento": "<p>Lo Schipperke è un cane "grande in un corpo piccolo". È curioso, vivace e sempre in allerta. È un cane da guardia eccezionale, molto territoriale e vocale, che abbaia a qualsiasi cosa. È estremamente diffidente verso gli estranei.</p><p>È leale alla famiglia, ma ha un carattere forte, testardo e indipendente. Ha un istinto predatorio molto alto (per i roditori). Può essere rissoso con altri cani e dominante. Richiede una socializzazione precoce e un proprietario fermo e coerente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 13-15 anni. È una razza molto robusta. La principale preoccupazione genetica è la MPS IIIB, una malattia metabolica rara ma letale, per cui esiste un test del DNA. Possono soffrire di lussazione della rotula e della malattia di Legg-Calvé-Perthes.</p><p>Il mantello è facile da curare, richiede solo una spazzolata settimanale. Ha mute stagionali molto abbondanti ("blowing coat") 2-3 volte l'anno, durante le quali la perdita di pelo è massiccia.</p>",
+      "attivita_addestramento": "<p>Ha un'energia sorprendente. Si adatta all'appartamento, ma ha bisogno di sfogo. Passeggiate quotidiane e molto gioco sono necessari. È un cane che ama imparare cose nuove.</p><p>L'addestramento è una sfida. È molto intelligente ma testardo. Si annoia facilmente. L'addestramento deve essere divertente, vario e basato sul rinforzo positivo. L'addestramento deve focalizzarsi sulla gestione dell'abbaio e sulla socializzazione.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti che apprezzano un cane da allerta piccolo ma con un carattere forte. È adatto a chi cerca un cane leale, vivace e non ha problemi a gestire la vocalità. È un ottimo compagno per l'agility.</p><p>Non è un cane per principianti, per chi cerca un cane silenzioso, o per famiglie con bambini molto piccoli. La sua diffidenza e la sua potenziale reattività con altri cani richiedono una gestione attenta.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Schnauzer",
+    "post_excerpt": "Lo Schnauzer Medio è la taglia originale della razza tedesca. Cane da fattoria versatile, è un guardiano intelligente, robusto e vivace, famoso per i suoi baffi. Richiede toelettatura (stripping), esercizio e un proprietario coerente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "schnauzer",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Schnauzer"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Schnauzer.jpg",
+      "filename": "Schnauzer.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania (Baviera)",
+      "colorazioni": "Nero puro, Pepe e Sale",
+      "temperamento_breve": "Intelligente, Vivace, Protettivo, Testardo",
+      "descrizione_generale": "<p>Lo Schnauzer Medio (Mittelschnauzer) è la taglia originale da cui derivano il Gigante e il Nano. È un cane da lavoro robusto, di taglia media e dall'aspetto iconico, caratterizzato dal suo pelo duro \"fil di ferro\", le folte sopracciglia e i distintivi baffi (in tedesco "Schnauz" significa "muso" o "baffo").</p><p>Nato come cane da fattoria tuttofare nelle campagne bavaresi, era un instancabile derattizzatore ("Rattler"), un guardiano vigile e un conduttore di bestiame. Oggi è un cane da compagnia e da sport eccellente, che unisce un'intelligenza acuta a un temperamento vivace, protettivo e a tratti testardo. Richiede un proprietario attivo e una toelettatura specifica.</p>",
+      "origini_storia": "<p>Lo Schnauzer è una razza molto antica, discendente dai cani da fattoria a pelo duro che esistevano in Baviera e Württemberg fin dal Medioevo. Dipingi di Rembrandt e Dürer raffigurano cani molto simili. Condivide la stessa origine del Pinscher Tedesco, da cui si distingueva solo per il tipo di pelo (duro nello Schnauzer, raso nel Pinscher). Era il cane dei carrettieri, proteggeva i cavalli nelle scuderie dai topi e la merce dai ladri.</p><p>Inizialmente era chiamato "Pinscher a pelo fil di ferro". Il nome "Schnauzer" si affermò dopo il 1879, quando un cane di nome "Schnauzer" vinse una mostra ad Hannover. Il Pinscher-Schnauzer Klub fu fondato a Monaco nel 1895. Fu utilizzato anche come cane da portaordini e della Croce Rossa durante la Prima Guerra Mondiale.</p>",
+      "aspetto_fisico": "<p>Lo Schnauzer Medio è un cane robusto, muscoloso e inscritto nel quadrato. L'altezza al garrese per maschi e femmine è 45–50 cm, e il peso è 14–20 kg. La sua struttura è solida, senza essere grossolana.</p><p>Il mantello è doppio: un sottopelo denso e un pelo di copertura durissimo, "fil di ferro" e fitto. Sul muso forma baffi e barba, e sopra gli occhi le sopracciglia cespugliose. I colori ammessi sono:
+<ul>
+<li><b>Nero puro:</b> Con sottopelo nero.</li>
+<li><b>Pepe e Sale:</b> Un misto di peli bianchi e neri, con una maschera scura e sottopelo grigio.</li>
+</ul>
+Le orecchie possono essere integre (pendenti) o tagliate (pratica vietata in Italia).</p>",
+      "carattere_temperamento": "<p>Lo Schnauzer è estremamente intelligente, ma anche testardo e con un forte carattere. È un cane da lavoro e ha bisogno di stimoli mentali. È vivace, energico e molto giocherellone. È profondamente leale e protettivo verso la sua famiglia, ma è un cane da guardia per natura: è molto diffidente verso gli estranei e abbaia per dare l'allarme.</p><p>Conserva un forte istinto predatorio verso i roditori. Può essere dominante e rissoso con altri cani se non socializzato in modo eccellente fin da cucciolo. Richiede un proprietario che sia un leader calmo ma fermo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 13-16 anni. È una razza molto robusta. Le principali preoccupazioni sono la displasia dell'anca e del gomito, e problemi oculari (cataratta, PRA). Alcune linee possono essere soggette a problemi cardiaci.</p><p>La cura del mantello è impegnativa. Non perde molto pelo, ma il pelo duro deve essere sottoposto a stripping (strappo manuale) 2-3 volte l'anno per mantenere la tessitura corretta e la salute della pelle. La tosatura (clipping) è un'alternativa più semplice, ma ammorbidisce il pelo e ne sbiadisce il colore. La barba deve essere pulita regolarmente.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. Non è un cane da divano. Ha bisogno di lunghe passeggiate quotidiane, corse e, soprattutto, di un lavoro mentale. Si annoia facilmente e un cane annoiato diventa distruttivo e abbaione.</p><p>È molto addestrabile se si sa come prenderlo. È intelligente e apprende velocemente, ma la sua testardaggine richiede un addestramento divertente, vario e basato sul rinforzo positivo. Eccelle in obedience, agility, nosework e anche protezione civile.</p>",
+      "ideale_per": "<p>È ideale per proprietari attivi, con esperienza, che cercano un cane da guardia robusto, intelligente e di taglia gestibile. È perfetto per chi è interessato agli sport cinofili. Si adatta all'appartamento solo se il proprietario è molto attivo e presente.</p><p>Non è un cane per principianti, per persone sedentarie o per chi non ha tempo per la toelettatura (stripping) e l'addestramento. La sua diffidenza e la sua potenziale reattività con altri cani richiedono un proprietario responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 5.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Scottish terrier",
+    "post_excerpt": "Lo Scottish Terrier, o "Scottie", è un terrier scozzese iconico, noto per il suo aspetto fiero e il carattere "Diehard". Coraggioso e testardo, è un cane da tana leale ma indipendente, riservato con gli estranei. Richiede stripping.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "scottish-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Scottish terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Scottish-terrier.jpg",
+      "filename": "Scottish-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia)",
+      "colorazioni": "Nero, Grano (Wheaten), Tigrato (Brindle)",
+      "temperamento_breve": "Fiero, Indipendente, Coraggioso, Leale",
+      "descrizione_generale": "<p>Lo Scottish Terrier, affettuosamente chiamato \"Scottie\", è una delle razze più riconoscibili al mondo, con il suo profilo iconico, la barba lunga e l'espressione fiera. È un cane piccolo ma robusto, un terrier da lavoro nel cuore, originario delle aspre Highlands scozzesi. Il suo soprannome è \"Diehard\" (duro a morire), che descrive perfettamente il suo temperamento coraggioso, tenace e impavido.</p><p>Non è un cane da grembo. È un compagno leale e devoto alla sua famiglia, ma indipendente, orgoglioso e molto testardo. È estremamente riservato e diffidente verso gli estranei, il che lo rende un eccellente cane da guardia. Richiede un proprietario che ne rispetti la natura fiera.</p>",
+      "origini_storia": "<p>Lo Scottie è un terrier antichissimo, originario delle Highlands scozzesi, in particolare della regione di Blackmount (Perthshire) e dell'Isola di Skye. Per secoli, è stato allevato per un compito durissimo: cacciare e stanare prede pericolose come volpi, tassi e lontre, direttamente nelle loro tane di roccia. Questo ha selezionato cani coraggiosi e quasi insensibili al dolore.</p><p>La razza moderna fu definita nel XIX secolo. Il capitano G.D.A. Heslop è considerato uno dei padri della razza. Il primo standard fu redatto nel 1880. Divenne famoso a livello mondiale per essere stato il cane preferito di molti personaggi pubblici, tra cui il presidente americano Franklin D. Roosevelt (il suo cane, Fala, è una leggenda) e Re Giacomo VI di Scozia.</p>",
+      "aspetto_fisico": "<p>Lo Scottie è un cane basso, compatto e sorprendentemente pesante per la sua taglia (un "mattone"). L'altezza al garrese è 25–28 cm, e il peso è 8,5–10,5 kg. Il corpo è lungo, con zampe corte e potenti, adatte allo scavo.</p><p>Il mantello è doppio: un sottopelo corto e denso, e un pelo di copertura durissimo, "fil di ferro" e ruvido. Il pelo viene lasciato lungo su barba, sopracciglia, "gonna" e zampe. I colori sono nero (il più comune), grano (wheaten, un giallo paglierino) o tigrato (brindle) in varie sfumature.</p>",
+      "carattere_temperamento": "<p>Lo Scottie è un cane "grande in un corpo piccolo". È fiero, indipendente, sicuro di sé e incredibilmente testardo. È molto leale alla sua famiglia, ma lo dimostra in modo contenuto; non è un cane espansivo. È un cane "per una sola persona", anche se tollera il resto della famiglia.</p><p>È un cane da guardia eccezionale: vigile, territoriale e molto diffidente con gli estranei. Ha un forte istinto predatorio e non è affidabile con piccoli animali. Può essere molto rissoso con altri cani, specialmente dello stesso sesso. Ama scavare.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. È una razza robusta, ma predisposta a diverse patologie. La più nota è la "Scottie Cramp", un disturbo neurologico (generalmente non doloroso) che causa crampi e difficoltà motorie sotto stress. È anche incline a problemi dermatologici (allergie) e a una malattia ossea giovanile (Osteopatia Craniomandibolare - CMO).</p><p>Il mantello richiede una toelettatura (stripping) professionale 2-3 volte l'anno per mantenere la tessitura ruvida. La tosatura è un'alternativa, ma rovina il pelo. La barba deve essere pulita quotidianamente.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta bene alla vita in appartamento, ma non è un cane da divano. Ha bisogno di passeggiate quotidiane vigorose (sempre al guinzaglio) e di sessioni di gioco. È importante proteggere la sua schiena (non fargli fare troppe scale).</p><p>L'addestramento è una sfida. Sono intelligenti ma tra i cani più testardi. Non sono motivati a compiacere. L'addestramento deve essere basato sulla pazienza, sulla coerenza e sul rispetto reciproco. Il rinforzo positivo e il senso dell'umorismo sono necessari.</p>",
+      "ideale_per": "<p>È ideale per proprietari di terrier esperti, che apprezzano un carattere forte, indipendente e fiero. È adatto a persone che vivono in appartamento ma sono attive, e che cercano un cane da guardia leale. Richiede un proprietario disposto a investire nella toelettatura.</p><p>Non è adatto a proprietari principianti, a chi cerca un cane obbediente, o a famiglie con bambini piccoli (è poco paziente). La sua potenziale reattività con altri cani e la sua diffidenza richiedono una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Sealyham terrier",
+    "post_excerpt": "Raro terrier gallese, bianco e robusto, creato dal Capitano John Edwardes. Nato come impavido cacciatore di tassi, è oggi un compagno calmo e divertente. Richiede toelettatura (stripping) e un proprietario che ne gestisca la testardaggine.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "sealyham-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Sealyham terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Sealyham-terrier.jpg",
+      "filename": "Sealyham-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Galles)",
+      "colorazioni": "Bianco (con o senza macchie limone, marroni, blu o tasso sulla testa e sulle orecchie)",
+      "temperamento_breve": "Coraggioso, Calmo (per un terrier), Divertente, Testardo",
+      "descrizione_generale": "<p>Il Sealyham Terrier è un cane da tana gallese, robusto, basso e dal caratteristico mantello bianco "fil di ferro". È una "razza d'autore", creata per essere un cacciatore impavido di tassi e lontre. Oggi è una razza da compagnia rara, apprezzata per il suo temperamento sorprendentemente calmo (per un terrier) e il suo carattere divertente.</p><p>Mantiene la tenacia e il coraggio di un terrier, ma è meno rissoso e più gestibile in famiglia rispetto ad altri cugini. È un ottimo cane da allerta, leale e affettuoso. Come lo Scottie, è una razza vulnerabile a rischio di estinzione.</p>",
+      "origini_storia": "<p>Il Sealyham Terrier fu creato da un unico uomo: il Capitano John Edwardes, nella sua tenuta di Sealyham, nel Pembrokeshire (Galles). Tra il 1850 e il 1891, Edwardes lavorò meticolosamente per creare il terrier da lavoro perfetto: un cane bianco (per essere visibile al cacciatore), piccolo ma con mascelle potenti, in grado di affrontare tassi e lontre.</p><p>Sebbene Edwardes fosse molto riservato sui suoi metodi, si ritiene che la razza sia il risultato di incroci tra il Welsh Corgi (per la taglia bassa), il Dandie Dinmont Terrier, il Wire Fox Terrier e forse il West Highland White Terrier. La razza divenne incredibilmente popolare negli anni '20, amata dalle star di Hollywood, prima di cadere in un drastico declino. Il Kennel Club (UK) la riconobbe nel 1910.</p>",
+      "aspetto_fisico": "<p>È un cane basso, lungo e molto robusto, con un'ossatura pesante. L'altezza al garrese non supera i 31 cm. Il peso è di circa 9 kg per i maschi e 8 kg per le femmine. È molto forte per la sua taglia.</p><p>Il mantello è doppio: un sottopelo fitto e un pelo di copertura lungo, duro e "fil di ferro". Il colore è sempre il bianco predominante, con o senza macchie color limone, marrone, blu o "tasso" (badger-pied) sulla testa e sulle orecchie. Il pelo viene lasciato lungo su barba, sopracciglia e zampe.</p>",
+      "carattere_temperamento": "<p>Il Sealyham è più calmo e rilassato di molti terrier, ma non è un cane da divano. È coraggioso, tenace e molto testardo. È un cane divertente, con un grande senso dell'umorismo, ma anche molto dignitoso. È leale e affettuoso con la famiglia, ma riservato con gli estranei.</p><p>È un cane da guardia molto vigile e vocale. Ha un forte istinto predatorio e ama scavare. È meno rissoso del Fox o dello Scottie, ma non è un cane che si tira indietro se provocato.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza rara e il pool genetico è ristretto. La preoccupazione principale è una malattia oculare chiamata lussazione primaria del cristallino (PLL), per cui esiste un test del DNA. Può soffrire di allergie cutanee.</p><p>Il mantello richiede una toelettatura (stripping) regolare per mantenere la tessitura corretta, oppure una tosatura (clipping) per una gestione più semplice. La barba deve essere pulita quotidianamente.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta bene alla vita in appartamento, purché gli siano garantite passeggiate quotidiane e sessioni di gioco. Ama le passeggiate nel bosco dove può annusare e scavare (sempre al guinzaglio).</p><p>L'addestramento richiede pazienza e umorismo. Sono intelligenti, ma terribilmente testardi. Imparano velocemente, ma decidono loro se obbedire. Il rinforzo positivo e la coerenza sono fondamentali. L'addestramento alla pulizia può essere lento.</p>",
+      "ideale_per": "<p>È un ottimo terrier "da compagnia" per chi apprezza la loro natura ma desidera un cane leggermente più calmo. È adatto alla vita in appartamento, anche per proprietari con un po' di esperienza. Richiede un proprietario disposto a gestire la toelettatura e la sua testardaggine.</p><p>Non è adatto a chi cerca un cane obbediente o a chi ha piccoli animali domestici. Nonostante la sua natura più calma, è pur sempre un terrier con un forte istinto.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.0
+    }
+  }
+]

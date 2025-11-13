@@ -1,0 +1,494 @@
+[
+  {
+    "post_title": "Bulldog",
+    "post_excerpt": "Iconico cane inglese brachicefalo, il Bulldog (Inglese) è un compagno calmo, affettuoso ma molto testardo. Nato per il "bull-baiting", oggi è un cane da appartamento che richiede poche esercizio ma moltissime cure veterinarie (respirazione, pelle, caldo).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bulldog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bulldog"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bulldog.jpg",
+      "filename": "Bulldog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Fulvo, Rosso, Tigrato, Bianco, Pezzato (con i colori precedenti)",
+      "temperamento_breve": "Calmo, Testardo, Affettuoso, Coraggioso",
+      "descrizione_generale": "<p>Il Bulldog, o Bulldog Inglese, è una delle razze più iconiche al mondo, simbolo di tenacia e riconoscibile per il suo aspetto unico: muso schiacciato (brachicefalo), corpo massiccio e basso, e un'andatura dondolante. È un cane di taglia media, muscoloso e compatto, con un carattere sorprendentemente dolce e calmo.</p><p>Sebbene la sua storia sia tristemente legata ai combattimenti contro i tori (bull-baiting), il Bulldog moderno è un cane da compagnia per eccellenza. È affettuoso, leale e sorprendentemente pigro, adattandosi perfettamente alla vita da appartamento. Tuttavia, la sua conformazione fisica estrema lo rende una delle razze con più problemi di salute, richiedendo cure costanti e un proprietario consapevole.</p>",
+      "origini_storia": "<p>Le origini del Bulldog risalgono all'Inghilterra medievale, dove discende dagli antichi mastini da combattimento. Il suo nome deriva dal suo "lavoro": il "bull-baiting", un crudele sport popolare dal XIII fino al XIX secolo, in cui i cani dovevano afferrare il naso di un toro e tenerlo bloccato. Questa selezione ha forgiato il suo fisico: muso corto per respirare mentre teneva la presa, corpo basso per schivare le corna, e una mascella prognata per una presa potente.</p><p>Quando il "Cruelty to Animals Act" del 1835 vietò questi spettacoli, il Bulldog rischiò l'estinzione. Fu salvato da un gruppo di appassionati che ne ammorbidirono il carattere, trasformandolo da feroce combattente a cane da esposizione e da compagnia. Lo standard fu fissato e la razza divenne un simbolo nazionale britannico.</p>",
+      "aspetto_fisico": "<p>Il Bulldog è un cane di taglia media, tarchiato, basso e molto largo. L'altezza al garrese è di circa 35-40 cm, ma il peso è notevole: 25 kg per i maschi e 23 kg per le femmine. La testa è massiccia e quadrata, con un muso estremamente corto e prognato (la mascella inferiore sporge). La pelle forma pieghe e rughe sulla testa e una giogaia sul collo.</p><p>Il mantello è corto, liscio e fitto. I colori ammessi sono il fulvo (in varie tonalità), il rosso, il tigrato e il bianco, o il "pezzato" (fondo bianco con macchie di uno dei colori precedenti). Il nero o il nero focato sono altamente indesiderati. La coda è corta, attaccata bassa, e può essere dritta o "a cavatappi" (ma mai arricciata).</p>",
+      "carattere_temperamento": "<p>Il Bulldog moderno ha un temperamento calmo, quasi flemmatico. È un cane molto affettuoso, che si lega profondamente alla sua famiglia e ama stare sul divano. È coraggioso e dignitoso, ma anche incredibilmente testardo. È generalmente buono con i bambini, anche se la sua pazienza ha un limite.</p><p>Non è un cane da guardia, ma è un buon cane da allerta (russa e grugnisce più che abbaiare). È sorprendentemente pigro e le sue esigenze di esercizio sono minime. Può essere dominante con altri cani, specialmente i maschi. È un cane che richiede molta compagnia umana.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è breve, 8-10 anni. È una razza con gravi problemi di salute strutturali. La sindrome brachicefalica (BOAS) causa problemi respiratori cronici e lo rende estremamente intollerante al caldo e all'esercizio (rischio di colpo di calore fatale). Non sa nuotare.</p><p>Sono comuni le dermatiti nelle pieghe della pelle, che devono essere pulite quotidianamente. Soffre di displasia dell'anca e del gomito, problemi oculari (cherry eye, entropion) e allergie. La riproduzione è quasi esclusivamente tramite inseminazione artificiale e il parto avviene quasi sempre con taglio cesareo a causa delle grandi teste dei cuccioli.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono minime. Brevi passeggiate tranquille, esclusivamente nelle ore più fresche della giornata, sono sufficienti. È un cane da appartamento perfetto in termini di energia, ma non deve mai essere sforzato.</p><p>L'addestramento è difficile a causa della sua estrema testardaggine. È intelligente, ma non motivato a compiacere. L'addestramento deve essere paziente, coerente e basato sul rinforzo positivo (è molto motivato dal cibo).</p>",
+      "ideale_per": "<p>Il Bulldog è ideale per persone che vivono in appartamento, in climi freschi, e cercano un cane da compagnia calmo e affettuoso, con basse esigenze di esercizio. È per proprietari consapevoli, disposti a dedicare tempo quotidiano alla pulizia delle sue rughe e pronti ad affrontare costi veterinari potenzialmente molto elevati.</p><p>Non è assolutamente adatto a persone attive, a chi vive in climi caldi, o a chi cerca un cane "a bassa manutenzione". È sconsigliato a proprietari inesperti che potrebbero sottovalutare le sue necessità sanitarie.</p>",
+      "energia_e_livelli_di_attivita": 1.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 1.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.0,
+      "esigenze_di_esercizio": 1.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Bullmastiff",
+    "post_excerpt": "Massiccio molosso inglese, noto come "il cane del guardiacaccia". È un guardiano potente, coraggioso e silenzioso, ma anche un devoto cane di famiglia. Leale e calmo, richiede un proprietario esperto, socializzazione e spazio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "bullmastiff",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Bullmastiff"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Bullmastiff.jpg",
+      "filename": "Bullmastiff.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Fulvo, Rosso, Tigrato (sempre con maschera nera)",
+      "temperamento_breve": "Protettivo, Leale, Calmo, Coraggioso",
+      "descrizione_generale": "<p>Il Bullmastiff è un cane di taglia grande e massiccia, un molossoide potente e imponente. La razza è stata creata in Inghilterra per uno scopo molto specifico: assistere i guardiacaccia nella lotta al bracconaggio. Era noto come "il cane del guardiacaccia" (Gamekeeper's Night Dog).</p><p>È un cane da guardia eccezionale, che combina la potenza del Mastiff con la tenacia e l'agilità del Bulldog. È un cane coraggioso, leale e molto protettivo, ma con un temperamento generalmente calmo ed equilibrato. In famiglia è un "gigante gentile", ma richiede un proprietario esperto, socializzazione precoce e gestione della sua forza.</p>",
+      "origini_storia": "<p>Il Bullmastiff è stato sviluppato in Inghilterra durante il XIX secolo, un periodo in cui il bracconaggio nelle grandi tenute nobiliari era un problema serio e violento. I guardiacaccia avevano bisogno di un cane che fosse abbastanza veloce da inseguire un uomo, abbastanza forte da atterrarlo e abbastanza disciplinato da tenerlo bloccato senza sbranarlo (il suo compito era "tenere", non uccidere).</p><p>La razza fu creata incrociando il Mastiff (per la taglia e la potenza, circa 60%) con il Bulldog (per il coraggio e la presa, circa 40%). Dopo decenni di selezione, la razza fu stabilizzata. Il Kennel Club inglese riconobbe il Bullmastiff come razza pura nel 1924.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, potente e quadrato. L'altezza al garrese per i maschi è 64–69 cm (peso 50–59 kg), per le femmine 61–66 cm (peso 41–50 kg). È un cane massiccio, con un petto largo e muscoli potenti.</p><p>La testa è larga e quadrata, con un muso corto (brachicefalo, ma non estremo come il Bulldog) e rughe sulla fronte quando è in attenzione. È obbligatoria una maschera nera. Il mantello è corto, duro e fitto. I colori ammessi sono il fulvo, il rosso o il tigrato (brindle), in qualsiasi tonalità.</p>",
+      "carattere_temperamento": "<p>Il Bullmastiff è un guardiano naturale. È calmo, equilibrato e sicuro di sé. È incredibilmente leale e devoto alla sua famiglia, che protegge con coraggio. È un cane da guardia silenzioso: osserva, si interpone e agisce solo se necessario, usando la sua massa per bloccare l'intruso.</p><p>È generalmente buono con i bambini della sua famiglia, ma è testardo e può essere dominante, specialmente i maschi con altri cani. Richiede una socializzazione precoce e costante per gestire la sua diffidenza innata verso gli estranei. Nonostante la mole, è un cane che ha bisogno di vivere in casa, a contatto con la famiglia.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è breve, 8-10 anni. Come razza gigante, è soggetto a displasia dell'anca e del gomito, e a torsione gastrica (gonfiore). Ha un'alta incidenza di tumori, in particolare linfoma ed emangiosarcoma.</p><p>Essendo moderatamente brachicefalo, soffre il caldo e non deve essere sforzato. Sbava notevolmente. Il mantello corto richiede poche cure, ma la perdita di pelo è costante.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane iperattivo. Passeggiate quotidiane controllate (al guinzaglio) sono sufficienti. Non è un cane da jogging. Si adatta alla vita in appartamento (se si tollera la bava e la mole), ma un giardino è preferibile.</p><p>L'addestramento è per esperti. È intelligente ma molto testardo e indipendente. Non risponde bene ai metodi duri. Richiede un proprietario calmo, autorevole e coerente, che stabilisca regole chiare fin da cucciolo. La socializzazione è fondamentale.</p>",
+      "ideale_per": "<p>È un cane ideale per proprietari esperti di molossi, che cercano un cane da guardia protettivo ma equilibrato e un compagno di famiglia. Richiede una casa (preferibilmente con giardino) e un proprietario che possa gestire la sua forza e la sua testardaggine.</p><p>Non è un cane per principianti, per persone anziane (è troppo forte), o per chi è ossessionato dalla pulizia (sbava). La sua breve aspettativa di vita e i potenziali costi sanitari sono un impegno serio.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 1.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Cairn terrier",
+    "post_excerpt": "Piccolo terrier scozzese, rustico e coraggioso. È uno dei più antichi terrier da lavoro, usato per stanare volpi dai "cairns" (cumuli di rocce). È un cane vivace, testardo e affettuoso. Richiede toelettatura (stripping) e polso fermo.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cairn-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cairn terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cairn-terrier.jpg",
+      "filename": "Cairn-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia, Isola di Skye)",
+      "colorazioni": "Crema, Grano (Wheaten), Rosso, Grigio, Tigrato (Brindle). Il nero puro non è ammesso.",
+      "temperamento_breve": "Vivace, Coraggioso, Testardo, Curioso",
+      "descrizione_generale": "<p>Il Cairn Terrier è uno dei terrier scozzesi più antichi e rustici. È un cane da lavoro piccolo ma impavido, il cui nome deriva dal suo compito: "cairn" è una parola gaelica che indica i cumuli di rocce usati per segnare confini o tombe. Il lavoro del Cairn era infilarsi in questi cumuli per stanare volpi, tassi e altri animali nocivi.</p><p>È un cane "grande in un corpo piccolo", con un carattere vivace, curioso, coraggioso e molto testardo. È un compagno di famiglia divertente e affettuoso, ma mantiene un forte istinto predatorio e una grande indipendenza. È famoso per essere stato "Toto" nel film "Il Mago di Oz" (1939).</p>",
+      "origini_storia": "<p>Il Cairn Terrier è originario delle Highlands scozzesi e, in particolare, dell'Isola di Skye, dove esiste da secoli. Condivide un'ascendenza comune con lo Scottish Terrier e il West Highland White Terrier (inizialmente, i Westie bianchi nascevano in cucciolate di Cairn e venivano scartati).</p><p>Per generazioni, è stato il cane da lavoro dei contadini e dei cacciatori scozzesi. Il Capitano Martin MacLeod di Drynock (Skye) è considerato uno dei principali selezionatori. Inizialmente la razza era conosciuta come "Skye Terrier a pelo corto". Il Kennel Club inglese la riconobbe con il nome attuale di Cairn Terrier nel 1912.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, robusto e rustico. L'altezza al garrese è 28–31 cm, e il peso ideale è 6-7,5 kg. Ha un aspetto "arruffato" ma forte. È più lungo che alto, con zampe anteriori potenti, adatte allo scavo.</p><p>Il mantello è doppio e resistente alle intemperie. Il pelo di copertura è duro, "fil di ferro" (wire) e abbondante, mentre il sottopelo è corto e soffice. I colori sono crema, grano, rosso, grigio o tigrato (brindle). Le punte scure (orecchie, muso) sono tipiche. Il colore tende a scurirsi con l'età.</p>",
+      "carattere_temperamento": "<p>Il Cairn è un terrier puro. È vivace, curioso, audace e molto testardo. È un cane sempre in allerta, un eccellente cane da guardia (abbaia molto) e un cacciatore implacabile di roditori. Ama scavare e inseguire.</p><p>Con la famiglia è affettuoso, leale e molto giocherellone, ma non è un cane da grembo. È indipendente e ha bisogno di un proprietario che sia un leader fermo e coerente. Può essere rissoso con altri cani se non socializzato, e non è affidabile con piccoli animali domestici.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 13-15 anni. È una delle razze terrier più sane e robuste. Può essere soggetto a lussazione della rotula e alla malattia di Legg-Calvé-Perthes (necrosi della testa del femore). Alcune linee possono avere problemi oculari (Oculocutaneous Albinism) e una malattia epatica (shunt portosistemico).</p><p>Il mantello richiede una toelettatura (stripping) 2-3 volte l'anno per mantenere la tessitura ruvida. Richiede spazzolate settimanali per evitare nodi.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto per la sua taglia. Si adatta all'appartamento, ma ha bisogno di passeggiate quotidiane vigorose (sempre al guinzaglio, a causa dell'istinto predatorio) e di stimolazione mentale. È un cane che deve usare il cervello.</p><p>L'addestramento è una sfida. È intelligente ma testardo. Si annoia facilmente. L'addestramento deve essere divertente, vario e basato sul rinforzo positivo. Eccelle in Earthdog e Agility.</p>",
+      "ideale_per": "<p>È un ottimo cane per proprietari di terrier (anche alla prima esperienza, se pazienti) che cercano un cane piccolo, robusto e pieno di carattere. È adatto alla vita in appartamento, purché il proprietario sia attivo. Richiede un proprietario disposto a gestire la toelettatura (stripping) e la sua testardaggine.</p><p>Non è adatto a persone sedentarie, a chi cerca un cane obbediente, o a famiglie con piccoli animali domestici (criceti, conigli).</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Canaan dog",
+    "post_excerpt": "Antico cane "pariah" di Israele, è una razza primitiva e versatile. Utilizzato per la pastorizia e la guardia, è un cane molto intelligente, indipendente e diffidente con gli estranei. Richiede socializzazione intensiva e un proprietario esperto.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "canaan-dog",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Canaan dog"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Canaan-dog.jpg",
+      "filename": "Canaan-dog.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Israele (Medio Oriente)",
+      "colorazioni": "Sabbia, Crema, Rosso, Nero, Bianco e Nero, Bianco e Marrone (con o senza maschera)",
+      "temperamento_breve": "Primitivo, Intelligente, Vigile, Territoriale",
+      "descrizione_generale": "<p>Il Canaan Dog è il cane nazionale di Israele. È una razza primitiva di tipo "pariah", che ha vissuto allo stato semi-selvatico nel deserto del Negev per migliaia di anni. È un cane di taglia media, agile e resistente, perfettamente adattato al clima arido. È un cane "tuttofare", utilizzato dai beduini per la pastorizia (capre) e la guardia agli accampamenti.</p><p>È un cane con un forte istinto di sopravvivenza: è molto intelligente, indipendente, territoriale e estremamente diffidente verso gli estranei. È leale alla sua famiglia, ma non è un cane da compagnia espansivo. Richiede una socializzazione precoce e intensiva e un proprietario esperto di razze primitive.</p>",
+      "origini_storia": "<p>Il Canaan Dog è uno dei cani più antichi, discendente diretto dei cani pariah che popolavano il Medio Oriente. Disegni tombali egizi di 4000 anni fa mostrano cani identici. Questi cani vivevano ai margini della società umana, ma furono addomesticati dai beduini per la guardia e la pastorizia.</p><p>La razza moderna fu "riscoperta" e standardizzata negli anni '30 dalla Dott.ssa Rudolphina Menzel, una cinologa austriaca immigrata in Palestina (allora sotto mandato britannico). La Haganah (l'esercito ebraico) le chiese di sviluppare un cane di servizio adatto al clima locale. Lei riconobbe il potenziale dei cani pariah del deserto e iniziò a catturarli e addestrarli per la guardia, la ricerca mine e il soccorso. La FCI ha riconosciuto la razza nel 1966 (Standard N° 273).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, quadrato e ben proporzionato, che esprime resistenza e agilità. L'altezza al garrese è 50–60 cm. Il peso è 18–25 kg. Ha l'aspetto di un cane selvatico: testa a cuneo, orecchie erette e attente, e una coda folta portata arricciata sul dorso.</p><p>Il mantello è doppio, con un pelo di copertura corto, duro e dritto, e un sottopelo fitto (specialmente in inverno). I colori sono quelli del deserto: sabbia, crema, rosso-marrone, o pezzato (bianco con macchie nere o marroni). È comune la maschera scura.</p>",
+      "carattere_temperamento": "<p>È un cane primitivo. È molto intelligente, ma indipendente e testardo. È un cane da guardia eccezionale: molto territoriale, vigile e vocale. È estremamente diffidente con gli estranei, e può essere reattivo se non socializzato. Non è un cane che dà confidenza.</p><p>È leale alla sua famiglia, ma non è un cane da grembo. È un cane "per un solo padrone". È dominante e può essere rissoso con altri cani dello stesso sesso. Ha un forte istinto predatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è lunga, 12-15 anni. Essendo una razza "naturale", è eccezionalmente sana e robusta. Non ha quasi nessuna malattia genetica nota. Il mantello è facile da curare, ma le mute stagionali sono abbondanti. Sopporta bene il caldo, ma ha bisogno di protezione dal freddo estremo.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. È un cane che ha bisogno di esercizio e stimolazione mentale. Non è un cane da appartamento, preferisce un giardino da pattugliare. È un atleta agile, eccellente in agility e obedience (se motivato).</p><p>L'addestramento è per esperti. È intelligente ma si annoia facilmente e non ama la ripetizione. Richiede un proprietario paziente e creativo. La socializzazione precoce (nei primi mesi di vita) è l'aspetto più critico e fondamentale per la sua vita futura.</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di razze primitive o Spitz, che cercano un cane da guardia intelligente, indipendente e robusto. È ideale per chi vive in un ambiente rurale o suburbano con un giardino ben recintato. Richiede un impegno totale nella socializzazione.</p><p>Non è un cane per principianti, per chi cerca un cane socievole e amichevole con tutti, o per chi vive in un piccolo appartamento.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 5.0,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 3.5,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Cane corso",
+    "post_excerpt": "Potente molosso italiano, discendente degli antichi cani da presa romani. È un guardiano eccezionale, intelligente e protettivo. Leale alla famiglia, ma diffidente con gli estranei. Richiede un proprietario esperto, socializzazione e addestramento coerente.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-corso",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane corso"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-corso.jpg",
+      "filename": "Cane-corso.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Puglia, Italia meridionale)",
+      "colorazioni": "Nero, Grigio piombo, Grigio ardesia, Fulvo chiaro, Fulvo cervo, Tigrato",
+      "temperamento_breve": "Protettivo, Intelligente, Leale, Dominante",
+      "descrizione_generale": "<p>Il Cane Corso è un molosso italiano di taglia grande, un cane da presa potente, atletico e muscoloso. È il discendente diretto del "Canis Pugnax" romano, utilizzato per la guerra, la caccia alla grossa selvaggina e la guardia. È un cane da lavoro "tuttofare" delle masserie del sud Italia.</p><p>È un guardiano eccezionale, con un istinto protettivo innato. È incredibilmente leale e devoto alla sua famiglia, con cui è equilibrato e affettuoso. È, tuttavia, molto diffidente verso gli estranei e dominante con altri cani. Non è un cane per principianti, ma richiede un proprietario esperto, addestramento e socializzazione ferrea.</p>",
+      "origini_storia": "<p>Come il Mastino Napoletano, il Cane Corso discende dagli antichi molossi romani. Mentre il Mastino si è evoluto come guardiano pesante e dissuasore, il Corso è rimasto un cane da lavoro più leggero e agile ("Corso" deriva dal latino "cohors", che significa "protettore" o "guardia del corpo").</p><p>Per secoli è stato il cane da fattoria dell'Italia meridionale (Puglia, Lucania, Sannio), usato per la guardia, la conduzione di bovini e la caccia al cinghiale. Dopo la Seconda Guerra Mondiale, con il cambiamento dell'agricoltura, la razza rischiò l'estinzione. Fu salvata negli anni '70 da un gruppo di appassionati (tra cui il Dr. Paolo Breber e Stefano Gandolfi). L'ENCI l'ha riconosciuta nel 1994 e la FCI nel 1996 (provvisorio).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, robusto, muscoloso ma elegante e atletico, non tarchiato come il Mastino. L'altezza al garrese per i maschi è 64–68 cm (peso 45–50 kg), per le femmine 60–64 cm (peso 40–45 kg). La testa è larga, tipica da molosso, con un muso quadrato e potente.</p><p>Il mantello è corto, lucido e fitto, con un leggero sottopelo. I colori sono nero, grigio piombo, ardesia, fulvo chiaro, fulvo cervo, o tigrato (su fondo fulvo o grigio). Una piccola macchia bianca sul petto è ammessa.</p>",
+      "carattere_temperamento": "<p>È un cane da guardia. È equilibrato, intelligente, coraggioso e molto sicuro di sé. È un protettore innato della famiglia e della proprietà. È molto diffidente con gli estranei e valuta attentamente la situazione prima di reagire. Non è inutilmente aggressivo, ma è un deterrente formidabile.</p><p>È molto leale e affettuoso con la sua famiglia, ma è anche dominante e testardo. Può essere molto reattivo con altri cani dello stesso sesso. La socializzazione precoce e un addestramento coerente sono fondamentali per creare un cane equilibrato.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 9-11 anni. Come cane di taglia grande, è soggetto a displasia dell'anca e del gomito (fondamentale il controllo sui riproduttori). È anche a rischio di torsione gastrica (gonfiore). Gli occhi possono essere soggetti a entropion o ectropion. Il mantello corto è di facile manutenzione.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia alto. È un cane da lavoro e un atleta. Ha bisogno di esercizio quotidiano vigoroso: lunghe passeggiate, corsa, e stimolazione mentale. Non è un cane da appartamento; ha bisogno di un giardino recintato.</p><p>L'addestramento è per proprietari esperti. È intelligente e addestrabile, ma la sua dominanza e testardaggine richiedono un leader calmo, autorevole e coerente. Risponde bene al rinforzo positivo ma anche alla disciplina. Eccelle negli sport di utilità e difesa (IPO).</p>",
+      "ideale_per": "<p>È un cane per proprietari esperti di molossi, che cercano un cane da guardia e un compagno di vita protettivo. È ideale per chi ha uno stile di vita attivo, spazio, e il tempo da dedicare a un addestramento e una socializzazione seri.</p><p>Non è un cane per principianti, per persone sedentarie, o per chi vive in un piccolo appartamento. La sua forza e il suo istinto protettivo richiedono una gestione responsabile.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 1.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Cane da ferma boemo",
+    "post_excerpt": "Antico cane da ferma (Bracco) della Boemia (Rep. Ceca), quasi estinto e ricostruito. È un cane da caccia versatile, nobile e affettuoso. Facile da addestrare, è un buon cane da famiglia per proprietari attivi. Richiede toelettatura (stripping).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-ferma-boemo",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da ferma boemo"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-ferma-boemo.jpg",
+      "filename": "Cane-da-ferma-boemo.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Repubblica Ceca (Boemia)",
+      "colorazioni": "Roano marrone (con o senza macchie marroni), Marrone (con macchie bianche sul petto)",
+      "temperamento_breve": "Nobile, Addestrabile, Affettuoso, Versatile (caccia)",
+      "descrizione_generale": "<p>Il Cane da Ferma Boemo a Pelo Ruvido, o Český Fousek, è un'antica razza da caccia (tipo Griffone/Bracco) originaria della Boemia. È un cane da ferma "tuttofare", versatile, capace di lavorare su campo, nel bosco e in acqua, eccellendo nella ferma, nella cerca e nel riporto. È noto per il suo mantello ruvido e la sua barba/baffi (Fousek significa "barbuto").</p><p>È un cane nobile, molto intelligente e relativamente facile da addestrare per essere un cane da caccia. È un compagno di famiglia affettuoso e leale, ma richiede un proprietario attivo, preferibilmente un cacciatore, che possa soddisfare il suo alto bisogno di energia e stimolazione.</p>",
+      "origini_storia": "<p>Cani da caccia a pelo ruvido sono presenti in Boemia fin dal Medioevo, menzionati già nel 1348 in documenti del Re Carlo IV. Era un cane da caccia molto apprezzato dalla nobiltà. Tuttavia, la razza originale quasi si estinse all'inizio del XX secolo.</p><p>Dopo la Prima Guerra Mondiale, iniziò un programma di recupero. Gli allevatori cechi cercarono i pochi esemplari rimasti e, per rinvigorire la razza, li incrociarono con altri cani da ferma a pelo duro, in particolare lo Spinone Italiano e il Bracco Tedesco a Pelo Duro (Deutsch-Drahthaar). Il club di razza "Český Fousek" fu fondato nel 1924. La FCI ha riconosciuto la razza ricostruita nel 1963 (Standard N° 245).</p>",
+      "aspetto_fisico": "<p>È un cane da ferma di taglia media, robusto e dall'aspetto nobile. L'altezza al garrese per i maschi è 60–66 cm, per le femmine 58–62 cm. Il peso è 28–34 kg (maschi) e 22–28 kg (femmine). La struttura è forte e resistente.</p><p>Il mantello è "a tre peli": un sottopelo soffice, un pelo di copertura ruvido (3-4 cm) e setole dure (5-7 cm). Sul muso forma barba e baffi. I colori sono il roano marrone (pelo misto bianco e marrone, con o senza macchie marroni) o il marrone unicolore (con o senza macchia bianca sul petto).</p>",
+      "carattere_temperamento": "<p>È un cane da caccia versatile e intelligente. È tenace sul campo ma molto facile da addestrare e desideroso di compiacere. È molto leale e affettuoso con la sua famiglia, compresi i bambini. È un cane da allerta vigile, ma non inutilmente aggressivo.</p><p>Mantiene un forte istinto venatorio e un amore per l'acqua. Non è un cane da appartamento, ha bisogno di esercizio e di un lavoro da fare. È generalmente socievole con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto robusta e sana. La displasia dell'anca è monitorata. Le orecchie pendenti richiedono pulizia. Il mantello "fil di ferro" richiede una spazzolatura regolare e uno stripping occasionale per rimuovere il pelo morto e mantenere la tessitura corretta.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un cane da lavoro che deve muoversi. Richiede lunghe passeggiate quotidiane, corse e, idealmente, la caccia o il nuoto. È un eccellente cane da sport (agility, obedience, prove di caccia).</p><p>L'addestramento è relativamente facile per un proprietario attivo. È intelligente e collaborativo. Risponde bene al rinforzo positivo.</p>",
+      "ideale_per": "<p>È ideale per cacciatori che cercano un cane da ferma versatile "tuttofare". È adatto anche a famiglie molto attive che vivono in campagna e sono disposte a impegnarsi in sport cinofili. Richiede un proprietario che possa gestire la sua energia.</p><p>Non è adatto a persone sedentarie, alla vita in appartamento, o a proprietari inesperti che non possono garantirgli lo sfogo fisico e mentale necessario.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Cane da ferma tedesco",
+    "post_excerpt": "Versatile cane da ferma tedesco (Bracco Tedesco), disponibile in quattro varietà di pelo (Drahthaar, Kurzhaar, Langhaar, Stichelhaar). È un cane da caccia "tuttofare", energico e intelligente. Richiede un proprietario cacciatore e molto esercizio.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-ferma-tedesco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da ferma tedesco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-ferma-tedesco.jpg",
+      "filename": "Cane-da-ferma-tedesco.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Marrone, Marrone e bianco, Roano marrone, Nero e bianco (Drahthaar/Kurzhaar)",
+      "temperamento_breve": "Versatile (caccia), Intelligente, Energico, Leale",
+      "descrizione_generale": "<p>Il "Cane da Ferma Tedesco" (Deutscher Vorstehhund) non è una singola razza, ma un gruppo di cani da caccia polivalenti, allevati in Germania per essere i compagni "tuttofare" del cacciatore. Sono cani intelligenti, energici e con un istinto venatorio innato, capaci di lavorare prima e dopo lo sparo (ferma, traccia, riporto) su qualsiasi terreno (campo, bosco, acqua).</p><p>Queste razze sono selezionate per la funzionalità e richiedono un proprietario attivo, preferibilmente un cacciatore, che possa soddisfare il loro enorme bisogno di stimolazione fisica e mentale. Non sono semplici cani da compagnia.</p>",
+      "origini_storia": "<p>Lo sviluppo dei cani da ferma tedeschi iniziò nel XIX secolo, quando i cacciatori tedeschi cercarono di creare il cane da caccia "tuttofare" (Vollgebrauchshund). Avevano bisogno di un cane che sostituisse le diverse razze specializzate (come il Pointer per la ferma e lo Spaniel per il riporto).</p><p>Partendo da cani da caccia locali (come i "Bracken") e incrociandoli con Pointer inglesi e segugi, gli allevatori tedeschi crearono diverse razze, distinte principalmente per il tipo di pelo, ognuna con un proprio club e standard. Le principali sono:
+<ul>
+<li><b>Deutsch-Kurzhaar</b> (Pelo Corto, 1870)</li>
+<li><b>Deutsch-Langhaar</b> (Pelo Lungo, 1879)</li>
+<li><b>Deutsch-Drahthaar</b> (Pelo Duro/Filo di ferro, 1870-1880, il più popolare)</li>
+<li><b>Deutsch-Stichelhaar</b> (Pelo Istrice, 1888, il più antico a pelo duro)</li>
+</ul></p>",
+      "aspetto_fisico": "<p>Tutti i cani da ferma tedeschi sono di taglia grande, atletici, nobili e muscolosi. L'altezza media è 60-66 cm. La struttura è potente e resistente. La differenza principale è il mantello:
+<ul>
+<li><b>Kurzhaar (Pelo Corto):</b> Pelo corto, fitto, lucido. Colori: marrone, roano marrone, bianco e marrone, nero e bianco.</li>
+<li><b>Drahthaar (Pelo Duro):</b> Pelo "fil di ferro", ruvido, con barba e sopracciglia. Colori: roano marrone, marrone, roano nero.</li>
+<li><b>Langhaar (Pelo Lungo):</b> Pelo lungo, setoso, con frange. Colore: marrone, roano marrone, bianco e marrone.</li>
+<li><b>Stichelhaar (Pelo Istrice):</b> Pelo molto duro e ispido. Colore: roano marrone, marrone.</li>
+</ul></p>",
+      "carattere_temperamento": "<p>Sono cani da caccia intelligenti, energici, coraggiosi e molto addestrabili (se gestiti da un esperto). Hanno un forte istinto predatorio e un grande amore per l'acqua. Sono leali e protettivi della famiglia, ma sono cani da lavoro, non da divano.</p><p>Hanno bisogno di un compito e di un leader coerente. Possono essere riservati con gli estranei e dominanti con altri cani. L'inattività li rende distruttivi e nevrotici.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 11-13 anni. Sono razze da lavoro molto robuste. La displasia dell'anca e del gomito e la torsione gastrica sono le preoccupazioni principali. I mantelli a pelo duro (Drahthaar, Stichelhaar) richiedono stripping. I peli lunghi (Langhaar) richiedono spazzolate. Le orecchie pendenti richiedono cura.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. Sono cani da caccia e devono lavorare. Richiedono ore di attività quotidiana, preferibilmente caccia, riporto, nuoto o sport cinofili avanzati. Non sono cani da appartamento.</p><p>L'addestramento è per cacciatori o proprietari esperti. Sono intelligenti e apprendono, ma richiedono un addestramento specifico per la caccia.</p>",
+      "ideale_per": "<p>Queste razze sono esclusivamente per cacciatori attivi o per persone che vivono in campagna e si dedicano a sport cinofili ad alto livello. Richiedono un proprietario esperto che possa gestire un cane da lavoro ad alta energia.</p><p>Non sono adatti a principianti, a persone sedentarie, o alla vita in città.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Cane da lupo cecoslovacco",
+    "post_excerpt": "Ibrido "recente" (1955) tra Pastore Tedesco e Lupo dei Carpazi. È un cane primitivo, dall'aspetto lupino. Molto riservato, diffidente e indipendente. Richiede un proprietario esperto, socializzazione intensiva e non è un cane da città.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-lupo-cecoslovacco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da lupo cecoslovacco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-lupo-cecoslovacco.jpg",
+      "filename": "Cane-da-lupo-cecoslovacco.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Ex-Cecoslovacchia (Oggi Slovacchia)",
+      "colorazioni": "Grigio-lupo (con maschera chiara), Grigio-argento",
+      "temperamento_breve": "Primitivo, Diffidente, Leale (al branco), Indipendente",
+      "descrizione_generale": "<p>Il Cane da Lupo Cecoslovacco (Ceskoslovensky Vlcak) è una razza da lavoro relativamente moderna, dall'aspetto e dal comportamento fortemente lupini. È il risultato di un esperimento biologico condotto nell'ex-Cecoslovacchia, che prevedeva l'incrocio tra Pastori Tedeschi e Lupi dei Carpazi. Il risultato è un cane che unisce l'addestrabilità del pastore alla resistenza e agli istinti del lupo.</p><p>Non è un cane per tutti. È una razza primitiva: è estremamente leale al suo "branco" (famiglia), ma incredibilmente diffidente e timoroso verso gli estranei. È indipendente e ha un forte istinto predatorio. Richiede un proprietario esperto, una socializzazione massiccia e uno stile di vita rurale.</p>",
+      "origini_storia": "<p>La razza è nata da un esperimento militare iniziato nel 1955 in Cecoslovacchia, sotto la guida del Colonnello Karel Hartl. L'obiettivo era creare un cane da guardia di confine che avesse i sensi acuti e la resistenza del lupo e l'addestrabilità del Pastore Tedesco. Il primo incrocio avvenne tra una lupa dei Carpazi, "Brita", e un Pastore Tedesco da lavoro.</p><p>L'esperimento fu portato avanti per anni, incrociando i discendenti (F1, F2, ecc.) di nuovo con i Pastori Tedeschi. Si scoprì che, sebbene gli ibridi fossero più resistenti, erano anche molto più difficili da addestrare, diffidenti e con un comportamento lupino. L'esercito abbandonò il progetto, ma gli allevatori civili lo portarono avanti. La razza è stata riconosciuta dalla FCI nel 1989 (Standard N° 332).</p>",
+      "aspetto_fisico": "<p>L'aspetto è quello di un lupo. È un cane di taglia grande, forte e agile. L'altezza al garrese per i maschi è di almeno 65 cm, per le femmine almeno 60 cm. Il peso è 26 kg (maschi) e 20 kg (femmine) come minimo. La testa è a forma di cuneo, con occhi obliqui e color ambra. Le orecchie sono erette e triangolari.</p><p>Il mantello è doppio, artico, molto folto, con un pelo di copertura dritto e un sottopelo denso. Il colore è quello del lupo: grigio-giallo o grigio-argento, con la caratteristica maschera chiara.</p>",
+      "carattere_temperamento": "<p>Il carattere è lupino. È un cane da branco, estremamente gerarchico e leale alla sua famiglia, ma non è un cane "facile". È incredibilmente diffidente e timoroso (neofobico) verso tutto ciò che è nuovo o estraneo. Non è un cane da guardia aggressivo, ma un cane che evita il conflitto o reagisce per paura.</p><p>È indipendente, testardo e ha un istinto predatorio altissimo (pericoloso per gatti e piccoli animali). È un maestro della fuga (scava e si arrampica). Non abbaia, ma ulula e guaisce. Richiede una socializzazione precoce e costante per tutta la vita.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto robusta e sana. La displasia dell'anca e del gomito è la preoccupazione principale. Può soffrire di Mielopatia Degenerativa. Il mantello richiede poche cure, ma le mute stagionali sono massicce.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. È un cane che deve camminare e correre per ore, preferibilmente in natura. Non è un cane da appartamento. Ha bisogno di un giardino a prova di fuga.</p><p>L'addestramento è solo per esperti. È intelligente, ma non motivato a compiacere. L'addestramento deve essere basato sul rinforzo positivo e sulla creazione di un legame. La socializzazione è l'aspetto più importante e difficile, e deve iniziare da cucciolo in modo intensivo.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti di razze primitive o lupine, che vivono in un ambiente rurale e isolato. È per chi ha uno stile di vita attivo (escursionismo) e può dedicare la vita del cane alla sua socializzazione e gestione. Richiede un impegno totale.</p><p>Non è assolutamente un cane per principianti, per la vita in città, o per chi cerca un cane socievole. La sua natura timorosa e il suo istinto predatorio lo rendono inadatto a un ambiente urbano.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 2.0,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Cane da lupo saarloos",
+    "post_excerpt": "Ibrido olandese (Pastore Tedesco x Lupa siberiana), creato da Leendert Saarloos. È un cane primitivo, estremamente timoroso e riservato. Non è un cane da guardia. Richiede un proprietario esperto che ne gestisca la natura "selvatica" e fobica.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-lupo-saarloos",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da lupo saarloos"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-lupo-saarloos.jpg",
+      "filename": "Cane-da-lupo-saarloos.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi",
+      "colorazioni": "Grigio-lupo (Wolf-grey), Rosso-lupo (Boss-brown), Crema chiaro/Bianco",
+      "temperamento_breve": "Primitivo, Timoroso, Riservato, Indipendente",
+      "descrizione_generale": "<p>Il Cane da Lupo di Saarloos (Saarlooswolfhond) è una razza ibrida olandese, creata incrociando il Pastore Tedesco con una Lupa siberiana (ceppo europeo). A differenza del Cecoslovacco (creato per scopi militari), il Saarloos è stato creato per scopi "naturalistici", nel tentativo di creare un cane più robusto e meno "iper-civilizzato".</p><p>Il risultato è un cane dall'aspetto lupino, ma con un carattere molto diverso: è un cane estremamente riservato, timoroso e neofobico (paura delle novità). Non è un cane da guardia (la sua reazione è la fuga, non l'attacco). È un cane da branco, leale alla famiglia, ma che richiede una gestione esperta della sua timidezza.</p>",
+      "origini_storia": "<p>La razza è una "creazione d'autore". Fu sviluppata da Leendert Saarloos, un allevatore olandese di Dordrecht. Appassionato di natura e critico verso l'eccessiva domesticazione dei cani, iniziò il suo esperimento nel 1932. Incrociò un maschio di Pastore Tedesco (Gerard van der Fransenum) con una lupa siberiana (Fleur), proveniente dallo zoo di Rotterdam.</p><p>Il suo obiettivo era creare un cane da lavoro più "naturale" e resistente. Continuò a incrociare i discendenti con il padre Pastore Tedesco. Tuttavia, il risultato fu un cane con un forte istinto di fuga e una timidezza estrema, che lo rendeva inadatto come cane da lavoro o da polizia. La razza è stata riconosciuta nei Paesi Bassi nel 1975 e dalla FCI nel 1981 (Standard N° 311).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia grande, dall'aspetto lupino. L'altezza al garrese per i maschi è 65–75 cm, per le femmine 60–70 cm. La struttura è leggera, adatta alla corsa resistente. La testa è a cuneo, con occhi obliqui e gialli (tipici del lupo). Le orecchie sono erette.</p><p>Il mantello è doppio, artico. I colori sono quelli del lupo: grigio-lupo (il più comune), rosso-bosco (boss-brown) e, più raro, bianco/crema. La maschera è chiara, non scura.</p>",
+      "carattere_temperamento": "<p>Il carattere del Saarloos è dominato dall'istinto del lupo: è un cane da branco e ha una gerarchia rigida. È estremamente riservato, diffidente e timoroso (neofobico) verso gli estranei e le situazioni nuove. La sua reazione primaria al pericolo è la fuga.</p><p>Non è un cane da guardia. È leale alla sua famiglia-branco, ma è indipendente. Ha un forte istinto predatorio. Richiede una socializzazione precoce e costante per evitare che diventi fobico. Non abbaia, ma ulula.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. Il pool genetico è ristretto. Le principali preoccupazioni sono la displasia dell'anca e del gomito, e problemi oculari (PRA, cataratta). Alcune linee soffrono di nanismo ipofisario. Le femmine hanno spesso un solo ciclo estrale all'anno, come le lupe.</p>",
+      "attivita_addestramento": "<p>Ha un livello di energia molto alto. È un cane da resistenza, che ha bisogno di camminare/correre per ore. Non è un cane da appartamento. Ha bisogno di un giardino a prova di fuga (è un maestro nell'evasione).</p><p>L'addestramento è solo per esperti di lupi/ibridi. È intelligente ma non obbediente. L'addestramento deve essere basato sulla pazienza e sul legame. La socializzazione è un lavoro a vita per gestire la sua timidezza.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari molto esperti, che vivono in un ambiente rurale isolato e comprendono la psicologia del lupo. È per chi cerca un compagno "selvatico" da escursione e può gestire la sua natura fobica e il suo istinto di fuga.</p><p>Non è assolutamente un cane per principianti, per la vita in città, o per chi cerca un cane da guardia o un cane socievole. È un impegno estremamente serio.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 2.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 1.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Cane da montagna dei pirenei",
+    "post_excerpt": "Maestoso cane da pastore guardiano (LGD) francese, dal mantello bianco e folto. È un cane calmo, indipendente e protettivo, usato per difendere le greggi dai lupi. Richiede un proprietario esperto, spazio rurale e socializzazione.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cane-da-montagna-dei-pirenei",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cane da montagna dei pirenei"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-montagna-dei-pirenei.jpg",
+      "filename": "Cane-da-montagna-dei-pirenei.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Francia (Pirenei)",
+      "colorazioni": "Bianco (con o senza macchie grigie, tasso o arancio pallido sulla testa, orecchie e base della coda)",
+      "temperamento_breve": "Protettivo, Indipendente, Calmo, Nobile",
+      "descrizione_generale": "<p>Il Cane da Montagna dei Pirenei (Chien de Montagne des Pyrénées), noto in America come "Great Pyrenees", è un antico cane da pastore guardiano (LGD) di taglia gigante. È una razza maestosa, dal mantello bianco e folto, allevata per secoli sui Pirenei francesi per proteggere le greggi dai predatori (lupi e orsi).</p><p>È un cane dal carattere nobile: calmo, equilibrato e molto paziente, ma un guardiano impavido. È indipendente e abituato a prendere decisioni. È devoto alla sua famiglia, ma molto diffidente con gli estranei. È famoso per i suoi doppi speroni sulle zampe posteriori. Non è un cane da città, ma da grandi spazi.</p>",
+      "origini_storia": "<p>Le origini di questo cane sono antichissime, risalenti ai molossi asiatici arrivati in Europa. Si è sviluppato in isolamento sui Pirenei per millenni. Fossili di cani simili sono stati trovati in depositi dell'Età del Bronzo (1800-1000 a.C.). Nel Medioevo, non era solo un cane da pastore, ma anche il guardiano dei castelli dei Pirenei.</p><p>La sua fama crebbe nel XVII secolo, quando fu adottato come cane da compagnia dal Delfino (Luigi XIV) alla corte francese, diventando "Cane Reale di Francia". Nonostante la sua popolarità a corte, rimase un cane da lavoro sulle montagne. La razza fu standardizzata all'inizio del XX secolo. La FCI l'ha riconosciuta nel 1955 (Standard N° 137).</p>",
+      "aspetto_fisico": "<p>È un cane di taglia gigante, imponente ma elegante. L'altezza al garrese per i maschi è 70–80 cm (peso 50–60 kg), per le femmine 65–75 cm (peso 40–50 kg). La struttura è potente ma non pesante. La testa è nobile, con occhi scuri e un'espressione intelligente.</p><p>Il mantello è doppio, folto, lungo e resistente alle intemperie, con un sottopelo lanoso. Forma una criniera. Il colore è il bianco, con o senza macchie grigio (pelo di tasso), giallo pallido o arancio sulla testa, sulle orecchie e alla base della coda. È obbligatoria la presenza di doppi speroni su entrambe le zampe posteriori.</p>",
+      "carattere_temperamento": "<p>È un guardiano puro. È calmo, riflessivo e molto indipendente. È un cane "notturno", più vigile al crepuscolo e di notte. È incredibilmente paziente e protettivo con la sua famiglia, specialmente con i bambini e gli animali del suo "gregge".</p><p>È estremamente diffidente e riservato con gli estranei. Non è un cane da obbedienza, è testardo. Il suo metodo di guardia è l'abbaio dissuasivo e l'interposizione fisica. Richiede una socializzazione precoce e un proprietario esperto.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza robusta, ma soggetta a displasia dell'anca e del gomito (comune nei giganti) e a torsione gastrica. Può soffrire di lussazione della rotula. Il mantello folto, sebbene autopulente, richiede spazzolate regolari, specialmente durante le abbondanti mute stagionali. Soffre il caldo.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. È un cane da pattugliamento, non da corsa. Non è un cane da appartamento. Ha bisogno di un grande giardino o di un terreno da proteggere. L'addestramento all'obbedienza è molto difficile. L'addestramento deve focalizzarsi sulla socializzazione e la gestione.</p>",
+      "ideale_per": "<p>È un cane esclusivamente per proprietari esperti di LGD, che vivono in un ambiente rurale, con un ampio terreno ben recintato. È ideale per la guardia alla proprietà o al bestiame. È un cane da lavoro, non un semplice cane da compagnia.</p><p>Non è adatto a principianti, alla vita in città, o a chi vive in climi caldi. Il suo abbaio notturno può essere un problema per i vicini.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 4.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 1.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 1.5
+    }
+  }
+]

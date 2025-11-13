@@ -1,0 +1,482 @@
+[
+  {
+    "post_title": "Cirneco dell’etna",
+    "post_excerpt": "Il Cirneco dell'Etna è un'antica razza da caccia siciliana, di tipo primitivo. Elegante e atletico, è specializzato nella caccia al coniglio selvatico sui terreni lavici dell'Etna. È un cane intelligente, indipendente e molto legato al proprietario, ma riservato. Richiede esercizio e un giardino sicuro.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cirneco-delletna",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cirneco dell’etna"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cirneco-delletna.jpg",
+      "filename": "Cirneco-delletna.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Sicilia)",
+      "colorazioni": "Fulvo (in varie tonalità, dal sabbia al rosso cervo), Bianco, Bianco con macchie fulve.",
+      "temperamento_breve": "Indipendente, Intelligente, Affettuoso (con la famiglia), Riservato",
+      "descrizione_generale": "<p>Il Cirneco dell'Etna è un'antica razza canina originaria della Sicilia, appartenente al gruppo dei cani di tipo primitivo (come il Pharaoh Hound o il Podenco Ibicenco). È un cane elegante, di taglia media, dall'aspetto leggero ma muscoloso, costruito per la velocità e l'agilità. La sua specialità è la caccia al coniglio selvatico negli anfratti rocciosi e sui terreni impervi dell'Etna.</p><p>È un cane dal carattere fiero e indipendente, ma allo stesso tempo estremamente legato al suo proprietario, con cui sviluppa un rapporto quasi simbiotico. È riservato con gli estranei e ha un forte istinto predatorio. È un cane che combina la grazia di un levriero con la rusticità di un cane da lavoro primitivo.</p>",
+      "origini_storia": "<p>Le origini del Cirneco sono antichissime e avvolte nel mistero. Per molto tempo si è creduto che discendesse dai cani egizi (Tesem), portati in Sicilia dai Fenici. Questa teoria è supportata da monete e incisioni siciliane risalenti al V-III secolo a.C. che raffigurano cani identici al Cirneco. Tuttavia, recenti studi genetici hanno messo in discussione questa discendenza diretta, suggerendo che possa essersi sviluppato da cani paria locali.</p><p>Indipendentemente dalla sua origine, la razza si è evoluta per millenni in Sicilia, specializzandosi nella caccia sui terreni vulcanici. La razza fu "riscoperta" e salvata dall'estinzione negli anni '30 del XX secolo grazie agli sforzi della baronessa Agata Paternò Castello. Il primo standard fu redatto nel 1939 e l'ENCI riconobbe la razza nel 1940.</p>",
+      "aspetto_fisico": "<p>Il Cirneco è un cane di taglia media, elegante e slanciato. L'altezza al garrese per i maschi è 46-50 cm, per le femmine 44-48 cm. Il peso è contenuto, variando dagli 8 ai 12 kg. Ha una struttura asciutta, con muscoli piatti e una testa allungata e fine. Le orecchie sono grandi, erette e portate in avanti, molto mobili.</p><p>Il mantello è corto, fine e aderente, simile al velluto. Il colore è il fulvo, che può variare dal sabbia chiaro (isabella) al rosso cervo intenso. Sono ammessi anche il bianco monocolore o il bianco con macchie fulve (bicolore). Una lista bianca in testa e sul petto è comune.</p>",
+      "carattere_temperamento": "<p>Il Cirneco ha un carattere da cane primitivo: è molto intelligente, ma indipendente e non servile. È estremamente affettuoso e devoto alla sua famiglia, cercando spesso il contatto fisico. Tuttavia, è naturalmente diffidente e riservato con gli estranei, senza essere aggressivo.</p><p>Ha un istinto predatorio molto sviluppato: è un cacciatore nato e inseguirà qualsiasi cosa si muova velocemente. È un cane agile, un eccellente saltatore (richiede recinzioni alte) e molto pulito. È sensibile e non risponde bene ai metodi di addestramento duri.</p>",
+      "salute_cura": "<p>Il Cirneco è una razza straordinariamente robusta e sana, con un'aspettativa di vita molto lunga, spesso 14-17 anni. Non ha particolari patologie ereditarie note, grazie alla sua selezione naturale e alla gestione attenta degli allevatori. L'unica vera debolezza è il freddo.</p><p>La cura del mantello è minima: essendo a pelo raso, richiede solo spazzolate occasionali. Soffre molto il freddo e l'umidità e non può vivere all'esterno. Ha bisogno di un cappotto in inverno e di un luogo caldo dove dormire.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio, ma di tipo specifico: ama gli sprint. Ha bisogno di correre libero (sempre in aree sicure e recintate) ogni giorno. È un compagno ideale per il Lure Coursing. Si adatta alla vita in appartamento, a patto che gli venga garantita la possibilità di sfogarsi.</p><p>L'addestramento richiede pazienza e intelligenza. È un cane che si annoia facilmente e non ama le ripetizioni. Il richiamo è notoriamente difficile a causa del suo istinto predatorio. Risponde bene al rinforzo positivo e a un proprietario che sappia essere un partner, non un comandante.</p>",
+      "ideale_per": "<p>È un cane ideale per gli amanti delle razze primitive e dei levrieroidi. È adatto a proprietari attivi che cercano un compagno affettuoso in casa e un atleta all'esterno. È perfetto per chi pratica Lure Coursing. Richiede un giardino con recinzioni molto alte e sicure.</p><p>È **sconsigliato** ai proprietari principianti che desiderano un cane obbediente. È **assolutamente inadatto** a vivere in case con piccoli animali domestici (roditori, gatti) e non può essere lasciato libero in aree non recintate. Soffre il freddo e non può dormire fuori.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 4.0,
+      "adattabilita_clima_freddo": 1.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 5.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Clumber spaniel",
+    "post_excerpt": "Il Clumber Spaniel è il più pesante e massiccio tra gli spaniel. Nato in Inghilterra per la caccia, è un cane da lavoro lento ma tenace, con un fiuto eccezionale. In casa è un compagno calmo, dolce e dignitoso. Richiede cure per la bava e le orecchie, ma ha un'energia moderata.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "clumber-spaniel",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Clumber spaniel"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Clumber-spaniel.jpg",
+      "filename": "Clumber-spaniel.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Bianco (colore predominante) con macchie Limone o Arancio.",
+      "temperamento_breve": "Calmo, Leale, Dignitoso, Gentile, Testardo",
+      "descrizione_generale": "<p>Il Clumber Spaniel è il più grande e massiccio di tutte le razze spaniel. È un cane da caccia (gundog) pesante, basso sugli arti e dall'aspetto nobile, quasi "aristocratico". È noto per il suo mantello prevalentemente bianco, setoso e frangiato.</p><p>A differenza degli altri spaniel, noti per la loro energia frenetica, il Clumber è un lavoratore lento, metodico e tenace, con un fiuto straordinario. In casa, è un compagno eccezionalmente calmo, dolce e dignitoso, che ama sonnecchiare. È un cane che sbava molto e richiede cure specifiche, ma è un compagno leale e gentile.</p>",
+      "origini_storia": "<p>Le origini del Clumber Spaniel sono avvolte in un alone di mistero aristocratico. La teoria più accreditata narra che il Duca di Noailles, in Francia, durante la Rivoluzione Francese (1789), trasferì i suoi preziosi spaniel da caccia (forse imparentati con l'antico Basset Hound) al sicuro in Inghilterra, affidandoli al Duca di Newcastle, nella sua tenuta di Clumber Park, nel Nottinghamshire.</p><p>Fu a Clumber Park che la razza fu sviluppata e prese il suo nome. Divenne il cane preferito della nobiltà inglese, incluso il Principe Alberto (marito della Regina Vittoria) e Re Edoardo VII, che lo apprezzavano per la sua capacità di cacciare nel sottobosco fitto. È una delle prime razze riconosciute dal Kennel Club inglese.</p>",
+      "aspetto_fisico": "<p>È un cane lungo, basso e molto pesante. L'altezza al garrese è di 43-51 cm, ma il peso è notevole: 29,5-38,5 kg per i maschi e 25-34 kg per le femmine. Ha un'ossatura massiccia, una testa grande e quadrata e un'espressione dolce e un po' "assonnata".</p><p>Il mantello è setoso, dritto e molto fitto, con abbondanti frange su orecchie, petto e zampe. Il colore è il bianco predominante, con macchie di colore limone o arancio, solitamente concentrate sulla testa e vicino alla coda.</p>",
+      "carattere_temperamento": "<p>Il Clumber è un "gigante gentile" nel mondo degli spaniel. È calmo, stoico e molto dignitoso. È un cane affettuoso e leale con la sua famiglia, ma è generalmente riservato con gli estranei, senza essere aggressivo. È noto per essere un po' testardo e con un suo "ritmo" di vita.</p><p>Sebbene sia calmo in casa, all'esterno si attiva il suo istinto da cacciatore e segue il suo fiuto con determinazione. È anche famoso per la sua tendenza a raccogliere e portare in giro oggetti di ogni tipo (scarpe, telecomandi) senza danneggiarli. Sbava notevolmente.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. Essendo una razza pesante e con una conformazione particolare, è soggetta a diversi problemi:</p><ul><li><b>Displasia dell'anca e del gomito:</b> Molto comune data la sua struttura.</li><li><b>Problemi oculari:</b> Entropion ed Ectropion (palpebre arrotolate) sono frequenti.</li><li><b>Otiti:</b> Le sue orecchie grandi e pesanti richiedono una pulizia costante.</li><li><b>Deficienza della Piruvato Deidrogenasi (PDP1):</b> Una malattia metabolica per cui esiste un test.</li></ul><p>Il mantello richiede spazzolate regolari (più volte a settimana) per evitare nodi. La pulizia del muso (per la bava) e degli occhi è quotidiana.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Non è un cane da corsa, ma un cane da passeggiata. Ha bisogno di camminate quotidiane costanti per evitare il sovrappeso, a cui è molto incline. Ama il riporto e, nonostante la mole, è un discreto nuotatore.</p><p>L'addestramento richiede pazienza. È intelligente, ma molto testardo e motivato dal cibo. Risponde bene al rinforzo positivo, ma le sessioni devono essere brevi per mantenere la sua attenzione. L'addestramento all'obbedienza di base è importante.</p>",
+      "ideale_per": "<p>È ideale per persone o famiglie tranquille che cercano un cane da compagnia calmo, dolce e dignitoso, e che hanno una casa con giardino. È adatto a chi non si fa spaventare dalla bava, dalla perdita di pelo e dalla necessità di cure costanti per orecchie e occhi.</p><p>È **sconsigliato** a chi cerca un cane sportivo e iperattivo, ai maniaci della pulizia (sbava e perde pelo), e a chi vive in un piccolo appartamento senza ascensore (le scale sono un problema per le sue articolazioni). Non è un cane per proprietari impazienti.</p>",
+      "energia_e_livelli_di_attivita": 2.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Cocker americano",
+    "post_excerpt": "Il Cocker Americano è un cane da compagnia elegante, famoso per il suo mantello lungo e setoso e l'espressione dolce. Più piccolo e con più pelo del cugino inglese, è un cane allegro e affettuoso. Richiede un impegno estremo nella toelettatura e attenzione alla salute.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cocker-americano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cocker americano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cocker-americano.jpg",
+      "filename": "Cocker-americano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Stati Uniti d'America",
+      "colorazioni": "Nero, Nero focato, Qualsiasi colore solido diverso dal nero (ASCOB), Pluricolore (Parti-color).",
+      "temperamento_breve": "Affettuoso, Allegro, Sensibile, Socievole",
+      "descrizione_generale": "<p>Il Cocker Spaniel Americano è il più piccolo membro del gruppo dei cani da caccia (gundog), anche se oggi è allevato quasi esclusivamente come cane da compagnia e da esposizione. È famoso per il suo aspetto glamour: un mantello incredibilmente lungo, fluente e setoso, una testa raffinata con un muso più corto e un'espressione dolce e implorante.</p><p>È un cane dal carattere allegro, vivace e molto affettuoso, che si lega profondamente alla sua famiglia. Tuttavia, il suo splendido aspetto richiede un impegno nella toelettatura tra i più impegnativi in assoluto nel mondo canino. È un compagno devoto, ma sensibile e ad alta manutenzione.</p>",
+      "origini_storia": "<p>Il Cocker Americano discende direttamente dal Cocker Spaniel Inglese, importato in America nel XIX secolo. Gli allevatori americani, tuttavia, iniziarono a selezionare cani con caratteristiche diverse: preferivano una taglia più piccola, una testa più arrotondata, un muso più corto e, soprattutto, un mantello molto più lungo e abbondante per avere successo nei ring di esposizione.</p><p>Il cane che definì la razza fu "Obo II", nato intorno al 1880. Le differenze tra il tipo inglese e quello americano divennero così marcate che nel 1946 l'American Kennel Club (AKC) riconobbe le due come razze separate. Il Cocker Americano divenne immensamente popolare, diventando il cane preferito in America per molti anni (famoso per "Lilli" di "Lilli e il Vagabondo").</p>",
+      "aspetto_fisico": "<p>È un cane piccolo e compatto. L'altezza al garrese ideale per i maschi è 38 cm, per le femmine 35,5 cm. Il peso si aggira sui 10-14 kg. La sua caratteristica principale è la testa, con un cranio arrotondato, uno stop ben definito e un muso corto. Le orecchie sono lunghissime, attaccate basse e coperte di pelo setoso.</p><p>Il mantello è la sua caratteristica distintiva: è lungo, setoso e piatto o leggermente ondulato, con frange abbondantissime su orecchie, petto, ventre e zampe, che quasi toccano terra. I colori sono divisi in tre varietà:</p><ul><li><b>Nero:</b> Nero solido o nero focato.</li><li><b>ASCOB (Any Solid Color Other than Black):</b> Qualsiasi colore solido come rosso, crema, cioccolato.</li><li><b>Parti-Color:</b> Bicolore o tricolore (es. bianco e nero, bianco e rosso, roano).</li></ul>",
+      "carattere_temperamento": "<p>Il Cocker Americano è noto per il suo temperamento allegro e affettuoso. È un cane che ama compiacere ed è molto devoto alla sua famiglia. È vivace e giocherellone, ma anche molto sensibile e può diventare timido o pauroso se non socializzato correttamente da cucciolo.</p><p>Una socializzazione precoce e positiva è fondamentale per prevenire problemi comportamentali. È generalmente buono con i bambini e altri animali. Soffre la solitudine e ha bisogno di vivere a stretto contatto con la famiglia, non è un cane da giardino.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. Purtroppo, la popolarità e la selezione estetica hanno portato a diversi problemi di salute:</p><ul><li><b>Otiti:</b> Il problema numero uno. Le orecchie lunghe, pesanti e pelose creano un ambiente perfetto per infezioni croniche. Richiedono pulizia e controllo costanti.</li><li><b>Problemi oculari:</b> Molto comuni, tra cui cataratta, glaucoma e atrofia progressiva della retina (PRA).</li><li><b>Cardiomiopatia:</b> Un problema cardiaco.</li><li><b>Problemi cutanei:</b> Allergie e seborrea sono frequenti.</li></ul><p>La toelettatura è un impegno enorme: il mantello richiede una spazzolatura quotidiana per evitare nodi e una toelettatura professionale ogni 4-6 settimane.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta bene alla vita in appartamento, ma ha bisogno di passeggiate quotidiane e di sessioni di gioco. Nonostante l'aspetto da "divo", conserva un istinto da spaniel e ama annusare e giocare al riporto.</p><p>È un cane intelligente e generalmente facile da addestrare, grazie al suo desiderio di compiacere. Tuttavia, la sua sensibilità richiede metodi esclusivamente positivi e gentili. L'addestramento duro può renderlo pauroso e stressato.</p>",
+      "ideale_per": "<p>È ideale per persone o famiglie disposte a dedicare un impegno quotidiano e costante alla toelettatura (o a sostenere i costi elevati per un professionista). È un ottimo cane da compagnia per chi vive in appartamento e cerca un cane affettuoso, allegro e sensibile.</p><p>È **sconsigliato** a chi cerca un cane "a bassa manutenzione". È **assolutamente da evitare** per chi non ha tempo o pazienza per la spazzolatura quotidiana e per le cure costanti di orecchie e occhi.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 1.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Cocker spaniel inglese",
+    "post_excerpt": "Il Cocker Spaniel Inglese è un cane da caccia (gundog) di taglia media, famoso per la sua natura allegra e la coda "sempre in movimento". È un compagno leale e intelligente, ottimo per famiglie attive, ma richiede esercizio e una gestione attenta delle sue lunghe orecchie.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "cocker-spaniel-inglese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Cocker spaniel inglese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Cocker-spaniel-inglese.jpg",
+      "filename": "Cocker-spaniel-inglese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Solidi (Nero, Rosso, Fulvo, Fegato), Bicolore (es. Bianco-Nero), Tricolore, Roano (es. Blu Roano, Arancio Roano).",
+      "temperamento_breve": "Allegro, Energico, Affettuoso, Intelligente",
+      "descrizione_generale": "<p>Il Cocker Spaniel Inglese è uno dei cani da compagnia e da caccia più popolari e amati al mondo. È un cane di taglia media, compatto e atletico, la cui caratteristica distintiva è il suo temperamento "allegro" (merry), espresso dal quasi incessante scodinzolio. Nato per la caccia alla beccaccia (woodcock), è un cane energico e instancabile sul campo.</p><p>Oggi esistono due linee distinte: quella da lavoro (più leggera e con meno pelo) e quella da esposizione (più robusta e con mantello più abbondante). In entrambi i casi, è un cane intelligente, devoto e vivace, che si adatta bene alla vita familiare, a patto che le sue esigenze di esercizio siano soddisfatte.</p>",
+      "origini_storia": "<p>Gli Spaniel da caccia esistono in Inghilterra da secoli. Originariamente, venivano divisi solo in base alla funzione: "Water Spaniel" (da acqua) e "Land Spaniel" (da terra). I Land Spaniel venivano poi divisi in "Springing Spaniel" (per stanare la selvaggina) e "Cocking Spaniel" (più piccoli, usati per la beccaccia, "woodcock").</p><p>Fu solo nel XIX secolo che si iniziò a dividere le cucciolate per taglia e a creare razze distinte. Il Cocker Spaniel fu ufficialmente riconosciuto dal Kennel Club inglese nel 1892. La sua popolarità esplose, diventando un cane da famiglia amatissimo, pur mantenendo un forte nucleo di allevatori da lavoro.</p>",
+      "aspetto_fisico": "<p>È un cane compatto e sportivo. L'altezza al garrese per i maschi è 39-41 cm, per le femmine 38-39 cm. Il peso ideale è tra 13 e 14,5 kg. Ha una testa ben cesellata, con un muso quadrato (non corto come l'Americano) e grandi occhi scuri dall'espressione dolce. Le orecchie sono lunghe, attaccate basse e coperte di pelo setoso.</p><p>Il mantello è piatto e setoso, con abbondanti frange su orecchie, petto, ventre e zampe. Non deve essere eccessivo come nell'Americano. La gamma di colori è vastissima:</p><ul><li><b>Solidi:</b> Nero, rosso, fulvo, fegato (cioccolato).</li><li><b>Parti-color:</b> Bicolori (es. bianco e nero, bianco e arancio) o Tricolori.</li><li><b>Roani:</b> Blu roano (il più popolare), arancio roano, fegato roano.</li></ul>",
+      "carattere_temperamento": "<p>Il Cocker Inglese è definito dalla parola "allegro". È un cane vivace, energico, estroverso e sempre felice. È molto intelligente e desideroso di compiacere, il che lo rende addestrabile. È un compagno di famiglia eccellente, molto affettuoso e generalmente ottimo con i bambini e altri animali.</p><p>Conserva un forte istinto da caccia (gundog): ama esplorare con il naso a terra, riportare e nuotare. Ha bisogno di sfogare la sua energia, altrimenti può diventare nervoso o abbaiare eccessivamente. È un cane che soffre la solitudine e ha bisogno di contatto umano.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. Come il cugino americano, il problema principale sono le **otiti**. Le orecchie lunghe e pesanti sono un terreno fertile per infezioni e richiedono una pulizia e un controllo costanti. Sono comuni anche problemi oculari ereditari, come l'Atrofia Progressiva della Retina (PRA) e la cataratta (sono disponibili test genetici).</p><p>Nelle linee da show, può manifestarsi una condizione comportamentale nota come "Sindrome della Rabbia" (Rage Syndrome), sebbene sia molto rara e spesso confusa con problemi di dominanza. Il mantello richiede spazzolate regolari (più volte a settimana) e una toelettatura professionale ogni 6-8 settimane.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio. È un cane da caccia che ha bisogno di almeno un'ora di attività intensa al giorno: corsa libera, gioco, nuoto, attività olfattive. Si adatta alla vita in appartamento solo se questo bisogno viene soddisfatto rigorosamente.</p><p>L'addestramento è generalmente un piacere. È intelligente, sensibile e motivato dal cibo e dal gioco. Risponde magnificamente al rinforzo positivo. È un ottimo cane per principianti attivi, ma la sua sensibilità non tollera metodi duri. Eccelle in agility e obedience.</p>",
+      "ideale_per": "<p>È un cane da famiglia ideale per proprietari attivi, anche alla prima esperienza, che cercano un compagno allegro per attività all'aperto. È adatto a chi è disposto a gestire la manutenzione del pelo e la cura costante delle orecchie.</p><p>È **sconsigliato** a persone sedentarie, a chi è assente tutto il giorno, e a chi cerca un cane "a bassa manutenzione". Se le sue esigenze di energia non vengono soddisfatte, può diventare un cane stressato e distruttivo.</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Coton de tulear",
+    "post_excerpt": "Il Coton de Tuléar è un piccolo cane da compagnia originario del Madagascar, noto per il suo mantello bianco, soffice e simile al cotone. È un cane allegro, affettuoso e clownesco, che si lega profondamente alla famiglia. È un ottimo cane da appartamento, ma richiede toelettatura.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "coton-de-tulear",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Coton de tulear"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Coton-de-tulear.jpg",
+      "filename": "Coton-de-tulear.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Madagascar (Patrocinio: Francia)",
+      "colorazioni": "Bianco (colore di base), ammesse leggere sfumature grigie o fulve (giallo chiaro) sulle orecchie.",
+      "temperamento_breve": "Affettuoso, Allegro, Clownesco, Intelligente",
+      "descrizione_generale": "<p>Il Coton de Tuléar è un piccolo cane da compagnia appartenente alla famiglia dei Bichon, originario del Madagascar. Il suo nome deriva dal suo mantello unico, che ha una consistenza soffice, leggera e impalpabile, simile al cotone (Coton), e dalla città portuale di Tuléar (ora Toliara) in Madagascar.</p><p>È un cane noto per il suo temperamento eccezionalmente allegro, la sua intelligenza vivace e la sua natura "clownesca". È un compagno devoto, che ama intrattenere la sua famiglia con giochi e vocalizzi. È un cane da appartamento ideale che si lega profondamente ai suoi proprietari.</p>",
+      "origini_storia": "<p>Le origini del Coton sono avvolte nella leggenda. Si narra che i suoi antenati (cani di tipo Bichon) siano sopravvissuti a un naufragio e siano approdati sulle coste del Madagascar, forse portati da pirati o mercanti. Lì, si sono incrociati con i cani locali, sviluppando il loro caratteristico mantello.</p><p>Per secoli, sono stati i cani esclusivi della nobiltà Merina in Madagascar; era vietato per i popolani possederli. Divenne noto come il "Cane Reale del Madagascar". La razza fu introdotta in Europa (principalmente in Francia) solo negli anni '70, quando i coloni francesi lasciarono l'isola. La FCI ha riconosciuto la razza nel 1971, con il patrocinio della Francia.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, con un corpo più lungo che alto. L'altezza al garrese per i maschi è 26-28 cm, per le femmine 23-25 cm. Il peso varia dai 4 ai 6 kg per i maschi e dai 3,5 ai 5 kg per le femmine.</p><p>Il mantello è la sua caratteristica principale: è soffice, simile al cotone, lungo (circa 8 cm), denso e leggermente ondulato. Non è setoso. È privo di sottopelo e non perde quasi pelo (ipoallergenico). Il colore è il bianco. Sulle orecchie sono ammesse leggere sfumature di grigio chiaro o fulvo chiaro (giallo/champagne).</p>",
+      "carattere_temperamento": "<p>Il Coton è un concentrato di gioia. È allegro, estroverso, giocoso e molto intelligente. È noto per avere un lato "clownesco", amando esibirsi in buffi numeri (come camminare sulle zampe posteriori) per attirare l'attenzione. Sviluppa un legame fortissimo con la famiglia e soffre la solitudine.</p><p>È un cane molto vocale: non abbaia inutilmente, ma "parla" ed emette una varietà di suoni (grugniti, gorgoglii) per comunicare. È un buon cane da allarme, vigile. È socievole con tutti: bambini, estranei e altri animali.</p>",
+      "salute_cura": "<p>È una razza generalmente sana e molto longeva, con un'aspettativa di vita di 14-16 anni. Le principali preoccupazioni per la salute sono la lussazione della rotula e la displasia dell'anca (nonostante la piccola taglia). Alcune linee possono essere soggette ad allergie cutanee.</p><p>Il mantello di cotone, pur non perdendo pelo, richiede una toelettatura **quotidiana**. Deve essere spazzolato a fondo ogni giorno per evitare che la sua consistenza lanosa formi nodi e feltri, che possono diventare molto dolorosi. Non deve essere tosato, ma mantenuto pulito.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta perfettamente alla vita in appartamento, ma non è un cane da grembo pigro. Ha bisogno di passeggiate quotidiane e di molte sessioni di gioco per sfogare la sua energia vivace e la sua intelligenza.</p><p>È molto intelligente e facile da addestrare. Impara velocemente ed è desideroso di compiacere, rispondendo magnificamente al rinforzo positivo. Eccelle in agility per cani piccoli e obedience.</p>",
+      "ideale_per": "<p>È un cane da compagnia quasi perfetto per una vasta gamma di persone: famiglie con bambini, anziani, single. È ideale per chi vive in appartamento e cerca un cane allegro, ipoallergenico e partecipe. È adatto anche ai proprietari principianti.</p><p>È **sconsigliato** a chi cerca un cane "a bassa manutenzione" (la toelettatura quotidiana è obbligatoria) e a chi è assente da casa per molte ore al giorno (soffre di ansia da separazione).</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 5.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 1.5,
+      "cura_e_perdita_pelo_": 4.5,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.5
+    }
+  },
+  {
+    "post_title": "Curly-coated retriever",
+    "post_excerpt": "Il Curly-Coated Retriever è il più antico dei retriever, famoso per il suo caratteristico mantello di fitti riccioli impermeabili. È un cane da caccia (gundog) intelligente, tenace e più indipendente degli altri retriever. Un compagno leale per proprietari esperti e attivi, specialmente amanti dell'acqua.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "curly-coated-retriever",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Curly-coated retriever"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Curly-coated-retriever.jpg",
+      "filename": "Curly-coated-retriever.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Nero solido, Fegato (Liver) solido.",
+      "temperamento_breve": "Intelligente, Indipendente, Leale, Energico",
+      "descrizione_generale": "<p>Il Curly-Coated Retriever è una delle razze da riporto più antiche, facilmente riconoscibile per il suo marchio di fabbrica: un mantello di fitti, piccoli e impermeabili riccioli che coprono tutto il corpo, ad eccezione del muso. È un cane da caccia (gundog) di taglia grande, elegante e atletico.</p><p>A differenza dei suoi cugini retriever più famosi (come il Labrador e il Golden), il Curly è noto per avere un carattere più indipendente, testardo e riservato con gli estranei. È un cane da lavoro estremamente intelligente e tenace, un nuotatore eccezionale e un compagno devoto, ma richiede un proprietario esperto.</p>",
+      "origini_storia": "<p>Le origini del Curly sono antiche e non del tutto chiare. È stato sviluppato in Inghilterra nel XIX secolo ed è considerato il primo tra i retriever. Si ritiene che i suoi antenati includano il Cane di St. John's (progenitore del Labrador), l'English Water Spaniel (ora estinto), il Poodle (per i ricci) e forse l'Irish Water Spaniel.</p><p>Era molto popolare tra i cacciatori e i guardiacaccia inglesi, che ne apprezzavano la resistenza, l'intelligenza e la capacità di riportare dall'acqua gelida. Fu una delle prime razze ad essere esposte in una mostra canina (1860). La sua popolarità diminuì drasticamente con l'ascesa del Labrador, e oggi è una razza piuttosto rara.</p>",
+      "aspetto_fisico": "<p>È il più alto dei retriever. L'altezza al garrese ideale per i maschi è 67,5 cm, per le femmine 62,5 cm. Il peso si aggira sui 30-40 kg. Ha una struttura elegante ma potente, con una testa lunga e una linea del dorso solida.</p><p>Il mantello è la sua caratteristica unica: è composto da una massa di piccoli riccioli fitti, aderenti e impermeabili. Non ha sottopelo (o ne ha pochissimo). Il muso e la fronte sono coperti di pelo corto e liscio. I colori ammessi sono solo due: **nero solido** e **fegato (liver) solido**.</p>",
+      "carattere_temperamento": "<p>Il Curly ha un carattere diverso dagli altri retriever. È molto intelligente, ma anche indipendente, testardo e matura molto lentamente. È un "pensatore" che valuta la situazione. È leale e protettivo con la sua famiglia, ma è naturalmente riservato e diffidente con gli estranei, il che lo rende un buon cane da guardia.</p><p>Non è amichevole con tutti come un Golden. Richiede una socializzazione precoce e approfondita per evitare che diventi eccessivamente timido o sospettoso. È un cane da lavoro che ha bisogno di stimolazione mentale per non annoiarsi.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. È una razza relativamente sana, ma è soggetta a displasia dell'anca e del gomito. Altri problemi includono patologie oculari (cataratta, entropion) e, in alcune linee, problemi cardiaci.</p><p>La cura del mantello è particolare. Non va spazzolato, altrimenti il pelo diventa crespo e si rovina. Si bagna e si pettina (solo da bagnato) per rimuovere il pelo morto. Perde pelo moderatamente, soprattutto durante le mute. Le femmine possono perdere molto pelo dopo il calore.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono molto elevate. È un cane da caccia atletico che ha bisogno di attività fisica intensa ogni giorno (1.5-2 ore). Adora il nuoto, che è l'attività ideale per lui, e il riporto. Non è un cane da appartamento.</p><p>L'addestramento è una sfida per principianti. È intelligente ma testardo. Si annoia con le ripetizioni e non risponde bene ai metodi duri. Richiede un proprietario esperto, paziente e che usi il rinforzo positivo, stabilendo un rapporto di partnership.</p>",
+      "ideale_per": "<p>È ideale per **cacciatori** di acquatici o per **proprietari esperti** molto attivi che cercano un cane da riporto intelligente e resistente. È ottimo per chi vive in campagna, vicino all'acqua, e apprezza un cane leale ma indipendente.</p><p>È **sconsigliato** ai proprietari principianti, a chi cerca l'amichevolezza di un Labrador, e alle persone sedentarie. La sua riservatezza e la sua testardaggine richiedono una gestione competente.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 3.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Dalmata",
+    "post_excerpt": "Il Dalmata è un'iconica razza di taglia media, famosa per il suo mantello bianco a macchie nere o fegato. Nato come cane da carrozza, è un atleta energico e resistente. È un cane sensibile e leale, ma richiede molto esercizio, un addestramento coerente e attenzione alla sua salute (sordità).",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dalmata",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dalmata"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dalmata.jpg",
+      "filename": "Dalmata.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Croazia (Dalmazia)",
+      "colorazioni": "Bianco (colore di base) con macchie nere o fegato (marroni).",
+      "temperamento_breve": "Energico, Estroverso, Sensibile, Leale",
+      "descrizione_generale": "<p>Il Dalmata è una delle razze più riconoscibili al mondo, grazie al suo inconfondibile mantello bianco candido ricoperto di macchie nere o fegato. È un cane di taglia media, elegante, muscoloso e costruito per la resistenza. La sua funzione storica non era la caccia, ma quella di "cane da carrozza".</p><p>Il suo compito era correre per chilometri a fianco o dietro le carrozze, proteggendo i cavalli e i passeggeri, e fare la guardia alle scuderie di notte. Questa eredità lo rende un atleta ad alta energia. È un cane leale e giocherellone con la famiglia, ma richiede un proprietario attivo e consapevole delle sue particolarità.</p>",
+      "origini_storia": "<p>Le origini del Dalmata sono antiche e contese, ma la FCI ne riconosce la provenienza dalla regione della Dalmazia, in Croazia. Raffigurazioni di cani maculati simili si trovano in opere d'arte che risalgono a secoli fa. La sua popolarità esplose in Inghilterra nell'epoca vittoriana, dove divenne uno "status symbol" per i possessori di carrozze eleganti.</p><p>La sua affinità con i cavalli lo rese anche la mascotte dei vigili del fuoco, che all'epoca usavano carri trainati da cavalli. Il Dalmata correva davanti, abbaiando per liberare la strada. La sua fama mondiale è esplosa, nel bene e nel male, con il romanzo di Dodie Smith del 1956 e il film Disney "La Carica dei 101".</p>",
+      "aspetto_fisico": "<p>È un cane di taglia media, forte e atletico. L'altezza al garrese per i maschi è 56-62 cm, per le femmine 54-60 cm. Il peso varia dai 24 ai 32 kg. La sua struttura deve essere bilanciata, senza pesantezza.</p><p>Il mantello è corto, fitto, liscio e lucido. Il colore di base è il bianco puro. Le macchie, rotonde e ben definite (non sovrapposte), possono essere solo di due colori: **nere** o **fegato** (marrone). I cuccioli nascono completamente bianchi e le macchie iniziano ad apparire dopo circa due settimane.</p>",
+      "carattere_temperamento": "<p>Il Dalmata è un cane ad altissima energia. È un corridore di resistenza, non uno scattista. È estroverso, giocherellone e può essere un vero clown con la sua famiglia. È anche molto sensibile e non risponde bene ai metodi duri; ha bisogno di rinforzo positivo.</p><p>È un cane che soffre la solitudine e ha bisogno di essere parte della famiglia. Se non fa abbastanza esercizio, diventa facilmente iperattivo, distruttivo e abbaia molto. È un buon cane da allarme, vigile e riservato con gli estranei, ma non aggressivo.</p>",
+      "salute_cura": "<p>Il Dalmata è una razza con due problemi genetici significativi:</p><ul><li><b>Sordità:</b> Circa il 15-30% dei Dalmata è sordo da un orecchio (unilaterale) e circa il 5% è sordo da entrambi (bilaterale). La sordità è legata al gene del mantello bianco (extreme piebald). I cuccioli devono essere testati (test BAER).</li><li><b>Metabolismo dell'acido urico:</b> I Dalmata hanno un difetto genetico unico che li rende incapaci di metabolizzare correttamente le purine, producendo alti livelli di acido urico. Questo li predispone fortemente alla formazione di **calcoli vescicali**, che possono richiedere interventi chirurgici.</li></ul><p>L'aspettativa di vita è di 11-13 anni. Il pelo corto perde moltissimo tutto l'anno.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono estreme. Questo non è un cane da passeggiata tranquilla. Ha bisogno di correre ogni giorno: è il compagno perfetto per jogging, ciclismo (road-dog) o lunghe escursioni. Senza sfogo fisico, è ingestibile in casa.</p><p>L'addestramento è necessario. È intelligente ma anche testardo e ha una "memoria da elefante" (ricorda sia le cose belle che quelle brutte). Richiede un proprietario paziente, coerente e che usi metodi positivi per mantenere la sua attenzione.</p>",
+      "ideale_per": "<p>È ideale per persone o famiglie **molto attive e sportive** (maratoneti, ciclisti, escursionisti) che cercano un compagno di avventura instancabile. Richiede un proprietario disposto a gestire la sua dieta a basso contenuto di purine e i suoi potenziali problemi di salute.</p><p>È **sconsigliato** ai proprietari principianti, alle persone sedentarie, a chi vive in un piccolo appartamento senza tempo per l'attività, e a chi è assente tutto il giorno. La sua popolarità post-Disney ha portato a molte adozioni incaute e successivi abbandoni.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 2.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 1.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.0
+    }
+  },
+  {
+    "post_title": "Dandie dinmont terrier",
+    "post_excerpt": "Il Dandie Dinmont Terrier è un terrier scozzese unico, con un corpo lungo e basso, zampe corte e un caratteristico "top-knot" (ciuffo) sulla testa. È un cane da caccia tenace ma, in casa, è calmo e dignitoso. Richiede toelettatura (stripping) e attenzione alla sua schiena.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dandie-dinmont-terrier",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dandie dinmont terrier"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dandie-dinmont-terrier.jpg",
+      "filename": "Dandie-dinmont-terrier.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia)",
+      "colorazioni": "Pepper (Pepe - dal grigio-blu al silver), Mustard (Senape - dal fulvo-rossastro al crema pallido)",
+      "temperamento_breve": "Indipendente, Tenace, Calmo (per un terrier), Leale",
+      "descrizione_generale": "<p>Il Dandie Dinmont Terrier è una razza terrier unica, originaria della regione di confine tra Scozia e Inghilterra. È un cane da lavoro "bassetto", con un corpo lungo e flessibile e zampe corte, progettato per la caccia in tana a volpi e tassi. La sua caratteristica più distintiva è il soffice ciuffo ("top-knot") di pelo setoso sulla testa.</p><p>A differenza di molti terrier, il Dandie è noto per avere un temperamento più calmo, dignitoso e riservato in casa, pur mantenendo la tenacia e il coraggio del cacciatore. È un compagno leale e indipendente, ma è una razza vulnerabile a rischio di estinzione.</p>",
+      "origini_storia": "<p>Le origini della razza risalgono al 1700 nella regione dei Borders scozzesi, dove era un cane da caccia molto apprezzato dai contadini e dai "tinkers" (zingari). Era un cane da lavoro puro, selezionato per la sua abilità nello stanare la selvaggina.</p><p>La razza deve il suo nome particolare a un personaggio del romanzo \"Guy Mannering\" (1815) di Sir Walter Scott. Nel libro, un contadino di nome Dandie Dinmont possiede una muta di questi terrier, descritti come \"Pepper\" e \"Mustard\". Il libro ebbe un tale successo che il nome rimase attaccato alla razza. È l'unica razza canina a prendere il nome da un personaggio di finzione. Il club di razza, fondato nel 1875, è uno dei più antichi al mondo.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo, con un corpo lungo e basso (tipo bassotto). L'altezza al garrese è 20-28 cm, con un peso che varia dagli 8 ai 11 kg. Ha una testa grande con un ciuffo di pelo setoso sulla sommità. Gli occhi sono grandi, scuri ed espressivi.</p><p>Il mantello è una miscela unica: sul corpo è duro e ruvido ("crisp"), mentre sulle parti inferiori e sulla testa è morbido e setoso. I colori sono due:</p><ul><li><b>Pepper (Pepe):</b> Qualsiasi tonalità di grigio, dal blu-nero scuro al grigio argento chiaro.</li><li><b>Mustard (Senape):</b> Dal fulvo-rossastro al crema pallido.</li></ul><p>Entrambi i colori hanno il top-knot color crema o bianco.</p>",
+      "carattere_temperamento": "<p>Il Dandie è un "terrier gentiluomo". È più calmo e meno frenetico di altri terrier. È indipendente, dignitoso e talvolta testardo. Con la sua famiglia è molto affettuoso e leale, ma è riservato con gli estranei, il che lo rende un eccellente cane da allarme (ha un abbaio sorprendentemente profondo).</p><p>Conserva un forte istinto predatorio e ama scavare. Non è un cane rissoso, ma è coraggioso e non si tira indietro se provocato. È sensibile e richiede un approccio gentile.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. La sua conformazione con la schiena lunga lo rende vulnerabile a **problemi spinali (IVDD - ernie del disco)**, simili a quelli del Bassotto. È fondamentale evitare che salti da altezze e che ingrassi. È anche predisposto al glaucoma.</p><p>Il mantello richiede una toelettatura specifica. Non perde molto pelo, ma deve essere spazzolato regolarmente e necessita di **stripping** manuale più volte all'anno per mantenere la corretta doppia tessitura. La tosatura rovina il mantello.</p>",
+      "attivita_addestramento": "<p>Le esigenze di esercizio sono moderate. Si adatta bene alla vita in appartamento, ma ha bisogno di passeggiate quotidiane e di sessioni di gioco. Non è un cane da corsa, ma è un terrier energico che ama esplorare e annusare.</p><p>L'addestramento richiede pazienza. È intelligente, ma molto testardo. L'addestramento alla pulizia in casa può essere lento. Risponde solo al rinforzo positivo e al cibo; i metodi duri lo faranno chiudere a riccio.</p>",
+      "ideale_per": "<p>È ideale per persone che vivono in appartamento o in casa e cercano un cane da compagnia con una forte personalità, ma più calmo di un Jack Russell. È adatto a chi è disposto a impegnarsi nella toelettatura (stripping) e a proteggere la sua schiena.</p><p>È **sconsigliato** a famiglie con bambini molto piccoli (a causa della schiena delicata) e a proprietari principianti che desiderano un cane facile e obbediente. Non è affidabile con piccoli animali domestici.</p>",
+      "energia_e_livelli_di_attivita": 3.0,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 2.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 2.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 4.0
+    }
+  },
+  {
+    "post_title": "Dansk-svensk gardshund",
+    "post_excerpt": "Il Dansk-Svensk Gårdshund (Cane da Fattoria Danese-Svedese) è un piccolo cane "tuttofare", simile a un Jack Russell, originario della Scandinavia. È un cane da famiglia energico, intelligente e affettuoso, ma anche un tenace cacciatore di topi. Richiede un proprietario attivo e addestramento.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "dansk-svensk-gardshund",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Dansk-svensk gardshund"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Dansk-svensk-gardshund-.jpg",
+      "filename": "Dansk-svensk-gardshund-.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Danimarca / Svezia",
+      "colorazioni": "Bianco (colore predominante) con macchie (nere, marroni, fulve) o focature.",
+      "temperamento_breve": "Energico, Intelligente, Vigile, Leale, Terrier-like",
+      "descrizione_generale": "<p>Il Dansk-Svensk Gårdshund (DSG), o Cane da Fattoria Danese-Svedese, è un'antica razza di tipo Pinscher/Terrier, originaria delle fattorie della Svezia meridionale e della Danimarca. Per secoli è stato il cane "tuttofare" del contadino: cacciava i topi, faceva la guardia, avvisava dell'arrivo di estranei e teneva compagnia ai bambini.</p><p>È un cane di piccola taglia, compatto e atletico, spesso confuso con un Jack Russell o un Fox Terrier, ma con un temperamento generalmente più mite e meno rissoso. È un compagno di famiglia intelligente, energico e molto affettuoso, che richiede però stimolazione e un proprietario attivo.</p>",
+      "origini_storia": "<p>Le origini di questo cane sono molto antiche, probabilmente risalenti ai cani di tipo Pinscher che accompagnavano i Vichinghi. Per centinaia di anni è stato una presenza costante nelle fattorie della Scania (Svezia) e della Danimarca, ma non è mai stato considerato una "razza" formale, quanto piuttosto un tipo funzionale.</p><p>Con la modernizzazione dell'agricoltura, la razza ha rischiato l'estinzione. Negli anni '80, i club cinofili di Danimarca e Svezia hanno unito le forze per salvare questo patrimonio. Hanno raccolto gli esemplari rimasti e hanno creato uno standard comune. La razza è stata ufficialmente riconosciuta dai due paesi nel 1987 (col nome di Cane da Fattoria Danese-Svedese) e ha ottenuto il riconoscimento FCI provvisorio nel 2008 e definitivo nel 2019.</p>",
+      "aspetto_fisico": "<p>È un cane piccolo e compatto. L'altezza al garrese per i maschi è 34-37 cm, per le femmine 32-35 cm. Il peso si aggira sui 7-12 kg. È leggermente più lungo che alto, con una struttura robusta e muscolosa.</p><p>Il mantello è corto, liscio e duro al tatto. Il colore predominante deve essere il bianco (almeno 51%). Sono ammesse macchie di vari colori (nero, marrone, fulvo) e combinazioni, incluse le focature (tan). La coda può essere lunga, semi-corta o anura (bobtail) dalla nascita.</p>",
+      "carattere_temperamento": "<p>Il DSG è un cane vivace, intelligente e molto energico. Ha l'istinto da terrier: è un cacciatore di topi tenace, ama scavare ed è un eccellente cane da allarme, molto vocale. Tuttavia, è generalmente più socievole con gli altri cani e meno rissoso di molti terrier.</p><p>È estremamente affettuoso e leale con la sua famiglia, con cui ama giocare e interagire. È un cane che ha bisogno di stimolazione mentale e fisica per non annoiarsi. È noto per essere un "pensatore" che risolve problemi.</p>",
+      "salute_cura": "<p>Essendo una razza da lavoro rustica, è generalmente molto sana e longeva, con un'aspettativa di vita di 13-15 anni. Le principali preoccupazioni sono la lussazione della rotula e la malattia di Legg-Perthes, comuni nelle razze piccole e attive.</p><p>Il mantello corto è di facilissima manutenzione. Richiede solo spazzolate occasionali per rimuovere il pelo morto. Perde moderatamente pelo.</p>",
+      "attivita_addestramento": "<p>Ha un alto bisogno di esercizio. Non è un cane da grembo. Ha bisogno di almeno un'ora di attività al giorno, che includa corsa, gioco e attivazione mentale. Eccelle in sport come l'agility, il flyball e il rally-o, grazie alla sua intelligenza e velocità.</p><p>È molto intelligente e facile da addestrare per un proprietario esperto. Impara velocemente, ma la sua intelligenza da terrier può trasformarsi in testardaggine. Richiede un addestramento positivo, divertente e coerente. Il richiamo va lavorato bene a causa dell'istinto predatorio.</p>",
+      "ideale_per": "<p>È un eccellente cane da famiglia per proprietari attivi, anche con bambini. È adatto a chi cerca un cane piccolo ma sportivo, con cui praticare agility o altre attività. È un'ottima alternativa (meno estrema) al Jack Russell Terrier.</p><p>È **sconsigliato** a persone sedentarie, a chi cerca un cane silenzioso e calmo, e a chi ha piccoli animali domestici (roditori). Sebbene si adatti all'appartamento, ha bisogno di molto sfogo all'esterno.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.5,
+      "adattabilita_appartamento": 3.5,
+      "adattabilita_clima_caldo": 3.5,
+      "adattabilita_clima_freddo": 3.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.0,
+      "compatibilita_con_altri_animali_domestici": 2.0,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 5.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 2.0,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Deerhound",
+    "post_excerpt": "Il Deerhound, o Levriero Scozzese, è un levriero gigante dal pelo duro, un tempo usato dalla nobiltà scozzese per la caccia al cervo. È un "gigante gentile", calmo e dignitoso in casa, ma un atleta esplosivo all'esterno. È un cane sensibile che richiede spazio e un proprietario consapevole.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "deerhound",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Deerhound"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Deerhound.jpg",
+      "filename": "Deerhound.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Scozia)",
+      "colorazioni": "Grigio-blu (preferito), Grigio scuro o chiaro, Tigrato (Brindle), Giallo, Sabbia, Rosso Fulvo.",
+      "temperamento_breve": "Gigante gentile, Calmo, Dignitoso, Sensibile",
+      "descrizione_generale": "<p>Il Deerhound, o Levriero Scozzese, è un'antica razza di levriero (sighthound) di taglia gigante, originaria delle Highlands scozzesi. È strettamente imparentato con l'Irish Wolfhound, ma è più leggero ed elegante. Come suggerisce il nome ("deer" = cervo), era il cane da caccia della nobiltà scozzese, specializzato nella caccia al cervo rosso.</p><p>È l'epitome del "gigante gentile": in casa è un cane calmo, dignitoso, quasi pigro, e incredibilmente dolce. All'esterno, si trasforma in un atleta potente ed esplosivo, con un istinto predatorio fortissimo. È un compagno sensibile, ma la sua taglia e il suo istinto richiedono un proprietario esperto.</p>",
+      "origini_storia": "<p>Le origini del Deerhound sono antichissime, risalenti ai cani da caccia a pelo ruvido dei Pitti e degli Scoti. Per secoli, è stato un cane "reale", e nessuna persona al di sotto del rango di Conte poteva possederne uno. La sua funzione era abbattere i cervi feriti o isolare un singolo esemplare dalla mandria, un compito che richiedeva velocità, potenza e coraggio.</p><p>Con l'invenzione delle armi da fuoco e il crollo del sistema dei clan scozzesi dopo la battaglia di Culloden (1746), la razza perse il suo scopo e divenne incredibilmente rara, quasi estinta. Fu salvata nel XIX secolo da allevatori appassionati, come i fratelli Archibald e Duncan McNeill, che ne restaurarono il tipo. La razza fu presentata alle mostre canine a partire dal 1860.</p>",
+      "aspetto_fisico": "<p>È un cane di taglia gigante, ma elegante e costruito per la velocità. L'altezza al garrese minima per i maschi è 76 cm, per le femmine 71 cm. Il peso varia dai 36 ai 50 kg. È più slanciato dell'Wolfhound, con una linea del dorso leggermente arcuata.</p><p>Il mantello è una caratteristica importante: è ruvido, ispido ("crisp"), lungo circa 8-10 cm, e molto resistente alle intemperie. Ha una leggera barba e baffi. I colori preferiti sono il grigio-blu, il grigio scuro, il tigrato e il giallo o rosso fulvo.</p>",
+      "carattere_temperamento": "<p>Il Deerhound ha un temperamento eccezionale. È calmo, gentile, dignitoso e mai aggressivo. È affettuoso con la sua famiglia, ma in modo discreto. È sensibile e non tollera i metodi di addestramento duri o un ambiente domestico caotico.</p><p>È riservato con gli estranei, ma generalmente amichevole una volta superata la diffidenza iniziale. Il suo istinto da levriero è molto forte: è un cacciatore a vista e inseguirà qualsiasi cosa si muova velocemente. Non è un cane da guardia.</p>",
+      "salute_cura": "<p>Come molti cani di taglia gigante, ha un'aspettativa di vita purtroppo breve, mediamente 8-10 anni. Le principali cause di morte sono:</p><ul><li><b>Cardiomiopatia Dilatativa:</b> Un grave problema cardiaco ereditario.</li><li><b>Cancro (in particolare Osteosarcoma):</b> Molto comune.</li><li><b>Torsione gastrica (Bloat):</b> Un'emergenza letale.</li></ul><p>È anche molto sensibile all'anestesia. Il mantello ruvido richiede spazzolate settimanali e uno stripping manuale leggero 1-2 volte l'anno per rimuovere il pelo morto.</p>",
+      "attivita_addestramento": "<p>Ha esigenze di esercizio da levriero: non ha bisogno di ore di camminata, ma di **sprint esplosivi**. Da adulto, si accontenta di dormire gran parte del giorno, ma deve avere la possibilità di correre libero ad alta velocità in un'area ampia e **perfettamente recintata**. Non è adatto alla vita in un piccolo appartamento.</p><p>L'addestramento è una sfida. È intelligente, ma indipendente e testardo. Obbedirà solo se ne vede il motivo e se il rapporto con il proprietario è basato sul rispetto. Il richiamo è totalmente inaffidabile. Risponde solo a metodi gentili.</p>",
+      "ideale_per": "<p>È ideale per proprietari esperti di levrieri, che hanno molto spazio (casa con grande giardino recintato in modo sicuro) e uno stile di vita tranquillo. È perfetto per chi apprezza un compagno gentile e dignitoso ed è consapevole della sua breve aspettativa di vita.</p><p>È **sconsigliato** ai proprietari principianti, a chi vive in appartamento, a chi ha gatti o piccoli animali (a causa dell'istinto predatorio), e a chi cerca un cane obbediente. Non può **mai** essere lasciato libero in aree non recintate.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 1.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 2.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 4.0,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 1.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 4.5,
+      "istinti_di_caccia": 5.0
+    }
+  }
+]

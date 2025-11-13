@@ -1,0 +1,512 @@
+[
+  {
+    "post_title": "Slovensky kopov",
+    "post_excerpt": "Lo Slovensky Kopov è un tenace segugio slovacco, specializzato nella caccia al cinghiale. Di taglia media, nero focato, è un cane coraggioso, energico e con un eccellente senso dell'orientamento. Richiede un proprietario attivo ed esperto, preferibilmente cacciatore.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "slovensky-kopov",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Slovensky kopov"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Slovensky-kopov.jpg",
+      "filename": "Slovensky-kopov.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Slovacchia (Monti Carpazi)",
+      "colorazioni": "Nero con focature (tan) da marrone a mogano",
+      "temperamento_breve": "Tenace, Energico, Coraggioso, Indipendente",
+      "descrizione_generale": "<p>Lo Slovensky Kopov, o Segugio Slovacco, è una razza da caccia di taglia media originaria delle foreste dei Carpazi. È un cane robusto, agile e instancabile, noto per la sua specializzazione nella caccia al cinghiale e ai predatori. Il suo mantello è sempre nero focato, corto ma fitto.</p><p>Sebbene sia un cacciatore implacabile sul campo, con un temperamento focoso e un coraggio eccezionale, in famiglia sa essere un compagno leale e vigile. Non è un cane per tutti: la sua energia e la sua indipendenza richiedono un proprietario esperto, preferibilmente un cacciatore, che possa fornirgli lo sfogo fisico e mentale di cui ha bisogno.</p>",
+      "origini_storia": "<p>Le origini dello Slovensky Kopov sono antiche e legate alle difficili condizioni di caccia nelle montagne slovacche. Per secoli, i cacciatori locali hanno selezionato un cane da seguita che fosse robusto, tenace e con un senso dell'orientamento infallibile, capace di cacciare cinghiali e cervi per ore.</p><p>Dopo la Seconda Guerra Mondiale, la razza rischiò di disperdersi. Fu grazie a un attento lavoro di allevatori come Koloman Slimák e Frantisek Siget che si iniziò una selezione sistematica. Lo standard ufficiale fu redatto nel 1963, anno in cui la FCI riconobbe ufficialmente lo Slovensky Kopov (Standard N° 244). Rimane una razza primariamente da lavoro, molto apprezzata in patria.</p>",
+      "aspetto_fisico": "<p>Lo Slovensky Kopov è un segugio di taglia media, con una struttura solida ma leggera, che esprime resistenza. L'altezza al garrese per i maschi è di 45-50 cm, per le femmine 40-45 cm. Il peso si attesta tra i 15 e i 20 kg.</p><p>La testa è tipica da segugio, con un muso lungo e orecchie pendenti di media lunghezza. Il mantello è corto (2-5 cm), fitto, ruvido e ben aderente, con un buon sottopelo. Il colore è invariabilmente nero, con focature ben definite di colore marrone, mogano o rosso-bruno (tan) su muso, petto, arti e sopra gli occhi (i \"quattrocchi\").</p>",
+      "carattere_temperamento": "<p>Il temperamento del Kopov è definito dal suo scopo: la caccia. È un cane estremamente tenace, coraggioso fino alla temerarietà e molto indipendente. Sul lavoro è focoso e instancabile, con una voce potente che usa per segnalare la preda. È dotato di un senso dell'orientamento leggendario.</p><p>Con la sua famiglia è leale e protettivo, ma non è un cane da compagnia espansivo. È vigile e riservato con gli estranei, il che lo rende un buon cane da allerta. Non è adatto alla vita sedentaria; ha un bisogno vitale di correre, seguire piste e lavorare. La socializzazione precoce è importante per gestire il suo forte carattere.</p>",
+      "salute_cura": "<p>L'aspettativa di vita media è di 12-14 anni. È una razza rustica e generalmente molto sana, selezionata per la funzionalità e non per l'estetica. Non si segnalano particolari patologie ereditarie di rilievo, se non quelle comuni ai cani di taglia media come la displasia dell'anca, anche se con incidenza bassa.</p><p>La cura è minima. Il mantello corto richiede solo una spazzolata settimanale per rimuovere il pelo morto. Essendo un cane da lavoro, è importante controllare regolarmente orecchie, zampe e pelle dopo le uscite nel bosco per individuare eventuali ferite, parassiti o corpi estranei.</p>",
+      "attivita_addestramento": "<p>L'addestramento di un Kopov deve essere finalizzato al suo utilizzo venatorio. Non è un cane che eccelle nell'obbedienza da show; la sua intelligenza è applicata alla risoluzione di problemi sul campo. Risponde a un addestramento coerente e positivo da parte di un proprietario che capisca la sua natura di segugio.</p><p>Le esigenze di esercizio sono estreme. Non è un cane da appartamento. Ha bisogno di vivere in un contesto rurale e di poter correre liberamente (in sicurezza) per ore. L'attività ideale è la caccia, ma in alternativa richiede lunghe escursioni, mantrailing o altre attività di fiuto.</p>",
+      "ideale_per": "<p>Lo Slovensky Kopov è il cane ideale esclusivamente per cacciatori, in particolare di cinghiale. È adatto a chi vive in campagna, ha molto spazio e cerca un ausiliare di lavoro instancabile, coraggioso e specializzato. Richiede un proprietario esperto, attivo e che ne rispetti l'indipendenza.</p><p>È assolutamente sconsigliato come primo cane, per la vita in città o in appartamento, e per persone sedentarie. Non è un cane da compagnia nel senso tradizionale del termine e la sua energia repressa può portare a seri problemi comportamentali e distruttivi.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 2.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 4.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Smaalandsstovare",
+    "post_excerpt": "Lo Smålandsstövare è un antico segugio svedese, noto per la sua coda naturalmente corta. È un cacciatore versatile (lepre, volpe), robusto e dal carattere calmo e leale in famiglia. Richiede un proprietario attivo e accesso alla natura.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "smaalandsstovare",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Smaalandsstovare"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Smaalandsstovare.jpg",
+      "filename": "Smaalandsstovare.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Svezia (Småland)",
+      "colorazioni": "Nero focato (con o senza macchie bianche), Fegato focato (raro)",
+      "temperamento_breve": "Leale, Calmo, Tenace, Vigile",
+      "descrizione_generale": "<p>Lo Smålandsstövare, o Segugio dello Småland, è la più antica razza di segugio svedese, originaria della regione meridionale dello Småland. È un cane da caccia versatile e robusto, utilizzato principalmente per la caccia alla lepre e alla volpe, ma anche al cinghiale. La sua caratteristica più distintiva è la coda naturalmente corta (brachiuria).</p><p>Di taglia media, è un cane che combina un forte istinto venatorio con un temperamento calmo, stabile e molto affettuoso in famiglia. È un compagno leale e un buon cane da allerta, che si lega profondamente al suo proprietario. Come tutti i segugi, ha bisogno di molto esercizio e stimolazione olfattiva.</p>",
+      "origini_storia": "<p>Le origini della razza risalgono al XVI secolo, nelle foreste dello Småland. Si ritiene che i soldati svedesi, di ritorno dalla Guerra dei Trent'anni (1618-1648), abbiano portato in patria segugi tedeschi, polacchi e baltici, incrociandoli con i cani da fattoria locali (tipo Spitz). Per secoli, la selezione è stata puramente funzionale, creando un cane resistente e adatto al terreno.</p><p>Nel XIX secolo la razza era molto eterogenea. All'inizio del '900, si tentò una prima standardizzazione. La razza rischiò l'estinzione negli anni '50, ma fu salvata grazie agli sforzi del Barone von Essen. Lo standard fu rivisto e la razza fu consolidata, ottenendo il riconoscimento FCI nel 1955 (Standard N° 129).</p>",
+      "aspetto_fisico": "<p>Lo Smålandsstövare è un cane di taglia media, robusto e compatto, che dà un'impressione di forza. L'altezza al garrese è di 46-54 cm per i maschi e 42-52 cm per le femmine. Il peso si aggira sui 15-20 kg. La caratteristica più nota è la coda, che è spesso naturalmente corta (nata corta, o "bobtail") o può essere lunga.</p><p>Il mantello è di media lunghezza, ruvido e molto fitto, con un sottopelo denso che lo protegge bene dalle intemperie. Il colore è tipicamente nero focato (tan), spesso con piccole macchie bianche su petto e piedi. Esiste anche una variante fegato (marrone) focato, ma è molto rara.</p>",
+      "carattere_temperamento": "<p>Questo segugio ha un temperamento equilibrato. È calmo, sicuro di sé e molto legato al suo nucleo familiare. Non è un cane iperattivo in casa, ma sul campo di lavoro mostra grande tenacia ed energia. È un cane vigile e un buon abbaiatore, che avvisa della presenza di estranei, verso cui è tipicamente riservato ma non aggressivo.</p><p>È intelligente ma, come molti segugi, può essere testardo e indipendente, specialmente quando segue una pista. Richiede una socializzazione precoce, soprattutto se deve convivere con altri animali domestici, dato il suo forte istinto predatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto robusta e rustica, con pochi problemi di salute specifici. La displasia dell'anca può essere presente, ma non è diffusa. È importante controllare la salute delle orecchie pendenti per prevenire infezioni.</p><p>Il mantello fitto richiede una spazzolatura regolare, circa una volta alla settimana, per rimuovere lo sporco e il pelo morto. La perdita di pelo è moderata, più intensa durante le mute stagionali. Non richiede toelettatura professionale.</p>",
+      "attivita_addestramento": "<p>Lo Smålandsstövare è un cane da lavoro che ha bisogno di molto esercizio fisico. Non è adatto alla vita in appartamento. Ha bisogno di lunghe passeggiate, corse e, idealmente, della possibilità di seguire piste in un ambiente sicuro (un grande giardino recintato o campagne).</p><p>L'addestramento deve essere coerente, paziente e basato sul rinforzo positivo. L'obbedienza di base è raggiungibile, ma il suo istinto da segugio lo porterà sempre a distrarsi con gli odori. È fondamentale lavorare su un richiamo solido, anche se non sarà mai affidabile al 100% in presenza di selvatici.</p>",
+      "ideale_per": "<p>È il cane ideale per cacciatori o per famiglie molto attive che vivono in campagna o in zone rurali. È adatto a chi cerca un cane leale, un buon guardiano e un compagno per lunghe escursioni. Richiede un proprietario che comprenda e apprezzi la natura indipendente di un segugio.</p><p>Non è assolutamente adatto a persone sedentarie, a chi vive in città o a chi è alla prima esperienza. Il suo bisogno di spazio e di stimolazione olfattiva è fondamentale per il suo equilibrio. Il suo istinto predatorio lo rende inadatto alla convivenza con piccoli animali.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 4.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Smoushond olandese",
+    "post_excerpt": "Lo Smoushond Olandese è un piccolo cane da compagnia e derattizzatore, originario di Amsterdam. Dal caratteristico mantello ruvido e giallo, è un cane vivace, affettuoso e divertente. Richiede toelettatura (stripping) e non ama la solitudine.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "smoushond-olandese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Smoushond olandese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Smoushond-olandese.jpg",
+      "filename": "Smoushond-olandese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi",
+      "colorazioni": "Giallo (in tutte le sue sfumature, preferibilmente giallo paglierino)",
+      "temperamento_breve": "Vivace, Affettuoso, Divertente, Leale",
+      "descrizione_generale": "<p>Lo Smoushond Olandese (Hollandse Smoushond) è una rara razza di piccola taglia, originaria dei Paesi Bassi. Il suo aspetto è rustico e arruffato, con un caratteristico mantello "fil di ferro" di colore giallo paglierino e un'espressione vispa accentuata da baffi e barba. Nonostante l'aspetto da terrier, è classificato nel gruppo 2 (Pinscher e Schnauzer).</p><p>Nato come derattizzatore nelle stalle di Amsterdam, è diventato un cane da compagnia molto apprezzato per il suo carattere allegro, vivace e incredibilmente affettuoso. È un "cane velcro" che si lega profondamente alla famiglia e non ama essere lasciato solo. È un compagno divertente e un ottimo cane da allerta.</p>",
+      "origini_storia": "<p>La storia dello Smoushond inizia nella seconda metà del XIX secolo ad Amsterdam. Era conosciuto come "cane da scuderia" o "cane del cocchiere", poiché il suo compito era tenere libere le stalle dai topi e fare la guardia ai cavalli. Si pensa discenda da cani tipo terrier a pelo ruvido, forse imparentati con lo Schnauzer.</p><p>Divenne molto popolare come cane da compagnia. La razza fu quasi spazzata via durante la Seconda Guerra Mondiale. Nel 1973, un'allevatrice, la signora H.A. Jännesse, iniziò un difficile programma di recupero utilizzando i pochi esemplari rimasti e, si dice, incroci con Border Terrier per rinvigorire il pool genetico. La FCI ha riconosciuto la razza nel 1980 (Standard N° 308). Resta una razza molto rara fuori dai Paesi Bassi.</p>",
+      "aspetto_fisico": "<p>Lo Smoushond è un cane piccolo e compatto. L'altezza al garrese è di 35-42 cm, con un peso approssimativo di 9-10 kg. La sua struttura è robusta e quasi quadrata.</p><p>Il mantello è la sua caratteristica principale: è ruvido, "fil di ferro", duro e arruffato, lungo circa 4-7 cm, con un sottopelo protettivo. Non deve essere né riccio né lanoso. Sul muso forma baffi, barba e sopracciglia folte. L'unico colore ammesso è il giallo in tutte le sue sfumature, con una preferenza per il giallo paglierino scuro. Le orecchie e i baffi possono essere di una tonalità più scura.</p>",
+      "carattere_temperamento": "<p>Lo Smoushond è un cane pieno di vita, allegro e affettuoso. È un compagno leale che adora la sua famiglia e cerca costantemente il contatto fisico. È vivace, giocherellone e ha un grande senso dell'umorismo. Non è un cane che ama stare da solo; preferisce seguire il proprietario in ogni attività.</p><p>Mantiene il suo istinto da guardiano: è vigile e abbaierà per avvisare di rumori o estranei, ma generalmente è amichevole dopo le presentazioni. È intelligente ma anche testardo, con la tipica caparbietà dei derattizzatori. È generalmente socievole con altri cani e animali domestici se abituato fin da cucciolo.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza generalmente sana, grazie anche al recupero attento. Non ci sono molte patologie ereditarie note, anche se la displasia dell'anca e la lussazione della rotula possono comparire occasionalmente.</p><p>La cura del mantello è specifica. Essendo un cane a pelo ruvido, non perde molto pelo, ma richiede uno stripping (strappo manuale del pelo morto) 2-3 volte all'anno per mantenere la corretta tessitura e salute della pelle. La tosatura è sconsigliata perché rovina il mantello. È necessaria una spazzolatura settimanale per evitare nodi.</p>",
+      "attivita_addestramento": "<p>Lo Smoushond ha un livello di energia medio-alto. Si adatta alla vita in appartamento, ma richiede passeggiate quotidiane e sessioni di gioco regolari. Ama correre, scavare e usare il suo cervello. Apprezza molto le attività di attivazione mentale e gli sport cinofili come l'agility o il nosework.</p><p>L'addestramento richiede pazienza e coerenza. Sono intelligenti e imparano in fretta, ma la loro testardaggine da terrier richiede un approccio divertente e basato sul rinforzo positivo. Non rispondono bene ai metodi duri. La socializzazione precoce è importante per gestire la sua vocalità.</p>",
+      "ideale_per": "<p>È un compagno ideale per famiglie attive, coppie o single che desiderano un cane piccolo, affettuoso e con una grande personalità. È adatto a chi è spesso a casa e può includerlo nella vita familiare. È una buona scelta per chi è disposto a impegnarsi nella toelettatura (stripping).</p><p>Non è adatto a persone che lavorano fuori casa tutto il giorno o a chi cerca un cane indipendente. Non è la scelta migliore per chi è infastidito dall'abbaio da allerta o per chi non vuole dedicare tempo alla cura del pelo.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 4.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 3.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 3.5,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 4.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Spaniel olandese",
+    "post_excerpt": "Lo Spaniel Olandese, o Kooikerhondje, è un antico cane da caccia (da richiamo per anatre), allegro e intelligente. Di taglia media, bianco e rosso, è un compagno sensibile e attivo, ma riservato con gli estranei. Richiede socializzazione precoce.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "spaniel-olandese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Spaniel olandese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Spaniel-olandese.jpg",
+      "filename": "Spaniel-olandese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Paesi Bassi",
+      "colorazioni": "Bianco con macchie nette rosso-arancio",
+      "temperamento_breve": "Vivace, Intelligente, Sensibile, Riservato",
+      "descrizione_generale": "<p>Il Nederlandse Kooikerhondje, o Spaniel Olandese, è un'affascinante razza da caccia di taglia media, originaria dei Paesi Bassi. È un cane elegante, dal mantello bianco e rosso-arancio e una coda piumata. La sua specialità storica non era la caccia con il fucile, ma il lavoro di richiamo nelle \"eendenkooien\" (trappole per anatre).</p><p>Oggi è un apprezzato cane da compagnia, noto per il suo carattere allegro, intelligente e vivace in famiglia. È tuttavia un cane molto sensibile, che si lega profondamente a una persona e rimane riservato e diffidente verso gli estranei. Richiede una socializzazione attenta e un proprietario paziente.</p>",
+      "origini_storia": "<p>Questa razza è molto antica e la sua immagine è riconoscibile in dipinti olandesi del XVI e XVII secolo, come quelli di Jan Steen e Vermeer. Il suo lavoro era unico: non spaventava le anatre, ma le attirava nei canali della trappola (il \"kooi\") grazie alla sua coda piumata bianca, che usava come un'esca, e al suo movimento giocoso. Il \"kooiker\" (l'uomo delle trappole) rimaneva nascosto.</p><p>Come molte razze, rischiò l'estinzione durante la Seconda Guerra Mondiale. Fu salvata da un'unica donna, la Baronessa van Hardenbroek van Ammerstol, che iniziò un programma di recupero nel 1939, cercando esemplari nelle fattorie. La razza fu riconosciuta ufficialmente nei Paesi Bassi nel 1971 e dalla FCI nel 1990 (Standard N° 314).</p>",
+      "aspetto_fisico": "<p>Il Kooikerhondje è un cane armonioso e quadrato. L'altezza al garrese è di 35-40 cm. Il peso si aggira tra i 9 e gli 11 kg. La sua struttura è agile e leggera.</p><p>Il mantello è di media lunghezza, liscio o leggermente ondulato, con un buon sottopelo. Il colore è sempre bianco con macchie nette di colore rosso-arancio. Il rosso non deve predominare. Caratteristici sono gli \"orecchini\" (earrings): lunghe frange di pelo nero sulla punta delle orecchie, che sono molto ricercate. La coda è lunga, piumata e portata allegra.</p>",
+      "carattere_temperamento": "<p>Il Kooiker è un cane dai due volti: con la sua famiglia è allegro, affettuoso, intelligente e giocherellone. Ama imparare e lavorare con il proprietario. È però un cane estremamente sensibile, che non risponde bene ai toni di voce alti o ai metodi duri.</p><p>Con gli estranei è, per natura, molto riservato e diffidente. Non è un cane che dà confidenza a tutti. Ha bisogno dei suoi tempi per accettare nuove persone. Questa sua natura lo rende un eccellente cane da allerta. La socializzazione precoce e positiva è fondamentale per evitare che la diffidenza diventi paura.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. La razza è stata ricostruita da un pool genetico molto ristretto, il che la rende soggetta ad alcune patologie ereditarie. Le più note sono:
+<ul>
+<li><b>Mielopatia degenerativa (DM)</b></li>
+<li><b>Malattia di Von Willebrand (un disturbo della coagulazione)</b></li>
+<li><b>Polimiosite ereditaria (una malattia muscolare infiammatoria)</b></li>
+</ul>
+Gli allevatori responsabili testano i riproduttori per queste condizioni. Può soffrire anche di lussazione della rotula.</p><p>Il mantello non richiede una toelettatura eccessiva. Una spazzolatura settimanale è sufficiente per mantenerlo pulito e senza nodi. Perde pelo moderatamente.</p>",
+      "attivita_addestramento": "<p>L'addestramento è un piacere se si usa il metodo giusto. Essendo intelligenti e desiderosi di compiacere (il loro proprietario), eccellono nel rinforzo positivo. Si "spengono" con la durezza. Sono cani da lavoro e hanno bisogno di stimolazione mentale.</p><p>Hanno un livello di energia alto. Necessitano di esercizio quotidiano, non solo passeggiate, ma anche corse, giochi di fiuto e attivazione mentale. Sono molto agili e brillano nell'agility (spesso ai vertici delle competizioni nella loro taglia), nell'obedience e nel flyball.</p>",
+      "ideale_per": "<p>È il cane ideale per proprietari sensibili, pazienti e attivi, che cercano un cane intelligente per sport cinofili o come compagno di vita dinamico. È adatto a famiglie con bambini tranquilli e rispettosi. Si adatta all'appartamento se le sue elevate esigenze di esercizio e stimolo mentale sono soddisfatte.</p><p>Non è un cane per principianti. È sconsigliato a chi cerca un cane "facile" e amichevole con tutti. Non è adatto a famiglie rumorose o a chi usa metodi di addestramento tradizionali. La sua diffidenza e sensibilità richiedono un ambiente calmo e un proprietario consapevole.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 4.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 3.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 1.5,
+      "compatibilita_con_altri_animali_domestici": 2.5,
+      "facilita_di_addestramento": 4.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 4.5,
+      "facilita_toelettatura": 3.5,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 2.0,
+      "livello_esperienza_richiesto": 4.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 3.5
+    }
+  },
+  {
+    "post_title": "Spaniel tedesco",
+    "post_excerpt": "Lo Spaniel Tedesco (Deutscher Wachtelhund) è un cane da caccia estremamente versatile, specializzato nel lavoro nel bosco e in acqua. Energico, tenace e leale, non è un cane da compagnia, ma un ausiliare venatorio per cacciatori esperti.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "spaniel-tedesco",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Spaniel tedesco"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Spaniel-tedesco.jpg",
+      "filename": "Spaniel-tedesco.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Marrone (unicolore), Roano marrone, Marrone con macchie bianche",
+      "temperamento_breve": "Energico, Tenace, Intelligente, Leale (al cacciatore)",
+      "descrizione_generale": "<p>Il Deutscher Wachtelhund, o Spaniel Tedesco, è una razza da caccia di taglia media, robusta e muscolosa, selezionata in Germania per un lavoro venatorio estremamente versatile. Non è uno "spaniel" da compagnia, ma un "Stöberhund", un cane da cerca e da riporto specializzato nel lavoro nel fitto del bosco, in palude e in acqua.</p><p>È un cane con un'energia inesauribile, un istinto predatorio molto sviluppato e una grande passione per il lavoro. È leale e si lega al suo conduttore, ma non è una razza adatta alla semplice vita familiare. È quasi esclusivamente affidato a cacciatori e guardie forestali.</p>",
+      "origini_storia": "<p>Le origini della razza risalgono alla fine del XIX secolo. In Germania, i cacciatori necessitavano di un cane versatile (un "tuttofare") che potesse scovare, stanare e riportare la selvaggina (lepri, volpi, uccelli) in terreni difficili. Il lavoro di selezione fu portato avanti principalmente da Frederick Roberth, un allevatore bavarese, a partire dal 1890.</p><p>Si ritiene che Roberth abbia utilizzato antichi ceppi di cani "Stöber" (cani da cerca) e li abbia incrociati con spaniel da acqua e altri cani da caccia per fissare le caratteristiche desiderate. Il "Deutscher Wachtelhund Club" fu fondato nel 1903, e lo standard fu stabilito nel 1910. La razza è ancora oggi allevata quasi esclusivamente per la caccia.</p>",
+      "aspetto_fisico": "<p>Il Wachtelhund è un cane di taglia media, forte e dall'ossatura solida. L'altezza al garrese è di 48-54 cm per i maschi e 45-52 cm per le femmine. Il peso varia dai 18 ai 25 kg. La struttura è leggermente allungata, adatta al movimento nel sottobosco.</p><p>Il mantello è lungo, spesso, ondulato e molto fitto, con un buon sottopelo che lo protegge dall'acqua e dalle spine. Le orecchie sono lunghe e frangiate. I colori principali sono due:
+<ul>
+<li><b>Marrone unicolore:</b> Spesso con piccole macchie bianche sul petto o sulle dita.</li>
+<li><b>Roano marrone (Schimmel):</b> Un misto di peli bianchi e marroni. Può presentarsi anche come marrone pezzato di bianco (più raro).</li>
+</ul></p>",
+      "carattere_temperamento": "<p>Il temperamento del Wachtelhund è al 100% da cacciatore. È incredibilmente energico, tenace, coraggioso e ha un istinto predatorio molto elevato. È un cane che vive per lavorare e seguire le piste. È anche un eccellente nuotatore e riportatore, anche in acque gelide.</p><p>Con il suo proprietario/conduttore, è leale e desideroso di compiacere nel contesto lavorativo. In un ambiente domestico, se non adeguatamente sfogato, può diventare frustrato, distruttivo e abbaiare molto. È generalmente riservato con gli estranei e può essere dominante con altri cani.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza molto sana e robusta, selezionata da generazioni per la salute e la funzionalità. La displasia dell'anca e del gomito sono monitorate negli allevamenti, ma l'incidenza è relativamente bassa. Le orecchie lunghe e pelose richiedono controlli regolari per prevenire infezioni.</p><p>Il mantello richiede una spazzolatura settimanale per evitare nodi, specialmente nelle frange. Dopo ogni uscita di caccia, deve essere ispezionato attentamente per rimuovere spine, semi (forasacchi) e parassiti.</p>",
+      "attivita_addestramento": "<p>Questa razza richiede un addestramento specifico per la caccia. È molto intelligente e apprende rapidamente i compiti venatori. L'addestramento all'obbedienza di base è necessario, ma la sua vera natura emerge nel lavoro di fiuto e riporto. Risponde bene a un conduttore esperto e coerente.</p><p>Le esigenze di esercizio sono estreme e non negoziabili. Non è un cane da città. Ha bisogno di ore di attività quotidiana, preferibilmente in campagna, boschi o paludi, dove possa lavorare, correre e nuotare. L'inattività è la sua più grande fonte di stress.</p>",
+      "ideale_per": "<p>Lo Spaniel Tedesco è un cane esclusivamente per cacciatori attivi, guardie forestali o persone che vivono in campagna e praticano sport cinofili avanzati (es. ricerca e soccorso). Richiede un proprietario esperto che possa gestire un cane da lavoro ad alta energia e forte istinto predatorio.</p><p>È assolutamente inadatto come semplice cane da compagnia o da appartamento. Non è un cane per famiglie sedentarie, per proprietari inesperti o per chi non può garantirgli lo sfogo venatorio o lavorativo per cui è stato creato.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 3.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 1.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 3.0,
+      "compatibilita_con_i_bambini": 3.0,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 5.0,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Spinone italiano",
+    "post_excerpt": "Lo Spinone Italiano è un antico cane da ferma italiano, noto per il suo pelo duro e l'espressione pensierosa. È un cane robusto, paziente e molto leale, eccellente cacciatore e meraviglioso compagno di famiglia. Richiede esercizio e stripping.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "spinone-italiano",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Spinone italiano"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Spinone-italiano.jpg",
+      "filename": "Spinone-italiano.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Italia (Piemonte)",
+      "colorazioni": "Bianco, Bianco-arancio, Roano-marrone, Roano-arancio",
+      "temperamento_breve": "Docile, Paziente, Leale, Tenace (nella caccia)",
+      "descrizione_generale": "<p>Lo Spinone Italiano è una delle più antiche e nobili razze da ferma italiane, appartenente alla famiglia dei "griffoni" a pelo duro. È un cane di taglia grande, robusto e muscoloso, dall'aspetto rustico ma distinto, famoso per la sua espressione quasi umana, pensierosa e gentile, accentuata da barba e baffi.</p><p>Nato come cane da caccia versatile, capace di lavorare su ogni terreno (specialmente paludi e rovi) e per ogni tipo di selvaggina, lo Spinone è oggi anche un impareggiabile cane da famiglia. Combina la tenacia del cacciatore con un carattere eccezionalmente docile, paziente e affettuoso. È particolarmente noto per la sua pazienza con i bambini.</p>",
+      "origini_storia": "<p>Le origini dello Spinone sono antichissime e si perdono nell'Italia settentrionale, in particolare nel Piemonte. Cani a pelo duro con le sue caratteristiche sono descritti già da Senofonte e Plinio. La sua presenza è certa nel Medioevo e nel Rinascimento. Il nome "Spinone" deriva probabilmente dalla sua abilità di cacciare negli "spini", i roveti impenetrabili, dove altri cani non osavano entrare.</p><p>Come molte razze, subì un forte declino dopo le guerre mondiali, anche a causa dell'importazione di razze da ferma straniere. Il recupero della razza si deve a un gruppo di appassionati allevatori negli anni '50. Lo standard FCI attuale (N° 165) è stato definito per preservare questo cane da ferma unico nel suo genere.</p>",
+      "aspetto_fisico": "<p>Lo Spinone è un cane solido e vigoroso, la cui costruzione sta nel quadrato o quasi. L'altezza al garrese per i maschi è di 60-70 cm, per le femmine 58-65 cm. Il peso varia dai 32 ai 37 kg per i maschi e dai 28 ai 30 kg per le femmine (ma spesso anche di più).</p><p>Il mantello è la sua caratteristica: è duro, ruvido, lungo 4-6 cm, senza sottopelo. Sul muso forma folti baffi, barba e sopracciglia. I colori ammessi sono:
+<ul>
+<li>Bianco (unicolore)</li>
+<li>Bianco-arancio (macchie arancio)</li>
+<li>Roano-arancio (pelo misto bianco e arancio)</li>
+<li>Roano-marrone (pelo misto bianco e marrone)</li>
+</ul>
+Il tartufo è grande e di colore carnicino o marrone, a seconda del mantello. Gli occhi sono grandi e di colore ocra.</p>",
+      "carattere_temperamento": "<p>Lo Spinone è rinomato per il suo temperamento eccezionale. È un cane calmo, riflessivo, docile e incredibilmente paziente. È estremamente leale e affettuoso con la sua famiglia, cercando il contatto fisico. È forse una delle razze da caccia più adatte alla vita in famiglia e notoriamente affidabile con i bambini.</p><p>Sul campo, tuttavia, si trasforma in un cacciatore tenace, resistente alla fatica e al dolore, con un'ottima ferma e un buon riporto, anche dall'acqua. È socievole con altri cani e, sebbene vigile, non è un cane da guardia aggressivo, ma piuttosto un abbaiatore da allerta.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 10-12 anni. Essendo una razza grande, è soggetta a displasia dell'anca e del gomito, per cui i test sui riproduttori sono fondamentali. È anche predisposto a problemi dermatologici, in particolare alla dermatite atopica, e alle otiti, a causa delle orecchie pendenti e pelose.</p><p>Una patologia neurologica rara ma grave legata alla razza è l'atassia cerebellare. Il mantello a pelo duro richiede una toelettatura specifica: non va tosato, ma spazzolato regolarmente e sottoposto a stripping manuale 2-3 volte l'anno per rimuovere il pelo morto e mantenere la pelle sana.</p>",
+      "attivita_addestramento": "<p>L'addestramento dello Spinone deve essere gentile, paziente e coerente. È un cane sensibile che non risponde ai metodi duri. È intelligente e desidera compiacere, ma può avere i suoi tempi (a volte è testardo in modo "bonario"). L'addestramento alla caccia è nel suo DNA, ma apprende bene anche l'obbedienza di base.</p><p>Ha un livello di energia medio-alto. Non è un cane da appartamento. Ha bisogno di esercizio quotidiano e di qualità: lunghe passeggiate in campagna, nuotate e la possibilità di correre in aree sicure. Se annoiato, può diventare rumoroso e scavare.</p>",
+      "ideale_per": "<p>Lo Spinone è un cane meraviglioso per famiglie attive che vivono in campagna o in una casa con un giardino spazioso. È ideale per cacciatori che cercano un compagno versatile e affidabile, ma anche per chi desidera un cane da famiglia di taglia grande, paziente e affettuoso. È un'ottima scelta per chi fa escursionismo.</p><p>Non è adatto a persone sedentarie, a chi vive in un piccolo appartamento o a chi è ossessionato dalla pulizia (la sua barba "gocciola" dopo aver bevuto). Richiede un proprietario disposto a dedicare tempo all'esercizio e alla toelettatura (stripping).</p>",
+      "energia_e_livelli_di_attivita": 4.0,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.5,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 1.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.0,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 3.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 2.0,
+      "cura_e_perdita_pelo_": 3.5,
+      "predisposizioni_per_la_salute": 2.5,
+      "livello_esperienza_richiesto": 3.0,
+      "costo_mantenimento": 3.5,
+      "istinti_di_caccia": 4.5
+    }
+  },
+  {
+    "post_title": "Spitz finnico",
+    "post_excerpt": "Lo Spitz Finnico è il cane nazionale della Finlandia, un cacciatore "abbaiatore" dal pelo rosso-dorato. Vivace, intelligente e molto vocale, è un compagno leale ma indipendente, riservato con gli estranei e con un forte istinto di caccia.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "spitz-finnico",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Spitz finnico"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Spitz-finnico.jpg",
+      "filename": "Spitz-finnico.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Finlandia",
+      "colorazioni": "Rosso-dorato, Rosso-bruno",
+      "temperamento_breve": "Vivace, Intelligente, Vocale, Indipendente",
+      "descrizione_generale": "<p>Lo Spitz Finnico (Suomenpystykorva) è il cane nazionale della Finlandia, una razza di tipo Spitz dall'aspetto volpino e dal magnifico mantello rosso-dorato. È un cane da caccia specializzato: non insegue la preda, ma la individua (principalmente galli cedroni e tetraoni) e la "punta" abbaiando incessantemente per segnalare la sua posizione al cacciatore.</p><p>Questo suo utilizzo lo rende un cane estremamente vocale, vivace e intelligente. Come compagno di famiglia, è leale e giocoso, ma mantiene una forte indipendenza e una naturale diffidenza verso gli estranei. È un cane robusto, adatto ai climi freddi e che richiede un proprietario attivo.</p>",
+      "origini_storia": "<p>Lo Spitz Finnico è utilizzato per la caccia nelle foreste della Finlandia da migliaia di anni. È una razza pura, sviluppatasi in isolamento per adattarsi alle dure condizioni scandinave. Il suo compito era trovare la selvaggina da penna (come il gallo cedrone) e "incantarla" con il suo abbaio rapido e ipnotico (simile a uno yodel), tenendola ferma sull'albero finché il cacciatore non arrivava a portata di tiro.</p><p>Alla fine del XIX secolo, l'avvento di altre razze e l'incrocio indiscriminato misero a rischio la purezza dello Spitz Finnico. Due appassionati cacciatori, Hugo Roos e Hugo Sandberg, iniziarono un meticoloso programma di salvataggio. La razza fu riconosciuta nel 1892 e nominata "Cane Nazionale" della Finlandia nel 1979.</p>",
+      "aspetto_fisico": "<p>Lo Spitz Finnico è un cane di taglia media, inscritto nel quadrato. L'altezza al garrese per i maschi è di 44-50 cm, per le femmine 39-45 cm. Il peso è di 12-13 kg per i maschi e 7-10 kg per le femmine. Ha un'espressione vivace e volpina.</p><p>Il mantello è doppio: il pelo di copertura è lungo, dritto e piuttosto duro, specialmente sul collo e sul dorso. Il sottopelo è corto, soffice e fitto. Il colore è la sua caratteristica: un rosso brillante o rosso-dorato. Sfumature più chiare sono presenti all'interno delle orecchie, sul muso, sul petto, sul ventre e sulla coda. La coda è portata alta e arricciata sul dorso.</p>",
+      "carattere_temperamento": "<p>Il "Finkie" è un cane coraggioso, vivace e molto intelligente, ma anche sensibile e indipendente. È un pensatore autonomo, abituato a prendere iniziative durante la caccia. Con la sua famiglia è leale e giocoso, ma non servile. È riservato e cauto con gli estranei, ma non timido.</p><p>La sua caratteristica comportamentale più spiccata è la vocalità. È un "abbaiatore" per eccellenza; è stato selezionato per questo. Abbaierà per cacciare, per allertare, per noia o per eccitazione. Questo aspetto deve essere compreso e gestito fin da cucciolo. Ha un forte istinto predatorio.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-15 anni. È una razza molto sana e robusta. Ha una bassa incidenza di displasia dell'anca. Alcune linee possono essere soggette a epilessia, ma non è diffusa. Può soffrire di lussazione della rotula. </p><p>Il mantello è autopulente e non ha un forte odore, ma richiede una spazzolatura settimanale. La perdita di pelo è molto abbondante durante le due mute annuali, periodo in cui la spazzolatura deve essere quotidiana. Non necessita di toelettatura professionale.</p>",
+      "attivita_addestramento": "<p>L'addestramento dello Spitz Finnico richiede intelligenza e pazienza. Essendo un cane indipendente, non risponde bene all'addestramento basato sulla ripetizione o sulla coercizione. Si annoia facilmente. Il rinforzo positivo e sessioni brevi e divertenti sono la chiave. È fondamentale un addestramento precoce per gestire l'abbaio.</p><p>Ha un livello di energia alto. Ha bisogno di esercizio quotidiano, non solo passeggiate al guinzaglio, ma anche corse in aree sicure e stimolazione mentale. Ama le escursioni e le attività di fiuto. Non è un cane da appartamento se non si è estremamente attivi.</p>",
+      "ideale_per": "<p>È un cane ideale per cacciatori di selvaggina da penna o per famiglie molto attive che vivono in un contesto rurale o suburbano con un giardino. È adatto a chi apprezza l'intelligenza indipendente di uno Spitz e non è infastidito da un cane molto vocale. È un ottimo compagno di trekking.</p><p>È sconsigliato a chi vive in appartamento o in condomini con vicini sensibili al rumore. Non è adatto a proprietari inesperti, a persone sedentarie o a chi cerca un cane dall'obbedienza immediata e silenziosa. L'istinto predatorio lo rende inadatto a case con piccoli animali.</p>",
+      "energia_e_livelli_di_attivita": 4.5,
+      "affettuosita": 3.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 2.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 5.0,
+      "tolleranza_alla_solitudine": 2.5,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 2.0,
+      "compatibilita_con_altri_animali_domestici": 1.5,
+      "facilita_di_addestramento": 2.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 4.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.5,
+      "livello_esperienza_richiesto": 3.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 5.0
+    }
+  },
+  {
+    "post_title": "Spitz giapponese",
+    "post_excerpt": "Lo Spitz Giapponese è un cane da compagnia di piccola-media taglia, noto per il suo magnifico mantello bianco e il carattere allegro. È un compagno leale, intelligente e un ottimo cane da allerta. Si adatta all'appartamento ma abbaia volentieri.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "spitz-giapponese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Spitz giapponese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Spitz-giapponese.jpg",
+      "filename": "Spitz-giapponese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Giappone",
+      "colorazioni": "Esclusivamente Bianco",
+      "temperamento_breve": "Vivace, Intelligente, Affettuoso, Vigile",
+      "descrizione_generale": "<p>Lo Spitz Giapponese è un cane da compagnia di tipo Spitz, noto per il suo splendido mantello bianco, folto e vaporoso, la coda piumata arricciata sul dorso e l'espressione sorridente. È un cane di taglia piccola-media, leggermente più grande del "cugino" Pomerania, ed è stato selezionato esclusivamente per la compagnia.</p><p>È un cane estremamente allegro, intelligente e devoto alla sua famiglia. Ama essere al centro dell'attenzione e partecipare a tutte le attività. È anche un cane da allerta eccezionale, molto vigile e pronto ad abbaiare per segnalare l'arrivo di estranei o rumori insoliti. Si adatta bene alla vita in appartamento.</p>",
+      "origini_storia": "<p>Lo Spitz Giapponese è una razza relativamente moderna. Fu sviluppato in Giappone negli anni '20 e '30 del XX secolo. Si ritiene che i suoi progenitori principali siano stati degli Spitz Tedeschi bianchi di taglia grande (Großspitz) importati dalla Siberia e dalla Cina nord-orientale.</p><p>La razza fu esposta per la prima volta a Tokyo nel 1921. Attraverso incroci selettivi con altri Spitz bianchi di taglia piccola e media, gli allevatori giapponesi hanno lavorato per creare un cane da compagnia elegante e dal carattere piacevole. Lo standard unificato della razza fu stabilito dopo la Seconda Guerra Mondiale, nel 1948, e la FCI lo ha riconosciuto nel 1964 (Standard N° 262).</p>",
+      "aspetto_fisico": "<p>È un cane compatto e ben proporzionato. L'altezza al garrese per i maschi è di 30-38 cm, con le femmine leggermente più piccole. Il peso è solitamente compreso tra i 5 e i 10 kg. L'aspetto è elegante e fiero.</p><p>Il mantello è la sua caratteristica distintiva: è un doppio mantello molto folto. Il pelo di copertura è lungo, dritto e sollevato, mentre il sottopelo è corto, soffice e denso. Forma una ricca criniera sul collo. L'unico colore ammesso è il bianco puro. Nonostante il colore, il pelo ha una consistenza "teflon" che tende a respingere lo sporco. La coda è portata alta e arricciata sul dorso.</p>",
+      "carattere_temperamento": "<p>Lo Spitz Giapponese è un cane da compagnia per eccellenza. È vivace, giocherellone e molto affettuoso con la sua famiglia, verso cui è estremamente leale. È intelligente e apprende rapidamente, amando compiacere il proprietario. È un cane che soffre la solitudine e ha bisogno di essere parte integrante della vita familiare.</p><p>È un cane da guardia molto vigile. È sospettoso verso gli estranei e ha una forte tendenza ad abbaiare per dare l'allarme. Questa sua vocalità richiede un'educazione precoce per evitare che diventi eccessiva. È generalmente socievole con altri cani e bambini, se ben socializzato.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-16 anni. È una razza molto sana e robusta. L'unico problema relativamente comune è la lussazione della rotula (patellar luxation), tipica di molte razze piccole. Occasionalmente, possono verificarsi problemi di lacrimazione eccessiva (epifora) che possono macchiare il pelo bianco sotto gli occhi.</p><p>Il folto mantello bianco richiede meno cure di quanto si possa pensare. Una spazzolatura approfondita 2-3 volte a settimana è sufficiente per prevenire nodi e mantenere il pelo pulito. Perde molto pelo durante le mute stagionali. Non richiede tosatura, che anzi danneggerebbe il mantello.</p>",
+      "attivita_addestramento": "<p>L'addestramento è generalmente facile e piacevole. Sono intelligenti, attenti e desiderosi di imparare. Rispondono magnificamente al rinforzo positivo, ai giochi e ai premi. L'addestramento deve essere focalizzato sulla gestione dell'abbaio e sulla socializzazione con gli estranei per mitigare la loro diffidenza.</p><p>Hanno un livello di energia medio-alto. Si adattano perfettamente alla vita in appartamento, ma non sono cani da divano. Hanno bisogno di passeggiate quotidiane e di sessioni di gioco. Eccellono in sport come l'agility (sono molto agili) e l'obedience.</p>",
+      "ideale_per": "<p>È un compagno meraviglioso per una vasta gamma di persone: famiglie (anche con bambini), anziani attivi e single. È ideale per chi vive in appartamento ma è disposto a fornire esercizio quotidiano e stimolazione mentale. È perfetto per chi cerca un cane da allerta vivace e affettuoso.</p><p>Non è adatto a chi è infastidito dall'abbaio o a chi è fuori casa per molte ore al giorno. Non è la scelta giusta per chi non vuole gestire la perdita di pelo durante le mute. Richiede un proprietario disposto a investire nella socializzazione.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 4.5,
+      "socievolezza_cani": 4.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 2.5,
+      "adattabilita_clima_freddo": 4.0,
+      "tolleranza_alla_solitudine": 1.5,
+      "compatibilita_con_i_bambini": 4.5,
+      "tolleranza_estranei": 2.5,
+      "compatibilita_con_altri_animali_domestici": 3.5,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.5,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 2.0,
+      "predisposizioni_per_la_salute": 4.0,
+      "livello_esperienza_richiesto": 2.0,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 2.0
+    }
+  },
+  {
+    "post_title": "Spitz tedeschi",
+    "post_excerpt": "Gli Spitz Tedeschi sono un gruppo di razze antiche, divise in cinque taglie (dal Pomerania al Wolfspitz). Famosi per il loro mantello folto e la coda arricciata, sono cani da guardia eccezionalmente vigili, leali e diffidenti con gli estranei.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "spitz-tedeschi",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Spitz tedeschi"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Spitz-tedeschi.jpg",
+      "filename": "Spitz-tedeschi.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Germania",
+      "colorazioni": "Nero, Marrone, Bianco, Arancio, Grigio-nuvolato (Wolfspitz), Altri colori (a seconda della taglia)",
+      "temperamento_breve": "Vivace, Leale, Vigile, Diffidente (con estranei)",
+      "descrizione_generale": "<p>Lo Spitz Tedesco non è una singola razza, ma un gruppo di cinque varietà di taglia che condividono lo stesso standard FCI (N° 97) e un'origine comune. Sono tra i cani più antichi dell'Europa centrale, discendenti dei cani delle torbiere dell'Età della Pietra. Famosi per il loro splendido doppio mantello, la testa da volpe e la coda arricciata sul dorso, sono stati selezionati per secoli come cani da guardia e da compagnia.</p><p>Indipendentemente dalla taglia, tutti gli Spitz Tedeschi condividono un carattere vigile, un'incredibile devozione al proprietario e una spiccata diffidenza verso gli estranei, che li rende sentinelle incorruttibili. Sono cani vivaci, intelligenti ma anche testardi.</p>",
+      "origini_storia": "<p>Gli Spitz sono i discendenti diretti dei "cani delle torbiere" (Torfhund) che vivevano con l'uomo nell'Europa centrale già nel Neolitico. Per secoli, sono stati i cani da fattoria e da guardia per eccellenza in Germania e nelle aree circostanti. Il loro compito era semplice: fare la guardia e abbaiare furiosamente a qualsiasi cosa fuori dall'ordinario, proteggendo la casa e la proprietà.</p><p>Nel XIX secolo, iniziò la selezione delle diverse varietà di taglia e colore. La varietà più piccola, lo Zwergspitz (Pomerania), divenne famosa grazie alla Regina Vittoria, mentre la varietà più grande, il Wolfspitz (Keeshond), divenne un simbolo dei patrioti olandesi. Il primo standard fu redatto in Germania nel 1899.</p>",
+      "aspetto_fisico": "<p>La caratteristica comune è l'aspetto "da spitz": muso da volpe, orecchie erette e coda arricciata. Il mantello è sempre doppio, con un pelo di copertura lungo e dritto e un sottopelo corto e denso, che crea un effetto "vaporoso".</p><p>Le cinque varietà sono distinte solo dalla taglia e dai colori ammessi:
+<ul>
+<li><b>Wolfspitz (Keeshond):</b> 49 cm ± 6 cm. Colore: solo grigio-nuvolato (grigio-argento con punte nere).</li>
+<li><b>Grande Spitz (Großspitz):</b> 46 cm ± 4 cm. Colori: bianco, nero, marrone.</li>
+<li><b>Medio Spitz (Mittelspitz):</b> 34 cm ± 4 cm. Colori: bianco, nero, marrone, arancio, grigio, altri.</li>
+<li><b>Piccolo Spitz (Kleinspitz):</b> 26 cm ± 3 cm. Colori: bianco, nero, marrone, arancio, grigio, altri.</li>
+<li><b>Nano/Pomerania (Zwergspitz):</b> 20 cm ± 2 cm. Colori: bianco, nero, marrone, arancio, grigio, altri.</li>
+</ul></p>",
+      "carattere_temperamento": "<p>Il carattere è straordinariamente costante in tutte le taglie. Lo Spitz è, prima di tutto, un cane da guardia. È estremamente leale e affettuoso con la sua famiglia, ma altrettanto diffidente e sospettoso verso gli estranei. Non è un cane che dà confidenza, è una sentinella che abbaia al minimo stimolo.</p><p>È vivace, intelligente e apprende velocemente, ma è anche molto testardo e indipendente. Non è un cane servile e obbedirà solo se vede un motivo per farlo. Soffre la solitudine e ha bisogno di essere parte della famiglia. La sua vocalità è il suo tratto distintivo e deve essere gestita.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è generalmente lunga, 12-16 anni. Le varietà più piccole (Nano e Piccolo) sono più soggette a problemi come la lussazione della rotula e il collasso tracheale. L'Alopecia X (perdita di pelo) è una condizione nota, specialmente nel Pomerania. Le varietà più grandi (Grande e Wolfspitz) sono più robuste, anche se il Wolfspitz può essere soggetto a iperparatiroidismo primario (PHPT).</p><p>Il folto mantello richiede una spazzolatura regolare (2-3 volte a settimana) per evitare nodi nel sottopelo. Paradossalmente, non richiede toelettatura professionale ed è sconsigliata la tosatura. La perdita di pelo è massiccia durante le mute.</p>",
+      "attivita_addestramento": "<p>L'addestramento è necessario per gestire due aspetti: la testardaggine e l'abbaio. Rispondono bene a un addestramento positivo e divertente, ma si annoiano facilmente. La socializzazione precoce è cruciale per insegnare al cane che non tutto è una minaccia da segnalare.</p><p>Le esigenze di esercizio variano con la taglia, ma tutti gli Spitz sono attivi. Le taglie piccole si adattano all'appartamento ma necessitano di gioco e passeggiate. Le taglie più grandi hanno bisogno di più sfogo fisico. Tutte le varietà eccellono in sport come l'agility.</p>",
+      "ideale_per": "<p>Lo Spitz è ideale per chi cerca un cane da allerta insuperabile e un compagno leale. È adatto a chi è spesso a casa e apprezza un cane "che parla". Si adatta all'appartamento (specie le taglie piccole) ma richiede un proprietario disposto a gestire l'abbaio e la perdita di pelo.</p><p>Non è assolutamente adatto a chi cerca un cane silenzioso, o a chi è infastidito dalla diffidenza verso gli ospiti. Non è un cane per chi è fuori casa tutto il giorno. Richiede un proprietario paziente che apprezzi la sua intelligenza indipendente.</p>",
+      "energia_e_livelli_di_attivita": 3.5,
+      "affettuosita": 4.5,
+      "vocalita_e_predisposizione_ad_abbaiare": 5.0,
+      "socievolezza_cani": 3.0,
+      "adattabilita_appartamento": 4.5,
+      "adattabilita_clima_caldo": 2.0,
+      "adattabilita_clima_freddo": 4.5,
+      "tolleranza_alla_solitudine": 2.0,
+      "compatibilita_con_i_bambini": 3.5,
+      "tolleranza_estranei": 1.0,
+      "compatibilita_con_altri_animali_domestici": 3.0,
+      "facilita_di_addestramento": 3.0,
+      "intelligenza": 4.0,
+      "esigenze_di_esercizio": 3.0,
+      "facilita_toelettatura": 2.5,
+      "cura_e_perdita_pelo_": 1.5,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 2.5,
+      "istinti_di_caccia": 1.5
+    }
+  },
+  {
+    "post_title": "Springer spaniel inglese",
+    "post_excerpt": "Lo Springer Spaniel Inglese è un cane da caccia energico, allegro e incredibilmente affettuoso. Nato per "far saltare" (spring) la selvaggina, è un compagno di famiglia ideale per proprietari molto attivi, che amano l'acqua e le lunghe corse.",
+    "post_type": "razze_di_cani",
+    "post_status": "publish",
+    "slug": "springer-spaniel-inglese",
+    "taxonomies": {
+      "razze_allevamenti": [
+        "Springer spaniel inglese"
+      ]
+    },
+    "featured_image": {
+      "url": "https://www.caniincasa.it/wp-content/uploads/2023/10/Springer-spaniel-inglese.jpg",
+      "filename": "Springer-spaniel-inglese.jpg"
+    },
+    "acf": {
+      "nazione_origine": "Regno Unito (Inghilterra)",
+      "colorazioni": "Fegato e bianco, Nero e bianco (con o senza focature)",
+      "temperamento_breve": "Affettuoso, Energico, Allegro, Intelligente",
+      "descrizione_generale": "<p>Lo Springer Spaniel Inglese è il capostipite di molte razze spaniel da caccia. È un cane di taglia media, robusto e atletico, noto per le sue lunghe orecchie pendenti e il suo mantello frangiato. Il suo nome deriva dalla sua funzione originaria: \"springing\", ovvero stanare la selvaggina (farla saltare fuori) dai nascondigli per i cacciatori (un tempo con reti o falchi, oggi col fucile).</p><p>È un cane dal carattere eccezionalmente allegro, affettuoso e pieno di energia. È un "cane velcro" che adora la sua famiglia e soffre la solitudine. La razza è oggi divisa in due linee: le linee da lavoro (Field), più energiche e dall'aspetto leggero, e le linee da esposizione (Show), più calme e con più pelo.</p>",
+      "origini_storia": "<p>Gli "Spaniel" sono presenti in Inghilterra da secoli, e cani simili allo Springer sono raffigurati in opere d'arte già nel XVI secolo. Erano cani da caccia essenziali, che lavoravano nel fitto della boscaglia. In passato, gli "Spaniel da terra" (Land Spaniels) venivano classificati solo in base alla taglia: i più piccoli della stessa cucciolata diventavano "Cocker" (per la beccaccia), i più grandi "Springer".</p><p>Fu solo alla fine del XIX secolo che iniziò una selezione più definita. Il Kennel Club inglese riconobbe lo Springer Spaniel e il Cocker Spaniel come due razze separate nel 1902. Lo Springer divenne rapidamente uno dei cani da caccia più popolari e un eccellente cane da famiglia.</p>",
+      "aspetto_fisico": "<p>Lo Springer Inglese è un cane compatto e simmetrico. L'altezza al garrese è di circa 51 cm per i maschi e 48 cm per le femmine. Il peso si aggira tra i 20 e i 25 kg. Le linee da lavoro sono spesso più leggere e con meno pelo rispetto alle linee da esposizione, che sono più robuste e pesantemente frangiate.</p><p>Il mantello è doppio, di media lunghezza, liscio o leggermente ondulato, con frange distintive su orecchie, petto, ventre e zampe. I colori ammessi sono:
+<ul>
+<li>Fegato (marrone) e bianco</li>
+<li>Nero e bianco</li>
+<li>Entrambi i colori possono presentare focature (tan)</li>
+</ul>
+Le orecchie sono lunghe, larghe e pendenti.</p>",
+      "carattere_temperamento": "<p>Lo Springer è l'ottimismo fatto cane. È allegro, estroverso, amichevole e desideroso di compiacere. È un cane da famiglia eccezionale, molto paziente con i bambini e generalmente socievole con altri cani e animali domestici (se socializzato). È un "cane velcro" che ha bisogno di contatto umano e non tollera bene la solitudine.</p><p>È anche un cane da caccia nel cuore: ha un'energia sconfinata, un grande amore per l'acqua (e il fango!) e un forte istinto di caccia e riporto. Ha bisogno di sfogare questa energia per essere equilibrato in casa. Le linee da lavoro hanno un'energia e un istinto predatorio significativamente più alti.</p>",
+      "salute_cura": "<p>L'aspettativa di vita è di 12-14 anni. È una razza generalmente sana, ma predisposta ad alcune patologie. Le più comuni sono la displasia dell'anca e del gomito e le infezioni alle orecchie (otite), data la loro forma pendente e pelosa, che richiede pulizia costante.</p><p>Sono anche soggetti ad alcune malattie oculari (come l'atrofia progressiva della retina - PRA) e a una condizione specifica chiamata "Rage Syndrome" (Sindrome della Rabbia), sebbene sia estremamente rara e spesso confusa con altri problemi comportamentali. Il mantello richiede spazzolate regolari (2-3 volte a settimana) per evitare nodi nelle frange.</p>",
+      "attivita_addestramento": "<p>L'addestramento è fondamentale per gestire la sua esuberanza. Sono cani molto intelligenti e desiderosi di imparare, il che li rende facili da addestrare con metodi positivi. Rispondono con entusiasmo al cibo e al gioco. L'addestramento al richiamo è importante, dato il loro istinto di seguire le piste.</p><p>Le esigenze di esercizio sono molto elevate. Non è un cane da appartamento, a meno che il proprietario non sia un atleta. Ha bisogno di almeno 1-2 ore di attività intensa al giorno: corse libere in aree sicure, nuoto (lo adorano), riporto e sport cinofili come l'agility o il nosework.</p>",
+      "ideale_per": "<p>Lo Springer Spaniel è ideale per famiglie molto attive, sportive e che vivono in campagna o in una casa con giardino. È perfetto per chi fa escursionismo, jogging o cerca un cane per sport cinofili. È un compagno di vita impareggiabile per chi può includerlo nella maggior parte delle attività quotidiane.</p><p>È sconsigliato a persone sedentarie, a chi vive in un piccolo appartamento senza tempo per l'esercizio, o a chi è fuori casa tutto il giorno. L'energia repressa di uno Springer può facilmente trasformarsi in comportamenti distruttivi e iperattività. Richiede impegno nella cura delle orecchie e del pelo.</p>",
+      "energia_e_livelli_di_attivita": 5.0,
+      "affettuosita": 5.0,
+      "vocalita_e_predisposizione_ad_abbaiare": 3.0,
+      "socievolezza_cani": 4.5,
+      "adattabilita_appartamento": 2.0,
+      "adattabilita_clima_caldo": 3.0,
+      "adattabilita_clima_freddo": 3.5,
+      "tolleranza_alla_solitudine": 1.0,
+      "compatibilita_con_i_bambini": 5.0,
+      "tolleranza_estranei": 4.5,
+      "compatibilita_con_altri_animali_domestici": 4.0,
+      "facilita_di_addestramento": 4.5,
+      "intelligenza": 4.5,
+      "esigenze_di_esercizio": 5.0,
+      "facilita_toelettatura": 3.0,
+      "cura_e_perdita_pelo_": 3.0,
+      "predisposizioni_per_la_salute": 3.0,
+      "livello_esperienza_richiesto": 2.5,
+      "costo_mantenimento": 3.0,
+      "istinti_di_caccia": 4.5
+    }
+  }
+]
