@@ -1,0 +1,972 @@
+# PROMPT PER CHATGPT - GENERAZIONE CONTENUTI RAZZE CANINE
+
+## CONTESTO
+Sei un esperto cinofilo che deve creare schede complete per razze canine per il sito www.caniincasa.it.
+Riceverai il nome della razza e dovrai generare TUTTI i contenuti necessari in formato JSON.
+
+## INFORMAZIONI CHE RICEVERAI
+Per ogni razza ti fornirò:
+- Nome della razza
+- Slug (per SEO, da mantenere identico)
+- Categoria tassonomia "razze allevamenti"
+- URL immagine esistente
+
+## STRUTTURA OUTPUT RICHIESTA
+
+Genera un oggetto JSON con questa ESATTA struttura per ogni razza:
+
+```json
+{
+  "post_title": "Nome Razza",
+  "post_excerpt": "Breve descrizione 50-60 parole per SEO",
+  "post_type": "razze_di_cani",
+  "post_status": "publish",
+  "slug": "slug-della-razza",
+  "taxonomies": {
+    "razze_allevamenti": ["Nome Categoria"]
+  },
+  "featured_image": {
+    "url": "https://www.caniincasa.it/...",
+    "filename": "nome-file.jpg"
+  },
+  "acf": {
+    "nazione_origine": "Italia / Germania / Francia / ecc.",
+    "colorazioni": "Nero, Marrone, Bianco (una per riga o virgole)",
+    "temperamento_breve": "3-5 parole chiave (es: Affettuoso, Energico, Protettivo)",
+
+    "descrizione_generale": "<p>2-3 paragrafi HTML introduttivi alla razza</p>",
+    "origini_storia": "<p>2-3 paragrafi HTML su storia e origini</p>",
+    "aspetto_fisico": "<p>Descrizione fisica: taglia, peso, mantello, colori in HTML</p>",
+    "carattere_temperamento": "<p>2-3 paragrafi HTML su carattere e comportamento</p>",
+    "salute_cura": "<p>Aspettativa vita, problemi comuni, toelettatura in HTML</p>",
+    "attivita_addestramento": "<p>Esigenze esercizio, facilità addestramento in HTML</p>",
+    "ideale_per": "<p>Per chi è adatta / chi dovrebbe evitarla in HTML</p>",
+
+    "energia_e_livelli_di_attivita": 3.5,
+    "affettuosita": 4.0,
+    "vocalita_e_predisposizione_ad_abbaiare": 2.5,
+    "socievolezza_cani": 4.5,
+    "adattabilita_appartamento": 3.0,
+    "adattabilita_clima_caldo": 3.5,
+    "adattabilita_clima_freddo": 4.0,
+    "tolleranza_alla_solitudine": 2.5,
+    "compatibilita_con_i_bambini": 5.0,
+    "tolleranza_estranei": 4.0,
+    "compatibilita_con_altri_animali_domestici": 4.5,
+    "facilita_di_addestramento": 4.5,
+    "intelligenza": 4.5,
+    "esigenze_di_esercizio": 4.0,
+    "facilita_toelettatura": 3.5,
+    "cura_e_perdita_pelo_": 3.0,
+    "predisposizioni_per_la_salute": 4.0,
+    "livello_esperienza_richiesto": 2.0,
+    "costo_mantenimento": 3.0,
+    "istinti_di_caccia": 3.0
+  }
+}
+```
+
+## LINEE GUIDA PER I CONTENUTI
+
+### post_excerpt (50-60 parole)
+- Breve descrizione ottimizzata SEO
+- Include: taglia, temperamento principale, utilizzo, requisiti base
+- Esempio: "Il Golden Retriever è un cane da famiglia eccezionale: dolce, intelligente e paziente. Perfetto con i bambini, eccelle come cane da terapia e assistenza. Richiede attività quotidiana."
+
+### Campi Sidebar
+- **nazione_origine**: Paese/regione di origine (es: "Regno Unito (Scozia)", "Italia", "Germania")
+- **colorazioni**: Elenca tutti i colori ammessi, separati da virgola o a capo
+- **temperamento_breve**: 3-5 parole chiave massimo (es: "Affettuoso, Intelligente, Protettivo")
+
+### Sezioni Contenuto WYSIWYG (HTML formattato)
+
+#### descrizione_generale (2-3 paragrafi)
+- Introduzione generale alla razza
+- Perché è popolare/caratteristiche distintive
+- Utilizzo principale (compagnia, lavoro, caccia, ecc.)
+
+#### origini_storia (2-3 paragrafi)
+- Storia della razza
+- Origini geografiche e temporali
+- Sviluppo nel tempo
+- Riconoscimenti ufficiali (Kennel Club, FCI)
+
+#### aspetto_fisico (2+ paragrafi)
+- Taglia: peso maschi/femmine, altezza al garrese
+- Struttura fisica
+- Mantello: tipo, lunghezza, texture
+- Colori ammessi (dettagliato)
+- Caratteristiche distintive (orecchie, coda, occhi)
+
+#### carattere_temperamento (2-3 paragrafi)
+- Temperamento generale
+- Interazione con famiglia/bambini
+- Comportamento con estranei
+- Istinti naturali
+- Esigenze di socializzazione
+
+#### salute_cura (2 paragrafi)
+- Aspettativa di vita media
+- Problemi di salute comuni
+- Predisposizioni genetiche
+- Esigenze di toelettatura (frequenza, tipo)
+- Perdita pelo
+- Controlli veterinari consigliati
+
+#### attivita_addestramento (2 paragrafi)
+- Ore di esercizio quotidiano necessarie
+- Tipi di attività adatte
+- Sport cinofili in cui eccelle
+- Facilità/difficoltà addestramento
+- Metodi consigliati
+- Socializzazione
+
+#### ideale_per (1-2 paragrafi)
+- Per chi è adatta (stili di vita, esperienza)
+- Chi dovrebbe EVITARLA (importante!)
+- Situazioni abitative ideali
+- Requisiti del proprietario ideale
+
+### Caratteristiche (Valori 1-5, step 0.5)
+
+**SCALA DI VALUTAZIONE:**
+
+1. **energia_e_livelli_di_attivita**
+   - 1-2: Calmo, sedentario (Bulldog, San Bernardo)
+   - 3: Moderato (Basset Hound, Shiba Inu)
+   - 4: Attivo (Golden Retriever, Boxer)
+   - 5: Iperattivo (Border Collie, Husky, Jack Russell)
+
+2. **affettuosita**
+   - 1-2: Indipendente, distaccato (Basenji, Shiba)
+   - 3: Moderato
+   - 4-5: Molto affettuoso, "velcro dog" (Golden, Cavalier King)
+
+3. **vocalita_e_predisposizione_ad_abbaiare**
+   - 1-2: Silenzioso (Basenji, Shiba)
+   - 3: Moderato
+   - 4-5: Molto vocale (Beagle, Terrier, Husky)
+
+4. **socievolezza_cani**
+   - 1-2: Preferisce essere unico
+   - 3: Selettivo
+   - 4-5: Ama altri cani (Golden, Beagle)
+
+5. **adattabilita_appartamento**
+   - 1-2: Necessita spazio esterno (Husky, San Bernardo)
+   - 3: Si adatta con esercizio
+   - 4-5: Perfetto per appartamento (Bulldog Francese, Cavalier King)
+
+6. **adattabilita_clima_caldo**
+   - 1-2: Soffre il caldo (Husky, razze brachicefale)
+   - 3: Tolleranza media
+   - 4-5: Ottima tolleranza (razze a pelo corto, mediterranee)
+
+7. **adattabilita_clima_freddo**
+   - 1-2: Soffre il freddo (Chihuahua, razze toy)
+   - 3: Tolleranza media
+   - 4-5: Ottima tolleranza (Husky, San Bernardo, razze nordiche)
+
+8. **tolleranza_alla_solitudine**
+   - 1-2: Non tollera (razze da compagnia, Cavalier King)
+   - 3: Moderata
+   - 4-5: Indipendente (Shiba, Basenji)
+
+9. **compatibilita_con_i_bambini**
+   - 1-2: Non adatto (cani piccoli fragili, temperamenti difficili)
+   - 3: Con supervisione
+   - 4-5: Eccellente (Golden, Labrador, Beagle)
+
+10. **tolleranza_estranei**
+    - 1-2: Diffidente, protettivo (cani da guardia)
+    - 3: Riservato
+    - 4-5: Amichevole con tutti (Golden, Beagle)
+
+11. **compatibilita_con_altri_animali_domestici**
+    - 1-2: Difficile (alto istinto predatorio)
+    - 3: Selettivo
+    - 4-5: Ottima (Golden, Cavalier King)
+
+12. **facilita_di_addestramento**
+    - 1-2: Molto difficile (Basenji, Afghan Hound)
+    - 3: Media (Beagle, Shiba)
+    - 4-5: Facile (Border Collie, Golden, Pastore Tedesco)
+
+13. **intelligenza**
+    - 1-2: Segue istinto più che ragionamento
+    - 3: Media
+    - 4-5: Molto intelligente (Border Collie, Barboncino, Pastore Tedesco)
+
+14. **esigenze_di_esercizio**
+    - 1-2: Minimo (Bulldog, razze toy)
+    - 3: Moderato (30-45 min)
+    - 4: Alto (1-1.5 ore)
+    - 5: Molto alto (2+ ore) (Border Collie, Husky)
+
+15. **facilita_toelettatura**
+    - 1-2: Richiede toelettatura professionale frequente (Barboncino, Komondor)
+    - 3: Moderata
+    - 4-5: Minima (razze a pelo corto)
+
+16. **cura_e_perdita_pelo_**
+    - 1-2: Perde molto (Husky, San Bernardo)
+    - 3: Moderata
+    - 4-5: Perde poco/nulla (Barboncino, razze senza pelo)
+
+17. **predisposizioni_per_la_salute**
+    - 1-2: Molte predisposizioni (razze brachicefale, toy molto piccoli)
+    - 3: Media
+    - 4-5: Molto robusto (razze primitive, cani da lavoro ben selezionati)
+
+18. **livello_esperienza_richiesto**
+    - 1-2: Principianti (Golden, Cavalier King)
+    - 3: Intermedio
+    - 4-5: Solo esperti (razze da protezione, primitive, alte energie)
+
+19. **costo_mantenimento**
+    - 1-2: Economico (razze piccole, sane, pelo corto)
+    - 3: Medio
+    - 4-5: Costoso (taglia grande + toelettatura + problemi salute)
+
+20. **istinti_di_caccia**
+    - 1-2: Quasi assenti (razze da compagnia)
+    - 3: Moderato
+    - 4-5: Molto forti (segugi, terrier, razze primitive)
+
+## FORMATO HTML PER SEZIONI
+
+Usa SEMPRE questi tag HTML nei campi WYSIWYG:
+```html
+<p>Paragrafo di testo.</p>
+<p>Altro paragrafo.</p>
+
+<h3>Eventuale sottotitolo</h3>
+<p>Testo sotto il sottotitolo.</p>
+
+<ul>
+  <li>Punto elenco 1</li>
+  <li>Punto elenco 2</li>
+</ul>
+```
+
+## STILE DI SCRITTURA
+
+- **Tono**: Informativo ma accessibile, non troppo tecnico
+- **Lunghezza paragrafi**: 3-5 frasi massimo
+- **Linguaggio**: Italiano corretto, evita termini troppo specialistici senza spiegarli
+- **Focus**: Utilità pratica per chi cerca informazioni sulla razza
+- **Bilanciamento**: Menziona sia aspetti positivi che sfide/difficoltà
+- **Onestà**: Sii chiaro su chi NON dovrebbe prendere questa razza
+
+## FONTI DA CONSIDERARE
+
+Basa le informazioni su:
+- Standard FCI (Fédération Cynologique Internationale)
+- Standard ENCI (Ente Nazionale Cinofilia Italiana)
+- Standard AKC (American Kennel Club) quando rilevante
+- Conoscenze cinologiche consolidate
+- Caratteristiche tipiche della razza secondo gli standard
+
+## ESEMPI DI RAZZE GIÀ COMPLETATE
+
+Usa questi come riferimento per qualità e stile:
+- Golden Retriever (esempio razza da famiglia)
+- Border Collie (esempio razza da lavoro alta energia)
+- Bulldog Francese (esempio razza da appartamento)
+- Rottweiler (esempio razza da guardia per esperti)
+- Siberian Husky (esempio razza nordica alta energia)
+
+## OUTPUT FINALE
+
+Genera SOLO il JSON, senza testo aggiuntivo prima o dopo.
+Il JSON deve essere valido e formattato correttamente.
+Ogni valore numerico deve essere un numero (non stringa).
+Ogni campo HTML deve contenere HTML valido.
+
+## IMPORTANTE
+
+- Mantieni lo SLUG esattamente come fornito (per SEO)
+- Mantieni la categoria "razze allevamenti" esattamente come fornita
+- Mantieni l'URL immagine esattamente come fornito
+- NON inventare dati numerici (peso, altezza): usa informazioni standard ufficiali
+- Se una caratteristica è incerta, usa un valore medio-neutro (3)
+
+---
+
+## ESEMPIO INPUT CHE RICEVERAI:
+
+```
+Razza: Labrador Retriever
+Slug: labrador-retriever
+Categoria: Labrador Retriever
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/labrador.jpg
+Immagine File: labrador.jpg
+```
+
+## ESEMPIO OUTPUT CHE DEVI GENERARE:
+
+[Inserisci qui l'intero JSON secondo la struttura sopra indicata]
+
+---
+
+Sei pronto? Quando ti fornirò l'elenco delle razze, genera per ciascuna l'oggetto JSON completo.
+Per efficienza, puoi processare 5-10 razze alla volta.
+
+
+================================================================================
+
+# BATCH 2/6 - Genera i JSON per le seguenti razze:
+
+## RAZZA 1: Cane corso
+
+```
+Razza: Cane corso
+Slug: cane-corso
+Categoria: Cane corso
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-corso.jpg
+Immagine File: Cane-corso.jpg
+```
+
+## RAZZA 2: Cane da ferma boemo
+
+```
+Razza: Cane da ferma boemo
+Slug: cane-da-ferma-boemo
+Categoria: Cane da ferma boemo
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-ferma-boemo.jpg
+Immagine File: Cane-da-ferma-boemo.jpg
+```
+
+## RAZZA 3: Cane da ferma tedesco
+
+```
+Razza: Cane da ferma tedesco
+Slug: cane-da-ferma-tedesco
+Categoria: Cane da ferma tedesco
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-ferma-tedesco.jpg
+Immagine File: Cane-da-ferma-tedesco.jpg
+```
+
+## RAZZA 4: Cane da lupo cecoslovacco
+
+```
+Razza: Cane da lupo cecoslovacco
+Slug: cane-da-lupo-cecoslovacco
+Categoria: Cane da lupo cecoslovacco
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-lupo-cecoslovacco.jpg
+Immagine File: Cane-da-lupo-cecoslovacco.jpg
+```
+
+## RAZZA 5: Cane da lupo saarloos
+
+```
+Razza: Cane da lupo saarloos
+Slug: cane-da-lupo-saarloos
+Categoria: Cane da lupo saarloos
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-lupo-saarloos.jpg
+Immagine File: Cane-da-lupo-saarloos.jpg
+```
+
+## RAZZA 6: Cane da montagna dei pirenei
+
+```
+Razza: Cane da montagna dei pirenei
+Slug: cane-da-montagna-dei-pirenei
+Categoria: Cane da montagna dei pirenei
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-montagna-dei-pirenei.jpg
+Immagine File: Cane-da-montagna-dei-pirenei.jpg
+```
+
+## RAZZA 7: Cane da orso della carelia
+
+```
+Razza: Cane da orso della carelia
+Slug: cane-da-orso-della-carelia
+Categoria: Cane da orso della carelia
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-orso-della-carelia.jpg
+Immagine File: Cane-da-orso-della-carelia.jpg
+```
+
+## RAZZA 8: Cane da pastore australiano kelpie
+
+```
+Razza: Cane da pastore australiano kelpie
+Slug: cane-da-pastore-australiano-kelpie
+Categoria: Cane da pastore australiano kelpie
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-australiano-kelpie.jpg
+Immagine File: Cane-da-pastore-australiano-kelpie.jpg
+```
+
+## RAZZA 9: Cane da pastore belga
+
+```
+Razza: Cane da pastore belga
+Slug: cane-da-pastore-belga
+Categoria: Cane da pastore belga
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-belga.jpg
+Immagine File: Cane-da-pastore-belga.jpg
+```
+
+## RAZZA 10: Cane da pastore bergamasco
+
+```
+Razza: Cane da pastore bergamasco
+Slug: cane-da-pastore-bergamasco
+Categoria: Cane da pastore bergamasco
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-bergamasco.jpg
+Immagine File: Cane-da-pastore-bergamasco.jpg
+```
+
+## RAZZA 11: Cane da pastore catalano
+
+```
+Razza: Cane da pastore catalano
+Slug: cane-da-pastore-catalano
+Categoria: Cane da pastore catalano
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-catalano.jpg
+Immagine File: Cane-da-pastore-catalano.jpg
+```
+
+## RAZZA 12: Cane da pastore croato
+
+```
+Razza: Cane da pastore croato
+Slug: cane-da-pastore-croato
+Categoria: Cane da pastore croato
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-croato.jpg
+Immagine File: Cane-da-pastore-croato.jpg
+```
+
+## RAZZA 13: Cane da pastore dei pirenei
+
+```
+Razza: Cane da pastore dei pirenei
+Slug: cane-da-pastore-dei-pirenei
+Categoria: Cane da pastore dei pirenei
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-dei-pirenei.jpg
+Immagine File: Cane-da-pastore-dei-pirenei.jpg
+```
+
+## RAZZA 14: Cane da pastore dei tatra
+
+```
+Razza: Cane da pastore dei tatra
+Slug: cane-da-pastore-dei-tatra
+Categoria: Cane da pastore dei tatra
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-dei-tatra.jpg
+Immagine File: Cane-da-pastore-dei-tatra.jpg
+```
+
+## RAZZA 15: Cane da pastore del caucaso
+
+```
+Razza: Cane da pastore del caucaso
+Slug: cane-da-pastore-del-caucaso
+Categoria: Cane da pastore del caucaso
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-del-caucaso.jpg
+Immagine File: Cane-da-pastore-del-caucaso.jpg
+```
+
+## RAZZA 16: Cane da pastore dell’anatolia
+
+```
+Razza: Cane da pastore dell’anatolia
+Slug: cane-da-pastore-dellanatolia
+Categoria: Cane da pastore dell’anatolia
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-dellanatolia.jpg
+Immagine File: Cane-da-pastore-dellanatolia.jpg
+```
+
+## RAZZA 17: Cane da pastore dell’asia centrale
+
+```
+Razza: Cane da pastore dell’asia centrale
+Slug: cane-da-pastore-dellasia-centrale
+Categoria: Cane da pastore dell’asia centrale
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-dellasia-centrale.jpg
+Immagine File: Cane-da-pastore-dellasia-centrale.jpg
+```
+
+## RAZZA 18: Cane da pastore della russia meridionale
+
+```
+Razza: Cane da pastore della russia meridionale
+Slug: cane-da-pastore-della-russia-meridionale
+Categoria: Cane da pastore della russia meridionale
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-della-russia-meridionale.jpg
+Immagine File: Cane-da-pastore-della-russia-meridionale.jpg
+```
+
+## RAZZA 19: Cane da pastore di beauce
+
+```
+Razza: Cane da pastore di beauce
+Slug: cane-da-pastore-di-beauce
+Categoria: Cane da pastore di beauce
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-beauce.jpg
+Immagine File: Cane-da-pastore-di-beauce.jpg
+```
+
+## RAZZA 20: Cane da pastore di brie
+
+```
+Razza: Cane da pastore di brie
+Slug: cane-da-pastore-di-brie
+Categoria: Cane da pastore di brie
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-brie.jpg
+Immagine File: Cane-da-pastore-di-brie.jpg
+```
+
+## RAZZA 21: Cane da pastore di ciarplanina
+
+```
+Razza: Cane da pastore di ciarplanina
+Slug: cane-da-pastore-di-ciarplanina
+Categoria: Cane da pastore di ciarplanina
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/cane-da-pastore-ciarplanina.webp|https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-ciarplanina.jpeg|https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-ciarplanina.jpg
+Immagine File: cane-da-pastore-ciarplanina.webp|Cane-da-pastore-di-ciarplanina.jpeg|Cane-da-pastore-di-ciarplanina.jpg
+```
+
+## RAZZA 22: Cane da pastore di karst
+
+```
+Razza: Cane da pastore di karst
+Slug: cane-da-pastore-di-karst
+Categoria: Cane da pastore di karst
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-karst.jpg
+Immagine File: Cane-da-pastore-di-karst.jpg
+```
+
+## RAZZA 23: Cane da pastore di picardia
+
+```
+Razza: Cane da pastore di picardia
+Slug: cane-da-pastore-di-picardia
+Categoria: Cane da pastore di picardia
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-di-picardia.jpg
+Immagine File: Cane-da-pastore-di-picardia.jpg
+```
+
+## RAZZA 24: Cane da pastore mallorquin
+
+```
+Razza: Cane da pastore mallorquin
+Slug: cane-da-pastore-mallorquin
+Categoria: Cane da pastore mallorquin
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-mallorquin-.jpg|https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-mallorquin.jpeg
+Immagine File: Cane-da-pastore-mallorquin-.jpg|Cane-da-pastore-mallorquin.jpeg
+```
+
+## RAZZA 25: Cane da pastore maremmano abruzzese
+
+```
+Razza: Cane da pastore maremmano abruzzese
+Slug: cane-da-pastore-maremmano-abruzzese
+Categoria: Cane da pastore maremmano abruzzese
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-maremmano-abruzzese.jpg
+Immagine File: Cane-da-pastore-maremmano-abruzzese.jpg
+```
+
+## RAZZA 26: Cane da pastore olandese
+
+```
+Razza: Cane da pastore olandese
+Slug: cane-da-pastore-olandese
+Categoria: Cane da pastore olandese
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-olandese.jpg
+Immagine File: Cane-da-pastore-olandese.jpg
+```
+
+## RAZZA 27: Cane da pastore polacco di vallee
+
+```
+Razza: Cane da pastore polacco di vallee
+Slug: cane-da-pastore-polacco-di-vallee
+Categoria: Cane da pastore polacco di vallee
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-polacco-di-vallee.jpg
+Immagine File: Cane-da-pastore-polacco-di-vallee.jpg
+```
+
+## RAZZA 28: Cane da pastore scozzese
+
+```
+Razza: Cane da pastore scozzese
+Slug: cane-da-pastore-scozzese
+Categoria: Cane da pastore scozzese
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-pastore-scozzese.jpg
+Immagine File: Cane-da-pastore-scozzese.jpg
+```
+
+## RAZZA 29: Cane da sierra di estrela
+
+```
+Razza: Cane da sierra di estrela
+Slug: cane-da-sierra-di-estrela
+Categoria: Cane da sierra di estrela
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-da-sierra-di-estrela.jpg
+Immagine File: Cane-da-sierra-di-estrela.jpg
+```
+
+## RAZZA 30: Cane de castro laboreiro
+
+```
+Razza: Cane de castro laboreiro
+Slug: cane-de-castro-laboreiro
+Categoria: Cane de castro laboreiro
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-de-castro-laboreiro.jpg
+Immagine File: Cane-de-castro-laboreiro.jpg
+```
+
+## RAZZA 31: Cane dell’atlas
+
+```
+Razza: Cane dell’atlas
+Slug: cane-dellatlas
+Categoria: Cane dell’atlas
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/cane-dell-atlas.jpg
+Immagine File: cane-dell-atlas.jpg
+```
+
+## RAZZA 32: Cane di san bernardo
+
+```
+Razza: Cane di san bernardo
+Slug: cane-di-san-bernardo
+Categoria: Cane di san bernardo
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cane-di-san-bernardo.jpg
+Immagine File: Cane-di-san-bernardo.jpg
+```
+
+## RAZZA 33: Cane fonnese
+
+```
+Razza: Cane fonnese
+Slug: cane-fonnese
+Categoria: Cane fonnese
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/cane-fonnese-1280x720-1.jpg
+Immagine File: cane-fonnese-1280x720-1.jpg
+```
+
+## RAZZA 34: Cao da sierra de aires
+
+```
+Razza: Cao da sierra de aires
+Slug: cao-da-sierra-de-aires
+Categoria: Cao da sierra de aires
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/cao-da-serra-Aires.jpg
+Immagine File: cao-da-serra-Aires.jpg
+```
+
+## RAZZA 35: Cao de agua
+
+```
+Razza: Cao de agua
+Slug: cao-de-agua
+Categoria: Cao de agua
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cao-de-agua.jpg
+Immagine File: Cao-de-agua.jpg
+```
+
+## RAZZA 36: Cao fila de sao miguel
+
+```
+Razza: Cao fila de sao miguel
+Slug: cao-fila-de-sao-miguel
+Categoria: Cao fila de sao miguel
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cao-fila-de-Sao-Miguel.jpg
+Immagine File: Cao-fila-de-Sao-Miguel.jpg
+```
+
+## RAZZA 37: Carlino
+
+```
+Razza: Carlino
+Slug: carlino
+Categoria: Carlino
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Carlino.jpg
+Immagine File: Carlino.jpg
+```
+
+## RAZZA 38: Cavalier king charles spaniel
+
+```
+Razza: Cavalier king charles spaniel
+Slug: cavalier-king-charles-spaniel
+Categoria: Cavalier king charles spaniel
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cavalier-king-charles-spaniel.jpg
+Immagine File: Cavalier-king-charles-spaniel.jpg
+```
+
+## RAZZA 39: Chesapeake bay retriever
+
+```
+Razza: Chesapeake bay retriever
+Slug: chesapeake-bay-retriever
+Categoria: Chesapeake bay retriever
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Chesapeake-bay-retriever.jpg
+Immagine File: Chesapeake-bay-retriever.jpg
+```
+
+## RAZZA 40: Chien d’artois
+
+```
+Razza: Chien d’artois
+Slug: chien-dartois
+Categoria: Chien d’artois
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Chien-dartois.jpg
+Immagine File: Chien-dartois.jpg
+```
+
+## RAZZA 41: Chihuahua
+
+```
+Razza: Chihuahua
+Slug: chihuahua
+Categoria: Chihuahua
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Chihuahua.jpg
+Immagine File: Chihuahua.jpg
+```
+
+## RAZZA 42: Chin
+
+```
+Razza: Chin
+Slug: chin
+Categoria: Chin
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Chin.jpg
+Immagine File: Chin.jpg
+```
+
+## RAZZA 43: Chinese crested dog
+
+```
+Razza: Chinese crested dog
+Slug: chinese-crested-dog
+Categoria: Chinese crested dog
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Chinese-crested-dog.jpg
+Immagine File: Chinese-crested-dog.jpg
+```
+
+## RAZZA 44: Chow-chow
+
+```
+Razza: Chow-chow
+Slug: chow-chow
+Categoria: Chow-chow
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Chow-chow.jpg
+Immagine File: Chow-chow.jpg
+```
+
+## RAZZA 45: Cimarron uruguayo
+
+```
+Razza: Cimarron uruguayo
+Slug: cimarron-uruguayo
+Categoria: Cimarron uruguayo
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cimarron-uruguayo.jpg
+Immagine File: Cimarron-uruguayo.jpg
+```
+
+## RAZZA 46: Ciobanesc romanesc de bucovina
+
+```
+Razza: Ciobanesc romanesc de bucovina
+Slug: ciobanesc-romanesc-de-bucovina
+Categoria: Ciobanesc romanesc de bucovina
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Ciobanesc-romanesc-de-bucovina.jpg
+Immagine File: Ciobanesc-romanesc-de-bucovina.jpg
+```
+
+## RAZZA 47: Cirneco dell’etna
+
+```
+Razza: Cirneco dell’etna
+Slug: cirneco-delletna
+Categoria: Cirneco dell’etna
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cirneco-delletna.jpg
+Immagine File: Cirneco-delletna.jpg
+```
+
+## RAZZA 48: Clumber spaniel
+
+```
+Razza: Clumber spaniel
+Slug: clumber-spaniel
+Categoria: Clumber spaniel
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Clumber-spaniel.jpg
+Immagine File: Clumber-spaniel.jpg
+```
+
+## RAZZA 49: Cocker americano
+
+```
+Razza: Cocker americano
+Slug: cocker-americano
+Categoria: Cocker americano
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cocker-americano.jpg
+Immagine File: Cocker-americano.jpg
+```
+
+## RAZZA 50: Cocker spaniel inglese
+
+```
+Razza: Cocker spaniel inglese
+Slug: cocker-spaniel-inglese
+Categoria: Cocker spaniel inglese
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Cocker-spaniel-inglese.jpg
+Immagine File: Cocker-spaniel-inglese.jpg
+```
+
+## RAZZA 51: Coton de tulear
+
+```
+Razza: Coton de tulear
+Slug: coton-de-tulear
+Categoria: Coton de tulear
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Coton-de-tulear.jpg
+Immagine File: Coton-de-tulear.jpg
+```
+
+## RAZZA 52: Curly-coated retriever
+
+```
+Razza: Curly-coated retriever
+Slug: curly-coated-retriever
+Categoria: Curly-coated retriever
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Curly-coated-retriever.jpg
+Immagine File: Curly-coated-retriever.jpg
+```
+
+## RAZZA 53: Dalmata
+
+```
+Razza: Dalmata
+Slug: dalmata
+Categoria: Dalmata
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dalmata.jpg
+Immagine File: Dalmata.jpg
+```
+
+## RAZZA 54: Dandie dinmont terrier
+
+```
+Razza: Dandie dinmont terrier
+Slug: dandie-dinmont-terrier
+Categoria: Dandie dinmont terrier
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dandie-dinmont-terrier.jpg
+Immagine File: Dandie-dinmont-terrier.jpg
+```
+
+## RAZZA 55: Dansk-svensk gardshund
+
+```
+Razza: Dansk-svensk gardshund
+Slug: dansk-svensk-gardshund
+Categoria: Dansk-svensk gardshund
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dansk-svensk-gardshund-.jpg|https://www.caniincasa.it/wp-content/uploads/2023/10/Dansk-svensk-gardshund.jpeg|https://www.caniincasa.it/wp-content/uploads/2023/10/Dansk-svensk-gardshund-1.jpeg
+Immagine File: Dansk-svensk-gardshund-.jpg|Dansk-svensk-gardshund.jpeg|Dansk-svensk-gardshund-1.jpeg
+```
+
+## RAZZA 56: Deerhound
+
+```
+Razza: Deerhound
+Slug: deerhound
+Categoria: Deerhound
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Deerhound.jpg
+Immagine File: Deerhound.jpg
+```
+
+## RAZZA 57: Deutscher jagdterrier
+
+```
+Razza: Deutscher jagdterrier
+Slug: deutscher-jagdterrier
+Categoria: Deutscher jagdterrier
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Deutscher-jagdterrier.jpg
+Immagine File: Deutscher-jagdterrier.jpg
+```
+
+## RAZZA 58: Dobermann
+
+```
+Razza: Dobermann
+Slug: dobermann
+Categoria: Dobermann
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dobermann.jpg
+Immagine File: Dobermann.jpg
+```
+
+## RAZZA 59: Dogo argentino
+
+```
+Razza: Dogo argentino
+Slug: dogo-argentino
+Categoria: Dogo argentino
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dogo-argentino.jpg
+Immagine File: Dogo-argentino.jpg
+```
+
+## RAZZA 60: Dogo canario
+
+```
+Razza: Dogo canario
+Slug: dogo-canario
+Categoria: Dogo canario
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dogo-canario.jpg
+Immagine File: Dogo-canario.jpg
+```
+
+## RAZZA 61: Dogue de bordeaux
+
+```
+Razza: Dogue de bordeaux
+Slug: dogue-de-bordeaux
+Categoria: Dogue de bordeaux
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dogue-de-bordeaux.jpg
+Immagine File: Dogue-de-bordeaux.jpg
+```
+
+## RAZZA 62: Drever
+
+```
+Razza: Drever
+Slug: drever
+Categoria: Drever
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Drever.jpg
+Immagine File: Drever.jpg
+```
+
+## RAZZA 63: Dunker
+
+```
+Razza: Dunker
+Slug: dunker
+Categoria: Dunker
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/Dunker-1.jpg
+Immagine File: Dunker-1.jpg
+```
+
+## RAZZA 64: English toy terrier black and tan
+
+```
+Razza: English toy terrier black and tan
+Slug: english-toy-terrier-black-and-tan
+Categoria: English toy terrier black and tan
+Immagine URL: https://www.caniincasa.it/wp-content/uploads/2023/10/English-toy-terrier-black-and-tan.jpg
+Immagine File: English-toy-terrier-black-and-tan.jpg
+```
+
+---
+
+Genera un array JSON con tutti gli oggetti delle 64 razze sopra elencate.
+Formato output:
+
+```json
+[
+  { /* razza 1 */ },
+  { /* razza 2 */ },
+  ...
+  { /* razza 64 */ }
+]
+```
