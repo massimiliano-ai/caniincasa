@@ -630,3 +630,171 @@ function caniincasa_ajax_submit_segnalazione() {
 
     wp_send_json_success( array( 'message' => 'Segnalazione inviata con successo' ) );
 }
+
+/**
+ * Submit Annuncio Privato AJAX
+ */
+add_action( 'wp_ajax_caniincasa_submit_privato', 'caniincasa_ajax_submit_privato' );
+
+function caniincasa_ajax_submit_privato() {
+    check_ajax_referer( 'caniincasa_submit_privato', 'nonce' );
+
+    if ( ! is_user_logged_in() ) {
+        wp_send_json_error( array( 'message' => 'Devi essere registrato per pubblicare annunci' ) );
+    }
+
+    $user_id = get_current_user_id();
+
+    // Create post
+    $post_id = wp_insert_post( array(
+        'post_title' => sanitize_text_field( $_POST['titolo'] ),
+        'post_content' => wp_kses_post( $_POST['descrizione'] ),
+        'post_status' => 'pending',
+        'post_type' => 'annunci_privati',
+        'post_author' => $user_id,
+    ) );
+
+    if ( is_wp_error( $post_id ) ) {
+        wp_send_json_error( array( 'message' => $post_id->get_error_message() ) );
+    }
+
+    // Handle image uploads and set fields
+    caniincasa_handle_annuncio_submission( $post_id, 'privato' );
+
+    wp_send_json_success( array(
+        'message' => 'Annuncio inviato con successo! Sarà pubblicato dopo la moderazione.',
+        'redirect' => home_url( '/dashboard/?tab=annunci' )
+    ) );
+}
+
+/**
+ * Submit Annuncio Adozione AJAX
+ */
+add_action( 'wp_ajax_caniincasa_submit_adozione', 'caniincasa_ajax_submit_adozione' );
+
+function caniincasa_ajax_submit_adozione() {
+    check_ajax_referer( 'caniincasa_submit_adozione', 'nonce' );
+
+    if ( ! is_user_logged_in() ) {
+        wp_send_json_error( array( 'message' => 'Devi essere registrato per pubblicare annunci' ) );
+    }
+
+    $user_id = get_current_user_id();
+    $nome_cane = sanitize_text_field( $_POST['nome_cane'] );
+
+    // Create post
+    $post_id = wp_insert_post( array(
+        'post_title' => $nome_cane . ' - Cerca famiglia',
+        'post_content' => wp_kses_post( $_POST['carattere'] ),
+        'post_status' => 'pending',
+        'post_type' => 'annunci_adozioni',
+        'post_author' => $user_id,
+    ) );
+
+    if ( is_wp_error( $post_id ) ) {
+        wp_send_json_error( array( 'message' => $post_id->get_error_message() ) );
+    }
+
+    // Handle image uploads and set fields
+    caniincasa_handle_annuncio_submission( $post_id, 'adozione' );
+
+    wp_send_json_success( array(
+        'message' => 'Annuncio di adozione inviato! Sarà pubblicato dopo la verifica.',
+        'redirect' => home_url( '/dashboard/?tab=annunci' )
+    ) );
+}
+
+/**
+ * Submit Allevamento AJAX
+ */
+add_action( 'wp_ajax_caniincasa_submit_allevamento', 'caniincasa_ajax_submit_allevamento' );
+
+function caniincasa_ajax_submit_allevamento() {
+    check_ajax_referer( 'caniincasa_submit_allevamento', 'nonce' );
+
+    if ( ! is_user_logged_in() ) {
+        wp_send_json_error( array( 'message' => 'Devi essere registrato per registrare un allevamento' ) );
+    }
+
+    $user_id = get_current_user_id();
+
+    // Create post
+    $post_id = wp_insert_post( array(
+        'post_title' => sanitize_text_field( $_POST['nome_allevamento'] ),
+        'post_content' => wp_kses_post( $_POST['descrizione'] ),
+        'post_status' => 'pending',
+        'post_type' => 'allevamenti',
+        'post_author' => $user_id,
+    ) );
+
+    if ( is_wp_error( $post_id ) ) {
+        wp_send_json_error( array( 'message' => $post_id->get_error_message() ) );
+    }
+
+    // Handle image uploads and set fields
+    caniincasa_handle_annuncio_submission( $post_id, 'allevamento' );
+
+    wp_send_json_success( array(
+        'message' => 'Richiesta di registrazione allevamento inviata! Sarà verificata dal nostro team.',
+        'redirect' => home_url( '/dashboard/?tab=annunci' )
+    ) );
+}
+
+/**
+ * Helper function to handle annuncio submission (fields and images)
+ */
+function caniincasa_handle_annuncio_submission( $post_id, $type ) {
+    // Set provincia
+    if ( ! empty( $_POST['provincia'] ) ) {
+        wp_set_post_terms( $post_id, array( intval( $_POST['provincia'] ) ), 'provincia' );
+    }
+
+    // Set fields based on type
+    foreach ( $_POST as $key => $value ) {
+        if ( in_array( $key, array( 'action', 'nonce', 'titolo', 'descrizione', 'provincia', 'immagini' ) ) ) {
+            continue;
+        }
+
+        if ( is_array( $value ) ) {
+            update_field( $key, array_map( 'sanitize_text_field', $value ), $post_id );
+        } else {
+            update_field( $key, sanitize_text_field( $value ), $post_id );
+        }
+    }
+
+    // Handle image uploads
+    if ( ! empty( $_FILES['immagini'] ) ) {
+        require_once( ABSPATH . 'wp-admin/includes/image.php' );
+        require_once( ABSPATH . 'wp-admin/includes/file.php' );
+        require_once( ABSPATH . 'wp-admin/includes/media.php' );
+
+        $files = $_FILES['immagini'];
+        $image_ids = array();
+
+        for ( $i = 0; $i < count( $files['name'] ) && $i < 5; $i++ ) {
+            if ( $files['error'][$i] === 0 ) {
+                $file = array(
+                    'name'     => $files['name'][$i],
+                    'type'     => $files['type'][$i],
+                    'tmp_name' => $files['tmp_name'][$i],
+                    'error'    => $files['error'][$i],
+                    'size'     => $files['size'][$i],
+                );
+
+                $_FILES = array( 'upload' => $file );
+                $attachment_id = media_handle_upload( 'upload', $post_id );
+
+                if ( ! is_wp_error( $attachment_id ) ) {
+                    $image_ids[] = $attachment_id;
+                    if ( $i === 0 ) {
+                        set_post_thumbnail( $post_id, $attachment_id );
+                    }
+                }
+            }
+        }
+
+        if ( ! empty( $image_ids ) ) {
+            update_field( 'galleria_immagini', $image_ids, $post_id );
+        }
+    }
+}

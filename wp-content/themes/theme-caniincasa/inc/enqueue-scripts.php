@@ -203,3 +203,40 @@ function caniincasa_enqueue_razze_archive_scripts() {
     }
 }
 add_action( 'wp_enqueue_scripts', 'caniincasa_enqueue_razze_archive_scripts', 20 );
+
+/**
+ * Enqueue Inserisci Annuncio Scripts and Styles
+ */
+function caniincasa_enqueue_inserisci_annuncio_scripts() {
+    if ( is_page_template( 'page-templates/template-inserisci-annuncio.php' ) ) {
+
+        // Inserisci Annuncio CSS
+        wp_enqueue_style(
+            'caniincasa-inserisci-annuncio',
+            CANIINCASA_THEME_URI . '/css/inserisci-annuncio.css',
+            array(),
+            CANIINCASA_VERSION
+        );
+
+        // Inserisci Annuncio JavaScript
+        wp_enqueue_script(
+            'caniincasa-inserisci-annuncio',
+            CANIINCASA_THEME_URI . '/js/inserisci-annuncio.js',
+            array( 'jquery' ),
+            CANIINCASA_VERSION,
+            true
+        );
+
+        // Localize script for AJAX
+        wp_localize_script( 'caniincasa-inserisci-annuncio', 'annuncioData', array(
+            'ajaxurl' => admin_url( 'admin-ajax.php' ),
+            'nonces'  => array(
+                'cucciolata'  => wp_create_nonce( 'caniincasa_submit_cucciolata' ),
+                'privato'     => wp_create_nonce( 'caniincasa_submit_privato' ),
+                'adozione'    => wp_create_nonce( 'caniincasa_submit_adozione' ),
+                'allevamento' => wp_create_nonce( 'caniincasa_submit_allevamento' ),
+            ),
+        ) );
+    }
+}
+add_action( 'wp_enqueue_scripts', 'caniincasa_enqueue_inserisci_annuncio_scripts', 20 );

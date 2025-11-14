@@ -267,6 +267,9 @@ require_once CANIINCASA_INC_DIR . '/user-system.php';
 // Custom Post Type: Cucciolate
 require_once CANIINCASA_INC_DIR . '/cpt-cucciolate.php';
 
+// Custom Post Types: Annunci
+require_once CANIINCASA_INC_DIR . '/cpt-annunci.php';
+
 /**
  * Add ACF Options Page (if ACF is active)
  */
