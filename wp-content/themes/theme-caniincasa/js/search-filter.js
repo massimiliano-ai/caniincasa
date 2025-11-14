@@ -111,22 +111,38 @@
         }
 
         showLoading() {
-            this.results.addClass('loading');
+            this.results.addClass('results-loading');
 
-            // Add loading spinner
-            if (!this.results.find('.loading-spinner').length) {
+            // Add loading overlay with spinner
+            if (!this.results.find('.loading-overlay').length) {
                 this.results.prepend(
-                    '<div class="loading-spinner">' +
-                    '<div class="spinner"></div>' +
-                    '<p>Caricamento...</p>' +
+                    '<div class="loading-overlay">' +
+                    '    <div class="loading-overlay__content">' +
+                    '        <div class="loading-spinner loading-spinner--lg"></div>' +
+                    '        <p class="loading-overlay__text">Ricerca in corso...</p>' +
+                    '    </div>' +
                     '</div>'
                 );
             }
+
+            // Smooth scroll to results
+            $('html, body').animate({
+                scrollTop: this.results.offset().top - 100
+            }, 300);
         }
 
         hideLoading() {
-            this.results.removeClass('loading');
-            this.results.find('.loading-spinner').remove();
+            const overlay = this.results.find('.loading-overlay');
+
+            // Fade out overlay
+            overlay.fadeOut(200, function() {
+                $(this).remove();
+            });
+
+            this.results.removeClass('results-loading');
+
+            // Add fade-in animation to new results
+            this.results.find('.razze-grid').addClass('fade-in-stagger');
         }
     }
 

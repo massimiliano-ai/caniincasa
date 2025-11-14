@@ -1,0 +1,505 @@
+/**
+ * Loading States CSS
+ * Spinner, skeleton screens, e feedback visivo per AJAX
+ *
+ * @package CaninCasa
+ * @since 1.0.0
+ */
+
+/* ==========================================================================
+   Spinner Loading
+   ========================================================================== */
+
+.loading-spinner {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 4px solid var(--border-light);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+.loading-spinner--sm {
+    width: 20px;
+    height: 20px;
+    border-width: 2px;
+}
+
+.loading-spinner--lg {
+    width: 60px;
+    height: 60px;
+    border-width: 6px;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* ==========================================================================
+   Loading Overlay
+   ========================================================================== */
+
+.loading-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    backdrop-filter: blur(2px);
+}
+
+.loading-overlay__content {
+    text-align: center;
+}
+
+.loading-overlay__text {
+    margin-top: var(--spacing-md);
+    color: var(--text-secondary);
+    font-size: var(--text-sm);
+}
+
+/* Position relative per container con overlay */
+.loading-container {
+    position: relative;
+    min-height: 200px;
+}
+
+/* ==========================================================================
+   Skeleton Screens
+   ========================================================================== */
+
+.skeleton {
+    background: linear-gradient(
+        90deg,
+        var(--bg-lighter) 0%,
+        var(--bg-light) 50%,
+        var(--bg-lighter) 100%
+    );
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s ease-in-out infinite;
+    border-radius: var(--radius-sm);
+}
+
+@keyframes skeleton-loading {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+}
+
+/* Skeleton Card */
+.skeleton-card {
+    background: var(--bg);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+}
+
+.skeleton-card__image {
+    height: 220px;
+    background: var(--bg-lighter);
+}
+
+.skeleton-card__body {
+    padding: var(--spacing-lg);
+}
+
+.skeleton-card__title {
+    height: 24px;
+    width: 70%;
+    margin-bottom: var(--spacing-md);
+}
+
+.skeleton-card__text {
+    height: 16px;
+    margin-bottom: var(--spacing-sm);
+}
+
+.skeleton-card__text:last-child {
+    width: 40%;
+}
+
+.skeleton-card__footer {
+    padding: var(--spacing-md) var(--spacing-lg);
+    background: var(--bg-light);
+    border-top: 1px solid var(--border-light);
+}
+
+.skeleton-card__button {
+    height: 40px;
+    border-radius: var(--radius-sm);
+}
+
+/* Skeleton Grid */
+.skeleton-grid {
+    display: grid;
+    gap: var(--spacing-lg);
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+/* ==========================================================================
+   Filter Loading State
+   ========================================================================== */
+
+.filters-loading {
+    position: relative;
+}
+
+.filters-loading::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+}
+
+.filters-loading .filter-group {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+/* ==========================================================================
+   Results Loading State
+   ========================================================================== */
+
+.results-loading {
+    position: relative;
+    min-height: 400px;
+}
+
+.results-loading .razze-grid,
+.results-loading .archive-content > * {
+    opacity: 0.3;
+    pointer-events: none;
+}
+
+/* Loading message */
+.loading-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background: var(--bg);
+    padding: var(--spacing-2xl);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    z-index: 10;
+}
+
+.loading-message__icon {
+    font-size: 3rem;
+    margin-bottom: var(--spacing-md);
+}
+
+.loading-message__text {
+    color: var(--text-secondary);
+    font-size: var(--text-sm);
+    margin-top: var(--spacing-sm);
+}
+
+/* ==========================================================================
+   Pulse Animation
+   ========================================================================== */
+
+.pulse {
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
+
+/* ==========================================================================
+   Fade In Animation (per risultati caricati)
+   ========================================================================== */
+
+.fade-in {
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Fade in staggered (per cards multiple) */
+.fade-in-stagger > * {
+    animation: fadeIn 0.4s ease-in-out;
+    animation-fill-mode: both;
+}
+
+.fade-in-stagger > *:nth-child(1) { animation-delay: 0.05s; }
+.fade-in-stagger > *:nth-child(2) { animation-delay: 0.1s; }
+.fade-in-stagger > *:nth-child(3) { animation-delay: 0.15s; }
+.fade-in-stagger > *:nth-child(4) { animation-delay: 0.2s; }
+.fade-in-stagger > *:nth-child(5) { animation-delay: 0.25s; }
+.fade-in-stagger > *:nth-child(6) { animation-delay: 0.3s; }
+.fade-in-stagger > *:nth-child(7) { animation-delay: 0.35s; }
+.fade-in-stagger > *:nth-child(8) { animation-delay: 0.4s; }
+.fade-in-stagger > *:nth-child(9) { animation-delay: 0.45s; }
+
+/* ==========================================================================
+   Success/Error Notifications
+   ========================================================================== */
+
+.notification {
+    position: fixed;
+    top: var(--spacing-xl);
+    right: var(--spacing-xl);
+    background: var(--bg);
+    padding: var(--spacing-lg) var(--spacing-xl);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-xl);
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+    z-index: 9999;
+    min-width: 300px;
+    animation: slideInRight 0.3s ease-out;
+    border-left: 4px solid var(--info);
+}
+
+.notification--success {
+    border-left-color: var(--success);
+}
+
+.notification--error {
+    border-left-color: var(--danger);
+}
+
+.notification--warning {
+    border-left-color: var(--warning);
+}
+
+.notification__icon {
+    font-size: var(--text-2xl);
+    flex-shrink: 0;
+}
+
+.notification__content {
+    flex: 1;
+}
+
+.notification__title {
+    font-weight: 600;
+    margin: 0 0 var(--spacing-xs);
+    color: var(--text-primary);
+}
+
+.notification__message {
+    font-size: var(--text-sm);
+    color: var(--text-secondary);
+    margin: 0;
+}
+
+.notification__close {
+    background: none;
+    border: none;
+    font-size: var(--text-xl);
+    color: var(--text-light);
+    cursor: pointer;
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color var(--transition-base);
+}
+
+.notification__close:hover {
+    color: var(--text-primary);
+}
+
+@keyframes slideInRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Notification che scompare */
+.notification--hiding {
+    animation: slideOutRight 0.3s ease-in forwards;
+}
+
+@keyframes slideOutRight {
+    to {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+}
+
+/* ==========================================================================
+   Dots Loading (alternativa al spinner)
+   ========================================================================== */
+
+.loading-dots {
+    display: flex;
+    gap: var(--spacing-xs);
+    align-items: center;
+    justify-content: center;
+}
+
+.loading-dots__dot {
+    width: 8px;
+    height: 8px;
+    background: var(--primary);
+    border-radius: 50%;
+    animation: dotPulse 1.4s infinite ease-in-out both;
+}
+
+.loading-dots__dot:nth-child(1) {
+    animation-delay: -0.32s;
+}
+
+.loading-dots__dot:nth-child(2) {
+    animation-delay: -0.16s;
+}
+
+@keyframes dotPulse {
+    0%, 80%, 100% {
+        transform: scale(0);
+    }
+    40% {
+        transform: scale(1);
+    }
+}
+
+/* ==========================================================================
+   Progress Bar
+   ========================================================================== */
+
+.progress-bar {
+    width: 100%;
+    height: 4px;
+    background: var(--bg-lighter);
+    border-radius: var(--radius-full);
+    overflow: hidden;
+    position: relative;
+}
+
+.progress-bar__fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--primary-light));
+    border-radius: var(--radius-full);
+    transition: width 0.3s ease;
+}
+
+.progress-bar--indeterminate .progress-bar__fill {
+    width: 30%;
+    animation: progressIndeterminate 1.5s ease-in-out infinite;
+}
+
+@keyframes progressIndeterminate {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(400%);
+    }
+}
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
+@media (max-width: 768px) {
+    .notification {
+        left: var(--spacing-md);
+        right: var(--spacing-md);
+        min-width: auto;
+    }
+
+    .skeleton-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .loading-overlay__text {
+        font-size: var(--text-xs);
+    }
+}
+
+@media (max-width: 480px) {
+    .loading-spinner--lg {
+        width: 40px;
+        height: 40px;
+        border-width: 4px;
+    }
+
+    .skeleton-card__image {
+        height: 160px;
+    }
+}
+
+/* ==========================================================================
+   Utility Classes
+   ========================================================================== */
+
+.is-loading {
+    position: relative;
+    pointer-events: none;
+}
+
+.is-loading::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border: 4px solid var(--border-light);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    z-index: 10;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.invisible {
+    visibility: hidden !important;
+}
+
+.opacity-0 {
+    opacity: 0 !important;
+}
+
+.opacity-50 {
+    opacity: 0.5 !important;
+}
+
+.pointer-events-none {
+    pointer-events: none !important;
+}

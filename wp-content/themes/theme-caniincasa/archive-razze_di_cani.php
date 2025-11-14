@@ -12,16 +12,30 @@ get_header();
 <main id="main-content" class="site-main">
     <div class="container">
 
-        <?php caniincasa_breadcrumbs(); ?>
+        <?php
+        // Breadcrumbs con stile boxato
+        caniincasa_breadcrumbs();
 
-        <header class="archive-header">
-            <h1 class="archive-title">
-                <?php esc_html_e( 'Razze di Cani', 'caniincasa' ); ?>
-            </h1>
-            <p class="archive-description">
-                <?php esc_html_e( 'Scopri tutte le razze di cani con caratteristiche, temperamento e informazioni utili per trovare il compagno perfetto.', 'caniincasa' ); ?>
-            </p>
-        </header>
+        // Archive header unificato con stats
+        global $wp_query;
+        $stats = array(
+            array(
+                'icon' => '🐕',
+                'label' => 'razze',
+                'value' => $wp_query->found_posts
+            ),
+            array(
+                'icon' => '🌍',
+                'label' => 'paesi di origine',
+                'value' => '50+'
+            )
+        );
+        caniincasa_archive_header(
+            __( 'Razze di Cani', 'caniincasa' ),
+            __( 'Scopri tutte le razze di cani con caratteristiche, temperamento e informazioni utili per trovare il compagno perfetto.', 'caniincasa' ),
+            $stats
+        );
+        ?>
 
         <div class="archive-layout archive-layout--with-filters">
             <!-- Filters Sidebar -->
@@ -168,7 +182,7 @@ get_header();
             </aside>
 
             <!-- Main Content -->
-            <div class="archive-content">
+            <div id="filter-results" class="archive-content">
                 <?php if ( have_posts() ) : ?>
 
                     <div class="archive-results-header">
@@ -202,25 +216,25 @@ get_header();
                         while ( have_posts() ) :
                             the_post();
                             ?>
-                            <div class="card razza-card">
+                            <div class="content-card razza-card">
                                 <?php if ( has_post_thumbnail() ) : ?>
                                     <a href="<?php the_permalink(); ?>" class="card-image-link">
-                                        <?php the_post_thumbnail( 'caniincasa-card', array( 'class' => 'card-image' ) ); ?>
+                                        <?php the_post_thumbnail( 'caniincasa-card', array( 'class' => 'content-card-image' ) ); ?>
                                     </a>
                                 <?php endif; ?>
 
-                                <div class="card-content">
+                                <div class="content-card-body">
                                     <!-- Taglia Badge -->
                                     <?php
                                     $taglia = get_field( 'taglia' );
                                     if ( $taglia ) :
                                     ?>
-                                        <span class="razza-card__badge razza-card__badge--<?php echo esc_attr( $taglia ); ?>">
+                                        <span class="content-card-badge razza-card__badge--<?php echo esc_attr( $taglia ); ?>">
                                             <?php echo esc_html( ucfirst( $taglia ) ); ?>
                                         </span>
                                     <?php endif; ?>
 
-                                    <h3 class="card-title">
+                                    <h3 class="content-card-title">
                                         <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
                                     </h3>
 
@@ -250,7 +264,7 @@ get_header();
                                     $terms = get_the_terms( get_the_ID(), 'tipologia_di_cani' );
                                     if ( ! empty( $terms ) && ! is_wp_error( $terms ) ) :
                                     ?>
-                                        <div class="card-tags">
+                                        <div class="content-card-meta">
                                             <?php
                                             foreach ( $terms as $term ) :
                                                 echo '<a href="' . esc_url( get_term_link( $term ) ) . '" class="tag">' . esc_html( $term->name ) . '</a>';
@@ -259,15 +273,15 @@ get_header();
                                         </div>
                                     <?php endif; ?>
 
-                                    <div class="card-excerpt">
+                                    <div class="content-card-excerpt">
                                         <?php echo wp_trim_words( get_the_excerpt(), 20 ); ?>
                                     </div>
+                                </div>
 
-                                    <div class="card-footer">
-                                        <a href="<?php the_permalink(); ?>" class="btn btn-outline btn-block">
-                                            <?php esc_html_e( 'Scopri di più', 'caniincasa' ); ?>
-                                        </a>
-                                    </div>
+                                <div class="content-card-footer">
+                                    <a href="<?php the_permalink(); ?>" class="btn btn-outline btn-block">
+                                        <?php esc_html_e( 'Scopri di più', 'caniincasa' ); ?>
+                                    </a>
                                 </div>
                             </div>
                         <?php endwhile; ?>

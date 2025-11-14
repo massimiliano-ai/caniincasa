@@ -23,15 +23,43 @@ get_header();
                     <div class="razza-single__content">
 
                         <!-- Header -->
-                        <header class="razza-single__header">
-                            <h1 class="razza-single__title"><?php the_title(); ?></h1>
+                        <?php
+                        // Prepara meta informazioni per l'header
+                        $meta = array();
 
-                            <?php if ( has_post_thumbnail() ) : ?>
-                                <div class="razza-single__image">
-                                    <?php the_post_thumbnail( 'caniincasa-featured', array( 'alt' => get_the_title() ) ); ?>
-                                </div>
-                            <?php endif; ?>
-                        </header>
+                        $taglia = get_field( 'taglia' );
+                        if ( $taglia ) {
+                            $meta[] = array(
+                                'icon' => '📏',
+                                'label' => ucfirst( $taglia )
+                            );
+                        }
+
+                        $paese_origine = get_field( 'paese_origine' );
+                        if ( $paese_origine ) {
+                            $meta[] = array(
+                                'icon' => '🌍',
+                                'label' => $paese_origine
+                            );
+                        }
+
+                        $gruppo_fci = get_field( 'gruppo_fci' );
+                        if ( $gruppo_fci ) {
+                            $meta[] = array(
+                                'icon' => '🏆',
+                                'label' => 'Gruppo FCI ' . $gruppo_fci
+                            );
+                        }
+
+                        // Mostra header unificato
+                        caniincasa_page_header( get_the_title(), $meta );
+                        ?>
+
+                        <?php if ( has_post_thumbnail() ) : ?>
+                            <div class="razza-single__image">
+                                <?php the_post_thumbnail( 'caniincasa-featured', array( 'alt' => get_the_title() ) ); ?>
+                            </div>
+                        <?php endif; ?>
 
                         <!-- Description -->
                         <div class="razza-single__description">
