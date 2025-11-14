@@ -134,10 +134,11 @@ function caniincasa_filter_razze() {
     // Risposta JSON
     wp_send_json_success( array(
         'breeds' => $results,
-        'total' => count( $results ),
+        'total' => $query->found_posts,
         'found_posts' => $query->found_posts,
         'max_pages' => $query->max_num_pages,
         'current_page' => $paged,
+        'has_more' => ( $paged < $query->max_num_pages ),
     ) );
 }
 

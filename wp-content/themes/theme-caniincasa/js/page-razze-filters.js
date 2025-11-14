@@ -231,7 +231,7 @@
      */
     function createBreedCard(breed, index) {
         const card = $('<a>', {
-            href: breed.url,
+            href: breed.link,
             class: 'razza-card',
             style: 'animation-delay: ' + (index * 0.05) + 's'
         });
@@ -259,15 +259,15 @@
         content.append(title);
 
         // Optional meta info (energia, appartamento)
-        if (breed.meta) {
+        if (breed.energy || breed.apartment) {
             const meta = $('<div>', { class: 'razza-card-meta' });
 
-            if (breed.meta.energia) {
-                meta.append($('<span>').html('⚡ ' + breed.meta.energia));
+            if (breed.energy) {
+                meta.append($('<span>').html('⚡ ' + parseFloat(breed.energy).toFixed(1)));
             }
 
-            if (breed.meta.appartamento) {
-                meta.append($('<span>').html('🏠 ' + breed.meta.appartamento));
+            if (breed.apartment) {
+                meta.append($('<span>').html('🏠 ' + parseFloat(breed.apartment).toFixed(1)));
             }
 
             content.append(meta);
