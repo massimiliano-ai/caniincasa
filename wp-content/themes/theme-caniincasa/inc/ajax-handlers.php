@@ -100,6 +100,20 @@ function caniincasa_ajax_submit_review() {
         ) );
     }
 
+    // Check for duplicate review
+    $existing_reviews = get_comments( array(
+        'post_id' => $post_id,
+        'user_id' => get_current_user_id(),
+        'type'    => 'review',
+        'count'   => true,
+    ) );
+
+    if ( $existing_reviews > 0 ) {
+        wp_send_json_error( array(
+            'message' => __( 'Hai già lasciato una recensione per questo elemento.', 'caniincasa' ),
+        ) );
+    }
+
     // Create comment (review)
     $comment_data = array(
         'comment_post_ID'      => $post_id,
