@@ -2,7 +2,6 @@
 /**
  * Template Name: Archivio Razze con Filtri
  * Template Post Type: page
- * Description: Template per visualizzare tutte le razze con filtri di ricerca
  *
  * @package CaninCasa
  * @since 2.0.0
@@ -256,11 +255,4 @@ get_header();
 
 </main>
 
-<?php
-// Pass data to JavaScript
-wp_localize_script( 'caniincasa-razze-filters', 'razzeFilterData', array(
-    'ajaxurl' => admin_url( 'admin-ajax.php' ),
-    'nonce'   => wp_create_nonce( 'razze_filter_nonce' ),
-) );
-
-get_footer();
+<?php get_footer();
