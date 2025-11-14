@@ -1,6 +1,7 @@
 <?php
 /**
  * Template Name: Archivio Razze con Filtri
+ * Template Post Type: page
  * Description: Template per visualizzare tutte le razze con filtri di ricerca
  *
  * @package CaninCasa
