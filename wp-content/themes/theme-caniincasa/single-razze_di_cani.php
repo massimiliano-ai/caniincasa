@@ -17,9 +17,9 @@ get_header();
 
         <article id="post-<?php the_ID(); ?>" <?php post_class( 'razza-single' ); ?>>
 
-            <?php caniincasa_breadcrumbs(); ?>
-
             <div class="container">
+                <?php caniincasa_breadcrumbs(); ?>
+
                 <div class="razza-layout">
 
                     <!-- COLONNA PRINCIPALE 2/3 (Desktop) / Prima su Mobile -->
