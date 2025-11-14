@@ -52,6 +52,8 @@
 
 .razza-content {
     min-width: 0; /* Fix overflow */
+    max-width: 100%; /* Prevent overflow */
+    overflow: hidden; /* Contain children */
 }
 
 /* Header */
@@ -295,6 +297,8 @@
     margin: 3rem 0;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     border: 1px solid var(--color-border, #e0e0e0);
+    max-width: 100%; /* Prevent overflow */
+    overflow: hidden; /* Contain children */
 }
 
 .breed-characteristics__header {
@@ -449,6 +453,7 @@
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.25rem;
+    max-width: 100%; /* Prevent overflow */
 }
 
 @media (min-width: 768px) {
@@ -471,6 +476,9 @@
     border-radius: 8px;
     padding: 1rem;
     transition: all 0.3s ease;
+    min-width: 0; /* Allow shrinking */
+    max-width: 100%; /* Prevent overflow */
+    box-sizing: border-box;
 }
 
 .rating-item:hover {
