@@ -261,6 +261,12 @@ if ( file_exists( CANIINCASA_INC_DIR . '/ajax-handlers.php' ) ) {
 // Enqueue Scripts
 require_once CANIINCASA_INC_DIR . '/enqueue-scripts.php';
 
+// User System
+require_once CANIINCASA_INC_DIR . '/user-system.php';
+
+// Custom Post Type: Cucciolate
+require_once CANIINCASA_INC_DIR . '/cpt-cucciolate.php';
+
 /**
  * Add ACF Options Page (if ACF is active)
  */

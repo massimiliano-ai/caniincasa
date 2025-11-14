@@ -146,7 +146,7 @@ get_header();
                             <?php endif; ?>
 
                             <?php
-                            // Contatti
+                            // Contatti (protetti - solo per utenti registrati)
                             $telefono = get_field( 'telefono_principale' ) ?: get_field( 'telefono' );
                             $email = get_field( 'email' );
                             $sito_web = get_field( 'sito_web' );
@@ -154,22 +154,29 @@ get_header();
                             if ( $telefono || $email || $sito_web ):
                             ?>
                                 <div class="item-contacts">
-                                    <?php if ( $telefono ): ?>
-                                        <a href="tel:<?php echo esc_attr( preg_replace( '/[^0-9+]/', '', $telefono ) ); ?>" class="contact-item" title="Chiama">
-                                            <span class="icon">📞</span>
-                                        </a>
-                                    <?php endif; ?>
+                                    <?php if ( caniincasa_can_view_contacts() ): ?>
+                                        <?php if ( $telefono ): ?>
+                                            <a href="tel:<?php echo esc_attr( preg_replace( '/[^0-9+]/', '', $telefono ) ); ?>" class="contact-item" title="Telefono">
+                                                <span class="icon">📞</span>
+                                            </a>
+                                        <?php endif; ?>
 
-                                    <?php if ( $email ): ?>
-                                        <a href="mailto:<?php echo esc_attr( $email ); ?>" class="contact-item" title="Email">
-                                            <span class="icon">✉️</span>
-                                        </a>
-                                    <?php endif; ?>
+                                        <?php if ( $email ): ?>
+                                            <a href="mailto:<?php echo esc_attr( $email ); ?>" class="contact-item" title="Email">
+                                                <span class="icon">✉️</span>
+                                            </a>
+                                        <?php endif; ?>
 
-                                    <?php if ( $sito_web ): ?>
-                                        <a href="<?php echo esc_url( $sito_web ); ?>" target="_blank" rel="noopener" class="contact-item" title="Sito web">
-                                            <span class="icon">🌐</span>
-                                        </a>
+                                        <?php if ( $sito_web ): ?>
+                                            <a href="<?php echo esc_url( $sito_web ); ?>" target="_blank" rel="noopener" class="contact-item" title="Sito web">
+                                                <span class="icon">🌐</span>
+                                            </a>
+                                        <?php endif; ?>
+                                    <?php else: ?>
+                                        <div class="protected-contact-message">
+                                            <span class="icon">🔒</span>
+                                            <a href="<?php echo home_url( '/registrati/' ); ?>">Registrati per vedere i contatti</a>
+                                        </div>
                                     <?php endif; ?>
                                 </div>
                             <?php endif; ?>
