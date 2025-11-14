@@ -193,6 +193,13 @@ function caniincasa_scripts() {
         CANIINCASA_VERSION
     );
 
+    wp_enqueue_style(
+        'caniincasa-shared',
+        CANIINCASA_THEME_URI . '/css/components/shared.css',
+        array( 'caniincasa-main' ),
+        CANIINCASA_VERSION
+    );
+
     // Enqueue main JavaScript
     wp_enqueue_script(
         'caniincasa-main-js',

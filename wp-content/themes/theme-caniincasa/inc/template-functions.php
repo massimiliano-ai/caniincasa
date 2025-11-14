@@ -60,6 +60,7 @@ function caniincasa_get_breadcrumbs() {
     }
 
     $output = '<nav class="breadcrumbs" aria-label="' . esc_attr__( 'Breadcrumb', 'caniincasa' ) . '">';
+    $output .= '<div class="breadcrumbs-container">';
     $output .= '<ol class="breadcrumb-list" itemscope itemtype="https://schema.org/BreadcrumbList">';
 
     // Home
@@ -120,6 +121,7 @@ function caniincasa_get_breadcrumbs() {
     }
 
     $output .= '</ol>';
+    $output .= '</div>'; // .breadcrumbs-container
     $output .= '</nav>';
 
     return $output;
@@ -447,4 +449,95 @@ function caniincasa_custom_comment( $comment, $args, $depth ) {
             </div>
         </article>
     <?php
+}
+
+/**
+ * Get Archive Header HTML - Unified Style
+ *
+ * @param string $title Archive title
+ * @param string $description Archive description
+ * @param array $stats Optional stats array ['icon' => '', 'label' => '', 'value' => '']
+ * @return string HTML output
+ */
+function caniincasa_get_archive_header( $title = '', $description = '', $stats = array() ) {
+    if ( empty( $title ) ) {
+        $title = get_the_archive_title();
+    }
+
+    $output = '<header class="archive-header">';
+    $output .= '<div class="archive-header-content">';
+    $output .= '<h1 class="archive-title">' . esc_html( $title ) . '</h1>';
+    
+    if ( ! empty( $description ) ) {
+        $output .= '<p class="archive-description">' . esc_html( $description ) . '</p>';
+    }
+
+    if ( ! empty( $stats ) && is_array( $stats ) ) {
+        $output .= '<div class="archive-stats">';
+        foreach ( $stats as $stat ) {
+            $output .= '<div class="archive-stat">';
+            if ( ! empty( $stat['icon'] ) ) {
+                $output .= '<span class="archive-stat-icon">' . esc_html( $stat['icon'] ) . '</span>';
+            }
+            if ( ! empty( $stat['label'] ) && ! empty( $stat['value'] ) ) {
+                $output .= '<span>' . esc_html( $stat['value'] ) . ' ' . esc_html( $stat['label'] ) . '</span>';
+            }
+            $output .= '</div>';
+        }
+        $output .= '</div>';
+    }
+
+    $output .= '</div>'; // .archive-header-content
+    $output .= '</header>';
+
+    return $output;
+}
+
+/**
+ * Display Archive Header
+ */
+function caniincasa_archive_header( $title = '', $description = '', $stats = array() ) {
+    echo caniincasa_get_archive_header( $title, $description, $stats );
+}
+
+/**
+ * Get Page Header HTML - Unified Style for Single Pages
+ *
+ * @param string $title Page title
+ * @param array $meta Optional meta items ['icon' => '', 'label' => '']
+ * @return string HTML output
+ */
+function caniincasa_get_page_header( $title = '', $meta = array() ) {
+    if ( empty( $title ) ) {
+        $title = get_the_title();
+    }
+
+    $output = '<header class="page-header">';
+    $output .= '<h1 class="page-header-title">' . esc_html( $title ) . '</h1>';
+
+    if ( ! empty( $meta ) && is_array( $meta ) ) {
+        $output .= '<div class="page-header-meta">';
+        foreach ( $meta as $item ) {
+            $output .= '<div class="page-header-meta-item">';
+            if ( ! empty( $item['icon'] ) ) {
+                $output .= '<span class="page-header-meta-icon">' . esc_html( $item['icon'] ) . '</span>';
+            }
+            if ( ! empty( $item['label'] ) ) {
+                $output .= '<span>' . esc_html( $item['label'] ) . '</span>';
+            }
+            $output .= '</div>';
+        }
+        $output .= '</div>';
+    }
+
+    $output .= '</header>';
+
+    return $output;
+}
+
+/**
+ * Display Page Header
+ */
+function caniincasa_page_header( $title = '', $meta = array() ) {
+    echo caniincasa_get_page_header( $title, $meta );
 }

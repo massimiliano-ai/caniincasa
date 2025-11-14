@@ -45,6 +45,8 @@ CaninCasa Theme, Copyright 2025 Creattivo Communication
 
   /* Text Colors */
   --text: #2C3E50;
+  --text-primary: #2C3E50;
+  --text-secondary: #7F8C8D;
   --text-light: #7F8C8D;
   --text-lighter: #95A5A6;
   --text-white: #FFFFFF;
@@ -54,6 +56,12 @@ CaninCasa Theme, Copyright 2025 Creattivo Communication
   --bg-light: #F8F9FA;
   --bg-lighter: #ECF0F1;
   --bg-dark: #34495E;
+  --background-light: #F8F9FA;
+
+  /* Border Colors */
+  --border-color: #E1E8ED;
+  --border-light: #F0F3F5;
+  --border-dark: #CBD5E0;
 
   /* Status Colors */
   --success: #27AE60;

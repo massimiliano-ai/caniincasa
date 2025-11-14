@@ -12,16 +12,25 @@ get_header();
 <main id="main-content" class="site-main">
     <div class="container">
 
-        <?php caniincasa_breadcrumbs(); ?>
+        <?php
+        // Breadcrumbs con nuovo stile boxato
+        caniincasa_breadcrumbs();
 
-        <header class="archive-header">
-            <h1 class="archive-title">
-                <?php esc_html_e( 'Allevamenti di Cani', 'caniincasa' ); ?>
-            </h1>
-            <p class="archive-description">
-                <?php esc_html_e( 'Trova allevamenti certificati e professionali nella tua zona. Cerca per razza, provincia e caratteristiche specifiche.', 'caniincasa' ); ?>
-            </p>
-        </header>
+        // Archive header unificato con stats
+        global $wp_query;
+        $stats = array(
+            array(
+                'icon' => '🏠',
+                'label' => 'allevamenti',
+                'value' => $wp_query->found_posts
+            )
+        );
+        caniincasa_archive_header(
+            __( 'Allevamenti di Cani', 'caniincasa' ),
+            __( 'Trova allevamenti certificati e professionali nella tua zona. Cerca per razza, provincia e caratteristiche specifiche.', 'caniincasa' ),
+            $stats
+        );
+        ?>
 
         <div class="archive-layout archive-layout--with-filters">
             <!-- Filters Sidebar -->
