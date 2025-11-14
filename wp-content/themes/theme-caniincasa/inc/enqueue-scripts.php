@@ -196,9 +196,9 @@ function caniincasa_enqueue_razze_archive_scripts() {
         );
 
         // Localize script for AJAX
-        wp_localize_script( 'caniincasa-razze-filters', 'razzeFilters', array(
+        wp_localize_script( 'caniincasa-razze-filters', 'razzeFilterData', array(
             'ajaxurl' => admin_url( 'admin-ajax.php' ),
-            'nonce'   => wp_create_nonce( 'razze_filters_nonce' ),
+            'nonce'   => wp_create_nonce( 'razze_filter_nonce' ),
         ) );
     }
 }

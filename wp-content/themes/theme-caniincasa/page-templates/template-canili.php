@@ -30,7 +30,8 @@ get_header();
 
         <?php
         // Query per tutti i canili
-        $paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1;
+        // On page templates, WordPress uses 'page' instead of 'paged'
+        $paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : ( ( get_query_var( 'page' ) ) ? get_query_var( 'page' ) : 1 );
 
         $args = array(
             'post_type' => 'canili',
@@ -177,9 +178,11 @@ get_header();
             <?php if ( $canili_query->max_num_pages > 1 ): ?>
                 <div class="pagination-wrapper">
                     <?php
+                    // Fix pagination for page templates
+                    $big = 999999999;
                     echo paginate_links( array(
-                        'base' => str_replace( 999999999, '%#%', esc_url( get_pagenum_link( 999999999 ) ) ),
-                        'format' => '?paged=%#%',
+                        'base' => str_replace( $big, '%#%', esc_url( get_pagenum_link( $big ) ) ),
+                        'format' => '?page=%#%',
                         'current' => max( 1, $paged ),
                         'total' => $canili_query->max_num_pages,
                         'prev_text' => '&laquo; Precedente',
