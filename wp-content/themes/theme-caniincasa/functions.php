@@ -390,5 +390,25 @@ function caniincasa_page_razze_template_scripts() {
             CANIINCASA_VERSION
         );
     }
+
+    // Template allevamenti
+    if ( is_page_template( 'page-templates/template-allevamenti.php' ) ) {
+        wp_enqueue_style(
+            'caniincasa-page-templates-grid',
+            CANIINCASA_THEME_URI . '/css/page-templates-grid.css',
+            array(),
+            CANIINCASA_VERSION
+        );
+    }
+
+    // Template canili
+    if ( is_page_template( 'page-templates/template-canili.php' ) ) {
+        wp_enqueue_style(
+            'caniincasa-page-templates-grid',
+            CANIINCASA_THEME_URI . '/css/page-templates-grid.css',
+            array(),
+            CANIINCASA_VERSION
+        );
+    }
 }
 add_action( 'wp_enqueue_scripts', 'caniincasa_page_razze_template_scripts' );
