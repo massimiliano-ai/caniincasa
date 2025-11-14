@@ -317,3 +317,36 @@ function caniincasa_excerpt_more( $more ) {
     return '...';
 }
 add_filter( 'excerpt_more', 'caniincasa_excerpt_more' );
+
+/**
+ * Include AJAX Filters for Razze Archive
+ */
+require_once CANIINCASA_INC_DIR . '/razze-ajax-filters.php';
+
+/**
+ * Enqueue Archive Razze Scripts & Styles
+ */
+function caniincasa_razze_archive_scripts() {
+    // Only on razze archive
+    if ( !is_post_type_archive( 'razze_di_cani' ) ) {
+        return;
+    }
+
+    // Archive CSS
+    wp_enqueue_style(
+        'caniincasa-archive-razze',
+        CANIINCASA_THEME_URI . '/css/archive-razze.css',
+        array(),
+        CANIINCASA_VERSION
+    );
+
+    // Archive JS
+    wp_enqueue_script(
+        'caniincasa-razze-filters',
+        CANIINCASA_THEME_URI . '/js/razze-filters.js',
+        array( 'jquery' ),
+        CANIINCASA_VERSION,
+        true
+    );
+}
+add_action( 'wp_enqueue_scripts', 'caniincasa_razze_archive_scripts' );
